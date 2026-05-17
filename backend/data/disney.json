@@ -1,0 +1,32 @@
+[
+  {
+    "pergunta": "Quem disse a frase 'eu estou cercado de idiotas'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Scar",
+      "Scar, o leão",
+      "irmão do Mufasa"
+    ]
+  },
+    {
+        "pergunta": "Qual o nome do vilão do filme 'A Bela e a Fera'?",
+        "dificuldade": "facil",
+        "pontos": 1,
+        "respostas": [
+        "Gastão",
+        "Gaston"
+        ]
+    },
+        {
+            "pergunta": "Em que ano foi lançado o filme 'O Rei Leão'?",
+            "dificuldade": "dificil",
+            "pontos": 5,
+            "respostas": [
+            "1994",
+            "mil novecentos e noventa e quatro",
+            "1994 d.C.",
+            "mil novecentos e noventa e quatro d.C."
+            ]
+        }
+]

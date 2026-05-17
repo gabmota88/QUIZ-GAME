@@ -1,0 +1,36 @@
+[
+  {
+    "pergunta": "Qual Pais tem o formato de uma bota'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Italia",
+      "italy",
+      "Italy",
+        "Itália"
+    
+    ]
+  },
+    {
+        "pergunta": "Quais paises fazem parte da America do Norte?",
+        "dificuldade": "medio",
+        "pontos": 3,
+        "respostas": [
+        "Estados Unidos, Canada e Mexico",
+        "Estados Unidos, Mexico e Canada",
+        "Mexico, Estados Unidos e Canada",
+        "Mexico,Canada e Estados Unidos",
+        "Canada, Mexico e Estados Unidos",
+        "Canada, Estados Unidos e Mexico"
+        ]
+    },
+        {
+            "pergunta": "Qual o pais mais populoso do mundo?",
+            "dificuldade": "dificil",
+            "pontos": 5,
+            "respostas": [
+            "China",
+            "china"
+            ]
+        }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "pergunta": "Qual o pais mais vezes campeao de copas do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Brasil",
+      "brasil"
+    ]
+    
+  },
+    {
+        "pergunta": "Qual o nome do jogador conhecido como 'O Fenomeno'?",
+        "dificuldade": "facil",
+        "pontos": 1,
+        "respostas": [
+        "Ronaldo Nazário",
+        "Ronaldo"
+        ]
+    },
+        {
+            "pergunta": "Em que ano foi realizada a primeira Copa do Mundo de Futebol?",
+            "dificuldade": "dificil",
+            "pontos": 5,
+            "respostas": [
+            "1930",
+            "mil novecentos e trinta"
+            ]
+        }
+]

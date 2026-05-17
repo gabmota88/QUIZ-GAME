@@ -1,0 +1,36 @@
+[
+    { "pergunta": "Quem e o espadachim do bando de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Zoro",   
+        "Roronoa Zoro",
+        "Zoro, o espadachim",
+        "Roronoa"
+    ]
+    },
+    {
+    "pergunta": "qual o nome do Personagem conhecido como MR. 2",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Bon Clay",
+      "Bentham",
+      "Bon Clay Sama"
+    ]
+      
+  },
+
+  {
+    "pergunta": "Quem contruiu o Thousand Sunny?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Franky",
+      "Cutty Flam",
+      "Cutty Flam, o cyborg",
+      "Ciborgue franky"
+
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "pergunta": "quantas temporadas tem a serie Game of Thrones?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "8",
+      "oito",
+        "8 temporadas",
+        "oito temporadas"
+    ]
+  },    
+  {
+    "pergunta": "De que serie e a Personagem Rosa Diaz?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Brooklyn Nine-Nine",
+        "Brooklyn 99",
+        "B99"
+    
+    ]
+  },
+    {
+        "pergunta": "Qual o nome do personagem principal da serie 'The Witcher'?",
+        "dificuldade": "dificil",
+        "pontos": 5,
+        "respostas": [
+        "Geralt de Rivia",
+        "Geralt",
+        "Rivia"
+        ]
+    }
+]

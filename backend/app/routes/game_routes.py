@@ -1,0 +1,151 @@
+from flask import Blueprint, request, jsonify
+from app.models.partida import Partida
+from app.models.equipe import Equipe
+from app.services.game_service import (
+    iniciar_partida,
+    jogar_turno,
+    avancar_turno,
+    verificar_vencedor
+)
+
+game_bp = Blueprint("game", __name__)
+
+
+# =========================
+# INICIAR PARTIDA
+# =========================
+@game_bp.route("/partida", methods=["POST"])
+def criar_partida():
+    partida = iniciar_partida()
+
+    return jsonify({
+        "mensagem": "Partida iniciada",
+        "partida_id": partida.id,
+        "rodada": partida.rodada_atual,
+        "equipe_atual": partida.equipe_atual
+    }), 201
+
+
+# =========================
+# JOGAR TURNO
+# =========================
+@game_bp.route("/jogar", methods=["POST"])
+def jogar():
+    # 🌟 CORRIGIDO: Agora os dados e as validações estão dentro da função (Indentação corrigida)
+    dados = request.get_json(silent=True)
+
+    if not dados:
+        return jsonify({"erro": "JSON inválido"}), 400
+
+    # 🌟 ADICIONADO: Validação preventiva para o servidor não quebrar se faltar um campo no POST
+    chaves_obrigatorias = ["equipe_id", "pergunta_id", "resposta"]
+    if not all(chave in dados for chave in chaves_obrigatorias):
+        return jsonify({"erro": "Campos obrigatórios ausentes (equipe_id, pergunta_id, resposta)"}), 400
+
+    resultado = jogar_turno(
+        equipe_id=dados["equipe_id"],
+        pergunta_id=dados["pergunta_id"],
+        resposta_jogador=dados["resposta"]
+    )
+
+    return jsonify(resultado), 200
+
+
+# =========================
+# ESTADO DA PARTIDA
+# =========================
+@game_bp.route("/partida")
+def estado_partida():
+    partida = Partida.query.first()
+
+    if not partida:
+        return jsonify({"erro": "Nenhuma partida encontrada"}), 404
+
+    equipe = Equipe.query.filter_by(ordem=partida.equipe_atual).first()
+    
+    # 🌟 ADICIONADO: Tratamento caso a equipe indicada na ordem não exista no banco
+    nome_equipe = equipe.nome if equipe else "Equipe não encontrada"
+
+    return jsonify({
+        "partida_id": partida.id,
+        "rodada_atual": partida.rodada_atual,
+        "equipe_atual": nome_equipe,
+        "status": partida.status
+    }), 200
+
+
+# =========================
+# PLACAR
+# =========================
+@game_bp.route("/placar")
+def placar():
+    equipes = Equipe.query.order_by(Equipe.pontos.desc()).all()
+    resultado = []
+
+    for equipe in equipes:
+        resultado.append({
+            "nome": equipe.nome,
+            "cor": equipe.cor,
+            "pontos": equipe.pontos
+        })
+
+    return jsonify(resultado), 200
+
+
+# =========================
+# PRÓXIMO TURNO
+# =========================
+@game_bp.route("/partida/proximo-turno", methods=["POST"])
+def proximo_turno():
+    partida = Partida.query.first()
+
+    if not partida:
+        return jsonify({"erro": "Nenhuma partida encontrada"}), 404
+
+    partida = avancar_turno(partida)
+    equipe = Equipe.query.filter_by(ordem=partida.equipe_atual).first()
+    nome_equipe = equipe.nome if equipe else "Equipe não encontrada"
+
+    return jsonify({
+        "rodada_atual": partida.rodada_atual,
+        "proxima_equipe": nome_equipe
+    }), 200
+
+
+# =========================
+# VEZ ATUAL
+# =========================
+@game_bp.route("/vez-atual")
+def vez_atual():
+    partida = Partida.query.first()
+
+    if not partida:
+        return jsonify({"erro": "Nenhuma partida encontrada"}), 404
+
+    equipe = Equipe.query.filter_by(ordem=partida.equipe_atual).first()
+
+    if not equipe:
+        return jsonify({"erro": "Equipe da vez não cadastrada"}), 404
+
+    return jsonify({
+        "equipe": equipe.nome,
+        "cor": equipe.cor,
+        "ordem": equipe.ordem
+    }), 200
+
+
+# =========================
+# VERIFICAR VENCEDOR
+# =========================
+@game_bp.route("/vencedor")
+def vencedor():
+    equipe = verificar_vencedor()
+
+    if not equipe:
+        return jsonify({"mensagem": "Ainda não há vencedor"}), 200
+
+    return jsonify({
+        "vencedor": equipe.nome,
+        "cor": equipe.cor,
+        "pontos": equipe.pontos
+    }), 200

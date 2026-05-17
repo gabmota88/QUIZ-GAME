@@ -1,0 +1,145 @@
+from app.database.db import db
+
+from app.models.partida import Partida
+from app.models.equipe import Equipe
+from app.services.answer_service import (
+    validar_resposta
+)
+
+from app.models.partida import Partida
+
+
+PONTOS_VITORIA = 10
+
+
+def iniciar_partida():
+
+    partida = Partida()
+
+    db.session.add(partida)
+
+    db.session.commit()
+
+    return partida
+def avancar_turno(partida):
+
+    equipes = Equipe.query.order_by(
+        Equipe.ordem
+    ).all()
+
+    total_equipes = len(equipes)
+
+    partida.equipe_atual += 1
+
+    # terminou rodada
+    if partida.equipe_atual > total_equipes:
+
+        partida.equipe_atual = 1
+
+        partida.rodada_atual += 1
+
+    db.session.commit()
+
+    return partida
+
+def verificar_vencedor():
+
+    equipes = Equipe.query.all()
+
+    for equipe in equipes:
+
+        if equipe.pontos >= PONTOS_VITORIA:
+
+            return equipe
+
+    return None
+def adicionar_pontos(
+    equipe_id,
+    pontos
+):
+
+    equipe = Equipe.query.get(
+        equipe_id
+    )
+
+    if not equipe:
+        return None
+
+    equipe.pontos += pontos
+
+    db.session.commit()
+
+    return equipe
+
+def jogar_turno(
+    equipe_id,
+    pergunta_id,
+    resposta_jogador
+):
+
+    partida = Partida.query.first()
+
+    if not partida:
+
+        return {
+            "erro": "Nenhuma partida ativa"
+        }
+
+    resultado = validar_resposta(
+        pergunta_id,
+        resposta_jogador
+    )
+
+    equipe = Equipe.query.get(
+        equipe_id
+    )
+
+    if not equipe:
+
+        return {
+            "erro": "Equipe não encontrada"
+        }
+
+    pontos_ganhos = 0
+
+    # acertou
+    if resultado["correto"]:
+
+        pontos_ganhos = resultado["pontos"]
+
+        equipe.pontos += pontos_ganhos
+
+        db.session.commit()
+
+    # verificar vencedor
+    vencedor = verificar_vencedor()
+
+    if vencedor:
+
+        partida.status = "finalizada"
+
+        partida.vencedor_id = vencedor.id
+
+        db.session.commit()
+
+        return {
+            "correto": resultado["correto"],
+            "pontos_ganhos": pontos_ganhos,
+            "pontuacao_total": equipe.pontos,
+            "vencedor": vencedor.nome
+        }
+
+    # avança turno
+    partida = avancar_turno(partida)
+
+    proxima_equipe = Equipe.query.filter_by(
+        ordem=partida.equipe_atual
+    ).first()
+
+    return {
+        "correto": resultado["correto"],
+        "pontos_ganhos": pontos_ganhos,
+        "pontuacao_total": equipe.pontos,
+        "rodada_atual": partida.rodada_atual,
+        "proxima_equipe": proxima_equipe.nome
+    }

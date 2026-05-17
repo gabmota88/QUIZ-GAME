@@ -1,0 +1,34 @@
+[
+  {
+    "pergunta": "Quem desenhou a Mona Lisa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Leonardo da Vinci",
+      " Da Vinci",
+      "da Vinci"
+    ]
+    
+  },
+  {
+    "pergunta": "Quem descobriu a America?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cristóvão Colombo",
+      "Colombo",
+      "Cristóvão"   
+    ]
+  },
+    {
+        "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+        "dificuldade": "dificil",
+        "pontos": 5,
+        "respostas": [
+        "1789",
+        "mil setecentos e oitenta e nove",
+        "1789 d.C.",
+        "mil setecentos e oitenta e nove d.C."
+        ]
+    }
+]

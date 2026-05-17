@@ -1,0 +1,31 @@
+[
+  {
+    "pergunta": "Quem dirigiu Titanic?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "James Cameron",
+      "Cameron"
+    ]
+  },
+    {
+        "pergunta": "Qual o nome do personagem principal do filme 'O Rei Leão'?",
+        "dificuldade": "facil",
+        "pontos": 1,
+        "respostas": [
+        "Simba",
+        "Simba, o leão"
+        ]
+    },
+        {
+            "pergunta": "Em que ano foi lançado o filme 'A Bela e a Fera'?",
+            "dificuldade": "dificil",
+            "pontos": 5,
+            "respostas": [
+            "1991",
+            "mil novecentos e noventa e um",
+            "1991 d.C.",
+            "mil novecentos e noventa e um d.C."
+            ]
+        }
+]
