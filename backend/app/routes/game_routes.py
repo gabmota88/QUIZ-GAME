@@ -1,4 +1,5 @@
 from flask import Blueprint, request, jsonify
+from app.database.db import db
 from app.models.partida import Partida
 from app.models.equipe import Equipe
 from app.services.game_service import (
@@ -149,3 +150,26 @@ def vencedor():
         "cor": equipe.cor,
         "pontos": equipe.pontos
     }), 200
+    
+# =========================
+# ZERAR PLACAR
+# =========================    
+
+@game_bp.route(
+    "/zerar-placar",
+    methods=["POST"]
+)
+def zerar_placar():
+
+    equipes = Equipe.query.all()
+
+    for equipe in equipes:
+
+        equipe.pontos = 0
+
+    db.session.commit()
+
+    return {
+        "mensagem":
+            "Placar zerado"
+    }, 200

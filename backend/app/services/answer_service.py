@@ -1,6 +1,7 @@
 import unicodedata
 
 from app.models.pergunta import Pergunta
+from app.models.resposta import RespostaAceita
 
 
 def normalizar_texto(texto):
@@ -22,49 +23,57 @@ def normalizar_texto(texto):
 
 def validar_resposta(
     pergunta_id,
-    resposta_jogador
+    resposta_usuario
 ):
 
-    pergunta = Pergunta.query.get(pergunta_id)
-
-    if not pergunta:
-        return {
-            "erro": "Pergunta não encontrada"
-        }
-
-    resposta_jogador = normalizar_texto(
-        resposta_jogador
+    pergunta = Pergunta.query.get(
+        pergunta_id
     )
 
-    respostas_aceitas = []
+    if not pergunta:
 
-    for resposta in pergunta.respostas:
+        return {
+            "correto": False
+        }
 
-        resposta_normalizada = normalizar_texto(
+    # VALIDA RESPOSTA VAZIA
+    if not resposta_usuario:
+
+        return {
+
+            "correto": False,
+
+            "mensagem":
+                "Resposta vazia"
+        }
+
+    resposta_usuario = normalizar_texto(
+        resposta_usuario
+    )
+
+    respostas = RespostaAceita.query.filter_by(
+        pergunta_id=pergunta_id
+    ).all()
+
+    for resposta in respostas:
+
+        resposta_correta = normalizar_texto(
             resposta.resposta
         )
 
-        respostas_aceitas.append(
-            resposta_normalizada
-        )
-
-        # igualdade exata
-        if resposta_jogador == resposta_normalizada:
-
-            return {
-                "correto": True,
-                "pontos": pergunta.pontos
-            }
-
-        # contém parte da resposta
-        if resposta_jogador in resposta_normalizada:
+        # ACEITA RESPOSTA PARCIAL
+        if (
+            resposta_usuario
+            in resposta_correta
+        ):
 
             return {
                 "correto": True,
+                
                 "pontos": pergunta.pontos
             }
 
     return {
         "correto": False,
-        "respostas_aceitas": respostas_aceitas
+        "pontos": 0
     }

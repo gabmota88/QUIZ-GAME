@@ -1,50 +1,69 @@
 import random
 
 from app.database.db import db
+
 from app.models.equipe import Equipe
 
 
-CORES_DISPONIVEIS = [
+CORES_PERMITIDAS = [
+
     "vermelho",
     "azul",
     "verde",
-    "preto"
+    "amarelo",
+    "roxo",
+    "laranja",
+    "preto",
+    "branco",
+    "rosa",
+    "ciano"
+
 ]
 
 
-def criar_equipe(
-    nome,
-    cor
-):
+def criar_equipe(nome, cor):
 
-    cor = cor.lower()
-
-    if cor not in CORES_DISPONIVEIS:
+    if not nome:
 
         return {
-            "erro": "Cor inválida"
+            "erro":
+                "Nome obrigatório"
+        }
+
+    if cor not in CORES_PERMITIDAS:
+
+        return {
+            "erro":
+                "Cor inválida"
         }
 
     equipe_existente = Equipe.query.filter_by(
-        cor=cor
+        nome=nome
     ).first()
 
     if equipe_existente:
 
         return {
-            "erro": "Cor já utilizada"
+            "erro":
+                "Equipe já existe"
         }
 
     equipe = Equipe(
+
         nome=nome,
-        cor=cor
+
+        cor=cor,
+
+        pontos=0
     )
 
     db.session.add(equipe)
 
+    # MUITO IMPORTANTE
     db.session.commit()
 
     return equipe
+
 
 def sortear_ordem_equipes():
 
@@ -52,10 +71,28 @@ def sortear_ordem_equipes():
 
     random.shuffle(equipes)
 
-    for i, equipe in enumerate(equipes):
+    for index, equipe in enumerate(equipes):
 
-        equipe.ordem = i + 1
+        equipe.ordem = index + 1
 
     db.session.commit()
 
     return equipes
+
+
+def deletar_equipe(id):
+
+    equipe = Equipe.query.get(id)
+
+    if not equipe:
+
+        return {
+            "erro":
+                "Equipe não encontrada"
+        }
+
+    db.session.delete(equipe)
+
+    db.session.commit()
+
+    return True
