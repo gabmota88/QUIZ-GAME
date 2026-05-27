@@ -14,13 +14,24 @@ PONTOS_VITORIA = 10
 
 def iniciar_partida():
 
-    partida = Partida()
+    # remove partidas antigas
+    Partida.query.delete()
+
+    db.session.commit()
+
+    partida = Partida(
+
+        rodada_atual=1,
+        equipe_atual=1,
+        status="ativa"
+    )
 
     db.session.add(partida)
 
     db.session.commit()
 
     return partida
+
 def avancar_turno(partida):
 
     equipes = Equipe.query.order_by(
@@ -77,7 +88,9 @@ def jogar_turno(
     resposta_jogador
 ):
 
-    partida = Partida.query.first()
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first(    )
 
     if not partida:
 
@@ -131,10 +144,12 @@ def jogar_turno(
 
     # avança turno
     partida = avancar_turno(partida)
+    db.session.refresh(partida)
 
     proxima_equipe = Equipe.query.filter_by(
         ordem=partida.equipe_atual
     ).first()
+    print("Próxima equipe:", proxima_equipe.nome)
 
     return {
         "correto": resultado["correto"],

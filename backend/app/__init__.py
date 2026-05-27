@@ -9,10 +9,12 @@ from app.models.pergunta import Pergunta
 from app.models.resposta import RespostaAceita
 from app.models.partida import Partida
 
+
 # Routes
 from app.routes.perguntas_routes import perguntas_bp
 from app.routes.equipes_routes import equipes_bp
 from app.routes.game_routes import game_bp
+from app.routes.import_routes import import_bp
 
 
 def create_app():
@@ -38,7 +40,14 @@ def create_app():
     db.init_app(app)
 
     # LIBERA CORS
-    CORS(app)
+    CORS(
+    app,
+    resources={
+        r"/*": {
+            "origins": "*"
+        }
+    }
+)
 
     # =========================
     # BLUEPRINTS
@@ -54,6 +63,10 @@ def create_app():
 
     app.register_blueprint(
         game_bp
+    )
+
+    app.register_blueprint(
+        import_bp
     )
 
     # =========================

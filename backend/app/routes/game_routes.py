@@ -57,7 +57,9 @@ def jogar():
 # =========================
 @game_bp.route("/partida")
 def estado_partida():
-    partida = Partida.query.first()
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first()
 
     if not partida:
         return jsonify({"erro": "Nenhuma partida encontrada"}), 404
@@ -98,7 +100,9 @@ def placar():
 # =========================
 @game_bp.route("/partida/proximo-turno", methods=["POST"])
 def proximo_turno():
-    partida = Partida.query.first()
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first()
 
     if not partida:
         return jsonify({"erro": "Nenhuma partida encontrada"}), 404

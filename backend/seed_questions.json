@@ -1,0 +1,304 @@
+
+[
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem dirigiu Titanic?",
+    "resposta": "James Cameron",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme possui o personagem Harry Potter?",
+    "resposta": "Harry Potter",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual ator interpretou o Coringa em Batman O Cavaleiro das Trevas?",
+    "resposta": "Heath Ledger",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 2020?",
+    "resposta": "Parasita",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu o filme A Origem?",
+    "resposta": "Christopher Nolan",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme ganhou a Palma de Ouro em 1994?",
+    "resposta": "Pulp Fiction",
+    "pontos": 5
+  },
+
+  {
+    "categoria": "Series",
+    "dificuldade": "facil",
+    "pergunta": "Qual série mostra um grupo sobrevivendo a um apocalipse zumbi?",
+    "resposta": "The Walking Dead",
+    "pontos": 1
+  },
+  {
+    "categoria": "Series",
+    "dificuldade": "facil",
+    "pergunta": "Qual série acompanha a vida de Walter White?",
+    "resposta": "Breaking Bad",
+    "pontos": 1
+  },
+  {
+    "categoria": "Series",
+    "dificuldade": "medio",
+    "pergunta": "Qual ator interpreta Jon Snow em Game of Thrones?",
+    "resposta": "Kit Harington",
+    "pontos": 3
+  },
+  {
+    "categoria": "Series",
+    "dificuldade": "medio",
+    "pergunta": "Qual série se passa na cidade fictícia de Hawkins?",
+    "resposta": "Stranger Things",
+    "pontos": 3
+  },
+  {
+    "categoria": "Series",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é o nome do advogado em Better Call Saul?",
+    "resposta": "Jimmy McGill",
+    "pontos": 5
+  },
+  {
+    "categoria": "Series",
+    "dificuldade": "dificil",
+    "pergunta": "Quem criou a série Dark?",
+    "resposta": "Baran bo Odar",
+    "pontos": 5
+  },
+
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem descobriu o Brasil segundo a história tradicional?",
+    "resposta": "Pedro Alvares Cabral",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual civilização construiu as pirâmides do Egito?",
+    "resposta": "Egipcios",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "medio",
+    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+    "resposta": "1989",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "medio",
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "resposta": "Deodoro da Fonseca",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
+    "resposta": "Tratado de Versalhes",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem liderou a União Soviética durante a Segunda Guerra Mundial?",
+    "resposta": "Josef Stalin",
+    "pontos": 5
+  },
+
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do protagonista de One Piece?",
+    "resposta": "Luffy",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o espadachim do bando do Chapéu de Palha?",
+    "resposta": "Zoro",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "pergunta": "Qual fruta do diabo Luffy comeu?",
+    "resposta": "Gomu Gomu no Mi",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "pergunta": "Quem treinou Luffy durante o timeskip?",
+    "resposta": "Rayleigh",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é o nome verdadeiro da fruta de Luffy?",
+    "resposta": "Hito Hito no Mi Modelo Nika",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi o antigo capitão dos Piratas Rocks?",
+    "resposta": "Rocks D Xebec",
+    "pontos": 5
+  },
+
+  {
+    "categoria": "Esportes",
+    "dificuldade": "facil",
+    "pergunta": "Quantas Copas do Mundo o Brasil possui?",
+    "resposta": "5",
+    "pontos": 1
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "facil",
+    "pergunta": "Qual esporte usa uma cesta?",
+    "resposta": "Basquete",
+    "pontos": 1
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "medio",
+    "pergunta": "Quem é conhecido como Rei do Futebol?",
+    "resposta": "Pele",
+    "pontos": 3
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "medio",
+    "pergunta": "Em qual país aconteceram as Olimpíadas de 2016?",
+    "resposta": "Brasil",
+    "pontos": 3
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem venceu a Copa do Mundo de 2010?",
+    "resposta": "Espanha",
+    "pontos": 5
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual piloto possui mais títulos na Formula 1?",
+    "resposta": "Lewis Hamilton",
+    "pontos": 5
+  },
+
+  {
+    "categoria": "Disney",
+    "dificuldade": "facil",
+    "pergunta": "Qual princesa perdeu um sapatinho de cristal?",
+    "resposta": "Cinderela",
+    "pontos": 1
+  },
+  {
+    "categoria": "Disney",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o rato símbolo da Disney?",
+    "resposta": "Mickey Mouse",
+    "pontos": 1
+  },
+  {
+    "categoria": "Disney",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme da Disney tem a música Livre Estou?",
+    "resposta": "Frozen",
+    "pontos": 3
+  },
+  {
+    "categoria": "Disney",
+    "dificuldade": "medio",
+    "pergunta": "Qual é o nome do leão protagonista de O Rei Leao?",
+    "resposta": "Simba",
+    "pontos": 3
+  },
+  {
+    "categoria": "Disney",
+    "dificuldade": "dificil",
+    "pergunta": "Qual foi o primeiro longa animado da Disney?",
+    "resposta": "Branca de Neve e os Sete Anoes",
+    "pontos": 5
+  },
+  {
+    "categoria": "Disney",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dublou o Genie em Aladdin original?",
+    "resposta": "Robin Williams",
+    "pontos": 5
+  },
+
+  {
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual é a capital do Brasil?",
+    "resposta": "Brasilia",
+    "pontos": 1
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem formato de bota?",
+    "resposta": "Italia",
+    "pontos": 1
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "medio",
+    "pergunta": "Qual é a capital da Austrália?",
+    "resposta": "Camberra",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "medio",
+    "pergunta": "Qual país possui a maior população do mundo?",
+    "resposta": "India",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui mais fusos horários?",
+    "resposta": "Franca",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é o menor país do mundo?",
+    "resposta": "Vaticano",
+    "pontos": 5
+  }
+]
+

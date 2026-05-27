@@ -68,23 +68,44 @@ def cadastrar_equipe():
 )
 def listar_equipes():
 
-    equipes = Equipe.query.all()
+    try:
 
-    resultado = []
+        equipes = Equipe.query.all()
 
-    for equipe in equipes:
+        resultado = []
 
-        resultado.append({
+        for equipe in equipes:
 
-            "id": equipe.id,
-            "nome": equipe.nome,
-            "cor": equipe.cor,
-            "pontos": equipe.pontos,
-            "ordem": equipe.ordem
-        })
+            resultado.append({
 
-    return jsonify(resultado)
+                "id": equipe.id,
 
+                "nome": equipe.nome or "",
+
+                "cor": equipe.cor or "branco",
+
+                "pontos": equipe.pontos or 0,
+
+                "ordem": equipe.ordem or 999
+
+            })
+
+        return jsonify(resultado), 200
+
+    except Exception as erro:
+
+        print(
+            "ERRO AO LISTAR EQUIPES:"
+        )
+
+        print(erro)
+
+        return jsonify({
+
+            "erro":
+                str(erro)
+
+        }), 500
 
 # =========================
 # SORTEAR ORDEM
