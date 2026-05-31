@@ -30,3 +30,7 @@ class Equipe(db.Model):
     ordem = db.Column(
         db.Integer
     )
+    avatar = db.Column(
+    db.String(50),
+    nullable=True
+)

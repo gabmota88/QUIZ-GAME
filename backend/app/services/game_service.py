@@ -9,10 +9,38 @@ from app.services.answer_service import (
 from app.models.partida import Partida
 
 
-PONTOS_VITORIA = 10
-
+PONTOS_VITORIA = 100
 
 def iniciar_partida():
+
+    Partida.query.delete()
+
+    db.session.commit()
+
+    primeira_equipe = Equipe.query.filter_by(
+        ordem=1
+    ).first()
+
+    if not primeira_equipe:
+
+        raise Exception(
+            "Nenhuma equipe sorteada"
+        )
+
+    partida = Partida(
+
+        rodada_atual=1,
+
+        equipe_atual=1,
+
+        status="ativa"
+    )
+
+    db.session.add(partida)
+
+    db.session.commit()
+
+    return partida
 
     # remove partidas antigas
     Partida.query.delete()

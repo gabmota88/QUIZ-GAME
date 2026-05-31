@@ -38,7 +38,9 @@ def cadastrar_equipe():
 
         dados.get("nome"),
 
-        dados.get("cor")
+        dados.get("cor"),
+        
+        dados.get("avatar")
     )
 
     if isinstance(resultado, dict):
@@ -52,6 +54,9 @@ def cadastrar_equipe():
         "nome": resultado.nome,
 
         "cor": resultado.cor,
+        
+        "avatar": resultado.avatar,
+
 
         "pontos": resultado.pontos
 
@@ -83,6 +88,9 @@ def listar_equipes():
                 "nome": equipe.nome or "",
 
                 "cor": equipe.cor or "branco",
+                
+                "avatar": equipe.avatar or "",
+
 
                 "pontos": equipe.pontos or 0,
 

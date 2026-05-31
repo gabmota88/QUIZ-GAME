@@ -21,7 +21,9 @@ CORES_PERMITIDAS = [
 ]
 
 
-def criar_equipe(nome, cor):
+def criar_equipe(nome,
+                 cor,
+                 avatar=None):
 
     if not nome:
 
@@ -30,12 +32,14 @@ def criar_equipe(nome, cor):
                 "Nome obrigatório"
         }
 
-    if cor not in CORES_PERMITIDAS:
+    if not cor:
 
         return {
             "erro":
-                "Cor inválida"
+                "Cor obrigatória"
         }
+
+    
 
     equipe_existente = Equipe.query.filter_by(
         nome=nome
@@ -53,6 +57,8 @@ def criar_equipe(nome, cor):
         nome=nome,
 
         cor=cor,
+        
+        avatar=avatar,
 
         pontos=0
     )
