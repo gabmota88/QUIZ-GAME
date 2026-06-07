@@ -1,36 +1,522 @@
 [
   {
-    "pergunta": "Qual Pais tem o formato de uma bota'?",
+    "pergunta": "Qual país tem o formato de uma bota?",
     "dificuldade": "facil",
     "pontos": 1,
     "respostas": [
-      "Italia",
-      "italy",
+      "Itália",
       "Italy",
-        "Itália"
-    
+      "Italia"
     ]
   },
-    {
-        "pergunta": "Quais paises fazem parte da America do Norte?",
-        "dificuldade": "medio",
-        "pontos": 3,
-        "respostas": [
-        "Estados Unidos, Canada e Mexico",
-        "Estados Unidos, Mexico e Canada",
-        "Mexico, Estados Unidos e Canada",
-        "Mexico,Canada e Estados Unidos",
-        "Canada, Mexico e Estados Unidos",
-        "Canada, Estados Unidos e Mexico"
-        ]
-    },
-        {
-            "pergunta": "Qual o pais mais populoso do mundo?",
-            "dificuldade": "dificil",
-            "pontos": 5,
-            "respostas": [
-            "China",
-            "china"
-            ]
-        }
+  {
+    "pergunta": "Qual é a capital da França?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Paris",
+      "Parigi",
+      "Pariz"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Brasil?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Brasília",
+      "Brasilia",
+      "DF"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital dos EUA?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Washington",
+      "Washington D.C.",
+      "Washington DC"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Alemanha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Berlim",
+      "Berlin",
+      "Berlina"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Espanha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Madri",
+      "Madrid",
+      "Madrid"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Japão?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tóquio",
+      "Tokyo",
+      "Tokio"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Reino Unido?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Londres",
+      "London",
+      "Londres"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Itália?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Roma",
+      "Rome",
+      "Roma"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Rússia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Moscou",
+      "Moscow",
+      "Moskva"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da China?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Pequim",
+      "Beijing",
+      "Pekin"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Índia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Nova Delhi",
+      "New Delhi",
+      "Delhi"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Austrália?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Canberra",
+      "Camberra",
+      "Canbera"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Canadá?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Otava",
+      "Ottawa",
+      "Ontario"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do México?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cidade do México",
+      "Mexico City",
+      "CDMX"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Grécia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Atenas",
+      "Athens",
+      "Athina"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital de Portugal?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Lisboa",
+      "Lisbon",
+      "Lisbona"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Argentina?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Buenos Aires",
+      "Buenos Ayres",
+      "B.A."
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Suíça?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Berna",
+      "Bern",
+      "Berne"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Tailândia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Bangkok",
+      "Krung Thep",
+      "Bangcoc"
+    ]
+  },
+  {
+    "pergunta": "Qual continente é o Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "América do Sul",
+      "South America",
+      "América"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país mais populoso do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Índia",
+      "India",
+      "China"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior país do mundo em área?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rússia",
+      "Russia",
+      "Canada"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda do Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Real",
+      "BRL",
+      "R$"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda dos EUA?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dólar",
+      "Dollar",
+      "USD"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda da Europa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Euro",
+      "EUR",
+      "€"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda do Reino Unido?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Libra Esterlina",
+      "Pound",
+      "GBP"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda do Japão?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Iene",
+      "Yen",
+      "JPY"
+    ]
+  },
+  {
+    "pergunta": "Quantos países tem a Europa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Aproximadamente 50",
+      "44 a 50",
+      "Mais de 40"
+    ]
+  },
+  {
+    "pergunta": "Quantos países tem as Américas?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "35",
+      "Aproximadamente 35",
+      "Trinta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais ilhas do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Suécia",
+      "Sweden",
+      "Norway"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país mais pequeno do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Vaticano",
+      "Vatican",
+      "Santa Sé"
+    ]
+  },
+  {
+    "pergunta": "Qual é a maior montanha do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Monte Evereste",
+      "Mt. Everest",
+      "Sagarmatha"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior rio do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rio Nilo",
+      "Nile",
+      "Rio Amazonas"
+    ]
+  },
+  {
+    "pergunta": "Qual é o deserto mais quente do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Saara",
+      "Sahara",
+      "Deserto Arábico"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital de um país que não existe?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Vaticano",
+      "Liechtenstein",
+      "Mônaco"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país mais rico do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Luxemburgo",
+      "Estados Unidos",
+      "Catar"
+    ]
+  },
+  {
+    "pergunta": "Qual é o PIB do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Aproximadamente 2 trilhões",
+      "2 trilhões de dólares",
+      "Maior economia"
+    ]
+  },
+  {
+    "pergunta": "Qual é a população da China?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Mais de 1 bilhão",
+      "1.4 bilhões",
+      "1.4 bilhões de pessoas"
+    ]
+  },
+  {
+    "pergunta": "Qual é o idioma mais falado do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Chinês Mandarim",
+      "Mandarin",
+      "Chinês"
+    ]
+  },
+  {
+    "pergunta": "Qual é a língua oficial do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Português",
+      "Portuguese",
+      "Portugues"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais fusos horários?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "França",
+      "Kiribati",
+      "Russia"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país menos populoso do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Vaticano",
+      "Nauru",
+      "Tuvalu"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país que fica no maior altitude?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Bolívia",
+      "Peru",
+      "Tibet"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital mais fria do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Yakutsk",
+      "Oymyakon",
+      "Novosibirsk"
+    ]
+  },
+  {
+    "pergunta": "Qual país foi dividido em dois?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Coreia",
+      "Vietnã",
+      "Alemanha"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais patrimônios da UNESCO?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Itália",
+      "China",
+      "Espanha"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital mais antiga do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Damasco",
+      "Aleppo",
+      "Jerusalém"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais lagos do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Canadá",
+      "Finlândia",
+      "Russia"
+    ]
+  },
+  {
+    "pergunta": "Qual é a região mais densamente povoada do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ásia",
+      "Europa",
+      "Moçambique"
+    ]
+  },
+  {
+    "pergunta": "Qual país tinha o maior império colonial?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Grã-Bretanha",
+      "Espanha",
+      "Portugal"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais biodiversidade?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Brasil",
+      "Indonésia",
+      "Congo"
+    ]
+  }
 ]

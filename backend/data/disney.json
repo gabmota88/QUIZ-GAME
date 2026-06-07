@@ -1,32 +1,598 @@
 [
   {
-    "pergunta": "Quem disse a frase 'eu estou cercado de idiotas'?",
+    "pergunta": "Em qual filme Disney a personagem é uma sereia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "A Pequena Sereia",
+      "The Little Mermaid",
+      "Pequena Sereia"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do tigre amigo de Aladdin?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Raja",
+      "O tigre"
+    ]
+  },
+  {
+    "pergunta": "Quem é o pai de Simba em 'O Rei Leão'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Mufasa",
+      "Rei Mufasa",
+      "O Mufasa"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da bruxa em 'A Rainha do Gelo'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Elsa",
+      "Rainha Elsa"
+    ]
+  },
+  {
+    "pergunta": "Em 'Encanto', qual é o superpoder de Mirabel?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Ela não tem poderes",
+      "Nenhum superpoder",
+      "Não possui mágica"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do cachorro em 'A Dama e o Vagabundo'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Vagabundo",
+      "Tramp",
+      "O Vagabundo"
+    ]
+  },
+  {
+    "pergunta": "Quem é o vilão em 'Frozen'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Hans",
+      "Príncipe Hans",
+      "O Príncipe Hans"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da princesa em 'Cinderela'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cinderela",
+      "Ella",
+      "Cinderela Tremaine"
+    ]
+  },
+  {
+    "pergunta": "Em 'Mulan', qual animal acompanha a heroína?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Mushu",
+      "Um dragão",
+      "O dragão vermelho"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da fada má em 'A Bela Adormecida'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Maléfica",
+      "Maleficent"
+    ]
+  },
+  {
+    "pergunta": "Quem é o gênio em 'Aladdin'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Gênio",
+      "Azul",
+      "Escravos da Lâmpada"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do pato em 'Pato Donald'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Donald",
+      "Pato Donald",
+      "Donald Duck"
+    ]
+  },
+  {
+    "pergunta": "Em 'Branca de Neve', quantos anões ajudam a princesa?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Sete",
+      "7",
+      "Sete anões"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do cavalo em 'Tangled'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Maximus",
+      "Max",
+      "Cavalo Maximus"
+    ]
+  },
+  {
+    "pergunta": "Quem é a mãe de Ariel em 'A Pequena Sereia'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Rainha Atena",
+      "A Rainha",
+      "Atena"
+    ]
+  },
+  {
+    "pergunta": "Em 'Moana', qual é o objetivo da heroína?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Salvar seu povo",
+      "Restaurar o coração de Te Fiti",
+      "Cruzar o oceano"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do leão cômico em 'O Rei Leão'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Timão",
+      "Timon",
+      "O Timão"
+    ]
+  },
+  {
+    "pergunta": "Em 'Hercules', quem é o instrutor do herói?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Phil",
+      "Philoctetes",
+      "O centauro Phil"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da avó em 'Encanto'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Abuela Alma",
+      "Abuela",
+      "Alma"
+    ]
+  },
+  {
+    "pergunta": "Em qual ano o primeiro filme 'O Rei Leão' foi lançado?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1994",
+      "mil novecentos e noventa e quatro"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Bela e a Fera', qual é o nome da criada levada por magia?",
     "dificuldade": "medio",
     "pontos": 3,
     "respostas": [
-      "Scar",
-      "Scar, o leão",
-      "irmão do Mufasa"
+      "Mrs. Potts",
+      "Sra. Poti",
+      "Potts"
     ]
   },
-    {
-        "pergunta": "Qual o nome do vilão do filme 'A Bela e a Fera'?",
-        "dificuldade": "facil",
-        "pontos": 1,
-        "respostas": [
-        "Gastão",
-        "Gaston"
-        ]
-    },
-        {
-            "pergunta": "Em que ano foi lançado o filme 'O Rei Leão'?",
-            "dificuldade": "dificil",
-            "pontos": 5,
-            "respostas": [
-            "1994",
-            "mil novecentos e noventa e quatro",
-            "1994 d.C.",
-            "mil novecentos e noventa e quatro d.C."
-            ]
-        }
+  {
+    "pergunta": "Qual é o nome completo do príncipe em 'Cinderela'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Príncipe Charming",
+      "Charming",
+      "Prince Charming"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Pequena Sereia', qual é o nome do caranguejo que acompanha Ariel?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Sebastião",
+      "Sebastian",
+      "Caranguejo Sebastião"
+    ]
+  },
+  {
+    "pergunta": "Quantos irmãos Elsa tem em 'Frozen'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Uma",
+      "1",
+      "Anna"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da Rainha do Coração em 'Alice no País das Maravilhas'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rainha de Copas",
+      "Queen of Hearts",
+      "Rainha Vermelho"
+    ]
+  },
+  {
+    "pergunta": "Em 'Moana', qual é o nome do semideus que ajuda a heroína?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Maui",
+      "O Maui",
+      "Semideus Maui"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do pinguim em 'Madagascar' (filme Disney)?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Skipper",
+      "Comandante",
+      "Capitão Skipper"
+    ]
+  },
+  {
+    "pergunta": "Em 'Hercules', qual é o nome da musa que ajuda o herói?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Meg",
+      "Megara",
+      "A Meg"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do sapo em 'A Princesa e o Sapo'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Naveen",
+      "Príncipe Naveen",
+      "O Príncipe Naveen"
+    ]
+  },
+  {
+    "pergunta": "Em 'Tangled', qual é o verdadeiro nome de Rapunzel?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Corona",
+      "Princesa Corona",
+      "A Princesa"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da mãe de Mirabel em 'Encanto'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Julieta",
+      "Julieta Madrigal",
+      "Mãe Julieta"
+    ]
+  },
+  {
+    "pergunta": "Em 'O Rei Leão', qual é o nome do amigo porco de Simba?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Pumba",
+      "O Pumba",
+      "Porco Pumba"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da mãe de Ariel em 'A Pequena Sereia'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rainha Atena",
+      "Atena",
+      "Rainha dos Mares"
+    ]
+  },
+  {
+    "pergunta": "Em 'Aladdin', qual é o nome verdadeiro do personagem principal?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Aladdin",
+      "Aladdin",
+      "Príncipe Ali"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do crocodilo em 'Peter Pan'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Tic-Tac",
+      "Tick-Tock",
+      "Crocodilo Tic-Tac"
+    ]
+  },
+  {
+    "pergunta": "Em 'Mulan', qual é o nome do gênio que ajuda a heroína?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Mushu",
+      "O dragão Mushu",
+      "Dragão vermelho"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da avó em 'Coco'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Coco",
+      "Abuela Coco",
+      "Coco Rivera"
+    ]
+  },
+  {
+    "pergunta": "Em qual ano 'Frozen' foi lançado?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "2013",
+      "dois mil e treze",
+      "2013"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da bruxa em 'Tangled'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Gothel",
+      "Mother Gothel",
+      "Mãe Gothel"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Pequena Sereia', qual é o nome da bruxa do mar?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ursula",
+      "A Ursula",
+      "Bruxa Ursula"
+    ]
+  },
+  {
+    "pergunta": "Qual é o verdadeiro nome do Rei Leão em 'O Rei Leão'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Simba",
+      "Simba",
+      "Rei Simba"
+    ]
+  },
+  {
+    "pergunta": "Em 'Hercules', qual é o nome da vilã que quer dominar o Olimpo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Hades",
+      "Deus Hades",
+      "O Hades"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do cachorro em 'Dálmatas'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pongo",
+      "Perdita",
+      "Roger Dearly"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Bela e a Fera', qual é o verdadeiro nome da Fera?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Príncipe Adam",
+      "Adam",
+      "Príncipe"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da mãe adotiva de Mirabel em 'Encanto'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pepa",
+      "Tia Pepa",
+      "Pepa Madrigal"
+    ]
+  },
+  {
+    "pergunta": "Em 'Moana', qual é o nome da avó que aparece como espírito?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Tamatoa",
+      "Avó Tamatoa",
+      "Gramma Tala"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome completo da vilã em 'Cruella'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Cruella De Vil",
+      "Estella De Vil",
+      "Cruella"
+    ]
+  },
+  {
+    "pergunta": "Em 'Coco', qual é o nome do tataravô do personagem principal?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ernesto de la Cruz",
+      "Ernesto",
+      "La Cruz"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do príncipe em 'A Bela Adormecida'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Príncipe Filipe",
+      "Filipe",
+      "Prince Philip"
+    ]
+  },
+  {
+    "pergunta": "Em 'Branca de Neve', qual é o nome do príncipe?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Príncipe Encantado",
+      "Príncipe",
+      "Prince Charming"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da Rainha má em 'Branca de Neve'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Rainha",
+      "Rainha Má",
+      "Rainha do Espelho"
+    ]
+  },
+  {
+    "pergunta": "Em 'Frozen', qual é o nome do boneco de neve?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Olaf",
+      "Olaf",
+      "Boneco Olaf"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do gato em 'Cinderela'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Lúcifer",
+      "Lucifer",
+      "O gato Lúcifer"
+    ]
+  },
+  {
+    "pergunta": "Em 'Alice no País das Maravilhas', qual é o nome do gato que desaparece?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Gato de Cheshire",
+      "Cheshire",
+      "Cat Cheshire"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da rainha em 'A Rainha Vermelha' (Through the Looking Glass)?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Rainha Vermelha",
+      "Red Queen",
+      "Irene"
+    ]
+  },
+  {
+    "pergunta": "Em 'Rapunzel', qual é o nome verdadeiro da princesa?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Princesa Corona",
+      "Corona",
+      "Rapunzel Corona"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em 'O Rei Leão'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Scar",
+      "Cicatriz",
+      "Scar, o leão"
+    ]
+  },
+  {
+    "pergunta": "Em 'Encanto', qual é o apelido da avó?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Abuela",
+      "Avó Alma",
+      "Alma Madrigal"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do pombo em 'Cinderela'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Gus",
+      "Gus-Gus",
+      "Gus o Gordo"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Princesa e o Sapo', qual é o nome da princesa?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Tiana",
+      "Princesa Tiana",
+      "Tiana Johnson"
+    ]
+  }
 ]

@@ -1,36 +1,493 @@
 [
-    { "pergunta": "Quem e o espadachim do bando de Luffy?",
+  {
+    "pergunta": "Qual é o objetivo de Luffy?",
     "dificuldade": "facil",
     "pontos": 1,
     "respostas": [
-      "Zoro",   
-        "Roronoa Zoro",
-        "Zoro, o espadachim",
-        "Roronoa"
+      "Ser o Rei dos Piratas",
+      "Encontrar o One Piece",
+      "Pirata"
     ]
-    },
-    {
-    "pergunta": "qual o nome do Personagem conhecido como MR. 2",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Bon Clay",
-      "Bentham",
-      "Bon Clay Sama"
-    ]
-      
   },
-
   {
-    "pergunta": "Quem contruiu o Thousand Sunny?",
-    "dificuldade": "dificil",
-    "pontos": 5,
+    "pergunta": "Quem é o espadachim do bando de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Zoro",
+      "Roronoa Zoro",
+      "Zoro, o espadachim"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do navio de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Going Merry",
+      "Merry",
+      "Thousand Sunny"
+    ]
+  },
+  {
+    "pergunta": "Quem é a navegadora do bando?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Nami",
+      "Nami Orange",
+      "Navegadora"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Fruta da Borracha",
+      "Akuma no Mi",
+      "Borracha"
+    ]
+  },
+  {
+    "pergunta": "Quem é o cozinheiro da tripulação?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Sanji",
+      "Vinsmoke Sanji",
+      "Chef"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do médico do bando?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tony Tony Chopper",
+      "Chopper",
+      "Reindeer"
+    ]
+  },
+  {
+    "pergunta": "Quem é o arqueólogo da tripulação?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Nico Robin",
+      "Robin",
+      "Nico"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do carpinteiro?",
+    "dificuldade": "facil",
+    "pontos": 1,
     "respostas": [
       "Franky",
       "Cutty Flam",
-      "Cutty Flam, o cyborg",
-      "Ciborgue franky"
-
+      "Shipwright"
+    ]
+  },
+  {
+    "pergunta": "Quem é o músico da tripulação?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Brook",
+      "Soul King",
+      "Músico"
+    ]
+  },
+  {
+    "pergunta": "Qual é a recompensa inicial de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "30 milhões",
+      "Beri",
+      "30 milhões de Beri"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão mais poderoso?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Blackbeard",
+      "Marshall D. Teach",
+      "Barba Negra"
+    ]
+  },
+  {
+    "pergunta": "Quem é o lorde supremo da Costa Leste?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Kuro",
+      "Capitão Kuro",
+      "Psicólogo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do diretor da Organização?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Crocodile",
+      "Sir Crocodile",
+      "Crocodilo"
+    ]
+  },
+  {
+    "pergunta": "Qual é a fruta que Robin comeu?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Fruta da Flor",
+      "Hana Hana no Mi",
+      "Flower"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Chopper?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Fruta da Humana",
+      "Hito Hito no Mi",
+      "Human"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em Alabasta?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Crocodile",
+      "Senhor Crocodile",
+      "7 Samurais"
+    ]
+  },
+  {
+    "pergunta": "Qual é o grau de recompensa de Zoro no início?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "60 milhões",
+      "Beri",
+      "60 milhões de Beri"
+    ]
+  },
+  {
+    "pergunta": "Quem é o pai de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Dragon",
+      "Dragon, o Revolucionário",
+      "Revolucionário"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da avó de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Curly Dadan",
+      "Dadan",
+      "Makino"
+    ]
+  },
+  {
+    "pergunta": "Qual é a fruta que Sanji desejava?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Fruta da Invisibilidade",
+      "Clear Clear Fruit",
+      "Transparência"
+    ]
+  },
+  {
+    "pergunta": "Qual país é destruído por Crocodile?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Alabasta",
+      "Reino do Deserto",
+      "Arabasta"
+    ]
+  },
+  {
+    "pergunta": "Quem é o patrono de Zoro?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Mihawk",
+      "Dracule Mihawk",
+      "Melhor espadachim"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em Skypiea?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Enel",
+      "Deus Enel",
+      "Eneru"
+    ]
+  },
+  {
+    "pergunta": "Quem é o assassino do amigo de Luffy?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Akainu",
+      "Sakazuki",
+      "Almirante"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Franky?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Corpo cibernético",
+      "Cyborg",
+      "Máquina"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome real de Brook?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Brook",
+      "Soul King Brook",
+      "Esqueleto"
+    ]
+  },
+  {
+    "pergunta": "Qual é o vilão mais antigo enfrentado?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Morgan",
+      "Capitão Morgan",
+      "Tenente"
+    ]
+  },
+  {
+    "pergunta": "Quem é o primeiro Yonko mostrado?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Blackbeard",
+      "Kaido",
+      "Big Mom"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do arco em Marineford?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Summit War",
+      "Guerra do Topo",
+      "Marineford Arc"
+    ]
+  },
+  {
+    "pergunta": "Qual é a profissão original de Franky?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Carpinteiro",
+      "Shipwright",
+      "Reparador de navios"
+    ]
+  },
+  {
+    "pergunta": "Quem é o chefe da Marine no início?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Sengoku",
+      "Almirante Supremo",
+      "Buda"
+    ]
+  },
+  {
+    "pergunta": "Qual é o fruto do Paramecia mais raro?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Human Human Fruit",
+      "Hito Hito no Mi",
+      "Chopper"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em Thriller Bark?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Gecko Moria",
+      "Moria",
+      "Shichibukai"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder especial do Luffy em Gear Second?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Aceleração",
+      "Velocidade",
+      "Gear 2"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o capitão anterior de Zoro?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Morgan",
+      "Capitão Morgan",
+      "Ninguém"
+    ]
+  },
+  {
+    "pergunta": "Qual é o arco mais longo de One Piece?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Dressrosa",
+      "Wano",
+      "Marineford"
+    ]
+  },
+  {
+    "pergunta": "Qual é o tipo de fruta do Enel?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta do Relâmpago",
+      "Goro Goro no Mi",
+      "Logia"
+    ]
+  },
+  {
+    "pergunta": "Quem é o oponente mais difícil de Zoro em Marineford?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Hawkeye Mihawk",
+      "Michihal",
+      "King of Swordsmen"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da fruta de Lucci?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta do Felino",
+      "Neko Neko no Mi",
+      "Leopard"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Enies Lobby?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fortaleza da Justiça",
+      "Governo Mundial",
+      "Burocracia"
+    ]
+  },
+  {
+    "pergunta": "Quem é o chefe da CP9?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Lucci",
+      "Rob Lucci",
+      "Leopardo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão de Water 7?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Lucci",
+      "CP9",
+      "Governo"
+    ]
+  },
+  {
+    "pergunta": "Qual é a fruta de Kaido?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta do Dragão",
+      "Uo Uo no Mi",
+      "Dragon"
+    ]
+  },
+  {
+    "pergunta": "Quem é a mãe de Luffy?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Não mencionada",
+      "Desconhecida",
+      "Falecida"
+    ]
+  },
+  {
+    "pergunta": "Qual é o vilão mais recente em Wano?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Kaido",
+      "Orochi",
+      "Imperadores"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder da Fruta da Correnteza?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Controlar correntes",
+      "Soru Soru no Mi",
+      "Chains"
+    ]
+  },
+  {
+    "pergunta": "Quem é o vice-capitão da tripulação?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Zoro",
+      "Roronoa Zoro",
+      "Espadachim"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da fruta de Big Mom?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta da Alma",
+      "Soru Soru no Mi",
+      "Soul Soul"
     ]
   }
 ]
+      

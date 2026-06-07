@@ -8,7 +8,8 @@ from app.models.categoria import Categoria
 from app.services.question_service import (
     buscar_pergunta_aleatoria,
     buscar_por_categoria,
-    buscar_por_dificuldade
+    buscar_por_dificuldade,
+    buscar_por_categoria_e_dificuldade
 )
 
 from app.services.answer_service import (
@@ -146,7 +147,7 @@ def pergunta_dificuldade(dificuldade):
 
         return jsonify({
             "erro":
-                "Dificuldade não encontrada"
+                "Nenhuma Pergunta encontrada para essa dificuldade."
         }), 404
 
     return jsonify({
@@ -166,6 +167,80 @@ def pergunta_dificuldade(dificuldade):
             pergunta.pontos
 
     })
+  # =========================
+# CATEGORIA + DIFICULDADE
+# =========================
+
+@perguntas_bp.route(
+    "/perguntas/sorteio",
+    methods=["POST"]
+)
+def pergunta_categoria_dificuldade():
+
+    dados = request.get_json()
+
+    if not dados:
+
+        return jsonify({
+            "erro": "JSON inválido"
+        }), 400
+
+    categoria_id = dados.get(
+        "categoria_id"
+    )
+
+    dificuldade = dados.get(
+        "dificuldade"
+    )
+
+    if not categoria_id:
+
+        return jsonify({
+            "erro":
+                "categoria_id obrigatório"
+        }), 400
+
+    if not dificuldade:
+
+        return jsonify({
+            "erro":
+                "dificuldade obrigatória"
+        }), 400
+
+    pergunta = buscar_por_categoria_e_dificuldade(
+        categoria_id,
+        dificuldade
+    )
+
+    if not pergunta:
+
+        return jsonify({
+            "erro":
+                "Nenhuma pergunta encontrada"
+        }), 404
+
+    return jsonify({
+
+        "id":
+            pergunta.id,
+
+        "texto":
+            pergunta.texto,
+
+        "categoria":
+            pergunta.categoria.nome,
+
+        "dificuldade":
+            pergunta.dificuldade,
+
+        "pontos":
+            pergunta.pontos
+
+    }), 200
+    
+    
+    
+    
 
 
 # =========================

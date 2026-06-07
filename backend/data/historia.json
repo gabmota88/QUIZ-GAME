@@ -1,34 +1,537 @@
 [
   {
+    "pergunta": "Quem foi o primeiro presidente dos EUA?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "George Washington",
+      "Washington",
+      "George"
+    ]
+  },
+  {
+    "pergunta": "Em qual continente fica o Egito?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "África",
+      "Africa"
+    ]
+  },
+  {
+    "pergunta": "Quem descobriu o Brasil?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Pedro Álvares Cabral",
+      "Cabral",
+      "Pedro Álvares"
+    ]
+  },
+  {
+    "pergunta": "Em que ano o Brasil se tornou independente?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1822",
+      "mil oitocentos e vinte e dois"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Napoleão Bonaparte?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Imperador da França",
+      "General Francês",
+      "Militar Francês"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a primeira civilização da história?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Suméria",
+      "Mesopotâmia",
+      "Babilônia"
+    ]
+  },
+  {
+    "pergunta": "Em que país fica a Grande Muralha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "China",
+      "República Popular da China"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Cleópatra?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Rainha do Egito",
+      "Rainha Egípcia",
+      "Cleópatra VII"
+    ]
+  },
+  {
+    "pergunta": "Em que época viveu Jesus Cristo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Século I",
+      "Ano Zero",
+      "Nascimento de Cristo"
+    ]
+  },
+  {
+    "pergunta": "Qual foi o império mais poderoso da Antiguidade?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Império Romano",
+      "Roma",
+      "Roman Empire"
+    ]
+  },
+  {
+    "pergunta": "Quem inventou a imprensa?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Johannes Gutenberg",
+      "Gutenberg",
+      "Johann Gutenberg"
+    ]
+  },
+  {
+    "pergunta": "Em que século ocorreu a Renascença?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Século XIV-XVI",
+      "XIV a XVI",
+      "1300-1600"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro rei da Dinamarca?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Gorm, o Velho",
+      "Harald Dente Azul",
+      "Christian"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a duração da Guerra dos Cem Anos?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "116 anos",
+      "1337-1453",
+      "Mais de 100 anos"
+    ]
+  },
+  {
+    "pergunta": "Quem descobriu a América do Sul?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cristóvão Colombo",
+      "Vasco da Gama",
+      "Pedro Álvares Cabral"
+    ]
+  },
+  {
+    "pergunta": "Em que ano caiu o Muro de Berlim?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1989",
+      "mil novecentos e oitenta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro papa?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "São Pedro",
+      "Pedro",
+      "Pope Peter"
+    ]
+  },
+  {
+    "pergunta": "Qual foi o maior império na história?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Império Britânico",
+      "Imperio Mongol",
+      "Império Espanhol"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Martin Luther King Jr?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Líder dos Direitos Civis",
+      "Ativista",
+      "Pastor"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1945",
+      "mil novecentos e quarenta e cinco"
+    ]
+  },
+  {
     "pergunta": "Quem desenhou a Mona Lisa?",
     "dificuldade": "medio",
     "pontos": 3,
     "respostas": [
       "Leonardo da Vinci",
-      " Da Vinci",
-      "da Vinci"
+      "Da Vinci",
+      "Leonardo"
     ]
-    
   },
   {
-    "pergunta": "Quem descobriu a America?",
-    "dificuldade": "facil",
-    "pontos": 1,
+    "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+    "dificuldade": "medio",
+    "pontos": 3,
     "respostas": [
-      "Cristóvão Colombo",
-      "Colombo",
-      "Cristóvão"   
+      "1789",
+      "mil setecentos e oitenta e nove"
     ]
   },
-    {
-        "pergunta": "Em que ano ocorreu a Revolução Francesa?",
-        "dificuldade": "dificil",
-        "pontos": 5,
-        "respostas": [
-        "1789",
-        "mil setecentos e oitenta e nove",
-        "1789 d.C.",
-        "mil setecentos e oitenta e nove d.C."
-        ]
-    }
+  {
+    "pergunta": "Quem foi o primeiro imperador do Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dom Pedro I",
+      "Pedro I",
+      "D. Pedro I"
+    ]
+  },
+  {
+    "pergunta": "Em que ano Colombo chegou à América?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1492",
+      "mil quatrocentos e noventa e dois"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Winston Churchill?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Primeiro-ministro britânico",
+      "Líder britânico",
+      "Churchill"
+    ]
+  },
+  {
+    "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1939",
+      "mil novecentos e trinta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Mahatma Gandhi?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Líder indiano",
+      "Ativista pela paz",
+      "Mohandas Gandhi"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a duração da Idade Média?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Aproximadamente 1000 anos",
+      "Século V-XV",
+      "V a XV"
+    ]
+  },
+  {
+    "pergunta": "Em que ano a Rússia se tornou comunista?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1917",
+      "mil novecentos e dezessete"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o maior conquistador medieval?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Gengis Khan",
+      "Mongol",
+      "Temüjin"
+    ]
+  },
+  {
+    "pergunta": "Em que ano começou a Revolução Americana?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1776",
+      "mil setecentos e setenta e seis"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Marechal Deodoro da Fonseca",
+      "Deodoro",
+      "Fonseca"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a guerra mais sangrenta da história?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Segunda Guerra Mundial",
+      "WWW II",
+      "Guerra Civil Americana"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou a Guerra Fria?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1991",
+      "mil novecentos e noventa e um"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Joana d'Arc?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Heroína francesa",
+      "Santa Joana",
+      "Donzela de Orleans"
+    ]
+  },
+  {
+    "pergunta": "Qual foi o primeiro país a abolir a escravidão?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dinamarca",
+      "Haiti",
+      "Portugal"
+    ]
+  },
+  {
+    "pergunta": "Em que ano a Alemanha invadiu a Polônia?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1939",
+      "mil novecentos e trinta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o imperador romano Caio Júlio César?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Conquistador de Roma",
+      "General romano",
+      "Ditador"
+    ]
+  },
+  {
+    "pergunta": "Em que ano Cristóvão Colombo foi financiado pela Rainha Isabel?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1491",
+      "mil quatrocentos e noventa e um"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro czar da Rússia?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ivan, o Terrível",
+      "Ivan III",
+      "Ivan IV"
+    ]
+  },
+  {
+    "pergunta": "Em que ano Hiroshima foi bombardeada?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1945",
+      "mil novecentos e quarenta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Voltaire?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Filósofo francês",
+      "Pensador iluminista",
+      "François-Marie Arouet"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a primeira república do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "República Velha",
+      "1889-1930",
+      "Primeira República"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi construída a Basílica de São Pedro?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1506",
+      "mil quinhentos e seis"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o autor da Declaração de Independência dos EUA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Thomas Jefferson",
+      "Jefferson",
+      "Founding Father"
+    ]
+  },
+  {
+    "pergunta": "Em que ano a China se tornou comunista?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1949",
+      "mil novecentos e quarenta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Mao Tsé-Tung?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Líder comunista chinês",
+      "Ditador chinês",
+      "Mao"
+    ]
+  },
+  {
+    "pergunta": "Em que ano os EUA conquistaram a Independência?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1776",
+      "mil setecentos e setenta e seis"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Cortês?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Conquistador do México",
+      "Hernán Cortés",
+      "Conquistador espanhol"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou o Império Otomano?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1922",
+      "mil novecentos e vinte e dois"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro-ministro britânico mais famoso?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Winston Churchill",
+      "Margaret Thatcher",
+      "Benjamin Disraeli"
+    ]
+  },
+  {
+    "pergunta": "Em que ano ocorreu o Holocausto?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1933-1945",
+      "Segunda Guerra",
+      "Terceiro Reich"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Confúcio?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Filósofo chinês",
+      "Sábio chinês",
+      "Kong Fuzi"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou a Inquisição Espanhola?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1834",
+      "mil oitocentos e trinta e quatro"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Mikhail Gorbachev?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Último líder da URSS",
+      "Reformador soviético",
+      "Gorbachev"
+    ]
+  }
 ]
+       
+        
+    
+

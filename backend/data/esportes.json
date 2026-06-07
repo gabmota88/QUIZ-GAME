@@ -1,30 +1,549 @@
 [
   {
-    "pergunta": "Qual o pais mais vezes campeao de copas do mundo?",
+    "pergunta": "Qual é o esporte mais popular do mundo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Futebol",
+      "Futebol/Soccer",
+      "Soccer"
+    ]
+  },
+  {
+    "pergunta": "Quantos jogadores tem um time de futebol em campo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "11",
+      "Onze",
+      "11 jogadores"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte jogado na quadra com bola de borracha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Basquete",
+      "Basketball",
+      "Basquetebol"
+    ]
+  },
+  {
+    "pergunta": "Em que esporte se usa uma raquete e uma bola de tênis?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tênis",
+      "Tennis",
+      "Tênis de Quadra"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte jogado na água com uma bola?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Polo Aquático",
+      "Water Polo",
+      "Polo na Água"
+    ]
+  },
+  {
+    "pergunta": "Quantos conjuntos tem um jogo de tênis?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "3",
+      "Três",
+      "Melhor de 3"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte de inverno jogado no gelo com taco?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Hóquei",
+      "Hockey",
+      "Hóquei no Gelo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do esporte que usa uma bola de pingue-pongue?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tênis de Mesa",
+      "Pingue-Pongue",
+      "Table Tennis"
+    ]
+  },
+  {
+    "pergunta": "Qual é a altura da cesta no basquete?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "3,05 metros",
+      "3.05m",
+      "10 pés"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa luvas acolchoadas?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Boxe",
+      "Boxing",
+      "Pugilismo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa um cavalo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Hipismo",
+      "Equitação",
+      "Horse Riding"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa uma bicicleta?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Ciclismo",
+      "Cycling",
+      "Bicicleta"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se nada competindo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Natação",
+      "Swimming",
+      "Nado"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se corre em uma pista?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Atletismo",
+      "Track and Field",
+      "Corrida"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se salta em altura ou distância?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Salto em Altura",
+      "Salto em Distância",
+      "Jump"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se arremessa um dardo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Lançamento de Dardo",
+      "Javelin",
+      "Lançamento"
+    ]
+  },
+  {
+    "pergunta": "Qual é o número de equipes na NFL (Liga de Futebol Americano)?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "32",
+      "32 equipes",
+      "Trinta e dois"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa uma bola de rugby?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Rugby",
+      "Rúgbi",
+      "Rugby Football"
+    ]
+  },
+  {
+    "pergunta": "Qual é a duração de um jogo de basquete na NBA?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "48 minutos",
+      "48",
+      "Quarenta e oito minutos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o número de rounds em uma luta de boxe profissional?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "12",
+      "Doze",
+      "12 rounds"
+    ]
+  },
+  {
+    "pergunta": "Qual país ganhou a Copa do Mundo em 2022?",
     "dificuldade": "medio",
     "pontos": 3,
     "respostas": [
-      "Brasil",
-      "brasil"
+      "Argentina",
+      "República Argentina",
+      "Argélia"
     ]
-    
   },
-    {
-        "pergunta": "Qual o nome do jogador conhecido como 'O Fenomeno'?",
-        "dificuldade": "facil",
-        "pontos": 1,
-        "respostas": [
-        "Ronaldo Nazário",
-        "Ronaldo"
-        ]
-    },
-        {
-            "pergunta": "Em que ano foi realizada a primeira Copa do Mundo de Futebol?",
-            "dificuldade": "dificil",
-            "pontos": 5,
-            "respostas": [
-            "1930",
-            "mil novecentos e trinta"
-            ]
-        }
+  {
+    "pergunta": "Qual é o maior torneio de tênis do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Wimbledon",
+      "Roland Garros",
+      "US Open"
+    ]
+  },
+  {
+    "pergunta": "Qual jogador ganhou mais Bolas de Ouro na história?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Lionel Messi",
+      "Messi",
+      "Leo Messi"
+    ]
+  },
+  {
+    "pergunta": "Qual é a distância da Maratona Olímpica?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "42,195 km",
+      "42 km",
+      "42 quilômetros"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior estádio de futebol do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Estádio de Rungrado",
+      "Rungrado",
+      "Coreia do Norte"
+    ]
+  },
+  {
+    "pergunta": "Quantas vezes o Brasil venceu a Copa do Mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "5",
+      "Cinco",
+      "5 vezes"
+    ]
+  },
+  {
+    "pergunta": "Qual é a velocidade máxima de um saque no tênis profissional?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "200 km/h",
+      "250 km/h",
+      "Acima de 200 km/h"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte nacional do Canadá?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Hóquei",
+      "Hockey",
+      "Lacrosse"
+    ]
+  },
+  {
+    "pergunta": "Quantos pontos vale um touchdown no futebol americano?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "6",
+      "Seis",
+      "6 pontos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior evento desportivo do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Copa do Mundo",
+      "Olimpíadas",
+      "Copa do Mundo de Futebol"
+    ]
+  },
+  {
+    "pergunta": "Qual é o comprimento de uma piscina olímpica?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "50 metros",
+      "50m",
+      "Cinquenta metros"
+    ]
+  },
+  {
+    "pergunta": "Quantas vezes Cristiano Ronaldo ganhou a Bola de Ouro?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "5",
+      "Cinco",
+      "5 vezes"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do troféu da Copa do Mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Troféu Jules Rimet",
+      "Jules Rimet",
+      "Taça do Mundo"
+    ]
+  },
+  {
+    "pergunta": "Qual é a duração de um round de boxe?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "3 minutos",
+      "Três minutos",
+      "3 min"
+    ]
+  },
+  {
+    "pergunta": "Qual país ganhou mais medalhas olímpicas historicamente?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Estados Unidos",
+      "EUA",
+      "USA"
+    ]
+  },
+  {
+    "pergunta": "Qual é o uniforme tradicional do judô?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Judogi",
+      "Kimono",
+      "Gi"
+    ]
+  },
+  {
+    "pergunta": "Qual é a pontuação máxima em uma partida de boliche?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "300",
+      "Trezentos",
+      "300 pontos"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi realizada a primeira Copa do Mundo de Futebol?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1930",
+      "mil novecentos e trinta"
+    ]
+  },
+  {
+    "pergunta": "Qual jogador é considerado o maior do futebol de todos os tempos?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pelé",
+      "Edson Arantes",
+      "Diego Maradona"
+    ]
+  },
+  {
+    "pergunta": "Qual é a distância da prova de 100 metros rasos em segundos?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "9.58 segundos",
+      "9.58",
+      "9 segundos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o recorde de ouro olímpicos para um atleta individual?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "23",
+      "Vinte e três",
+      "Michael Phelps"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi fundada a FIFA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1904",
+      "mil novecentos e quatro"
+    ]
+  },
+  {
+    "pergunta": "Qual é a velocidade máxima alcançada por um tenista profissional?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "263 km/h",
+      "Acima de 250 km/h",
+      "263"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior número de títulos de Grand Slam do tênis?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "24",
+      "Vinte e quatro",
+      "Serena Williams"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi criada a Liga dos Campeões da UEFA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1955",
+      "mil novecentos e cinquenta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Qual é o atleta com mais medalhas olímpicas do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Torben Grael",
+      "Robert Scheidt",
+      "Isaquias Queiroz"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior salário de um jogador de futebol?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Acima de 500 milhões",
+      "500 milhões",
+      "Mais de 400 milhões"
+    ]
+  },
+  {
+    "pergunta": "Em que ano o Brasil sediou a Copa do Mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "2014",
+      "dois mil e quatorze",
+      "2014"
+    ]
+  },
+  {
+    "pergunta": "Qual é o recorde de pontos em um jogo de NBA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "100",
+      "Cem",
+      "Kobe Bryant"
+    ]
+  },
+  {
+    "pergunta": "Qual é a maior velocidade do vento em um torneio de tênis permitida?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "14.4 km/h",
+      "14.4",
+      "Acima de 14 km/h"
+    ]
+  },
+  {
+    "pergunta": "Qual jogador ganhou mais Copas do Mundo da FIFA como jogador?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pelé",
+      "Maradona",
+      "3 Copas do Mundo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o tempo máximo de desempate no tênis profissional?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Sem limite no último set",
+      "Infinity",
+      "Wimbledon"
+    ]
+  },
+  {
+    "pergunta": "Qual é o menor time que já ganhou a Liga dos Campeões?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Nottingham Forest",
+      "Aston Villa",
+      "Porto"
+    ]
+  },
+  {
+    "pergunta": "Qual é o recorde de gols em uma partida de futebol profissional?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "16",
+      "Dezesseis",
+      "Mais de 15 gols"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior público em um estádio de futebol?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "114.600",
+      "Mais de 100 mil",
+      "120 mil"
+    ]
+  }
 ]

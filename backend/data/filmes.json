@@ -1,31 +1,403 @@
 [
   {
-    "pergunta": "Quem dirigiu Titanic?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "James Cameron",
-      "Cameron"
-    ]
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme dirigido por James Cameron apresenta o mundo de Pandora?",
+    "resposta": "Avatar",
+    "pontos": 1
   },
-    {
-        "pergunta": "Qual o nome do personagem principal do filme 'O Rei Leão'?",
-        "dificuldade": "facil",
-        "pontos": 1,
-        "respostas": [
-        "Simba",
-        "Simba, o leão"
-        ]
-    },
-        {
-            "pergunta": "Em que ano foi lançado o filme 'A Bela e a Fera'?",
-            "dificuldade": "dificil",
-            "pontos": 5,
-            "respostas": [
-            "1991",
-            "mil novecentos e noventa e um",
-            "1991 d.C.",
-            "mil novecentos e noventa e um d.C."
-            ]
-        }
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
+    "resposta": "Forrest Gump",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Em que filme Keanu Reeves interpreta Neo?",
+    "resposta": "The Matrix",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de animação acompanha as aventuras de Nemo e Dory?",
+    "resposta": "Procurando Nemo",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem interpreta o arqueólogo Indiana Jones?",
+    "resposta": "Harrison Ford",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta o ciborgue assassino conhecido como Terminator?",
+    "resposta": "The Terminator",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme mostra Marty McFly viajando no tempo com um carro DeLorean?",
+    "resposta": "De Volta para o Futuro",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de animação da Disney tem a música Let It Go?",
+    "resposta": "Frozen",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme retrata a missão Apollo 13?",
+    "resposta": "Apollo 13",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme começa com a presença da IA HAL 9000 em uma missão espacial?",
+    "resposta": "2001: Uma Odisseia no Espaço",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme mostra brinquedos que ganham vida quando os humanos não estão por perto?",
+    "resposta": "Toy Story",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta o gigante King Kong escalando prédios na cidade?",
+    "resposta": "King Kong",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de suspense apresenta um tubarão gigante que ataca uma praia?",
+    "resposta": "Tubarão",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme segue a vida de um boxeador chamado Rocky Balboa?",
+    "resposta": "Rocky",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de animação da Disney conta a história de uma princesa chamada Jasmine?",
+    "resposta": "Aladdin",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do leão protagonista de O Rei Leão?",
+    "resposta": "Simba",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de aventura da Disney envolve piratas e uma maldição antiga?",
+    "resposta": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta o jovem bruxo que frequenta a escola de magia chamada Hogwarts?",
+    "resposta": "Harry Potter",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de super-heróis apresenta o herói conhecido como Homem de Ferro?",
+    "resposta": "Iron Man",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual princesa perde um sapatinho de cristal?",
+    "resposta": "Cinderela",
+    "pontos": 1
+  },
+
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'O Senhor dos Anéis: A Sociedade do Anel'?",
+    "resposta": "Peter Jackson",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual ator interpretou Thanos em 'Vingadores: Guerra Infinita'?",
+    "resposta": "Josh Brolin",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2010?",
+    "resposta": "O Discurso do Rei",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme da Pixar apresenta WALL-E?",
+    "resposta": "WALL-E",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'Guardiões da Galáxia'?",
+    "resposta": "James Gunn",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Bong Joon-ho venceu a Palma de Ouro no Cannes e ganhou o Oscar?",
+    "resposta": "Parasite",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem interpretou o Batman em 'The Dark Knight'?",
+    "resposta": "Christian Bale",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Steven Spielberg retrata a vida de judeus durante a Segunda Guerra Mundial?",
+    "resposta": "A Lista de Schindler",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'Jurassic Park'?",
+    "resposta": "Steven Spielberg",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual atriz ganhou o Oscar por 'La La Land'?",
+    "resposta": "Emma Stone",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Tarantino, lançado em 1994, é famoso pelos diálogos?",
+    "resposta": "Pulp Fiction",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'The Matrix'?",
+    "resposta": "As Wachowskis",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme dirigido por Christopher Nolan envolve sonhos dentro de sonhos?",
+    "resposta": "Inception",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Martin Scorsese ganhou o Oscar de Melhor Filme em 2007?",
+    "resposta": "Os Infiltrados",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Ridley Scott se passa em um planeta desértico com um androide?",
+    "resposta": "Blade Runner",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Oliver Stone retrata a Guerra do Vietnã?",
+    "resposta": "Platoon",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Alfonso Cuarón ganhou o Oscar de Melhor Filme?",
+    "resposta": "Gravity",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Coen Brothers venceu o Oscar de Melhor Filme?",
+    "resposta": "No Country for Old Men",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme dirigido por Bryan Singer é conhecido por seu enredo de identidades?",
+    "resposta": "The Usual Suspects",
+    "pontos": 3
+  },
+
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu There Will Be Blood?",
+    "resposta": "Paul Thomas Anderson",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu No Country for Old Men?",
+    "resposta": "Joel e Ethan Coen",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu The Shining?",
+    "resposta": "Stanley Kubrick",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu The Matrix?",
+    "resposta": "The Wachowskis",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Tarantino lançado em 1994 é conhecido por seus diálogos icônicos?",
+    "resposta": "Pulp Fiction",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme dirigido por David Fincher envolve uma investigação de assassinato em série?",
+    "resposta": "Se7en",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2007, dirigido por Martin Scorsese?",
+    "resposta": "Os Infiltrados",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Alfonso Cuarón venceu o Oscar de Melhor Filme?",
+    "resposta": "Gravity",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Guillermo del Toro ganhou o Oscar de Melhor Filme?",
+    "resposta": "The Shape of Water",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu The Return of the King (O Retorno do Rei)?",
+    "resposta": "Peter Jackson",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme Tarantino lançou em 2012 que não fez parte de sua trilogia de cinema principal?",
+    "resposta": "Django Unchained",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de David Fincher foca na vida de um fundador de uma rede social?",
+    "resposta": "The Social Network",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Steven Spielberg envolve um arqueólogo que luta contra nazistas?",
+    "resposta": "Raiders of the Lost Ark",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Jonathan Demme trata de um jovem psicótico que encanta a agente do FBI?",
+    "resposta": "The Silence of the Lambs",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Steven Spielberg venceu o Oscar de Melhor Filme e retrata o Holocausto?",
+    "resposta": "Schindler's List",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme francês de 2001 ganhou destaque mundial, dirigido por Jean-Pierre Jeunet?",
+    "resposta": "Amélie",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Alejandro G. Iñárritu ganhou o Oscar de Melhor Filme (Birdman) em 2015?",
+    "resposta": "Birdman",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Bryan Singer é conhecido por seu enredo de identidades e um interrogatório final memorável?",
+    "resposta": "The Usual Suspects",
+    "pontos": 5
+  }
 ]

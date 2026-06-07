@@ -8,6 +8,7 @@ from app.models.categoria import Categoria
 from app.models.pergunta import Pergunta
 from app.models.resposta import RespostaAceita
 from app.models.partida import Partida
+from app.models.pergunta_usada import PerguntaUsada
 
 
 # Routes
@@ -15,6 +16,7 @@ from app.routes.perguntas_routes import perguntas_bp
 from app.routes.equipes_routes import equipes_bp
 from app.routes.game_routes import game_bp
 from app.routes.import_routes import import_bp
+
 
 
 def create_app():

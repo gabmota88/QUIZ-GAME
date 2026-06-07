@@ -1,304 +1,3638 @@
-
 [
+  {
+    "pergunta": "Em qual filme Disney a personagem é uma sereia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "A Pequena Sereia",
+      "The Little Mermaid",
+      "Pequena Sereia"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do tigre amigo de Aladdin?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Raja",
+      "O tigre"
+    ]
+  },
+  {
+    "pergunta": "Quem é o pai de Simba em 'O Rei Leão'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Mufasa",
+      "Rei Mufasa",
+      "O Mufasa"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da bruxa em 'A Rainha do Gelo'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Elsa",
+      "Rainha Elsa"
+    ]
+  },
+  {
+    "pergunta": "Em 'Encanto', qual é o superpoder de Mirabel?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Ela não tem poderes",
+      "Nenhum superpoder",
+      "Não possui mágica"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do cachorro em 'A Dama e o Vagabundo'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Vagabundo",
+      "Tramp",
+      "O Vagabundo"
+    ]
+  },
+  {
+    "pergunta": "Quem é o vilão em 'Frozen'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Hans",
+      "Príncipe Hans",
+      "O Príncipe Hans"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da princesa em 'Cinderela'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cinderela",
+      "Ella",
+      "Cinderela Tremaine"
+    ]
+  },
+  {
+    "pergunta": "Em 'Mulan', qual animal acompanha a heroína?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Mushu",
+      "Um dragão",
+      "O dragão vermelho"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da fada má em 'A Bela Adormecida'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Maléfica",
+      "Maleficent"
+    ]
+  },
+  {
+    "pergunta": "Quem é o gênio em 'Aladdin'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Gênio",
+      "Azul",
+      "Escravos da Lâmpada"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do pato em 'Pato Donald'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Donald",
+      "Pato Donald",
+      "Donald Duck"
+    ]
+  },
+  {
+    "pergunta": "Em 'Branca de Neve', quantos anões ajudam a princesa?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Sete",
+      "7",
+      "Sete anões"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do cavalo em 'Tangled'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Maximus",
+      "Max",
+      "Cavalo Maximus"
+    ]
+  },
+  {
+    "pergunta": "Quem é a mãe de Ariel em 'A Pequena Sereia'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Rainha Atena",
+      "A Rainha",
+      "Atena"
+    ]
+  },
+  {
+    "pergunta": "Em 'Moana', qual é o objetivo da heroína?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Salvar seu povo",
+      "Restaurar o coração de Te Fiti",
+      "Cruzar o oceano"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do leão cômico em 'O Rei Leão'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Timão",
+      "Timon",
+      "O Timão"
+    ]
+  },
+  {
+    "pergunta": "Em 'Hercules', quem é o instrutor do herói?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Phil",
+      "Philoctetes",
+      "O centauro Phil"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da avó em 'Encanto'?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Abuela Alma",
+      "Abuela",
+      "Alma"
+    ]
+  },
+  {
+    "pergunta": "Em qual ano o primeiro filme 'O Rei Leão' foi lançado?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1994",
+      "mil novecentos e noventa e quatro"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Bela e a Fera', qual é o nome da criada levada por magia?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Mrs. Potts",
+      "Sra. Poti",
+      "Potts"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome completo do príncipe em 'Cinderela'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Príncipe Charming",
+      "Charming",
+      "Prince Charming"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Pequena Sereia', qual é o nome do caranguejo que acompanha Ariel?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Sebastião",
+      "Sebastian",
+      "Caranguejo Sebastião"
+    ]
+  },
+  {
+    "pergunta": "Quantos irmãos Elsa tem em 'Frozen'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Uma",
+      "1",
+      "Anna"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da Rainha do Coração em 'Alice no País das Maravilhas'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rainha de Copas",
+      "Queen of Hearts",
+      "Rainha Vermelho"
+    ]
+  },
+  {
+    "pergunta": "Em 'Moana', qual é o nome do semideus que ajuda a heroína?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Maui",
+      "O Maui",
+      "Semideus Maui"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do pinguim em 'Madagascar' (filme Disney)?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Skipper",
+      "Comandante",
+      "Capitão Skipper"
+    ]
+  },
+  {
+    "pergunta": "Em 'Hercules', qual é o nome da musa que ajuda o herói?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Meg",
+      "Megara",
+      "A Meg"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do sapo em 'A Princesa e o Sapo'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Naveen",
+      "Príncipe Naveen",
+      "O Príncipe Naveen"
+    ]
+  },
+  {
+    "pergunta": "Em 'Tangled', qual é o verdadeiro nome de Rapunzel?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Corona",
+      "Princesa Corona",
+      "A Princesa"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da mãe de Mirabel em 'Encanto'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Julieta",
+      "Julieta Madrigal",
+      "Mãe Julieta"
+    ]
+  },
+  {
+    "pergunta": "Em 'O Rei Leão', qual é o nome do amigo porco de Simba?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Pumba",
+      "O Pumba",
+      "Porco Pumba"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da mãe de Ariel em 'A Pequena Sereia'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rainha Atena",
+      "Atena",
+      "Rainha dos Mares"
+    ]
+  },
+  {
+    "pergunta": "Em 'Aladdin', qual é o nome verdadeiro do personagem principal?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Aladdin",
+      "Aladdin",
+      "Príncipe Ali"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do crocodilo em 'Peter Pan'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Tic-Tac",
+      "Tick-Tock",
+      "Crocodilo Tic-Tac"
+    ]
+  },
+  {
+    "pergunta": "Em 'Mulan', qual é o nome do gênio que ajuda a heroína?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Mushu",
+      "O dragão Mushu",
+      "Dragão vermelho"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da avó em 'Coco'?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Coco",
+      "Abuela Coco",
+      "Coco Rivera"
+    ]
+  },
+  {
+    "pergunta": "Em qual ano 'Frozen' foi lançado?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "2013",
+      "dois mil e treze",
+      "2013"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da bruxa em 'Tangled'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Gothel",
+      "Mother Gothel",
+      "Mãe Gothel"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Pequena Sereia', qual é o nome da bruxa do mar?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ursula",
+      "A Ursula",
+      "Bruxa Ursula"
+    ]
+  },
+  {
+    "pergunta": "Qual é o verdadeiro nome do Rei Leão em 'O Rei Leão'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Simba",
+      "Simba",
+      "Rei Simba"
+    ]
+  },
+  {
+    "pergunta": "Em 'Hercules', qual é o nome da vilã que quer dominar o Olimpo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Hades",
+      "Deus Hades",
+      "O Hades"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do cachorro em 'Dálmatas'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pongo",
+      "Perdita",
+      "Roger Dearly"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Bela e a Fera', qual é o verdadeiro nome da Fera?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Príncipe Adam",
+      "Adam",
+      "Príncipe"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da mãe adotiva de Mirabel em 'Encanto'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pepa",
+      "Tia Pepa",
+      "Pepa Madrigal"
+    ]
+  },
+  {
+    "pergunta": "Em 'Moana', qual é o nome da avó que aparece como espírito?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Tamatoa",
+      "Avó Tamatoa",
+      "Gramma Tala"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome completo da vilã em 'Cruella'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Cruella De Vil",
+      "Estella De Vil",
+      "Cruella"
+    ]
+  },
+  {
+    "pergunta": "Em 'Coco', qual é o nome do tataravô do personagem principal?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ernesto de la Cruz",
+      "Ernesto",
+      "La Cruz"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do príncipe em 'A Bela Adormecida'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Príncipe Filipe",
+      "Filipe",
+      "Prince Philip"
+    ]
+  },
+  {
+    "pergunta": "Em 'Branca de Neve', qual é o nome do príncipe?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Príncipe Encantado",
+      "Príncipe",
+      "Prince Charming"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da Rainha má em 'Branca de Neve'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Rainha",
+      "Rainha Má",
+      "Rainha do Espelho"
+    ]
+  },
+  {
+    "pergunta": "Em 'Frozen', qual é o nome do boneco de neve?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Olaf",
+      "Olaf",
+      "Boneco Olaf"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do gato em 'Cinderela'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Lúcifer",
+      "Lucifer",
+      "O gato Lúcifer"
+    ]
+  },
+  {
+    "pergunta": "Em 'Alice no País das Maravilhas', qual é o nome do gato que desaparece?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Gato de Cheshire",
+      "Cheshire",
+      "Cat Cheshire"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da rainha em 'A Rainha Vermelha' (Through the Looking Glass)?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Rainha Vermelha",
+      "Red Queen",
+      "Irene"
+    ]
+  },
+  {
+    "pergunta": "Em 'Rapunzel', qual é o nome verdadeiro da princesa?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Princesa Corona",
+      "Corona",
+      "Rapunzel Corona"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em 'O Rei Leão'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Scar",
+      "Cicatriz",
+      "Scar, o leão"
+    ]
+  },
+  {
+    "pergunta": "Em 'Encanto', qual é o apelido da avó?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Abuela",
+      "Avó Alma",
+      "Alma Madrigal"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do pombo em 'Cinderela'?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Gus",
+      "Gus-Gus",
+      "Gus o Gordo"
+    ]
+  },
+  {
+    "pergunta": "Em 'A Princesa e o Sapo', qual é o nome da princesa?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Tiana",
+      "Princesa Tiana",
+      "Tiana Johnson"
+    ]
+  },
+
+
+
+  {
+    "pergunta": "Qual é o esporte mais popular do mundo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Futebol",
+      "Futebol/Soccer",
+      "Soccer"
+    ]
+  },
+  {
+    "pergunta": "Quantos jogadores tem um time de futebol em campo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "11",
+      "Onze",
+      "11 jogadores"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte jogado na quadra com bola de borracha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Basquete",
+      "Basketball",
+      "Basquetebol"
+    ]
+  },
+  {
+    "pergunta": "Em que esporte se usa uma raquete e uma bola de tênis?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tênis",
+      "Tennis",
+      "Tênis de Quadra"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte jogado na água com uma bola?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Polo Aquático",
+      "Water Polo",
+      "Polo na Água"
+    ]
+  },
+  {
+    "pergunta": "Quantos conjuntos tem um jogo de tênis?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "3",
+      "Três",
+      "Melhor de 3"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte de inverno jogado no gelo com taco?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Hóquei",
+      "Hockey",
+      "Hóquei no Gelo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do esporte que usa uma bola de pingue-pongue?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tênis de Mesa",
+      "Pingue-Pongue",
+      "Table Tennis"
+    ]
+  },
+  {
+    "pergunta": "Qual é a altura da cesta no basquete?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "3,05 metros",
+      "3.05m",
+      "10 pés"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa luvas acolchoadas?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Boxe",
+      "Boxing",
+      "Pugilismo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa um cavalo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Hipismo",
+      "Equitação",
+      "Horse Riding"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa uma bicicleta?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Ciclismo",
+      "Cycling",
+      "Bicicleta"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se nada competindo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Natação",
+      "Swimming",
+      "Nado"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se corre em uma pista?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Atletismo",
+      "Track and Field",
+      "Corrida"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se salta em altura ou distância?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Salto em Altura",
+      "Salto em Distância",
+      "Jump"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se arremessa um dardo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Lançamento de Dardo",
+      "Javelin",
+      "Lançamento"
+    ]
+  },
+  {
+    "pergunta": "Qual é o número de equipes na NFL (Liga de Futebol Americano)?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "32",
+      "32 equipes",
+      "Trinta e dois"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte onde se usa uma bola de rugby?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Rugby",
+      "Rúgbi",
+      "Rugby Football"
+    ]
+  },
+  {
+    "pergunta": "Qual é a duração de um jogo de basquete na NBA?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "48 minutos",
+      "48",
+      "Quarenta e oito minutos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o número de rounds em uma luta de boxe profissional?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "12",
+      "Doze",
+      "12 rounds"
+    ]
+  },
+  {
+    "pergunta": "Qual país ganhou a Copa do Mundo em 2022?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Argentina",
+      "República Argentina",
+      "Argélia"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior torneio de tênis do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Wimbledon",
+      "Roland Garros",
+      "US Open"
+    ]
+  },
+  {
+    "pergunta": "Qual jogador ganhou mais Bolas de Ouro na história?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Lionel Messi",
+      "Messi",
+      "Leo Messi"
+    ]
+  },
+  {
+    "pergunta": "Qual é a distância da Maratona Olímpica?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "42,195 km",
+      "42 km",
+      "42 quilômetros"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior estádio de futebol do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Estádio de Rungrado",
+      "Rungrado",
+      "Coreia do Norte"
+    ]
+  },
+  {
+    "pergunta": "Quantas vezes o Brasil venceu a Copa do Mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "5",
+      "Cinco",
+      "5 vezes"
+    ]
+  },
+  {
+    "pergunta": "Qual é a velocidade máxima de um saque no tênis profissional?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "200 km/h",
+      "250 km/h",
+      "Acima de 200 km/h"
+    ]
+  },
+  {
+    "pergunta": "Qual é o esporte nacional do Canadá?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Hóquei",
+      "Hockey",
+      "Lacrosse"
+    ]
+  },
+  {
+    "pergunta": "Quantos pontos vale um touchdown no futebol americano?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "6",
+      "Seis",
+      "6 pontos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior evento desportivo do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Copa do Mundo",
+      "Olimpíadas",
+      "Copa do Mundo de Futebol"
+    ]
+  },
+  {
+    "pergunta": "Qual é o comprimento de uma piscina olímpica?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "50 metros",
+      "50m",
+      "Cinquenta metros"
+    ]
+  },
+  {
+    "pergunta": "Quantas vezes Cristiano Ronaldo ganhou a Bola de Ouro?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "5",
+      "Cinco",
+      "5 vezes"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do troféu da Copa do Mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Troféu Jules Rimet",
+      "Jules Rimet",
+      "Taça do Mundo"
+    ]
+  },
+  {
+    "pergunta": "Qual é a duração de um round de boxe?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "3 minutos",
+      "Três minutos",
+      "3 min"
+    ]
+  },
+  {
+    "pergunta": "Qual país ganhou mais medalhas olímpicas historicamente?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Estados Unidos",
+      "EUA",
+      "USA"
+    ]
+  },
+  {
+    "pergunta": "Qual é o uniforme tradicional do judô?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Judogi",
+      "Kimono",
+      "Gi"
+    ]
+  },
+  {
+    "pergunta": "Qual é a pontuação máxima em uma partida de boliche?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "300",
+      "Trezentos",
+      "300 pontos"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi realizada a primeira Copa do Mundo de Futebol?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1930",
+      "mil novecentos e trinta"
+    ]
+  },
+  {
+    "pergunta": "Qual jogador é considerado o maior do futebol de todos os tempos?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pelé",
+      "Edson Arantes",
+      "Diego Maradona"
+    ]
+  },
+  {
+    "pergunta": "Qual é a distância da prova de 100 metros rasos em segundos?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "9.58 segundos",
+      "9.58",
+      "9 segundos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o recorde de ouro olímpicos para um atleta individual?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "23",
+      "Vinte e três",
+      "Michael Phelps"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi fundada a FIFA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1904",
+      "mil novecentos e quatro"
+    ]
+  },
+  {
+    "pergunta": "Qual é a velocidade máxima alcançada por um tenista profissional?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "263 km/h",
+      "Acima de 250 km/h",
+      "263"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior número de títulos de Grand Slam do tênis?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "24",
+      "Vinte e quatro",
+      "Serena Williams"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi criada a Liga dos Campeões da UEFA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1955",
+      "mil novecentos e cinquenta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Qual é o atleta com mais medalhas olímpicas do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Torben Grael",
+      "Robert Scheidt",
+      "Isaquias Queiroz"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior salário de um jogador de futebol?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Acima de 500 milhões",
+      "500 milhões",
+      "Mais de 400 milhões"
+    ]
+  },
+  {
+    "pergunta": "Em que ano o Brasil sediou a Copa do Mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "2014",
+      "dois mil e quatorze",
+      "2014"
+    ]
+  },
+  {
+    "pergunta": "Qual é o recorde de pontos em um jogo de NBA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "100",
+      "Cem",
+      "Kobe Bryant"
+    ]
+  },
+  {
+    "pergunta": "Qual é a maior velocidade do vento em um torneio de tênis permitida?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "14.4 km/h",
+      "14.4",
+      "Acima de 14 km/h"
+    ]
+  },
+  {
+    "pergunta": "Qual jogador ganhou mais Copas do Mundo da FIFA como jogador?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Pelé",
+      "Maradona",
+      "3 Copas do Mundo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o tempo máximo de desempate no tênis profissional?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Sem limite no último set",
+      "Infinity",
+      "Wimbledon"
+    ]
+  },
+  {
+    "pergunta": "Qual é o menor time que já ganhou a Liga dos Campeões?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Nottingham Forest",
+      "Aston Villa",
+      "Porto"
+    ]
+  },
+  {
+    "pergunta": "Qual é o recorde de gols em uma partida de futebol profissional?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "16",
+      "Dezesseis",
+      "Mais de 15 gols"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior público em um estádio de futebol?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "114.600",
+      "Mais de 100 mil",
+      "120 mil"
+    ]
+  },
+
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Quem dirigiu Titanic?",
-    "resposta": "James Cameron",
+    "pergunta": "Qual filme dirigido por James Cameron apresenta o mundo de Pandora?",
+    "resposta": "Avatar",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme possui o personagem Harry Potter?",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
+    "resposta": "Forrest Gump",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Em que filme Keanu Reeves interpreta Neo?",
+    "resposta": "The Matrix",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de animação acompanha as aventuras de Nemo e Dory?",
+    "resposta": "Procurando Nemo",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem interpreta o arqueólogo Indiana Jones?",
+    "resposta": "Harrison Ford",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta o ciborgue assassino conhecido como Terminator?",
+    "resposta": "The Terminator",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme mostra Marty McFly viajando no tempo com um carro DeLorean?",
+    "resposta": "De Volta para o Futuro",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de animação da Disney tem a música Let It Go?",
+    "resposta": "Frozen",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme retrata a missão Apollo 13?",
+    "resposta": "Apollo 13",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme começa com a presença da IA HAL 9000 em uma missão espacial?",
+    "resposta": "2001: Uma Odisseia no Espaço",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme mostra brinquedos que ganham vida quando os humanos não estão por perto?",
+    "resposta": "Toy Story",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta o gigante King Kong escalando prédios na cidade?",
+    "resposta": "King Kong",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de suspense apresenta um tubarão gigante que ataca uma praia?",
+    "resposta": "Tubarão",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme segue a vida de um boxeador chamado Rocky Balboa?",
+    "resposta": "Rocky",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de animação da Disney conta a história de uma princesa chamada Jasmine?",
+    "resposta": "Aladdin",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do leão protagonista de O Rei Leão?",
+    "resposta": "Simba",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de aventura da Disney envolve piratas e uma maldição antiga?",
+    "resposta": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta o jovem bruxo que frequenta a escola de magia chamada Hogwarts?",
     "resposta": "Harry Potter",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual ator interpretou o Coringa em Batman O Cavaleiro das Trevas?",
-    "resposta": "Heath Ledger",
-    "pontos": 3
+    "dificuldade": "facil",
+    "pergunta": "Qual filme de super-heróis apresenta o herói conhecido como Homem de Ferro?",
+    "resposta": "Iron Man",
+    "pontos": 1
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 2020?",
-    "resposta": "Parasita",
-    "pontos": 3
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem dirigiu o filme A Origem?",
-    "resposta": "Christopher Nolan",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual filme ganhou a Palma de Ouro em 1994?",
-    "resposta": "Pulp Fiction",
-    "pontos": 5
-  },
-
-  {
-    "categoria": "Series",
     "dificuldade": "facil",
-    "pergunta": "Qual série mostra um grupo sobrevivendo a um apocalipse zumbi?",
-    "resposta": "The Walking Dead",
-    "pontos": 1
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "facil",
-    "pergunta": "Qual série acompanha a vida de Walter White?",
-    "resposta": "Breaking Bad",
-    "pontos": 1
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "medio",
-    "pergunta": "Qual ator interpreta Jon Snow em Game of Thrones?",
-    "resposta": "Kit Harington",
-    "pontos": 3
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "medio",
-    "pergunta": "Qual série se passa na cidade fictícia de Hawkins?",
-    "resposta": "Stranger Things",
-    "pontos": 3
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do advogado em Better Call Saul?",
-    "resposta": "Jimmy McGill",
-    "pontos": 5
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "dificil",
-    "pergunta": "Quem criou a série Dark?",
-    "resposta": "Baran bo Odar",
-    "pontos": 5
-  },
-
-  {
-    "categoria": "Historia",
-    "dificuldade": "facil",
-    "pergunta": "Quem descobriu o Brasil segundo a história tradicional?",
-    "resposta": "Pedro Alvares Cabral",
-    "pontos": 1
-  },
-  {
-    "categoria": "Historia",
-    "dificuldade": "facil",
-    "pergunta": "Qual civilização construiu as pirâmides do Egito?",
-    "resposta": "Egipcios",
-    "pontos": 1
-  },
-  {
-    "categoria": "Historia",
-    "dificuldade": "medio",
-    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
-    "resposta": "1989",
-    "pontos": 3
-  },
-  {
-    "categoria": "Historia",
-    "dificuldade": "medio",
-    "pergunta": "Quem foi o primeiro presidente do Brasil?",
-    "resposta": "Deodoro da Fonseca",
-    "pontos": 3
-  },
-  {
-    "categoria": "Historia",
-    "dificuldade": "dificil",
-    "pergunta": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
-    "resposta": "Tratado de Versalhes",
-    "pontos": 5
-  },
-  {
-    "categoria": "Historia",
-    "dificuldade": "dificil",
-    "pergunta": "Quem liderou a União Soviética durante a Segunda Guerra Mundial?",
-    "resposta": "Josef Stalin",
-    "pontos": 5
-  },
-
-  {
-    "categoria": "One Piece",
-    "dificuldade": "facil",
-    "pergunta": "Qual é o nome do protagonista de One Piece?",
-    "resposta": "Luffy",
-    "pontos": 1
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "facil",
-    "pergunta": "Quem é o espadachim do bando do Chapéu de Palha?",
-    "resposta": "Zoro",
-    "pontos": 1
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "medio",
-    "pergunta": "Qual fruta do diabo Luffy comeu?",
-    "resposta": "Gomu Gomu no Mi",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "medio",
-    "pergunta": "Quem treinou Luffy durante o timeskip?",
-    "resposta": "Rayleigh",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "dificil",
-    "pergunta": "Qual é o nome verdadeiro da fruta de Luffy?",
-    "resposta": "Hito Hito no Mi Modelo Nika",
-    "pontos": 5
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o antigo capitão dos Piratas Rocks?",
-    "resposta": "Rocks D Xebec",
-    "pontos": 5
-  },
-
-  {
-    "categoria": "Esportes",
-    "dificuldade": "facil",
-    "pergunta": "Quantas Copas do Mundo o Brasil possui?",
-    "resposta": "5",
-    "pontos": 1
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "facil",
-    "pergunta": "Qual esporte usa uma cesta?",
-    "resposta": "Basquete",
-    "pontos": 1
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "medio",
-    "pergunta": "Quem é conhecido como Rei do Futebol?",
-    "resposta": "Pele",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "medio",
-    "pergunta": "Em qual país aconteceram as Olimpíadas de 2016?",
-    "resposta": "Brasil",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem venceu a Copa do Mundo de 2010?",
-    "resposta": "Espanha",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual piloto possui mais títulos na Formula 1?",
-    "resposta": "Lewis Hamilton",
-    "pontos": 5
-  },
-
-  {
-    "categoria": "Disney",
-    "dificuldade": "facil",
-    "pergunta": "Qual princesa perdeu um sapatinho de cristal?",
+    "pergunta": "Qual princesa perde um sapatinho de cristal?",
     "resposta": "Cinderela",
     "pontos": 1
   },
+
   {
-    "categoria": "Disney",
-    "dificuldade": "facil",
-    "pergunta": "Quem é o rato símbolo da Disney?",
-    "resposta": "Mickey Mouse",
-    "pontos": 1
-  },
-  {
-    "categoria": "Disney",
+    "categoria": "Filmes",
     "dificuldade": "medio",
-    "pergunta": "Qual filme da Disney tem a música Livre Estou?",
-    "resposta": "Frozen",
+    "pergunta": "Quem dirigiu 'O Senhor dos Anéis: A Sociedade do Anel'?",
+    "resposta": "Peter Jackson",
     "pontos": 3
   },
   {
-    "categoria": "Disney",
+    "categoria": "Filmes",
     "dificuldade": "medio",
-    "pergunta": "Qual é o nome do leão protagonista de O Rei Leao?",
-    "resposta": "Simba",
+    "pergunta": "Qual ator interpretou Thanos em 'Vingadores: Guerra Infinita'?",
+    "resposta": "Josh Brolin",
     "pontos": 3
   },
   {
-    "categoria": "Disney",
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2010?",
+    "resposta": "O Discurso do Rei",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme da Pixar apresenta WALL-E?",
+    "resposta": "WALL-E",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'Guardiões da Galáxia'?",
+    "resposta": "James Gunn",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Bong Joon-ho venceu a Palma de Ouro no Cannes e ganhou o Oscar?",
+    "resposta": "Parasite",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem interpretou o Batman em 'The Dark Knight'?",
+    "resposta": "Christian Bale",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Steven Spielberg retrata a vida de judeus durante a Segunda Guerra Mundial?",
+    "resposta": "A Lista de Schindler",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'Jurassic Park'?",
+    "resposta": "Steven Spielberg",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual atriz ganhou o Oscar por 'La La Land'?",
+    "resposta": "Emma Stone",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Tarantino, lançado em 1994, é famoso pelos diálogos?",
+    "resposta": "Pulp Fiction",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Quem dirigiu 'The Matrix'?",
+    "resposta": "As Wachowskis",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme dirigido por Christopher Nolan envolve sonhos dentro de sonhos?",
+    "resposta": "Inception",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Martin Scorsese ganhou o Oscar de Melhor Filme em 2007?",
+    "resposta": "Os Infiltrados",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Ridley Scott se passa em um planeta desértico com um androide?",
+    "resposta": "Blade Runner",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Oliver Stone retrata a Guerra do Vietnã?",
+    "resposta": "Platoon",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Alfonso Cuarón ganhou o Oscar de Melhor Filme?",
+    "resposta": "Gravity",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme de Coen Brothers venceu o Oscar de Melhor Filme?",
+    "resposta": "No Country for Old Men",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "medio",
+    "pergunta": "Qual filme dirigido por Bryan Singer é conhecido por seu enredo de identidades?",
+    "resposta": "The Usual Suspects",
+    "pontos": 3
+  },
+
+  {
+    "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual foi o primeiro longa animado da Disney?",
-    "resposta": "Branca de Neve e os Sete Anoes",
+    "pergunta": "Quem dirigiu There Will Be Blood?",
+    "resposta": "Paul Thomas Anderson",
     "pontos": 5
   },
   {
-    "categoria": "Disney",
+    "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Quem dublou o Genie em Aladdin original?",
-    "resposta": "Robin Williams",
+    "pergunta": "Quem dirigiu No Country for Old Men?",
+    "resposta": "Joel e Ethan Coen",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu The Shining?",
+    "resposta": "Stanley Kubrick",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu The Matrix?",
+    "resposta": "The Wachowskis",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Tarantino lançado em 1994 é conhecido por seus diálogos icônicos?",
+    "resposta": "Pulp Fiction",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme dirigido por David Fincher envolve uma investigação de assassinato em série?",
+    "resposta": "Se7en",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2007, dirigido por Martin Scorsese?",
+    "resposta": "Os Infiltrados",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Alfonso Cuarón venceu o Oscar de Melhor Filme?",
+    "resposta": "Gravity",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Guillermo del Toro ganhou o Oscar de Melhor Filme?",
+    "resposta": "The Shape of Water",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu The Return of the King (O Retorno do Rei)?",
+    "resposta": "Peter Jackson",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme Tarantino lançou em 2012 que não fez parte de sua trilogia de cinema principal?",
+    "resposta": "Django Unchained",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de David Fincher foca na vida de um fundador de uma rede social?",
+    "resposta": "The Social Network",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Steven Spielberg envolve um arqueólogo que luta contra nazistas?",
+    "resposta": "Raiders of the Lost Ark",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Jonathan Demme trata de um jovem psicótico que encanta a agente do FBI?",
+    "resposta": "The Silence of the Lambs",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Steven Spielberg venceu o Oscar de Melhor Filme e retrata o Holocausto?",
+    "resposta": "Schindler's List",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme francês de 2001 ganhou destaque mundial, dirigido por Jean-Pierre Jeunet?",
+    "resposta": "Amélie",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Alejandro G. Iñárritu ganhou o Oscar de Melhor Filme (Birdman) em 2015?",
+    "resposta": "Birdman",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Bryan Singer é conhecido por seu enredo de identidades e um interrogatório final memorável?",
+    "resposta": "The Usual Suspects",
     "pontos": 5
   },
 
   {
-    "categoria": "Paises",
+    "pergunta": "Quem foi o primeiro presidente dos EUA?",
     "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "George Washington",
+      "Washington",
+      "George"
+    ]
+  },
+  {
+    "pergunta": "Em qual continente fica o Egito?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "África",
+      "Africa"
+    ]
+  },
+  {
+    "pergunta": "Quem descobriu o Brasil?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Pedro Álvares Cabral",
+      "Cabral",
+      "Pedro Álvares"
+    ]
+  },
+  {
+    "pergunta": "Em que ano o Brasil se tornou independente?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1822",
+      "mil oitocentos e vinte e dois"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Napoleão Bonaparte?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Imperador da França",
+      "General Francês",
+      "Militar Francês"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a primeira civilização da história?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Suméria",
+      "Mesopotâmia",
+      "Babilônia"
+    ]
+  },
+  {
+    "pergunta": "Em que país fica a Grande Muralha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "China",
+      "República Popular da China"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Cleópatra?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Rainha do Egito",
+      "Rainha Egípcia",
+      "Cleópatra VII"
+    ]
+  },
+  {
+    "pergunta": "Em que época viveu Jesus Cristo?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Século I",
+      "Ano Zero",
+      "Nascimento de Cristo"
+    ]
+  },
+  {
+    "pergunta": "Qual foi o império mais poderoso da Antiguidade?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Império Romano",
+      "Roma",
+      "Roman Empire"
+    ]
+  },
+  {
+    "pergunta": "Quem inventou a imprensa?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Johannes Gutenberg",
+      "Gutenberg",
+      "Johann Gutenberg"
+    ]
+  },
+  {
+    "pergunta": "Em que século ocorreu a Renascença?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Século XIV-XVI",
+      "XIV a XVI",
+      "1300-1600"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro rei da Dinamarca?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Gorm, o Velho",
+      "Harald Dente Azul",
+      "Christian"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a duração da Guerra dos Cem Anos?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "116 anos",
+      "1337-1453",
+      "Mais de 100 anos"
+    ]
+  },
+  {
+    "pergunta": "Quem descobriu a América do Sul?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cristóvão Colombo",
+      "Vasco da Gama",
+      "Pedro Álvares Cabral"
+    ]
+  },
+  {
+    "pergunta": "Em que ano caiu o Muro de Berlim?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1989",
+      "mil novecentos e oitenta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro papa?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "São Pedro",
+      "Pedro",
+      "Pope Peter"
+    ]
+  },
+  {
+    "pergunta": "Qual foi o maior império na história?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Império Britânico",
+      "Imperio Mongol",
+      "Império Espanhol"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Martin Luther King Jr?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Líder dos Direitos Civis",
+      "Ativista",
+      "Pastor"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "1945",
+      "mil novecentos e quarenta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Quem desenhou a Mona Lisa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Leonardo da Vinci",
+      "Da Vinci",
+      "Leonardo"
+    ]
+  },
+  {
+    "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1789",
+      "mil setecentos e oitenta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro imperador do Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dom Pedro I",
+      "Pedro I",
+      "D. Pedro I"
+    ]
+  },
+  {
+    "pergunta": "Em que ano Colombo chegou à América?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1492",
+      "mil quatrocentos e noventa e dois"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Winston Churchill?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Primeiro-ministro britânico",
+      "Líder britânico",
+      "Churchill"
+    ]
+  },
+  {
+    "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1939",
+      "mil novecentos e trinta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Mahatma Gandhi?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Líder indiano",
+      "Ativista pela paz",
+      "Mohandas Gandhi"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a duração da Idade Média?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Aproximadamente 1000 anos",
+      "Século V-XV",
+      "V a XV"
+    ]
+  },
+  {
+    "pergunta": "Em que ano a Rússia se tornou comunista?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1917",
+      "mil novecentos e dezessete"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o maior conquistador medieval?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Gengis Khan",
+      "Mongol",
+      "Temüjin"
+    ]
+  },
+  {
+    "pergunta": "Em que ano começou a Revolução Americana?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1776",
+      "mil setecentos e setenta e seis"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Marechal Deodoro da Fonseca",
+      "Deodoro",
+      "Fonseca"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a guerra mais sangrenta da história?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Segunda Guerra Mundial",
+      "WWW II",
+      "Guerra Civil Americana"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou a Guerra Fria?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "1991",
+      "mil novecentos e noventa e um"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Joana d'Arc?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Heroína francesa",
+      "Santa Joana",
+      "Donzela de Orleans"
+    ]
+  },
+  {
+    "pergunta": "Qual foi o primeiro país a abolir a escravidão?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dinamarca",
+      "Haiti",
+      "Portugal"
+    ]
+  },
+  {
+    "pergunta": "Em que ano a Alemanha invadiu a Polônia?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1939",
+      "mil novecentos e trinta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o imperador romano Caio Júlio César?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Conquistador de Roma",
+      "General romano",
+      "Ditador"
+    ]
+  },
+  {
+    "pergunta": "Em que ano Cristóvão Colombo foi financiado pela Rainha Isabel?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1491",
+      "mil quatrocentos e noventa e um"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro czar da Rússia?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ivan, o Terrível",
+      "Ivan III",
+      "Ivan IV"
+    ]
+  },
+  {
+    "pergunta": "Em que ano Hiroshima foi bombardeada?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1945",
+      "mil novecentos e quarenta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Voltaire?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Filósofo francês",
+      "Pensador iluminista",
+      "François-Marie Arouet"
+    ]
+  },
+  {
+    "pergunta": "Qual foi a primeira república do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "República Velha",
+      "1889-1930",
+      "Primeira República"
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi construída a Basílica de São Pedro?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1506",
+      "mil quinhentos e seis"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o autor da Declaração de Independência dos EUA?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Thomas Jefferson",
+      "Jefferson",
+      "Founding Father"
+    ]
+  },
+  {
+    "pergunta": "Em que ano a China se tornou comunista?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1949",
+      "mil novecentos e quarenta e nove"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Mao Tsé-Tung?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Líder comunista chinês",
+      "Ditador chinês",
+      "Mao"
+    ]
+  },
+  {
+    "pergunta": "Em que ano os EUA conquistaram a Independência?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1776",
+      "mil setecentos e setenta e seis"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Cortês?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Conquistador do México",
+      "Hernán Cortés",
+      "Conquistador espanhol"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou o Império Otomano?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1922",
+      "mil novecentos e vinte e dois"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro-ministro britânico mais famoso?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Winston Churchill",
+      "Margaret Thatcher",
+      "Benjamin Disraeli"
+    ]
+  },
+  {
+    "pergunta": "Em que ano ocorreu o Holocausto?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1933-1945",
+      "Segunda Guerra",
+      "Terceiro Reich"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Confúcio?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Filósofo chinês",
+      "Sábio chinês",
+      "Kong Fuzi"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou a Inquisição Espanhola?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "1834",
+      "mil oitocentos e trinta e quatro"
+    ]
+  },
+  {
+    "pergunta": "Quem foi Mikhail Gorbachev?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Último líder da URSS",
+      "Reformador soviético",
+      "Gorbachev"
+    ]
+  },
+  {
+    "pergunta": "Qual é o objetivo de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Ser o Rei dos Piratas",
+      "Encontrar o One Piece",
+      "Pirata"
+    ]
+  },
+  {
+    "pergunta": "Quem é o espadachim do bando de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Zoro",
+      "Roronoa Zoro",
+      "Zoro, o espadachim"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do navio de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Going Merry",
+      "Merry",
+      "Thousand Sunny"
+    ]
+  },
+  {
+    "pergunta": "Quem é a navegadora do bando?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Nami",
+      "Nami Orange",
+      "Navegadora"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Fruta da Borracha",
+      "Akuma no Mi",
+      "Borracha"
+    ]
+  },
+  {
+    "pergunta": "Quem é o cozinheiro da tripulação?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Sanji",
+      "Vinsmoke Sanji",
+      "Chef"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do médico do bando?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tony Tony Chopper",
+      "Chopper",
+      "Reindeer"
+    ]
+  },
+  {
+    "pergunta": "Quem é o arqueólogo da tripulação?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Nico Robin",
+      "Robin",
+      "Nico"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do carpinteiro?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Franky",
+      "Cutty Flam",
+      "Shipwright"
+    ]
+  },
+  {
+    "pergunta": "Quem é o músico da tripulação?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Brook",
+      "Soul King",
+      "Músico"
+    ]
+  },
+  {
+    "pergunta": "Qual é a recompensa inicial de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "30 milhões",
+      "Beri",
+      "30 milhões de Beri"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão mais poderoso?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Blackbeard",
+      "Marshall D. Teach",
+      "Barba Negra"
+    ]
+  },
+  {
+    "pergunta": "Quem é o lorde supremo da Costa Leste?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Kuro",
+      "Capitão Kuro",
+      "Psicólogo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do diretor da Organização?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Crocodile",
+      "Sir Crocodile",
+      "Crocodilo"
+    ]
+  },
+  {
+    "pergunta": "Qual é a fruta que Robin comeu?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Fruta da Flor",
+      "Hana Hana no Mi",
+      "Flower"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Chopper?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Fruta da Humana",
+      "Hito Hito no Mi",
+      "Human"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em Alabasta?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Crocodile",
+      "Senhor Crocodile",
+      "7 Samurais"
+    ]
+  },
+  {
+    "pergunta": "Qual é o grau de recompensa de Zoro no início?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "60 milhões",
+      "Beri",
+      "60 milhões de Beri"
+    ]
+  },
+  {
+    "pergunta": "Quem é o pai de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Dragon",
+      "Dragon, o Revolucionário",
+      "Revolucionário"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da avó de Luffy?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Curly Dadan",
+      "Dadan",
+      "Makino"
+    ]
+  },
+  {
+    "pergunta": "Qual é a fruta que Sanji desejava?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Fruta da Invisibilidade",
+      "Clear Clear Fruit",
+      "Transparência"
+    ]
+  },
+  {
+    "pergunta": "Qual país é destruído por Crocodile?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Alabasta",
+      "Reino do Deserto",
+      "Arabasta"
+    ]
+  },
+  {
+    "pergunta": "Quem é o patrono de Zoro?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Mihawk",
+      "Dracule Mihawk",
+      "Melhor espadachim"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em Skypiea?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Enel",
+      "Deus Enel",
+      "Eneru"
+    ]
+  },
+  {
+    "pergunta": "Quem é o assassino do amigo de Luffy?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Akainu",
+      "Sakazuki",
+      "Almirante"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Franky?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Corpo cibernético",
+      "Cyborg",
+      "Máquina"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome real de Brook?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Brook",
+      "Soul King Brook",
+      "Esqueleto"
+    ]
+  },
+  {
+    "pergunta": "Qual é o vilão mais antigo enfrentado?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Morgan",
+      "Capitão Morgan",
+      "Tenente"
+    ]
+  },
+  {
+    "pergunta": "Quem é o primeiro Yonko mostrado?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Blackbeard",
+      "Kaido",
+      "Big Mom"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do arco em Marineford?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Summit War",
+      "Guerra do Topo",
+      "Marineford Arc"
+    ]
+  },
+  {
+    "pergunta": "Qual é a profissão original de Franky?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Carpinteiro",
+      "Shipwright",
+      "Reparador de navios"
+    ]
+  },
+  {
+    "pergunta": "Quem é o chefe da Marine no início?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Sengoku",
+      "Almirante Supremo",
+      "Buda"
+    ]
+  },
+  {
+    "pergunta": "Qual é o fruto do Paramecia mais raro?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Human Human Fruit",
+      "Hito Hito no Mi",
+      "Chopper"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão em Thriller Bark?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Gecko Moria",
+      "Moria",
+      "Shichibukai"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder especial do Luffy em Gear Second?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Aceleração",
+      "Velocidade",
+      "Gear 2"
+    ]
+  },
+  {
+    "pergunta": "Quem foi o capitão anterior de Zoro?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Morgan",
+      "Capitão Morgan",
+      "Ninguém"
+    ]
+  },
+  {
+    "pergunta": "Qual é o arco mais longo de One Piece?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Dressrosa",
+      "Wano",
+      "Marineford"
+    ]
+  },
+  {
+    "pergunta": "Qual é o tipo de fruta do Enel?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta do Relâmpago",
+      "Goro Goro no Mi",
+      "Logia"
+    ]
+  },
+  {
+    "pergunta": "Quem é o oponente mais difícil de Zoro em Marineford?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Hawkeye Mihawk",
+      "Michihal",
+      "King of Swordsmen"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da fruta de Lucci?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta do Felino",
+      "Neko Neko no Mi",
+      "Leopard"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder do Enies Lobby?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fortaleza da Justiça",
+      "Governo Mundial",
+      "Burocracia"
+    ]
+  },
+  {
+    "pergunta": "Quem é o chefe da CP9?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Lucci",
+      "Rob Lucci",
+      "Leopardo"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do vilão de Water 7?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Lucci",
+      "CP9",
+      "Governo"
+    ]
+  },
+  {
+    "pergunta": "Qual é a fruta de Kaido?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta do Dragão",
+      "Uo Uo no Mi",
+      "Dragon"
+    ]
+  },
+  {
+    "pergunta": "Quem é a mãe de Luffy?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Não mencionada",
+      "Desconhecida",
+      "Falecida"
+    ]
+  },
+  {
+    "pergunta": "Qual é o vilão mais recente em Wano?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Kaido",
+      "Orochi",
+      "Imperadores"
+    ]
+  },
+  {
+    "pergunta": "Qual é o poder da Fruta da Correnteza?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Controlar correntes",
+      "Soru Soru no Mi",
+      "Chains"
+    ]
+  },
+  {
+    "pergunta": "Quem é o vice-capitão da tripulação?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Zoro",
+      "Roronoa Zoro",
+      "Espadachim"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da fruta de Big Mom?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Fruta da Alma",
+      "Soru Soru no Mi",
+      "Soul Soul"
+    ]
+  },
+
+  {
+    "pergunta": "Qual país tem o formato de uma bota?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Itália",
+      "Italy",
+      "Italia"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da França?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Paris",
+      "Parigi",
+      "Pariz"
+    ]
+  },
+  {
     "pergunta": "Qual é a capital do Brasil?",
-    "resposta": "Brasilia",
-    "pontos": 1
-  },
-  {
-    "categoria": "Paises",
     "dificuldade": "facil",
-    "pergunta": "Qual país tem formato de bota?",
-    "resposta": "Italia",
-    "pontos": 1
+    "pontos": 1,
+    "respostas": [
+      "Brasília",
+      "Brasilia",
+      "DF"
+    ]
   },
   {
-    "categoria": "Paises",
-    "dificuldade": "medio",
+    "pergunta": "Qual é a capital dos EUA?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Washington",
+      "Washington D.C.",
+      "Washington DC"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Alemanha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Berlim",
+      "Berlin",
+      "Berlina"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Espanha?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Madri",
+      "Madrid",
+      "Madrid"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Japão?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Tóquio",
+      "Tokyo",
+      "Tokio"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Reino Unido?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Londres",
+      "London",
+      "Londres"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Itália?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Roma",
+      "Rome",
+      "Roma"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Rússia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Moscou",
+      "Moscow",
+      "Moskva"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da China?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Pequim",
+      "Beijing",
+      "Pekin"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Índia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Nova Delhi",
+      "New Delhi",
+      "Delhi"
+    ]
+  },
+  {
     "pergunta": "Qual é a capital da Austrália?",
-    "resposta": "Camberra",
-    "pontos": 3
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Canberra",
+      "Camberra",
+      "Canbera"
+    ]
   },
   {
-    "categoria": "Paises",
+    "pergunta": "Qual é a capital do Canadá?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Otava",
+      "Ottawa",
+      "Ontario"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do México?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Cidade do México",
+      "Mexico City",
+      "CDMX"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Grécia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Atenas",
+      "Athens",
+      "Athina"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital de Portugal?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Lisboa",
+      "Lisbon",
+      "Lisbona"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Argentina?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Buenos Aires",
+      "Buenos Ayres",
+      "B.A."
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Suíça?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Berna",
+      "Bern",
+      "Berne"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Tailândia?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Bangkok",
+      "Krung Thep",
+      "Bangcoc"
+    ]
+  },
+  {
+    "pergunta": "Qual continente é o Brasil?",
     "dificuldade": "medio",
-    "pergunta": "Qual país possui a maior população do mundo?",
-    "resposta": "India",
-    "pontos": 3
+    "pontos": 3,
+    "respostas": [
+      "América do Sul",
+      "South America",
+      "América"
+    ]
   },
   {
-    "categoria": "Paises",
-    "dificuldade": "dificil",
-    "pergunta": "Qual país possui mais fusos horários?",
-    "resposta": "Franca",
-    "pontos": 5
+    "pergunta": "Qual é o país mais populoso do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Índia",
+      "India",
+      "China"
+    ]
   },
   {
-    "categoria": "Paises",
+    "pergunta": "Qual é o maior país do mundo em área?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rússia",
+      "Russia",
+      "Canada"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda do Brasil?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Real",
+      "BRL",
+      "R$"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda dos EUA?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dólar",
+      "Dollar",
+      "USD"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda da Europa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Euro",
+      "EUR",
+      "€"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda do Reino Unido?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Libra Esterlina",
+      "Pound",
+      "GBP"
+    ]
+  },
+  {
+    "pergunta": "Qual é a moeda do Japão?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Iene",
+      "Yen",
+      "JPY"
+    ]
+  },
+  {
+    "pergunta": "Quantos países tem a Europa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Aproximadamente 50",
+      "44 a 50",
+      "Mais de 40"
+    ]
+  },
+  {
+    "pergunta": "Quantos países tem as Américas?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "35",
+      "Aproximadamente 35",
+      "Trinta e cinco"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais ilhas do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Suécia",
+      "Sweden",
+      "Norway"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país mais pequeno do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Vaticano",
+      "Vatican",
+      "Santa Sé"
+    ]
+  },
+  {
+    "pergunta": "Qual é a maior montanha do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Monte Evereste",
+      "Mt. Everest",
+      "Sagarmatha"
+    ]
+  },
+  {
+    "pergunta": "Qual é o maior rio do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Rio Nilo",
+      "Nile",
+      "Rio Amazonas"
+    ]
+  },
+  {
+    "pergunta": "Qual é o deserto mais quente do mundo?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Saara",
+      "Sahara",
+      "Deserto Arábico"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital de um país que não existe?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Vaticano",
+      "Liechtenstein",
+      "Mônaco"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país mais rico do mundo?",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o menor país do mundo?",
-    "resposta": "Vaticano",
-    "pontos": 5
+    "pontos": 5,
+    "respostas": [
+      "Luxemburgo",
+      "Estados Unidos",
+      "Catar"
+    ]
+  },
+  {
+    "pergunta": "Qual é o PIB do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Aproximadamente 2 trilhões",
+      "2 trilhões de dólares",
+      "Maior economia"
+    ]
+  },
+  {
+    "pergunta": "Qual é a população da China?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Mais de 1 bilhão",
+      "1.4 bilhões",
+      "1.4 bilhões de pessoas"
+    ]
+  },
+  {
+    "pergunta": "Qual é o idioma mais falado do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Chinês Mandarim",
+      "Mandarin",
+      "Chinês"
+    ]
+  },
+  {
+    "pergunta": "Qual é a língua oficial do Brasil?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Português",
+      "Portuguese",
+      "Portugues"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais fusos horários?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "França",
+      "Kiribati",
+      "Russia"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país menos populoso do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Vaticano",
+      "Nauru",
+      "Tuvalu"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país que fica no maior altitude?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Bolívia",
+      "Peru",
+      "Tibet"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital mais fria do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Yakutsk",
+      "Oymyakon",
+      "Novosibirsk"
+    ]
+  },
+  {
+    "pergunta": "Qual país foi dividido em dois?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Coreia",
+      "Vietnã",
+      "Alemanha"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais patrimônios da UNESCO?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Itália",
+      "China",
+      "Espanha"
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital mais antiga do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Damasco",
+      "Aleppo",
+      "Jerusalém"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais lagos do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Canadá",
+      "Finlândia",
+      "Russia"
+    ]
+  },
+  {
+    "pergunta": "Qual é a região mais densamente povoada do mundo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ásia",
+      "Europa",
+      "Moçambique"
+    ]
+  },
+  {
+    "pergunta": "Qual país tinha o maior império colonial?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Grã-Bretanha",
+      "Espanha",
+      "Portugal"
+    ]
+  },
+  {
+    "pergunta": "Qual é o país com mais biodiversidade?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Brasil",
+      "Indonésia",
+      "Congo"
+    ]
+  },
+  {
+    "pergunta": "De qual série é a personagem Rosa Diaz?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Brooklyn Nine-Nine",
+      "Brooklyn 99",
+      "B99"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do protagonista de The Witcher?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Geralt de Rivia",
+      "Geralt",
+      "The White Wolf"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Walter White?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Breaking Bad",
+      "Quebrando a Lei",
+      "Breaking Bad AMC"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens vivendo em um apartamento em Nova York?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Friends",
+      "F.R.I.E.N.D.S.",
+      "Amigos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o chefe de polícia em Brooklyn Nine-Nine?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Capitão Holt",
+      "Holt",
+      "Captain Holt"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem meninos com poderes sobrenaturais?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Stranger Things",
+      "Coisas Estranhas",
+      "Stranger Things Netflix"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um trabalho de escritório como tema?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Office",
+      "O Escritório",
+      "Office US"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um dragão chamado Daenerys?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Trono de Ferro"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens presos em uma luta de sobrevivência?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Hunger Games",
+      "Jogos Vorazes",
+      "Hunger Games"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Tony Soprano?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Sopranos",
+      "Sopranos",
+      "Os Sopranos"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem mortos-vivos como tema?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Walking Dead",
+      "Walking Dead",
+      "Os Mortos que Caminham"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Eleven?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Stranger Things",
+      "Coisas Estranhas",
+      "11"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um monge kung fu como protagonista?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Kung Fu",
+      "Kung Fu série",
+      "Kung Fu DC"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem detetives investigando crimes sobrenaturais?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Supernatural",
+      "Sobrenatural",
+      "SPN"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Sheldon Cooper?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Big Bang Theory",
+      "Big Bang Theory",
+      "A Teoria do Big Bang"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um verdadeiro crime como tema?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "True Crime",
+      "Mindhunter",
+      "Making a Murderer"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Jon Snow?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Trono de Ferro"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem vendedores de metanfetamina?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Breaking Bad",
+      "Quebrando a Lei",
+      "BB"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens em um cárcere?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Orange is the New Black",
+      "OITNB",
+      "Laranja é o Novo Preto"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista fora da lei?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Arrow",
+      "The Arrow",
+      "Oliver Queen"
+    ]
+  },
+  {
+    "pergunta": "Quantas temporadas tem Game of Thrones?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "8",
+      "Oito",
+      "8 temporadas"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou Friends?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "2004",
+      "dois mil e quatro",
+      "2004"
+    ]
+  },
+  {
+    "pergunta": "Qual é a cidade onde Breaking Bad se passa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Albuquerque",
+      "New Mexico",
+      "Novo México"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da série de magia em Stranger Things?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dungeons & Dragons",
+      "D&D",
+      "Calabouço e Dragões"
+    ]
+  },
+  {
+    "pergunta": "Quantas vezes Jim propôs a Pam em The Office?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Uma vez",
+      "1",
+      "Uma"
+    ]
+  },
+  {
+    "pergunta": "Qual série foi ao ar primeiro, Supernatural ou The Vampire Diaries?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Supernatural",
+      "Sobrenatural",
+      "SPN"
+    ]
+  },
+  {
+    "pergunta": "Qual é o animal de estimação de Eleven em Stranger Things?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Demogorgon",
+      "Mind Flayer",
+      "Gato"
+    ]
+  },
+  {
+    "pergunta": "Quantas temporadas tem The Walking Dead?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "11",
+      "Onze",
+      "11 temporadas"
+    ]
+  },
+  {
+    "pergunta": "Qual série foi criada por Shonda Rhimes?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Grey's Anatomy",
+      "How to Get Away with Murder",
+      "Bridgerton"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Elena Gilbert?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "The Vampire Diaries",
+      "Diários de Vampiro",
+      "TVD"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Daenerys Targaryen?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Mãe dos Dragões"
+    ]
+  },
+  {
+    "pergunta": "Qual série é sobre super-heróis da Marvel?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Agents of SHIELD",
+      "Daredevil",
+      "Jessica Jones"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um laboratório como cenário?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "The Big Bang Theory",
+      "Breaking Bad",
+      "Dexter"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista cego?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Daredevil",
+      "Matt Murdock",
+      "Charlie Cox"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista que é um psicopata?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dexter",
+      "Dexter Morgan",
+      "Serial Killer"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem uma escola de magia?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Harry Potter",
+      "Hogwarts",
+      "Wizarding World"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do criador de Breaking Bad?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Vince Gilligan",
+      "Gilligan",
+      "Vince"
+    ]
+  },
+  {
+    "pergunta": "Em que ano começou Game of Thrones?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "2011",
+      "dois mil e onze",
+      "2011"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um vampiro chamado Damon Salvatore?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "The Vampire Diaries",
+      "Diários de Vampiro",
+      "TVD"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem uma personagem chamada Arya Stark?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "No One"
+    ]
+  },
+  {
+    "pergunta": "Qual série é sobre um avô viajante do tempo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Rick and Morty",
+      "Rick e Morty",
+      "Adult Swim"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Harvey Specter?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Suits",
+      "Traje",
+      "Gabriel Macht"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens em um avião flutuante?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "LOST",
+      "Perdidos",
+      "Lost serie"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Tyrion Lannister?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Peter Dinklage"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Ray Donovan?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ray Donovan",
+      "Showtime",
+      "Liev Schreiber"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem dragões como criaturas mágicas?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Game of Thrones",
+      "House of the Dragon",
+      "GoT"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Walter Jr?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Breaking Bad",
+      "BB",
+      "Quebrando a Lei"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um laboratório secreto subterrâneo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Stranger Things",
+      "Hawkins Lab",
+      "Coisas Estranhas"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Barney Stinson?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "How I Met Your Mother",
+      "HIMYM",
+      "Conhecidos Nossos"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Mike Ross?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Suits",
+      "Traje",
+      "Patrick J. Adams"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem mortos-vivos na Geórgia?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "The Walking Dead",
+      "Walking Dead",
+      "Atlanta"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Starbuck?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Battlestar Galactica",
+      "BSG",
+      "Galactica"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Phoebe Buffay?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Friends",
+      "F.R.I.E.N.D.S.",
+      "Lisa Kudrow"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista que é um hacker?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Mr. Robot",
+      "Robot",
+      "Elliot Alderson"
+    ]
   }
 ]
+      
+       
+        
+    
 

@@ -30,7 +30,7 @@ export default function CategoriaSorteada({
           mt-2
         "
       >
-        {categoria}
+        {categoria.nome}
       </h2>
 
     </div>

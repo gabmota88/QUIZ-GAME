@@ -1,34 +1,542 @@
 [
   {
-    "pergunta": "quantas temporadas tem a serie Game of Thrones?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "8",
-      "oito",
-        "8 temporadas",
-        "oito temporadas"
-    ]
-  },    
-  {
-    "pergunta": "De que serie e a Personagem Rosa Diaz?",
+    "pergunta": "De qual série é a personagem Rosa Diaz?",
     "dificuldade": "facil",
     "pontos": 1,
     "respostas": [
       "Brooklyn Nine-Nine",
-        "Brooklyn 99",
-        "B99"
-    
+      "Brooklyn 99",
+      "B99"
     ]
   },
-    {
-        "pergunta": "Qual o nome do personagem principal da serie 'The Witcher'?",
-        "dificuldade": "dificil",
-        "pontos": 5,
-        "respostas": [
-        "Geralt de Rivia",
-        "Geralt",
-        "Rivia"
-        ]
-    }
+  {
+    "pergunta": "Qual é o nome do protagonista de The Witcher?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Geralt de Rivia",
+      "Geralt",
+      "The White Wolf"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Walter White?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Breaking Bad",
+      "Quebrando a Lei",
+      "Breaking Bad AMC"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens vivendo em um apartamento em Nova York?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Friends",
+      "F.R.I.E.N.D.S.",
+      "Amigos"
+    ]
+  },
+  {
+    "pergunta": "Qual é o chefe de polícia em Brooklyn Nine-Nine?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Capitão Holt",
+      "Holt",
+      "Captain Holt"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem meninos com poderes sobrenaturais?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Stranger Things",
+      "Coisas Estranhas",
+      "Stranger Things Netflix"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um trabalho de escritório como tema?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Office",
+      "O Escritório",
+      "Office US"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um dragão chamado Daenerys?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Trono de Ferro"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens presos em uma luta de sobrevivência?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Hunger Games",
+      "Jogos Vorazes",
+      "Hunger Games"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Tony Soprano?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Sopranos",
+      "Sopranos",
+      "Os Sopranos"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem mortos-vivos como tema?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Walking Dead",
+      "Walking Dead",
+      "Os Mortos que Caminham"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Eleven?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Stranger Things",
+      "Coisas Estranhas",
+      "11"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um monge kung fu como protagonista?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Kung Fu",
+      "Kung Fu série",
+      "Kung Fu DC"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem detetives investigando crimes sobrenaturais?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Supernatural",
+      "Sobrenatural",
+      "SPN"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Sheldon Cooper?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "The Big Bang Theory",
+      "Big Bang Theory",
+      "A Teoria do Big Bang"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um verdadeiro crime como tema?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "True Crime",
+      "Mindhunter",
+      "Making a Murderer"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Jon Snow?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Trono de Ferro"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem vendedores de metanfetamina?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Breaking Bad",
+      "Quebrando a Lei",
+      "BB"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens em um cárcere?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Orange is the New Black",
+      "OITNB",
+      "Laranja é o Novo Preto"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista fora da lei?",
+    "dificuldade": "facil",
+    "pontos": 1,
+    "respostas": [
+      "Arrow",
+      "The Arrow",
+      "Oliver Queen"
+    ]
+  },
+  {
+    "pergunta": "Quantas temporadas tem Game of Thrones?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "8",
+      "Oito",
+      "8 temporadas"
+    ]
+  },
+  {
+    "pergunta": "Em que ano terminou Friends?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "2004",
+      "dois mil e quatro",
+      "2004"
+    ]
+  },
+  {
+    "pergunta": "Qual é a cidade onde Breaking Bad se passa?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Albuquerque",
+      "New Mexico",
+      "Novo México"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome da série de magia em Stranger Things?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dungeons & Dragons",
+      "D&D",
+      "Calabouço e Dragões"
+    ]
+  },
+  {
+    "pergunta": "Quantas vezes Jim propôs a Pam em The Office?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Uma vez",
+      "1",
+      "Uma"
+    ]
+  },
+  {
+    "pergunta": "Qual série foi ao ar primeiro, Supernatural ou The Vampire Diaries?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Supernatural",
+      "Sobrenatural",
+      "SPN"
+    ]
+  },
+  {
+    "pergunta": "Qual é o animal de estimação de Eleven em Stranger Things?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Demogorgon",
+      "Mind Flayer",
+      "Gato"
+    ]
+  },
+  {
+    "pergunta": "Quantas temporadas tem The Walking Dead?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "11",
+      "Onze",
+      "11 temporadas"
+    ]
+  },
+  {
+    "pergunta": "Qual série foi criada por Shonda Rhimes?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Grey's Anatomy",
+      "How to Get Away with Murder",
+      "Bridgerton"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Elena Gilbert?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "The Vampire Diaries",
+      "Diários de Vampiro",
+      "TVD"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Daenerys Targaryen?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Mãe dos Dragões"
+    ]
+  },
+  {
+    "pergunta": "Qual série é sobre super-heróis da Marvel?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Agents of SHIELD",
+      "Daredevil",
+      "Jessica Jones"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um laboratório como cenário?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "The Big Bang Theory",
+      "Breaking Bad",
+      "Dexter"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista cego?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Daredevil",
+      "Matt Murdock",
+      "Charlie Cox"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista que é um psicopata?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Dexter",
+      "Dexter Morgan",
+      "Serial Killer"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem uma escola de magia?",
+    "dificuldade": "medio",
+    "pontos": 3,
+    "respostas": [
+      "Harry Potter",
+      "Hogwarts",
+      "Wizarding World"
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do criador de Breaking Bad?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Vince Gilligan",
+      "Gilligan",
+      "Vince"
+    ]
+  },
+  {
+    "pergunta": "Em que ano começou Game of Thrones?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "2011",
+      "dois mil e onze",
+      "2011"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um vampiro chamado Damon Salvatore?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "The Vampire Diaries",
+      "Diários de Vampiro",
+      "TVD"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem uma personagem chamada Arya Stark?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "No One"
+    ]
+  },
+  {
+    "pergunta": "Qual série é sobre um avô viajante do tempo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Rick and Morty",
+      "Rick e Morty",
+      "Adult Swim"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Harvey Specter?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Suits",
+      "Traje",
+      "Gabriel Macht"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem personagens em um avião flutuante?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "LOST",
+      "Perdidos",
+      "Lost serie"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Tyrion Lannister?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Game of Thrones",
+      "GoT",
+      "Peter Dinklage"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Ray Donovan?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Ray Donovan",
+      "Showtime",
+      "Liev Schreiber"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem dragões como criaturas mágicas?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Game of Thrones",
+      "House of the Dragon",
+      "GoT"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Walter Jr?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Breaking Bad",
+      "BB",
+      "Quebrando a Lei"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um laboratório secreto subterrâneo?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Stranger Things",
+      "Hawkins Lab",
+      "Coisas Estranhas"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Barney Stinson?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "How I Met Your Mother",
+      "HIMYM",
+      "Conhecidos Nossos"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Mike Ross?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Suits",
+      "Traje",
+      "Patrick J. Adams"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem mortos-vivos na Geórgia?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "The Walking Dead",
+      "Walking Dead",
+      "Atlanta"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Starbuck?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Battlestar Galactica",
+      "BSG",
+      "Galactica"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um personagem chamado Phoebe Buffay?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Friends",
+      "F.R.I.E.N.D.S.",
+      "Lisa Kudrow"
+    ]
+  },
+  {
+    "pergunta": "Qual série tem um protagonista que é um hacker?",
+    "dificuldade": "dificil",
+    "pontos": 5,
+    "respostas": [
+      "Mr. Robot",
+      "Robot",
+      "Elliot Alderson"
+    ]
+  }
 ]
