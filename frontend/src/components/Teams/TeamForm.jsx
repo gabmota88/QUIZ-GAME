@@ -1,5 +1,10 @@
 import { useState } from "react";
 
+
+import ColorPicker from "./ColorPicker";
+import AvatarCarousel from "./AvatarCarousel";
+
+
 export default function TeamForm({
   onCreate
 }) {
@@ -10,6 +15,9 @@ export default function TeamForm({
   const [cor, setCor] =
     useState("");
 
+  const [avatar, setAvatar] =
+    useState(""); 
+
   async function handleSubmit(e) {
 
     e.preventDefault();
@@ -18,11 +26,13 @@ export default function TeamForm({
 
     await onCreate({
       nome,
-      cor
+      cor,
+      avatar
     });
 
     setNome("");
     setCor("");
+    setAvatar("");
   }
 
   return (
@@ -46,21 +56,16 @@ export default function TeamForm({
           bg-zinc-800
         "
       />
-
-      <input
-        type="text"
-        placeholder="Cor"
-        value={cor}
-        onChange={(e) =>
-          setCor(e.target.value)
-        }
-        className="
-          w-full
-          p-3
-          rounded
-          bg-zinc-800
-        "
+      <ColorPicker
+        selected={cor}
+        onSelect={setCor}
       />
+      {cor && (
+        <AvatarCarousel
+          selected={avatar}
+          onSelect={setAvatar}
+        />
+      )}
 
       <button
         type="submit"

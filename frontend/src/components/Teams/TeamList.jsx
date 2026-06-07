@@ -5,20 +5,43 @@ export default function TeamList({
   onDelete
 }) {
 
+  if (equipes.length === 0) {
+
+    return (
+
+      <div
+        className="
+          text-zinc-400
+        "
+      >
+        Nenhuma equipe cadastrada.
+      </div>
+
+    );
+  }
+
   return (
 
-    <div className="grid gap-4">
+    <div
+      className="
+        grid
+        gap-4
+      "
+    >
 
-      {equipes.map((equipe) => (
+      {equipes.map(
+        (equipe) => (
 
-        <TeamCard
-          key={equipe.id}
-          equipe={equipe}
-          onDelete={onDelete}
-        />
+          <TeamCard
+            key={equipe.id}
+            equipe={equipe}
+            onDelete={onDelete}
+          />
 
-      ))}
+        )
+      )}
 
     </div>
+
   );
 }

@@ -3,14 +3,14 @@
     "categoria": "Filmes",
     "dificuldade": "facil",
     "pergunta": "Qual filme dirigido por James Cameron apresenta o mundo de Pandora?",
-    "resposta": "Avatar",
+    "respostas": ["Avatar"],
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
     "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
-    "resposta": "Forrest Gump",
+    "respostas": ["Forrest Gump"],
     "pontos": 1
   },
   {

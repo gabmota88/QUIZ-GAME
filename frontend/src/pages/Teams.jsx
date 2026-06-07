@@ -1,10 +1,7 @@
 import { useEffect, useState } from "react";
 
-import TeamForm from
-  "../components/teams/TeamForm";
-
-import TeamList from
-  "../components/teams/TeamList";
+import TeamForm from "../components/teams/TeamForm";
+import TeamList from "../components/teams/TeamList";
 
 import {
   getTeams,
@@ -65,9 +62,31 @@ export default function Teams() {
         Equipes
       </h1>
 
-      <TeamForm
-        onCreate={criarEquipe}
-      />
+      {
+        equipes.length >= 6 && (
+
+          <div
+            className="
+              p-4
+              bg-red-900
+              rounded
+            "
+          >
+            Máximo de 6 equipes.
+          </div>
+
+        )
+      }
+
+      {
+        equipes.length < 6 && (
+
+          <TeamForm
+            onCreate={criarEquipe}
+          />
+
+        )
+      }
 
       <TeamList
         equipes={equipes}
