@@ -180,12 +180,24 @@ def buscar_por_categoria_e_dificuldade(
     partida = obter_partida_ativa()
 
     if not partida:
+
+        print("SEM PARTIDA")
+
         return None
 
-    dificuldade = dificuldade.lower().strip()
+    dificuldade = (
+        dificuldade
+        .lower()
+        .strip()
+    )
 
     ids_usados = obter_ids_usados(
         partida.id
+    )
+
+    print(
+        "Perguntas usadas:",
+        ids_usados
     )
 
     perguntas = Pergunta.query.filter(
@@ -196,7 +208,20 @@ def buscar_por_categoria_e_dificuldade(
         ~Pergunta.id.in_(ids_usados)
     ).all()
 
+    print(
+        "Perguntas encontradas:",
+        len(perguntas)
+    )
+
+    for p in perguntas:
+
+        print(
+            p.id,
+            p.texto
+        )
+
     if not perguntas:
+
         return None
 
     pergunta = random.choice(

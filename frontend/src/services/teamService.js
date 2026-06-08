@@ -30,3 +30,14 @@ export async function deleteTeam(id) {
 
     return response.data;
 }
+
+
+export async function sortearOrdemEquipes() {
+
+    const response =
+        await api.get(
+            "/equipes/sortear-ordem"
+        );
+
+    return response.data;
+}

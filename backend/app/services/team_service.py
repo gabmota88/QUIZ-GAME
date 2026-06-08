@@ -82,6 +82,13 @@ def sortear_ordem_equipes():
         equipe.ordem = index + 1
 
     db.session.commit()
+    
+    for equipe in equipes:
+
+       print(
+        equipe.nome,
+        equipe.ordem
+        )
 
     return equipes
 
@@ -102,3 +109,4 @@ def deletar_equipe(id):
     db.session.commit()
 
     return True
+

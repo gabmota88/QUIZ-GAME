@@ -23,9 +23,7 @@ export default function App() {
 
     <BrowserRouter>
 
-    <div className="bg-red-500 text-white text-5xl p-10">
-  TESTE TAILWIND
-</div>
+   
 
       <div className="min-h-screen bg-zinc-950 text-white">
 

@@ -2,43 +2,25 @@ export default function DificuldadeSelector({
   onSelect,
 }) {
   return (
-    <div className="flex gap-4 justify-center">
+    <div className="grid grid-cols-3 gap-4">
 
       <button
         onClick={() => onSelect("facil")}
-        className="
-          px-8 py-4
-          bg-green-600
-          rounded-xl
-          text-xl
-          font-bold
-        "
+        className="bg-[#39FF14] text-black p-6 text-xl font-bold rounded-xl hover:opacity-80 transition shadow-[0_0_15px_#39FF14]"
       >
         Fácil
       </button>
 
       <button
         onClick={() => onSelect("medio")}
-        className="
-          px-8 py-4
-          bg-orange-500
-          rounded-xl
-          text-xl
-          font-bold
-        "
+        className="bg-[#CCFF00] text-black p-6 text-xl font-bold rounded-xl hover:opacity-80 transition shadow-[0_0_15px_#CCFF00]"
       >
         Médio
       </button>
 
       <button
         onClick={() => onSelect("dificil")}
-        className="
-          px-8 py-4
-          bg-red-600
-          rounded-xl
-          text-xl
-          font-bold
-        "
+        className="bg-[#FF3131] text-white p-6 text-xl font-bold rounded-xl hover:opacity-80 transition shadow-[0_0_15px_#FF3131]"
       >
         Difícil
       </button>

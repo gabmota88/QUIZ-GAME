@@ -176,6 +176,8 @@ def pergunta_dificuldade(dificuldade):
     methods=["POST"]
 )
 def pergunta_categoria_dificuldade():
+    
+    print("ROTA SORTEIO ACESSADA")
 
     dados = request.get_json()
 
@@ -191,6 +193,18 @@ def pergunta_categoria_dificuldade():
 
     dificuldade = dados.get(
         "dificuldade"
+    )
+    
+    print("\n===== DEBUG =====")
+
+    print(
+    "categoria_id:",
+    categoria_id
+    )
+
+    print(
+    "dificuldade:",
+    dificuldade
     )
 
     if not categoria_id:

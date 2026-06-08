@@ -6,19 +6,16 @@ export default function TeamCard({
   return (
 
     <div
- 
   className="
-    bg-zinc-900
+    p-4
     rounded-xl
-    overflow-hidden
+    border
   "
+  style={{
+    borderColor: equipe.cor,
+    boxShadow: `0 0 15px ${equipe.cor}55`
+  }}
 >
-  <div
-    style={{
-      backgroundColor: equipe.cor
-    }}
-    className="h-3"
-  />
 
   <div className="p-4">
 
@@ -74,6 +71,8 @@ export default function TeamCard({
       </button>
 
     </div>
+
+  </div>
 
   );
 }
