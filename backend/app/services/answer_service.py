@@ -74,6 +74,17 @@ def validar_resposta(
             }
 
     return {
-        "correto": False,
-        "pontos": 0
-    }
+
+    "correto": False,
+
+    "pontos": 0,
+
+    "resposta_correta":
+
+        respostas[0].resposta
+
+        if respostas
+
+        else ""
+
+}

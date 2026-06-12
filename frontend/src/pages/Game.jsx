@@ -19,7 +19,11 @@ import {
 from "../services/teamService";
 
 import {
-  iniciarPartida
+  iniciarPartida,
+  definirPontosVitoria,
+   obterPlacar,
+    zerarPlacar
+  
 }
 from "../services/gameService";
 
@@ -29,6 +33,8 @@ import {
   responderPergunta
 }
 from "../services/questionsService"
+
+
 
 
 
@@ -74,7 +80,18 @@ export default function Game() {
     const [resultadoResposta,
            setResultadoResposta] =
        useState(null);
+       
+    const [placar, setPlacar] =
+  useState([]); 
+  
+    const [rodadaAtual,
+  setRodadaAtual] =
+  useState(1);
 
+    const [
+     pontosVitoria,
+     setPontosVitoria
+       ] = useState(16);
 
   useEffect(() => {
 
@@ -211,26 +228,75 @@ async function enviarResposta() {
       await responderPergunta(
 
         equipeAtual.id,
-
         perguntaAtual.id,
-
         respostaJogador
 
       );
 
-    console.log(
-      resultado
-    );
+    console.log(resultado);
 
     setResultadoResposta(
       resultado
     );
 
+    if (
+  !resultado.correto
+) {
+
+  alert(
+
+    `❌ RESPOSTA INCORRETA!!!!
+
+Resposta correta:
+
+${resultado.resposta_correta}`
+
+  );
+
+}
+
+    await carregarPlacar();
+
+  setRodadaAtual(
+  resultado.rodada_atual
+);
+
+const proximaEquipe =
+  ordemEquipes.find(
+
+    equipe =>
+
+      equipe.nome ===
+      resultado.proxima_equipe
+
+  );
+
+if (proximaEquipe) {
+
+  setEquipeAtual(
+    proximaEquipe
+  );
+
+}
+
+  
+    setTimeout(() => {
+
+      setRespostaJogador("");
+
+      setPerguntaAtual(null);
+
+      setCategoriaSelecionada(null);
+
+      setDificuldadeSelecionada(null);
+
+      setResultadoResposta(null);
+
+    }, 200);
+
   } catch (erro) {
 
-    console.error(
-      erro
-    );
+    console.error(erro);
 
     alert(
       "Erro ao responder."
@@ -240,16 +306,72 @@ async function enviarResposta() {
 
 }
 
+async function carregarPlacar() {
+
+  try {
+
+    const dados =
+      await obterPlacar();
+
+    setPlacar(
+      dados
+    );
+
+  } catch (erro) {
+
+    console.error(
+      erro
+    );
+
+  }
+
+}
+
+useEffect(() => {
+
+  carregarPlacar();
+
+}, []);
 
 
+async function atualizarEquipeAtual() {
 
+  const equipesOrdenadas =
+    [...ordemEquipes];
 
+  const indiceAtual =
+    equipesOrdenadas.findIndex(
 
+      equipe =>
+        equipe.id === equipeAtual.id
 
+    );
+
+  const proximoIndice =
+
+    indiceAtual + 1 >= equipesOrdenadas.length
+
+      ? 0
+
+      : indiceAtual + 1;
+
+  setEquipeAtual(
+
+    equipesOrdenadas[
+      proximoIndice
+    ]
+
+  );
+
+}
 
 
   return (
     <div className="space-y-8">
+
+
+
+
       {/* 1. BOTÕES DE CONTROLE (Acima da rodada) */}
       <GameControls
         onSortearOrdem={sortearOrdem}
@@ -267,11 +389,37 @@ async function enviarResposta() {
           setPartidaIniciada(false);
           console.log("Partida finalizada");
         }}
-        onZerarPlacar={() => console.log("Zerar placar")}
+        onZerarPlacar={async () => {
+          await zerarPlacar();
+          await carregarPlacar();
+          alert("Placar zerado!");
+          console.log("Zerar placar");
+        }}
       />
 
       {/* 2. HEADER (Texto da Rodada) */}
-      <GameHeader />
+      <GameHeader rodada={rodadaAtual} />
+
+      <div>
+        <select
+          value={pontosVitoria}
+          onChange={async (e) => {
+            const valor = Number(e.target.value);
+            setPontosVitoria(valor);
+            await definirPontosVitoria(valor);
+          }}
+          className="w-full p-4 rounded-xl bg-zinc-900"
+        >
+          <option value="10">10</option>
+          <option value="15">15</option>
+          <option value="20">20</option>
+          <option value="30">30</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </div>
+
+
 
       {/* 3. ONDE APARECE A EQUIPE ATUAL */}
       {equipeAtual && (
@@ -288,6 +436,55 @@ async function enviarResposta() {
           </div>
         </div>
       )}
+
+      <div
+  className="
+    grid
+    grid-cols-3
+    gap-4
+  "
+>
+
+  {placar.map((equipe) => (
+
+    <div
+
+      key={equipe.nome}
+
+      className="
+        bg-zinc-900
+        rounded-xl
+        p-4
+        text-center
+      "
+
+    >
+
+      <h3
+        className="
+          font-bold
+          text-xl
+        "
+      >
+        {equipe.nome}
+      </h3>
+
+      <p
+        className="
+          text-4xl
+          font-black
+        "
+      >
+        {equipe.pontos}
+      </p>
+
+    </div>
+
+  ))}
+
+</div>
+
+
 
       {/* 4. AS EQUIPES */}
       <TeamSelector equipes={equipes} />
@@ -356,9 +553,13 @@ async function enviarResposta() {
 
 {/* 8. PERGUNTA */}
 
-<QuestionCard
-  pergunta={perguntaAtual}
-/>
+{perguntaAtual && (
+
+  <QuestionCard
+    pergunta={perguntaAtual}
+  />
+
+)}
 
 
 {/* 9. CAMPO DE RESPOSTA */}
@@ -472,5 +673,7 @@ async function enviarResposta() {
 
 
         
-      </div>)}
+      </div>
+      );
+    }
     

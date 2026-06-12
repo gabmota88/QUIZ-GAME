@@ -177,3 +177,76 @@ def zerar_placar():
         "mensagem":
             "Placar zerado"
     }, 200
+    
+    
+    
+  # =========================
+# PONTOS PARA VITÓRIA
+# =========================    
+
+@game_bp.route(
+    "/pontos-vitoria",
+    methods=["POST"]
+)
+def pontos_vitoria():
+
+    dados = request.get_json()
+
+    if not dados:
+
+        return jsonify({
+            "erro": "JSON inválido"
+        }), 400
+
+    valor = dados.get(
+        "pontos_vitoria"
+    )
+
+    if not valor:
+
+        return jsonify({
+            "erro":
+                "pontos_vitoria obrigatório"
+        }), 400
+
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first()
+
+    if not partida:
+
+        return jsonify({
+            "erro":
+                "Nenhuma partida ativa"
+        }), 404
+
+    partida.pontos_vitoria = int(
+        valor
+    )
+
+    db.session.commit()
+
+    return jsonify({
+        "mensagem": "Pontuação de vitória atualizada",
+        "pontos_vitoria": partida.pontos_vitoria
+    }), 200
+
+
+@game_bp.route(
+    "/pontos-vitoria",
+    methods=["GET"]
+)
+def obter_pontos_vitoria():
+
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first()
+
+    if not partida:
+        return jsonify({
+            "pontos_vitoria": 16
+        })
+
+    return jsonify({
+        "pontos_vitoria": partida.pontos_vitoria
+    }), 200

@@ -29,3 +29,8 @@ class Partida(db.Model):
         db.Integer,
         nullable=True
     )
+    
+    pontos_vitoria = db.Column(
+        db.Integer,
+        default=16
+    )

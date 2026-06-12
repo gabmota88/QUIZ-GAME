@@ -1,20 +1,26 @@
-export default function GameHeader() {
+export default function GameHeader({
+  rodada
+}) {
 
   return (
 
-    <div>
+    <div
+      className="
+        bg-zinc-900
+        rounded-2xl
+        p-6
+        text-center
+      "
+    >
 
-      <h1 className="text-5xl font-black">
-
-        Rodada 1
-
+      <h1
+        className="
+          text-5xl
+          font-black
+        "
+      >
+        🎮 Rodada {rodada}
       </h1>
-
-      <p className="text-zinc-400">
-
-        Equipe Atual: Azul
-
-      </p>
 
     </div>
 

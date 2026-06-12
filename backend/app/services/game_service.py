@@ -9,7 +9,7 @@ from app.services.answer_service import (
 from app.models.partida import Partida
 
 
-PONTOS_VITORIA = 100
+
 
 def iniciar_partida():
 
@@ -82,6 +82,24 @@ def avancar_turno(partida):
     return partida
 
 def verificar_vencedor():
+
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first()
+
+    if not partida:
+
+        return None
+
+    equipes = Equipe.query.all()
+
+    for equipe in equipes:
+
+        if equipe.pontos >= partida.pontos_vitoria:
+
+            return equipe
+
+    return None
 
     equipes = Equipe.query.all()
 
@@ -180,9 +198,28 @@ def jogar_turno(
     print("Próxima equipe:", proxima_equipe.nome)
 
     return {
-        "correto": resultado["correto"],
-        "pontos_ganhos": pontos_ganhos,
-        "pontuacao_total": equipe.pontos,
-        "rodada_atual": partida.rodada_atual,
-        "proxima_equipe": proxima_equipe.nome
-    }
+
+    "correto":
+        resultado["correto"],
+
+    "pontos_ganhos":
+        pontos_ganhos,
+
+    "pontuacao_total":
+        equipe.pontos,
+
+    "rodada_atual":
+        partida.rodada_atual,
+
+    "proxima_equipe":
+        proxima_equipe.nome,
+
+    "resposta_correta":
+        resultado.get(
+            "resposta_correta"
+        )
+
+}
+    
+    
+    
