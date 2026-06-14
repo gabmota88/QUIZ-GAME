@@ -1,10 +1,16 @@
 import api from "./api";
 
-export async function iniciarPartida() {
+export async function iniciarPartida(
+    pontosVitoria
+) {
 
     const response =
         await api.post(
-            "/partida"
+            "/partida",
+            {
+                pontos_vitoria:
+                    pontosVitoria
+            }
         );
 
     return response.data;

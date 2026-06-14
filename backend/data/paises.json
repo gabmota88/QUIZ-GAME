@@ -1,522 +1,844 @@
 [
   {
-    "pergunta": "Qual país tem o formato de uma bota?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Itália",
-      "Italy",
-      "Italia"
-    ]
+    "pergunta": "Qual é o maior país do mundo em área territorial?",
+    "resposta": "Russia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da França?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Paris",
-      "Parigi",
-      "Pariz"
-    ]
+    "pergunta": "Qual país tem Brasília como capital?",
+    "resposta": "Brasil",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital do Brasil?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Brasília",
-      "Brasilia",
-      "DF"
-    ]
+    "pergunta": "Qual país tem Buenos Aires como capital?",
+    "resposta": "Argentina",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital dos EUA?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Washington",
-      "Washington D.C.",
-      "Washington DC"
-    ]
+    "pergunta": "Qual país tem Tóquio como capital?",
+    "resposta": "Japao",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Alemanha?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Berlim",
-      "Berlin",
-      "Berlina"
-    ]
+    "pergunta": "Qual país tem Paris como capital?",
+    "resposta": "Franca",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Espanha?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Madri",
-      "Madrid",
-      "Madrid"
-    ]
+    "pergunta": "Qual país tem Roma como capital?",
+    "resposta": "Italia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital do Japão?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Tóquio",
-      "Tokyo",
-      "Tokio"
-    ]
+    "pergunta": "Qual país tem Lisboa como capital?",
+    "resposta": "Portugal",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital do Reino Unido?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Londres",
-      "London",
-      "Londres"
-    ]
+    "pergunta": "Qual país tem Berlim como capital?",
+    "resposta": "Alemanha",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Itália?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Roma",
-      "Rome",
-      "Roma"
-    ]
+    "pergunta": "Qual país tem Londres como capital?",
+    "resposta": "Reino Unido",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Rússia?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Moscou",
-      "Moscow",
-      "Moskva"
-    ]
+    "pergunta": "Qual país tem Ottawa como capital?",
+    "resposta": "Canada",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da China?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Pequim",
-      "Beijing",
-      "Pekin"
-    ]
+    "pergunta": "Qual país tem Washington como capital?",
+    "resposta": "Estados Unidos",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Índia?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Nova Delhi",
-      "New Delhi",
-      "Delhi"
-    ]
+    "pergunta": "Qual país tem Pequim como capital?",
+    "resposta": "China",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Austrália?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Canberra",
-      "Camberra",
-      "Canbera"
-    ]
+    "pergunta": "Qual país tem Moscou como capital?",
+    "resposta": "Russia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital do Canadá?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Otava",
-      "Ottawa",
-      "Ontario"
-    ]
+    "pergunta": "Qual país tem Madri como capital?",
+    "resposta": "Espanha",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital do México?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Cidade do México",
-      "Mexico City",
-      "CDMX"
-    ]
+    "pergunta": "Qual país tem Atenas como capital?",
+    "resposta": "Grecia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Grécia?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Atenas",
-      "Athens",
-      "Athina"
-    ]
+    "pergunta": "Qual país tem Cairo como capital?",
+    "resposta": "Egito",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital de Portugal?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Lisboa",
-      "Lisbon",
-      "Lisbona"
-    ]
+    "pergunta": "Qual país tem Seul como capital?",
+    "resposta": "Coreia do Sul",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Argentina?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Buenos Aires",
-      "Buenos Ayres",
-      "B.A."
-    ]
+    "pergunta": "Qual país tem Nova Deli como capital?",
+    "resposta": "India",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Suíça?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Berna",
-      "Bern",
-      "Berne"
-    ]
+    "pergunta": "Qual país tem Camberra como capital?",
+    "resposta": "Australia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital da Tailândia?",
+    "categoria": "Paises",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Bangkok",
-      "Krung Thep",
-      "Bangcoc"
-    ]
+    "pergunta": "Qual país é conhecido pela Torre Eiffel?",
+    "resposta": "Franca",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual continente é o Brasil?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "América do Sul",
-      "South America",
-      "América"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país é conhecido pelo Coliseu?",
+    "resposta": "Italia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o país mais populoso do mundo?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Índia",
-      "India",
-      "China"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país abriga a Grande Muralha?",
+    "resposta": "China",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o maior país do mundo em área?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Rússia",
-      "Russia",
-      "Canada"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país é famoso pelos cangurus?",
+    "resposta": "Australia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a moeda do Brasil?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Real",
-      "BRL",
-      "R$"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país é conhecido pelo sushi?",
+    "resposta": "Japao",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a moeda dos EUA?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Dólar",
-      "Dollar",
-      "USD"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país é conhecido pela pizza?",
+    "resposta": "Italia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a moeda da Europa?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Euro",
-      "EUR",
-      "€"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país é conhecido pelo tango?",
+    "resposta": "Argentina",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a moeda do Reino Unido?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Libra Esterlina",
-      "Pound",
-      "GBP"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país possui o maior número de habitantes do mundo?",
+    "resposta": "India",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a moeda do Japão?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Iene",
-      "Yen",
-      "JPY"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a folha de bordo em sua bandeira?",
+    "resposta": "Canada",
+    "pontos": 1
   },
   {
-    "pergunta": "Quantos países tem a Europa?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Aproximadamente 50",
-      "44 a 50",
-      "Mais de 40"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país é conhecido como Terra do Sol Nascente?",
+    "resposta": "Japao",
+    "pontos": 1
   },
   {
-    "pergunta": "Quantos países tem as Américas?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "35",
-      "Aproximadamente 35",
-      "Trinta e cinco"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Dubai?",
+    "resposta": "Emirados Arabes Unidos",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o país com mais ilhas do mundo?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Suécia",
-      "Sweden",
-      "Norway"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Cancún?",
+    "resposta": "Mexico",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o país mais pequeno do mundo?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Vaticano",
-      "Vatican",
-      "Santa Sé"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Bangkok?",
+    "resposta": "Tailandia",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a maior montanha do mundo?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Monte Evereste",
-      "Mt. Everest",
-      "Sagarmatha"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Amsterdã?",
+    "resposta": "Paises Baixos",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o maior rio do mundo?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Rio Nilo",
-      "Nile",
-      "Rio Amazonas"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Viena?",
+    "resposta": "Austria",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o deserto mais quente do mundo?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Saara",
-      "Sahara",
-      "Deserto Arábico"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Bruxelas?",
+    "resposta": "Belgica",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a capital de um país que não existe?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Vaticano",
-      "Liechtenstein",
-      "Mônaco"
-    ]
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Santiago?",
+    "resposta": "Chile",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o país mais rico do mundo?",
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Lima?",
+    "resposta": "Peru",
+    "pontos": 1
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Bogota?",
+    "resposta": "Colombia",
+    "pontos": 1
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Montevideu?",
+    "resposta": "Uruguai",
+    "pontos": 1
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "facil",
+    "pergunta": "Qual país tem a cidade de Assuncao?",
+    "resposta": "Paraguai",
+    "pontos": 1
+  },
+
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual é a capital da Nova Zelandia?",
+    "resposta": "Wellington",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a maior floresta tropical do mundo?",
+    "resposta": "Brasil",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui o maior deserto quente do mundo?",
+    "resposta": "Argelia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Ancara?",
+    "resposta": "Turquia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Hanoi?",
+    "resposta": "Vietna",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Jacarta?",
+    "resposta": "Indonesia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Islamabad?",
+    "resposta": "Paquistao",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Teera?",
+    "resposta": "Ira",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Bagda?",
+    "resposta": "Iraque",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Riad?",
+    "resposta": "Arabia Saudita",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país é conhecido como o País dos Mil Lagos?",
+    "resposta": "Finlandia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Istambul, dividida entre Europa e Asia?",
+    "resposta": "Turquia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui o Monte Fuji?",
+    "resposta": "Japao",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a maior população da Africa?",
+    "resposta": "Nigeria",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país abriga a cidade de Marrakesh?",
+    "resposta": "Marrocos",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Casablanca?",
+    "resposta": "Marrocos",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Auckland?",
+    "resposta": "Nova Zelandia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Copenhague?",
+    "resposta": "Dinamarca",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Oslo?",
+    "resposta": "Noruega",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Estocolmo?",
+    "resposta": "Suecia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Reykjavik?",
+    "resposta": "Islandia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui o Canal de Suez?",
+    "resposta": "Egito",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui o Canal do Panama?",
+    "resposta": "Panama",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem a cidade de Dubrovnik?",
+    "resposta": "Croacia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem a cidade de Praga?",
+    "resposta": "Republica Tcheca",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem a cidade de Budapeste?",
+    "resposta": "Hungria",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a maior quantidade de ilhas do mundo?",
+    "resposta": "Suecia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país abriga Petra, uma das Sete Maravilhas do Mundo Moderno?",
+    "resposta": "Jordania",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui o Mar Morto em parte de seu territorio?",
+    "resposta": "Israel",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Katmandu?",
+    "resposta": "Nepal",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país abriga o Monte Everest?",
+    "resposta": "Nepal",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Lahore?",
+    "resposta": "Paquistao",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Karachi?",
+    "resposta": "Paquistao",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país é conhecido pelos fiordes?",
+    "resposta": "Noruega",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Zurique?",
+    "resposta": "Suica",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Genebra?",
+    "resposta": "Suica",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Helsinque?",
+    "resposta": "Finlandia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Belgrado?",
+    "resposta": "Servia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país possui a cidade de Bucareste?",
+    "resposta": "Romania",
+    "pontos": 3
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "media",
+    "pergunta": "Qual país tem como capital Sofia?",
+    "resposta": "Bulgaria",
+    "pontos": 3
+  },
+
+  {
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Luxemburgo",
-      "Estados Unidos",
-      "Catar"
-    ]
+    "pergunta": "Qual país possui a maior área territorial totalmente localizada na Europa?",
+    "resposta": "Ucrania",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o PIB do Brasil?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Aproximadamente 2 trilhões",
-      "2 trilhões de dólares",
-      "Maior economia"
-    ]
+    "pergunta": "Qual país tem como capital Ulan Bator?",
+    "resposta": "Mongolia",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é a população da China?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Mais de 1 bilhão",
-      "1.4 bilhões",
-      "1.4 bilhões de pessoas"
-    ]
+    "pergunta": "Qual país tem como capital Astana?",
+    "resposta": "Cazaquistao",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o idioma mais falado do mundo?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Chinês Mandarim",
-      "Mandarin",
-      "Chinês"
-    ]
+    "pergunta": "Qual país tem como capital Tashkent?",
+    "resposta": "Uzbequistao",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é a língua oficial do Brasil?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Português",
-      "Portuguese",
-      "Portugues"
-    ]
+    "pergunta": "Qual país tem como capital Bishkek?",
+    "resposta": "Quirguistao",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o país com mais fusos horários?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "França",
-      "Kiribati",
-      "Russia"
-    ]
+    "pergunta": "Qual país tem como capital Dushanbe?",
+    "resposta": "Tajiquistao",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o país menos populoso do mundo?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Vaticano",
-      "Nauru",
-      "Tuvalu"
-    ]
+    "pergunta": "Qual país tem como capital Asgabate?",
+    "resposta": "Turcomenistao",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o país que fica no maior altitude?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Bolívia",
-      "Peru",
-      "Tibet"
-    ]
+    "pergunta": "Qual país possui a cidade de Timbuktu?",
+    "resposta": "Mali",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é a capital mais fria do mundo?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Yakutsk",
-      "Oymyakon",
-      "Novosibirsk"
-    ]
+    "pergunta": "Qual país possui a cidade de Samarcanda?",
+    "resposta": "Uzbequistao",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual país foi dividido em dois?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Coreia",
-      "Vietnã",
-      "Alemanha"
-    ]
+    "pergunta": "Qual país abriga o deserto de Gobi?",
+    "resposta": "Mongolia",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o país com mais patrimônios da UNESCO?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Itália",
-      "China",
-      "Espanha"
-    ]
+    "pergunta": "Qual país possui a maior reserva comprovada de petróleo do mundo?",
+    "resposta": "Venezuela",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é a capital mais antiga do mundo?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Damasco",
-      "Aleppo",
-      "Jerusalém"
-    ]
+    "pergunta": "Qual país possui a cidade de Lhasa?",
+    "resposta": "China",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o país com mais lagos do mundo?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Canadá",
-      "Finlândia",
-      "Russia"
-    ]
+    "pergunta": "Qual país possui a cidade de Vladivostok?",
+    "resposta": "Russia",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é a região mais densamente povoada do mundo?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Ásia",
-      "Europa",
-      "Moçambique"
-    ]
+    "pergunta": "Qual país possui a cidade de Nuuk?",
+    "resposta": "Groenlandia",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual país tinha o maior império colonial?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Grã-Bretanha",
-      "Espanha",
-      "Portugal"
-    ]
+    "pergunta": "Qual país tem como capital Podgorica?",
+    "resposta": "Montenegro",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o país com mais biodiversidade?",
+    "categoria": "Paises",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Brasil",
-      "Indonésia",
-      "Congo"
-    ]
+    "pergunta": "Qual país tem como capital Chisinau?",
+    "resposta": "Moldavia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país tem como capital Skopje?",
+    "resposta": "Macedonia do Norte",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país tem como capital Liubliana?",
+    "resposta": "Eslovenia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país tem como capital Bratislava?",
+    "resposta": "Eslovaquia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país tem como capital Minsk?",
+    "resposta": "Belarus",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Yangon?",
+    "resposta": "Mianmar",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Vientiane?",
+    "resposta": "Laos",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Phnom Penh?",
+    "resposta": "Camboja",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Ulan Ude?",
+    "resposta": "Russia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país abriga o lago Baikal?",
+    "resposta": "Russia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Thimphu?",
+    "resposta": "Butao",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Male?",
+    "resposta": "Maldivas",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Baku?",
+    "resposta": "Azerbaijao",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Yerevan?",
+    "resposta": "Armenia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Tbilisi?",
+    "resposta": "Georgia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Kigali?",
+    "resposta": "Ruanda",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Uagadugu?",
+    "resposta": "Burkina Faso",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Antananarivo?",
+    "resposta": "Madagascar",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Daca?",
+    "resposta": "Bangladesh",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Colombo?",
+    "resposta": "Sri Lanka",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Paramaribo?",
+    "resposta": "Suriname",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Georgetown na América do Sul?",
+    "resposta": "Guiana",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Porto Moresby?",
+    "resposta": "Papua Nova Guine",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Suva?",
+    "resposta": "Fiji",
+    "pontos": 5
+  },
+  {
+    "categoria": "Paises",
+    "dificuldade": "dificil",
+    "pergunta": "Qual país possui a cidade de Nuku'alofa?",
+    "resposta": "Tonga",
+    "pontos": 5
   }
 ]

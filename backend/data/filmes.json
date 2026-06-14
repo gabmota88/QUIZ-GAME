@@ -2,106 +2,29 @@
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme dirigido por James Cameron apresenta o mundo de Pandora?",
-    "respostas": ["Avatar"],
+    "pergunta": "Quem interpreta Jack em Titanic?",
+    "resposta": "Leonardo DiCaprio",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
-    "respostas": ["Forrest Gump"],
+    "pergunta": "Qual é o nome do brinquedo cowboy em Toy Story?",
+    "resposta": "Woody",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Em que filme Keanu Reeves interpreta Neo?",
-    "resposta": "The Matrix",
+    "pergunta": "Quem é o vilão principal de Star Wars Episódio IV?",
+    "resposta": "Darth Vader",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme de animação acompanha as aventuras de Nemo e Dory?",
-    "resposta": "Procurando Nemo",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Quem interpreta o arqueólogo Indiana Jones?",
-    "resposta": "Harrison Ford",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme apresenta o ciborgue assassino conhecido como Terminator?",
-    "resposta": "The Terminator",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme mostra Marty McFly viajando no tempo com um carro DeLorean?",
-    "resposta": "De Volta para o Futuro",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme de animação da Disney tem a música Let It Go?",
-    "resposta": "Frozen",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme retrata a missão Apollo 13?",
-    "resposta": "Apollo 13",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme começa com a presença da IA HAL 9000 em uma missão espacial?",
-    "resposta": "2001: Uma Odisseia no Espaço",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme mostra brinquedos que ganham vida quando os humanos não estão por perto?",
-    "resposta": "Toy Story",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme apresenta o gigante King Kong escalando prédios na cidade?",
-    "resposta": "King Kong",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme de suspense apresenta um tubarão gigante que ataca uma praia?",
-    "resposta": "Tubarão",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme segue a vida de um boxeador chamado Rocky Balboa?",
-    "resposta": "Rocky",
-    "pontos": 1
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "facil",
-    "pergunta": "Qual filme de animação da Disney conta a história de uma princesa chamada Jasmine?",
-    "resposta": "Aladdin",
+    "pergunta": "Qual filme apresenta o personagem Shrek?",
+    "resposta": "Shrek",
     "pontos": 1
   },
   {
@@ -114,229 +37,531 @@
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme de aventura da Disney envolve piratas e uma maldição antiga?",
-    "resposta": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "pergunta": "Quem viveu Harry Potter nos cinemas?",
+    "resposta": "Daniel Radcliffe",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme apresenta o jovem bruxo que frequenta a escola de magia chamada Hogwarts?",
-    "resposta": "Harry Potter",
+    "pergunta": "Qual super-herói é conhecido como Homem de Ferro?",
+    "resposta": "Tony Stark",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual filme de super-heróis apresenta o herói conhecido como Homem de Ferro?",
-    "resposta": "Iron Man",
+    "pergunta": "Qual é o nome do ogro verde famoso da DreamWorks?",
+    "resposta": "Shrek",
     "pontos": 1
   },
   {
     "categoria": "Filmes",
     "dificuldade": "facil",
-    "pergunta": "Qual princesa perde um sapatinho de cristal?",
+    "pergunta": "Em Procurando Nemo, qual é o nome do peixe perdido?",
+    "resposta": "Nemo",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme conta a história de Elsa e Anna?",
+    "resposta": "Frozen",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual herói utiliza um escudo com as cores dos Estados Unidos?",
+    "resposta": "Capitão América",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do robô protagonista de Wall-E?",
+    "resposta": "Wall-E",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome da princesa de A Bela e a Fera?",
+    "resposta": "Bela",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual animal é Kung Fu Panda?",
+    "resposta": "Panda",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o arqueólogo protagonista de Os Caçadores da Arca Perdida?",
+    "resposta": "Indiana Jones",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do feiticeiro de O Senhor dos Anéis que usa roupas cinzas?",
+    "resposta": "Gandalf",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do personagem verde de Os Vingadores que fica gigante quando se irrita?",
+    "resposta": "Hulk",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do brinquedo astronauta em Toy Story?",
+    "resposta": "Buzz Lightyear",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome da escola de magia de Harry Potter?",
+    "resposta": "Hogwarts",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual princesa perdeu um sapatinho de cristal?",
     "resposta": "Cinderela",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o melhor amigo burro de Shrek?",
+    "resposta": "Burro",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual herói é conhecido como Homem-Aranha?",
+    "resposta": "Peter Parker",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do dragão de Como Treinar o Seu Dragão?",
+    "resposta": "Banguela",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é a cor do sabre de luz tradicional dos Jedi?",
+    "resposta": "Azul",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme mostra dinossauros clonados em um parque temático?",
+    "resposta": "Jurassic Park",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual personagem vive em uma lâmpada mágica em Aladdin?",
+    "resposta": "Gênio",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o pai de Simba em O Rei Leão?",
+    "resposta": "Mufasa",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual herói usa um martelo chamado Mjolnir?",
+    "resposta": "Thor",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do peixe azul amigo de Nemo?",
+    "resposta": "Dory",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual personagem da Disney tem uma longa trança mágica?",
+    "resposta": "Rapunzel",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem interpreta o Coringa em Batman: O Cavaleiro das Trevas?",
+    "resposta": "Heath Ledger",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do hobbit protagonista de O Senhor dos Anéis?",
+    "resposta": "Frodo Bolseiro",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do carro de corrida vermelho de Carros?",
+    "resposta": "Relâmpago McQueen",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme apresenta a frase 'Hakuna Matata'?",
+    "resposta": "O Rei Leão",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome da princesa guerreira da Disney inspirada na China?",
+    "resposta": "Mulan",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do mordomo do Batman?",
+    "resposta": "Alfred",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme tem um tigre chamado Rajah?",
+    "resposta": "Aladdin",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Quem é a irmã de Elsa em Frozen?",
+    "resposta": "Anna",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do super-herói de Gotham City?",
+    "resposta": "Batman",
+    "pontos": 1
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "pergunta": "Qual filme da Pixar se passa principalmente na mente de uma garota chamada Riley?",
+    "resposta": "Divertida Mente",
     "pontos": 1
   },
 
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Quem dirigiu 'O Senhor dos Anéis: A Sociedade do Anel'?",
-    "resposta": "Peter Jackson",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu o filme Pulp Fiction?",
+    "resposta": "Quentin Tarantino",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual ator interpretou Thanos em 'Vingadores: Guerra Infinita'?",
-    "resposta": "Josh Brolin",
+    "dificuldade": "media",
+    "pergunta": "Qual ator interpreta Neo em Matrix?",
+    "resposta": "Keanu Reeves",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2010?",
-    "resposta": "O Discurso do Rei",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do navio em Titanic?",
+    "resposta": "RMS Titanic",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme da Pixar apresenta WALL-E?",
-    "resposta": "WALL-E",
-    "pontos": 3
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Quem dirigiu 'Guardiões da Galáxia'?",
-    "resposta": "James Gunn",
-    "pontos": 3
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Bong Joon-ho venceu a Palma de Ouro no Cannes e ganhou o Oscar?",
-    "resposta": "Parasite",
-    "pontos": 3
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Quem interpretou o Batman em 'The Dark Knight'?",
-    "resposta": "Christian Bale",
-    "pontos": 3
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Steven Spielberg retrata a vida de judeus durante a Segunda Guerra Mundial?",
-    "resposta": "A Lista de Schindler",
-    "pontos": 3
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Quem dirigiu 'Jurassic Park'?",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu Jurassic Park?",
     "resposta": "Steven Spielberg",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual atriz ganhou o Oscar por 'La La Land'?",
-    "resposta": "Emma Stone",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do hotel onde se passa grande parte de O Iluminado?",
+    "resposta": "Hotel Overlook",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Tarantino, lançado em 1994, é famoso pelos diálogos?",
-    "resposta": "Pulp Fiction",
+    "dificuldade": "media",
+    "pergunta": "Quem interpreta o personagem Wolverine nos filmes dos X-Men?",
+    "resposta": "Hugh Jackman",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Quem dirigiu 'The Matrix'?",
-    "resposta": "As Wachowskis",
+    "dificuldade": "media",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 1998 e tem como cenário o naufrágio de um navio?",
+    "resposta": "Titanic",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme dirigido por Christopher Nolan envolve sonhos dentro de sonhos?",
-    "resposta": "Inception",
+    "dificuldade": "media",
+    "pergunta": "Qual personagem diz a frase 'Que a Força esteja com você' em Star Wars?",
+    "resposta": "Obi-Wan Kenobi",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Martin Scorsese ganhou o Oscar de Melhor Filme em 2007?",
-    "resposta": "Os Infiltrados",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu A Origem?",
+    "resposta": "Christopher Nolan",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Ridley Scott se passa em um planeta desértico com um androide?",
-    "resposta": "Blade Runner",
+    "dificuldade": "media",
+    "pergunta": "Qual ator interpreta Jack Sparrow?",
+    "resposta": "Johnny Depp",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Oliver Stone retrata a Guerra do Vietnã?",
-    "resposta": "Platoon",
+    "dificuldade": "media",
+    "pergunta": "Qual filme da Pixar apresenta o personagem Carl Fredricksen?",
+    "resposta": "Up Altas Aventuras",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Alfonso Cuarón ganhou o Oscar de Melhor Filme?",
-    "resposta": "Gravity",
+    "dificuldade": "media",
+    "pergunta": "Quem interpreta Forrest Gump?",
+    "resposta": "Tom Hanks",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme de Coen Brothers venceu o Oscar de Melhor Filme?",
-    "resposta": "No Country for Old Men",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do parque em Jurassic Park?",
+    "resposta": "Isla Nublar",
     "pontos": 3
   },
   {
     "categoria": "Filmes",
-    "dificuldade": "medio",
-    "pergunta": "Qual filme dirigido por Bryan Singer é conhecido por seu enredo de identidades?",
-    "resposta": "The Usual Suspects",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu Gladiador?",
+    "resposta": "Ridley Scott",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual ator interpretou Maximus em Gladiador?",
+    "resposta": "Russell Crowe",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o verdadeiro nome do vilão Coringa?",
+    "resposta": "Não possui nome definitivo",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual atriz interpreta Hermione Granger?",
+    "resposta": "Emma Watson",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu O Exterminador do Futuro 2?",
+    "resposta": "James Cameron",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual ator interpretou o Batman na trilogia de Christopher Nolan?",
+    "resposta": "Christian Bale",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do dragão principal de O Hobbit?",
+    "resposta": "Smaug",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem interpreta o Homem de Ferro no Universo Cinematográfico Marvel?",
+    "resposta": "Robert Downey Jr",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual filme de 1999 popularizou o efeito bullet time?",
+    "resposta": "Matrix",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu Clube da Luta?",
+    "resposta": "David Fincher",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do personagem de Brad Pitt em Clube da Luta?",
+    "resposta": "Tyler Durden",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual atriz interpreta Katniss Everdeen?",
+    "resposta": "Jennifer Lawrence",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu Os Infiltrados?",
+    "resposta": "Martin Scorsese",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o primeiro filme do Universo Cinematográfico Marvel?",
+    "resposta": "Homem de Ferro",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem interpretou o Coringa em Esquadrão Suicida de 2016?",
+    "resposta": "Jared Leto",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2020?",
+    "resposta": "Parasita",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual diretor é conhecido por dirigir E.T. O Extraterrestre?",
+    "resposta": "Steven Spielberg",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do robô policial de RoboCop?",
+    "resposta": "Alex Murphy",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem interpreta o Doutor Estranho?",
+    "resposta": "Benedict Cumberbatch",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da cidade fictícia onde Batman atua?",
+    "resposta": "Gotham City",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual ator interpretou Han Solo?",
+    "resposta": "Harrison Ford",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem dirigiu Avatar de 2009?",
+    "resposta": "James Cameron",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome do planeta dos Na'vi em Avatar?",
+    "resposta": "Pandora",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem interpreta Deadpool nos cinemas?",
+    "resposta": "Ryan Reynolds",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual filme apresentou pela primeira vez o personagem Gollum usando captura de movimento avançada?",
+    "resposta": "O Senhor dos Aneis As Duas Torres",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Quem interpretou Gandalf na trilogia O Senhor dos Anéis?",
+    "resposta": "Ian McKellen",
+    "pontos": 3
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "pergunta": "Qual filme de animação da Disney se passa na Polinésia e tem a personagem Moana?",
+    "resposta": "Moana Um Mar de Aventuras",
     "pontos": 3
   },
 
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem dirigiu There Will Be Blood?",
-    "resposta": "Paul Thomas Anderson",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem dirigiu No Country for Old Men?",
-    "resposta": "Joel e Ethan Coen",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem dirigiu The Shining?",
-    "resposta": "Stanley Kubrick",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem dirigiu The Matrix?",
-    "resposta": "The Wachowskis",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual filme de Tarantino lançado em 1994 é conhecido por seus diálogos icônicos?",
-    "resposta": "Pulp Fiction",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual filme dirigido por David Fincher envolve uma investigação de assassinato em série?",
-    "resposta": "Se7en",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2007, dirigido por Martin Scorsese?",
-    "resposta": "Os Infiltrados",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual filme de Alfonso Cuarón venceu o Oscar de Melhor Filme?",
-    "resposta": "Gravity",
-    "pontos": 5
-  },
-  {
-    "categoria": "Filmes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual filme de Guillermo del Toro ganhou o Oscar de Melhor Filme?",
-    "resposta": "The Shape of Water",
-    "pontos": 5
-  },
+  
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
@@ -347,57 +572,274 @@
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme Tarantino lançou em 2012 que não fez parte de sua trilogia de cinema principal?",
-    "resposta": "Django Unchained",
+    "pergunta": "Qual filme de Quentin Tarantino lançado em 2012 acompanha a jornada de um escravo libertado?",
+    "resposta": "Django Livre",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme de David Fincher foca na vida de um fundador de uma rede social?",
-    "resposta": "The Social Network",
+    "pergunta": "Qual filme de David Fincher retrata a criação do Facebook?",
+    "resposta": "A Rede Social",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme de Steven Spielberg envolve um arqueólogo que luta contra nazistas?",
-    "resposta": "Raiders of the Lost Ark",
+    "pergunta": "Quem dirigiu o filme 2001 Uma Odisseia no Espaço?",
+    "resposta": "Stanley Kubrick",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme de Jonathan Demme trata de um jovem psicótico que encanta a agente do FBI?",
-    "resposta": "The Silence of the Lambs",
+    "pergunta": "Qual ator interpretou Vito Corleone em O Poderoso Chefão?",
+    "resposta": "Marlon Brando",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme de Steven Spielberg venceu o Oscar de Melhor Filme e retrata o Holocausto?",
-    "resposta": "Schindler's List",
+    "pergunta": "Qual diretor é responsável por Cidadão Kane?",
+    "resposta": "Orson Welles",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme francês de 2001 ganhou destaque mundial, dirigido por Jean-Pierre Jeunet?",
-    "resposta": "Amélie",
+    "pergunta": "Quem compôs a trilha sonora da trilogia O Senhor dos Anéis?",
+    "resposta": "Howard Shore",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme de Alejandro G. Iñárritu ganhou o Oscar de Melhor Filme (Birdman) em 2015?",
-    "resposta": "Birdman",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 1973?",
+    "resposta": "O Poderoso Chefão",
     "pontos": 5
   },
   {
     "categoria": "Filmes",
     "dificuldade": "dificil",
-    "pergunta": "Qual filme de Bryan Singer é conhecido por seu enredo de identidades e um interrogatório final memorável?",
-    "resposta": "The Usual Suspects",
+    "pergunta": "Quem dirigiu Apocalypse Now?",
+    "resposta": "Francis Ford Coppola",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é o nome do computador de bordo em 2001 Uma Odisseia no Espaço?",
+    "resposta": "HAL 9000",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem interpretou Travis Bickle em Taxi Driver?",
+    "resposta": "Robert De Niro",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual diretor dirigiu Blade Runner de 1982?",
+    "resposta": "Ridley Scott",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Akira Kurosawa inspirou Sete Homens e um Destino?",
+    "resposta": "Os Sete Samurais",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu O Sétimo Selo?",
+    "resposta": "Ingmar Bergman",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual atriz interpretou Clarice Starling em O Silêncio dos Inocentes?",
+    "resposta": "Jodie Foster",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme venceu os cinco principais Oscars em 1992?",
+    "resposta": "O Silêncio dos Inocentes",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu Laranja Mecânica?",
+    "resposta": "Stanley Kubrick",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual diretor criou o filme O Labirinto do Fauno?",
+    "resposta": "Guillermo del Toro",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem interpretou Daniel Plainview em Sangue Negro?",
+    "resposta": "Daniel Day-Lewis",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Christopher Nolan foi indicado ao Oscar de Melhor Filme em 2011?",
+    "resposta": "A Origem",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu o filme Amadeus?",
+    "resposta": "Milos Forman",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme ganhou a Palma de Ouro e o Oscar de Melhor Filme em 2019?",
+    "resposta": "Parasita",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu Chinatown?",
+    "resposta": "Roman Polanski",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual ator interpretou T. E. Lawrence em Lawrence da Arábia?",
+    "resposta": "Peter O'Toole",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu Era Uma Vez no Oeste?",
+    "resposta": "Sergio Leone",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual diretor é conhecido como o mestre do suspense?",
+    "resposta": "Alfred Hitchcock",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme de Hitchcock apresenta o motel Bates?",
+    "resposta": "Psicose",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem interpretou Hannibal Lecter em O Silêncio dos Inocentes?",
+    "resposta": "Anthony Hopkins",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual diretor dirigiu Os Bons Companheiros?",
+    "resposta": "Martin Scorsese",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme sul-coreano venceu o Oscar de Melhor Filme em 2020?",
+    "resposta": "Parasita",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu o filme Metrópolis de 1927?",
+    "resposta": "Fritz Lang",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual atriz interpretou Scarlett O'Hara em E o Vento Levou?",
+    "resposta": "Vivien Leigh",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu O Encouraçado Potemkin?",
+    "resposta": "Sergei Eisenstein",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual diretor japonês dirigiu Rashomon?",
+    "resposta": "Akira Kurosawa",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 2023?",
+    "resposta": "Tudo em Todo Lugar ao Mesmo Tempo",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem dirigiu o filme O Pianista?",
+    "resposta": "Roman Polanski",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual ator interpretou o Coringa no filme Coringa de 2019?",
+    "resposta": "Joaquin Phoenix",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual diretor dirigiu Interestelar?",
+    "resposta": "Christopher Nolan",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 2024?",
+    "resposta": "Oppenheimer",
+    "pontos": 5
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "pergunta": "Quem interpretou Oppenheimer no filme de Christopher Nolan?",
+    "resposta": "Cillian Murphy",
     "pontos": 5
   }
 ]

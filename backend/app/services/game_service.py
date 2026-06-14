@@ -11,7 +11,7 @@ from app.models.partida import Partida
 
 
 
-def iniciar_partida():
+def iniciar_partida(pontos_vitoria):
 
     Partida.query.delete()
 
@@ -33,7 +33,8 @@ def iniciar_partida():
 
         equipe_atual=1,
 
-        status="ativa"
+        status="ativa",
+        pontos_vitoria=pontos_vitoria
     )
 
     db.session.add(partida)
@@ -86,6 +87,7 @@ def verificar_vencedor():
     partida = Partida.query.order_by(
         Partida.id.desc()
     ).first()
+    print("PONTOS PARA A VITORIA:", partida.pontos_vitoria)
 
     if not partida:
 
@@ -94,22 +96,16 @@ def verificar_vencedor():
     equipes = Equipe.query.all()
 
     for equipe in equipes:
+        print(f"Equipe: {equipe.nome}, Pontos: {equipe.pontos}")
 
         if equipe.pontos >= partida.pontos_vitoria:
+            print(f"Vencedor:{equipe.nome} com {equipe.pontos} pontos")
 
             return equipe
 
     return None
 
-    equipes = Equipe.query.all()
-
-    for equipe in equipes:
-
-        if equipe.pontos >= PONTOS_VITORIA:
-
-            return equipe
-
-    return None
+  
 def adicionar_pontos(
     equipe_id,
     pontos

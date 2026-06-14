@@ -22,10 +22,11 @@ import {
   iniciarPartida,
   definirPontosVitoria,
    obterPlacar,
-    zerarPlacar
-  
+   zerarPlacar
 }
 from "../services/gameService";
+
+
 
 import {
   buscarPergunta
@@ -47,8 +48,6 @@ export default function Game() {
   const [equipes, setEquipes] =
     useState([]);
 
-  const [ordemJogo, setOrdemJogo] =
-    useState([]);
 
   const [equipeAtual, setEquipeAtual] =
     useState(null);
@@ -91,7 +90,10 @@ export default function Game() {
     const [
      pontosVitoria,
      setPontosVitoria
-       ] = useState(16);
+       ] = useState(15);
+
+    const [campeao, setCampeao] =
+  useState(null);  
 
   useEffect(() => {
 
@@ -180,41 +182,22 @@ export default function Game() {
 
 }
 
-async function carregarPergunta() {
-
-  if (
-    !categoriaSelecionada ||
-    !dificuldadeSelecionada
-  ) return;
-
-  try {
-
-    const pergunta =
-      await buscarPergunta(
-        categoriaSelecionada.id,
-        dificuldadeSelecionada
-      );
-
-    console.log(
-      "Pergunta:",
-      pergunta
-    );
-
-    setPerguntaAtual(
-      pergunta
-    );
-
-  } catch (erro) {
-
-    console.error(
-      erro
-    );
-
-  }
-
-}
-
   useEffect(() => {
+    async function carregarPergunta() {
+      if (!categoriaSelecionada || !dificuldadeSelecionada) return;
+
+      try {
+        const pergunta = await buscarPergunta(
+          categoriaSelecionada.id,
+          dificuldadeSelecionada
+        );
+        console.log("Pergunta:", pergunta);
+        setPerguntaAtual(pergunta);
+      } catch (erro) {
+        console.error(erro);
+      }
+    }
+
     if (categoriaSelecionada && dificuldadeSelecionada) {
       carregarPergunta();
     }
@@ -238,48 +221,69 @@ async function enviarResposta() {
     setResultadoResposta(
       resultado
     );
+    await carregarPlacar();
 
-    if (
-  !resultado.correto
-) {
+    if (resultado.vencedor) {
 
-  alert(
+      setCampeao({
 
-    `❌ RESPOSTA INCORRETA!!!!
+        nome:
+          resultado.vencedor,
+
+        cor:
+          equipeAtual.cor,
+
+        avatar:
+          equipeAtual.avatar,
+
+          ranking:[
+            ...placar,
+            ]
+
+      });
+
+      return;
+
+    }
+
+    if (!resultado.correto) {
+
+      alert(
+
+`❌ RESPOSTA INCORRETA!!!!
 
 Resposta correta:
 
 ${resultado.resposta_correta}`
 
-  );
+      );
 
-}
+    }
 
     await carregarPlacar();
 
-  setRodadaAtual(
-  resultado.rodada_atual
-);
+    setRodadaAtual(
+      resultado.rodada_atual
+    );
 
-const proximaEquipe =
-  ordemEquipes.find(
+    const proximaEquipe =
+      ordemEquipes.find(
 
-    equipe =>
+        equipe =>
 
-      equipe.nome ===
-      resultado.proxima_equipe
+          equipe.nome ===
+          resultado.proxima_equipe
 
-  );
+      );
 
-if (proximaEquipe) {
+    if (proximaEquipe) {
 
-  setEquipeAtual(
-    proximaEquipe
-  );
+      setEquipeAtual(
+        proximaEquipe
+      );
 
-}
+    }
 
-  
     setTimeout(() => {
 
       setRespostaJogador("");
@@ -334,36 +338,209 @@ useEffect(() => {
 }, []);
 
 
-async function atualizarEquipeAtual() {
+async function resetarJogo() {
 
-  const equipesOrdenadas =
-    [...ordemEquipes];
+  setCampeao(null);
 
-  const indiceAtual =
-    equipesOrdenadas.findIndex(
+  setPartidaIniciada(false);
 
-      equipe =>
-        equipe.id === equipeAtual.id
+  setEquipeAtual(null);
 
-    );
+  setOrdemEquipes([]);
 
-  const proximoIndice =
+  setPerguntaAtual(null);
 
-    indiceAtual + 1 >= equipesOrdenadas.length
+  setCategoriaSelecionada(null);
 
-      ? 0
+  setDificuldadeSelecionada(null);
 
-      : indiceAtual + 1;
+  setResultadoResposta(null);
 
-  setEquipeAtual(
+  setRespostaJogador("");
 
-    equipesOrdenadas[
-      proximoIndice
-    ]
+  setRodadaAtual(1);
+
+  await zerarPlacar();
+
+  await carregarPlacar();
+
+}
+
+if (campeao) {
+
+  return (
+
+    <div
+
+      onClick={resetarJogo}
+
+      className="
+        min-h-screen
+        flex
+        flex-col
+        items-center
+        justify-center
+        p-8
+        cursor-pointer
+      "
+
+      style={{
+        backgroundColor:
+          campeao.cor
+      }}
+
+    >
+
+      <h1
+        className="
+          text-7xl
+          font-black
+          text-white
+          mb-8
+        "
+      >
+        🏆 CAMPEÃO 🏆
+      </h1>
+
+      <img
+
+        src={campeao.avatar}
+
+        alt={campeao.nome}
+
+        className="
+          w-56
+          h-56
+          rounded-full
+          border-8
+          border-white
+          mb-6
+        "
+
+      />
+
+      <h2
+        className="
+          text-5xl
+          font-black
+          text-white
+          mb-10
+        "
+      >
+        {campeao.nome}
+      </h2>
+
+      <div
+        className="
+          bg-black/30
+          backdrop-blur-sm
+          rounded-2xl
+          p-8
+          w-full
+          max-w-3xl
+        "
+      >
+
+        <h3
+          className="
+            text-3xl
+            font-black
+            text-white
+            mb-6
+            text-center
+          "
+        >
+          Ranking Final
+        </h3>
+
+        {
+
+          campeao.ranking.map(
+            (equipe, index) => (
+
+              <div
+
+                key={equipe.nome}
+
+                className="
+                  flex
+                  justify-between
+                  items-center
+                  p-4
+                  mb-3
+                  rounded-xl
+                  bg-white/10
+                  text-white
+                "
+
+              >
+
+                <div>
+
+                  {
+
+                    index === 0 && "🥇"
+
+                  }
+
+                  {
+
+                    index === 1 && "🥈"
+
+                  }
+
+                  {
+
+                    index === 2 && "🥉"
+
+                  }
+
+                  {" "}
+
+                  {equipe.nome}
+
+                </div>
+
+                <div
+                  className="
+                    font-black
+                    text-2xl
+                  "
+                >
+                  {equipe.pontos}
+                </div>
+
+              </div>
+
+            )
+
+          )
+
+        }
+
+      </div>
+
+      <p
+        className="
+          mt-8
+          text-white
+          text-lg
+        "
+      >
+        Clique em qualquer lugar para iniciar um novo jogo
+      </p>
+
+    </div>
 
   );
 
 }
+
+
+
+
+
+
 
 
   return (
@@ -377,7 +554,7 @@ async function atualizarEquipeAtual() {
         onSortearOrdem={sortearOrdem}
         onIniciarJogo={async () => {
           try {
-            const partida = await iniciarPartida();
+            const partida = await iniciarPartida(pontosVitoria);
             console.log("Partida criada:", partida);
             setPartidaIniciada(true);
           } catch (erro) {
@@ -386,9 +563,19 @@ async function atualizarEquipeAtual() {
           }
         }}
         onFinalizarJogo={() => {
-          setPartidaIniciada(false);
-          console.log("Partida finalizada");
-        }}
+
+  const vencedor =
+    placar[0];
+
+  alert(
+    `🏆 Campeão: ${vencedor.nome}`
+  );
+
+  setPartidaIniciada(false);
+
+}}
+         
+        
         onZerarPlacar={async () => {
           await zerarPlacar();
           await carregarPlacar();
@@ -406,6 +593,7 @@ async function atualizarEquipeAtual() {
           onChange={async (e) => {
             const valor = Number(e.target.value);
             setPontosVitoria(valor);
+            Number(e.target.value);
             await definirPontosVitoria(valor);
           }}
           className="w-full p-4 rounded-xl bg-zinc-900"

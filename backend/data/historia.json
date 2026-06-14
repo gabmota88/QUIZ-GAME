@@ -1,537 +1,844 @@
 [
   {
-    "pergunta": "Quem foi o primeiro presidente dos EUA?",
+    "categoria": "Historia",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "George Washington",
-      "Washington",
-      "George"
-    ]
-  },
-  {
-    "pergunta": "Em qual continente fica o Egito?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "África",
-      "Africa"
-    ]
-  },
-  {
-    "pergunta": "Quem descobriu o Brasil?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Pedro Álvares Cabral",
-      "Cabral",
-      "Pedro Álvares"
-    ]
-  },
-  {
-    "pergunta": "Em que ano o Brasil se tornou independente?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "1822",
-      "mil oitocentos e vinte e dois"
-    ]
-  },
-  {
-    "pergunta": "Quem foi Napoleão Bonaparte?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Imperador da França",
-      "General Francês",
-      "Militar Francês"
-    ]
-  },
-  {
-    "pergunta": "Qual foi a primeira civilização da história?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Suméria",
-      "Mesopotâmia",
-      "Babilônia"
-    ]
-  },
-  {
-    "pergunta": "Em que país fica a Grande Muralha?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "China",
-      "República Popular da China"
-    ]
-  },
-  {
-    "pergunta": "Quem foi Cleópatra?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Rainha do Egito",
-      "Rainha Egípcia",
-      "Cleópatra VII"
-    ]
-  },
-  {
-    "pergunta": "Em que época viveu Jesus Cristo?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Século I",
-      "Ano Zero",
-      "Nascimento de Cristo"
-    ]
-  },
-  {
-    "pergunta": "Qual foi o império mais poderoso da Antiguidade?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Império Romano",
-      "Roma",
-      "Roman Empire"
-    ]
-  },
-  {
-    "pergunta": "Quem inventou a imprensa?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Johannes Gutenberg",
-      "Gutenberg",
-      "Johann Gutenberg"
-    ]
-  },
-  {
-    "pergunta": "Em que século ocorreu a Renascença?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Século XIV-XVI",
-      "XIV a XVI",
-      "1300-1600"
-    ]
-  },
-  {
-    "pergunta": "Quem foi o primeiro rei da Dinamarca?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Gorm, o Velho",
-      "Harald Dente Azul",
-      "Christian"
-    ]
-  },
-  {
-    "pergunta": "Qual foi a duração da Guerra dos Cem Anos?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "116 anos",
-      "1337-1453",
-      "Mais de 100 anos"
-    ]
-  },
-  {
-    "pergunta": "Quem descobriu a América do Sul?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Cristóvão Colombo",
-      "Vasco da Gama",
-      "Pedro Álvares Cabral"
-    ]
-  },
-  {
-    "pergunta": "Em que ano caiu o Muro de Berlim?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "1989",
-      "mil novecentos e oitenta e nove"
-    ]
-  },
-  {
-    "pergunta": "Quem foi o primeiro papa?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "São Pedro",
-      "Pedro",
-      "Pope Peter"
-    ]
-  },
-  {
-    "pergunta": "Qual foi o maior império na história?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Império Britânico",
-      "Imperio Mongol",
-      "Império Espanhol"
-    ]
-  },
-  {
-    "pergunta": "Quem foi Martin Luther King Jr?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Líder dos Direitos Civis",
-      "Ativista",
-      "Pastor"
-    ]
-  },
-  {
-    "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
-    "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "1945",
-      "mil novecentos e quarenta e cinco"
-    ]
-  },
-  {
-    "pergunta": "Quem desenhou a Mona Lisa?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Leonardo da Vinci",
-      "Da Vinci",
-      "Leonardo"
-    ]
-  },
-  {
-    "pergunta": "Em que ano ocorreu a Revolução Francesa?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "1789",
-      "mil setecentos e oitenta e nove"
-    ]
-  },
-  {
-    "pergunta": "Quem foi o primeiro imperador do Brasil?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Dom Pedro I",
-      "Pedro I",
-      "D. Pedro I"
-    ]
-  },
-  {
-    "pergunta": "Em que ano Colombo chegou à América?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "1492",
-      "mil quatrocentos e noventa e dois"
-    ]
-  },
-  {
-    "pergunta": "Quem foi Winston Churchill?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Primeiro-ministro britânico",
-      "Líder britânico",
-      "Churchill"
-    ]
-  },
-  {
-    "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "1939",
-      "mil novecentos e trinta e nove"
-    ]
-  },
-  {
-    "pergunta": "Quem foi Mahatma Gandhi?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Líder indiano",
-      "Ativista pela paz",
-      "Mohandas Gandhi"
-    ]
-  },
-  {
-    "pergunta": "Qual foi a duração da Idade Média?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Aproximadamente 1000 anos",
-      "Século V-XV",
-      "V a XV"
-    ]
-  },
-  {
-    "pergunta": "Em que ano a Rússia se tornou comunista?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "1917",
-      "mil novecentos e dezessete"
-    ]
-  },
-  {
-    "pergunta": "Quem foi o maior conquistador medieval?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Gengis Khan",
-      "Mongol",
-      "Temüjin"
-    ]
-  },
-  {
-    "pergunta": "Em que ano começou a Revolução Americana?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "1776",
-      "mil setecentos e setenta e seis"
-    ]
-  },
-  {
     "pergunta": "Quem foi o primeiro presidente do Brasil?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Marechal Deodoro da Fonseca",
-      "Deodoro",
-      "Fonseca"
-    ]
+    "resposta": "Deodoro da Fonseca",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual foi a guerra mais sangrenta da história?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Segunda Guerra Mundial",
-      "WWW II",
-      "Guerra Civil Americana"
-    ]
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Em que ano o Brasil declarou sua independência?",
+    "resposta": "1822",
+    "pontos": 1
   },
   {
-    "pergunta": "Em que ano terminou a Guerra Fria?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "1991",
-      "mil novecentos e noventa e um"
-    ]
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem proclamou a Independência do Brasil?",
+    "resposta": "Dom Pedro I",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem foi Joana d'Arc?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Heroína francesa",
-      "Santa Joana",
-      "Donzela de Orleans"
-    ]
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem descobriu o Brasil segundo a versão tradicional?",
+    "resposta": "Pedro Alvares Cabral",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual foi o primeiro país a abolir a escravidão?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Dinamarca",
-      "Haiti",
-      "Portugal"
-    ]
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Em que ano ocorreu o descobrimento do Brasil?",
+    "resposta": "1500",
+    "pontos": 1
   },
   {
-    "pergunta": "Em que ano a Alemanha invadiu a Polônia?",
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual civilização construiu as piramides de Gizé?",
+    "resposta": "Egipcios",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o lider da Alemanha durante a Segunda Guerra Mundial?",
+    "resposta": "Adolf Hitler",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual conflito ocorreu entre 1939 e 1945?",
+    "resposta": "Segunda Guerra Mundial",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual pais lançou bombas atomicas sobre Hiroshima e Nagasaki?",
+    "resposta": "Estados Unidos",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi conhecido como Libertador da America?",
+    "resposta": "Simon Bolivar",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual imperio tinha sua capital em Roma?",
+    "resposta": "Imperio Romano",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o primeiro imperador de Roma?",
+    "resposta": "Augusto",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual muralha famosa foi construida na China?",
+    "resposta": "Grande Muralha da China",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o farao associado a famosa mascara de ouro encontrada intacta?",
+    "resposta": "Tutancamon",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual rainha governou o Egito e teve relacao com Julio Cesar?",
+    "resposta": "Cleopatra",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Em qual continente surgiu a civilizacao egipcia?",
+    "resposta": "Africa",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem liderou a conquista do Imperio Persa?",
+    "resposta": "Alexandre Magno",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual navegante realizou a primeira viagem ao redor do mundo?",
+    "resposta": "Fernão de Magalhães",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual pais foi governado por Luis XIV?",
+    "resposta": "Franca",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem ficou conhecido como Rei Sol?",
+    "resposta": "Luis XIV",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual revolucao ocorreu na Franca em 1789?",
+    "resposta": "Revolucao Francesa",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi executada durante a Revolucao Francesa e era rainha da Franca?",
+    "resposta": "Maria Antonieta",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem se tornou imperador da Franca apos a Revolucao Francesa?",
+    "resposta": "Napoleao Bonaparte",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual batalha marcou a derrota final de Napoleao?",
+    "resposta": "Batalha de Waterloo",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem assinou a Lei Aurea?",
+    "resposta": "Princesa Isabel",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Em que ano a escravidao foi abolida no Brasil?",
+    "resposta": "1888",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual presidente americano liderou os Estados Unidos durante grande parte da Segunda Guerra Mundial?",
+    "resposta": "Franklin Roosevelt",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o lider da Uniao Sovietica durante a Segunda Guerra Mundial?",
+    "resposta": "Josef Stalin",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual muro dividiu Berlim durante a Guerra Fria?",
+    "resposta": "Muro de Berlim",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Em que ano caiu o Muro de Berlim?",
+    "resposta": "1989",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual civilizacao construiu Machu Picchu?",
+    "resposta": "Incas",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual civilizacao habitava a regiao do atual Mexico antes da chegada dos espanhóis?",
+    "resposta": "Astecas",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem chegou a Lua em 1969?",
+    "resposta": "Neil Armstrong",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual missao levou o homem a Lua pela primeira vez?",
+    "resposta": "Apollo 11",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o lider pacifista da independencia da India?",
+    "resposta": "Mahatma Gandhi",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o primeiro homem no espaco?",
+    "resposta": "Yuri Gagarin",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual pais lançou o primeiro satelite artificial?",
+    "resposta": "Uniao Sovietica",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Qual era o nome do primeiro satelite artificial?",
+    "resposta": "Sputnik 1",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi conhecido como o descobridor da America para os europeus?",
+    "resposta": "Cristovao Colombo",
+    "pontos": 1
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "facil",
+    "pergunta": "Em qual ano Colombo chegou a America?",
+    "resposta": "1492",
+    "pontos": 1
+  },
+
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o imperador francês derrotado na Batalha de Waterloo?",
+    "resposta": "Napoleao Bonaparte",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
+    "resposta": "Tratado de Versalhes",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Em que ano começou a Primeira Guerra Mundial?",
+    "resposta": "1914",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Em que ano terminou a Primeira Guerra Mundial?",
+    "resposta": "1918",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual arquiduque teve seu assassinato apontado como estopim da Primeira Guerra Mundial?",
+    "resposta": "Francisco Ferdinando",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem liderou a Revolucao Russa de 1917?",
+    "resposta": "Vladimir Lenin",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual dinastia governava a Russia antes da Revolucao de 1917?",
+    "resposta": "Romanov",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o ultimo czar da Russia?",
+    "resposta": "Nicolau II",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual era o nome da policia secreta da Alemanha Oriental?",
+    "resposta": "Stasi",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual conflito ficou conhecido como Guerra Fria?",
+    "resposta": "Disputa entre Estados Unidos e Uniao Sovietica",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o presidente dos Estados Unidos durante a Crise dos Misseis de Cuba?",
+    "resposta": "John Kennedy",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual lider soviético participou da Crise dos Misseis de Cuba?",
+    "resposta": "Nikita Khrushchov",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual imperio foi governado por Gengis Khan?",
+    "resposta": "Imperio Mongol",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem fundou o Imperio Mongol?",
+    "resposta": "Gengis Khan",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual cidade italiana foi destruida pela erupcao do Vesuvio em 79 d.C.?",
+    "resposta": "Pompeia",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o conquistador espanhol que derrotou o Imperio Asteca?",
+    "resposta": "Hernan Cortes",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem conquistou o Imperio Inca para a Espanha?",
+    "resposta": "Francisco Pizarro",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual rei ingles teve seis esposas?",
+    "resposta": "Henrique VIII",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual movimento religioso surgiu a partir das acoes de Martinho Lutero?",
+    "resposta": "Reforma Protestante",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Em que ano Martinho Lutero publicou as 95 Teses?",
+    "resposta": "1517",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual navegante chegou a India contornando a Africa?",
+    "resposta": "Vasco da Gama",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o lider da independencia dos Estados Unidos e primeiro presidente do pais?",
+    "resposta": "George Washington",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Em que ano os Estados Unidos declararam independencia?",
+    "resposta": "1776",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual rainha inglesa governou durante a derrota da Armada Espanhola?",
+    "resposta": "Elizabeth I",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual civilizacao desenvolveu a escrita cuneiforme?",
+    "resposta": "Sumerios",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual codigo de leis foi criado na Mesopotamia por volta de 1750 a.C.?",
+    "resposta": "Codigo de Hamurabi",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o autor da frase 'Vim, vi e venci'?",
+    "resposta": "Julio Cesar",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem atravessou os Alpes com elefantes durante as Guerras Punicas?",
+    "resposta": "Anibal",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual cidade era a principal rival de Roma nas Guerras Punicas?",
+    "resposta": "Cartago",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o primeiro homem a circunavegar a Terra com sucesso após a morte de Fernão de Magalhães?",
+    "resposta": "Juan Sebastian Elcano",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual evento marcou o inicio da Revolucao Francesa em 1789?",
+    "resposta": "Tomada da Bastilha",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual lider sul-africano lutou contra o apartheid e se tornou presidente do pais?",
+    "resposta": "Nelson Mandela",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual pais foi dividido em Alemanha Ocidental e Alemanha Oriental apos a Segunda Guerra Mundial?",
+    "resposta": "Alemanha",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o lider britanico durante grande parte da Segunda Guerra Mundial?",
+    "resposta": "Winston Churchill",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual batalha de 1942-1943 marcou uma virada importante na Segunda Guerra Mundial?",
+    "resposta": "Batalha de Stalingrado",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Em qual praia ocorreu o principal desembarque aliado do Dia D?",
+    "resposta": "Omaha",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual foi o nome dado ao periodo de renovacao cultural europeia entre os seculos XIV e XVI?",
+    "resposta": "Renascimento",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem pintou a Mona Lisa?",
+    "resposta": "Leonardo da Vinci",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Quem escreveu O Principe, importante obra politica do Renascimento?",
+    "resposta": "Nicolau Maquiavel",
+    "pontos": 3
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "media",
+    "pergunta": "Qual explorador noruegues liderou a primeira expedicao a chegar ao Polo Sul?",
+    "resposta": "Roald Amundsen",
+    "pontos": 3
+  },
+
+  {
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1939",
-      "mil novecentos e trinta e nove"
-    ]
+    "pergunta": "Qual tratado encerrou a Guerra dos Trinta Anos em 1648?",
+    "resposta": "Paz de Westfalia",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi o imperador romano Caio Júlio César?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Conquistador de Roma",
-      "General romano",
-      "Ditador"
-    ]
+    "pergunta": "Quem foi o imperador bizantino responsável pela compilacao do Corpus Juris Civilis?",
+    "resposta": "Justiniano I",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano Cristóvão Colombo foi financiado pela Rainha Isabel?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1491",
-      "mil quatrocentos e noventa e um"
-    ]
+    "pergunta": "Qual imperador romano legalizou o cristianismo por meio do Edito de Milao?",
+    "resposta": "Constantino",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi o primeiro czar da Rússia?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Ivan, o Terrível",
-      "Ivan III",
-      "Ivan IV"
-    ]
+    "pergunta": "Em que ano caiu o Imperio Romano do Ocidente?",
+    "resposta": "476",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano Hiroshima foi bombardeada?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1945",
-      "mil novecentos e quarenta e cinco"
-    ]
+    "pergunta": "Quem depôs o ultimo imperador romano do Ocidente?",
+    "resposta": "Odoacro",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi Voltaire?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Filósofo francês",
-      "Pensador iluminista",
-      "François-Marie Arouet"
-    ]
+    "pergunta": "Qual faraó promoveu uma tentativa de monoteísmo no Egito Antigo?",
+    "resposta": "Akhenaton",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual foi a primeira república do Brasil?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "República Velha",
-      "1889-1930",
-      "Primeira República"
-    ]
+    "pergunta": "Qual foi a capital do Imperio Inca?",
+    "resposta": "Cusco",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano foi construída a Basílica de São Pedro?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1506",
-      "mil quinhentos e seis"
-    ]
+    "pergunta": "Quem liderou a revolta dos escravos que desafiou Roma no século I a.C.?",
+    "resposta": "Espartaco",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi o autor da Declaração de Independência dos EUA?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Thomas Jefferson",
-      "Jefferson",
-      "Founding Father"
-    ]
+    "pergunta": "Qual general cartagines atravessou os Alpes durante a Segunda Guerra Punica?",
+    "resposta": "Anibal",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano a China se tornou comunista?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1949",
-      "mil novecentos e quarenta e nove"
-    ]
+    "pergunta": "Qual rei macedonio foi pai de Alexandre Magno?",
+    "resposta": "Filipe II",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi Mao Tsé-Tung?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Líder comunista chinês",
-      "Ditador chinês",
-      "Mao"
-    ]
+    "pergunta": "Qual cidade foi a capital do Imperio Bizantino?",
+    "resposta": "Constantinopla",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano os EUA conquistaram a Independência?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1776",
-      "mil setecentos e setenta e seis"
-    ]
+    "pergunta": "Em que ano Constantinopla foi conquistada pelos otomanos?",
+    "resposta": "1453",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi Cortês?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Conquistador do México",
-      "Hernán Cortés",
-      "Conquistador espanhol"
-    ]
+    "pergunta": "Quem era o sultao otomano que conquistou Constantinopla?",
+    "resposta": "Maome II",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano terminou o Império Otomano?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1922",
-      "mil novecentos e vinte e dois"
-    ]
+    "pergunta": "Qual imperador frances vendeu a Luisiana aos Estados Unidos?",
+    "resposta": "Napoleao Bonaparte",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi o primeiro-ministro britânico mais famoso?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Winston Churchill",
-      "Margaret Thatcher",
-      "Benjamin Disraeli"
-    ]
+    "pergunta": "Quem foi o chanceler responsavel pela unificacao da Alemanha em 1871?",
+    "resposta": "Otto von Bismarck",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano ocorreu o Holocausto?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1933-1945",
-      "Segunda Guerra",
-      "Terceiro Reich"
-    ]
+    "pergunta": "Qual guerra foi travada entre o Norte e o Sul dos Estados Unidos?",
+    "resposta": "Guerra Civil Americana",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi Confúcio?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Filósofo chinês",
-      "Sábio chinês",
-      "Kong Fuzi"
-    ]
+    "pergunta": "Quem foi o presidente americano durante a Guerra Civil?",
+    "resposta": "Abraham Lincoln",
+    "pontos": 5
   },
   {
-    "pergunta": "Em que ano terminou a Inquisição Espanhola?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "1834",
-      "mil oitocentos e trinta e quatro"
-    ]
+    "pergunta": "Qual evento ocorrido em 1929 desencadeou uma crise economica mundial?",
+    "resposta": "Quebra da Bolsa de Nova York",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi Mikhail Gorbachev?",
+    "categoria": "Historia",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Último líder da URSS",
-      "Reformador soviético",
-      "Gorbachev"
-    ]
+    "pergunta": "Qual lider chines proclamou a Republica Popular da China em 1949?",
+    "resposta": "Mao Tse Tung",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual conflito ocorreu entre a Coreia do Norte e a Coreia do Sul entre 1950 e 1953?",
+    "resposta": "Guerra da Coreia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual foi o nome da invasao aliada da Normandia em 1944?",
+    "resposta": "Operacao Overlord",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem comandou as forcas aliadas na Europa durante a Segunda Guerra Mundial?",
+    "resposta": "Dwight Eisenhower",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual batalha naval de 1942 foi considerada um ponto de virada no Pacifico?",
+    "resposta": "Batalha de Midway",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi o lider vietnamita que inspirou a independencia do Vietna?",
+    "resposta": "Ho Chi Minh",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual tratado dividiu o mundo entre Portugal e Espanha em 1494?",
+    "resposta": "Tratado de Tordesilhas",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual navegador portugues chegou ao Brasil em 1500?",
+    "resposta": "Pedro Alvares Cabral",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem liderou a Inconfidencia Mineira?",
+    "resposta": "Tiradentes",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Em que ano ocorreu a Inconfidencia Mineira?",
+    "resposta": "1789",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi o imperador do Brasil durante a Guerra do Paraguai?",
+    "resposta": "Dom Pedro II",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual presidente brasileiro governava quando Brasilia foi inaugurada?",
+    "resposta": "Juscelino Kubitschek",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual era o nome do programa americano para reconstruir a Europa apos a Segunda Guerra Mundial?",
+    "resposta": "Plano Marshall",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual organizacao militar foi criada em 1949 pelos paises ocidentais?",
+    "resposta": "OTAN",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual bloco militar socialista foi criado em resposta a OTAN?",
+    "resposta": "Pacto de Varsovia",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi o ultimo lider da Uniao Sovietica?",
+    "resposta": "Mikhail Gorbachev",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual evento marcou oficialmente o fim da Uniao Sovietica?",
+    "resposta": "Dissolucao da Uniao Sovietica",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual imperio era conhecido como o Imperio onde o Sol Nunca se Punha?",
+    "resposta": "Imperio Britanico",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi a rainha britanica que governou durante grande parte do seculo XIX?",
+    "resposta": "Rainha Victoria",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual civilizacao construiu a cidade de Petra?",
+    "resposta": "Nabateus",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual cidade foi destruida pela erupcao do Monte Vesuvio juntamente com Pompeia?",
+    "resposta": "Herculano",
+    "pontos": 5
+  },
+  {
+    "categoria": "Historia",
+    "dificuldade": "dificil",
+    "pergunta": "Qual filosofo grego foi mestre de Alexandre Magno?",
+    "resposta": "Aristoteles",
+    "pontos": 5
   }
 ]
-       
-        
-    
-

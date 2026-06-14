@@ -17,11 +17,16 @@ game_bp = Blueprint("game", __name__)
 # =========================
 @game_bp.route("/partida", methods=["POST"])
 def criar_partida():
-    partida = iniciar_partida()
+    dados = request.get_json()
+    
+    pontos_vitoria = dados.get("pontos_vitoria", 15)  # Valor padrão de 15 pontos para vitória
+    
+    partida = iniciar_partida(pontos_vitoria=pontos_vitoria)
 
     return jsonify({
         "mensagem": "Partida iniciada",
         "partida_id": partida.id,
+        "pontos_vitoria": partida.pontos_vitoria,
         "rodada": partida.rodada_atual,
         "equipe_atual": partida.equipe_atual
     }), 201

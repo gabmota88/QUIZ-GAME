@@ -1,493 +1,844 @@
 [
   {
-    "pergunta": "Qual é o objetivo de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Ser o Rei dos Piratas",
-      "Encontrar o One Piece",
-      "Pirata"
-    ]
+    "pergunta": "Qual é o nome do protagonista de One Piece?",
+    "resposta": "Monkey D. Luffy",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o espadachim do bando de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Zoro",
-      "Roronoa Zoro",
-      "Zoro, o espadachim"
-    ]
+    "pergunta": "Qual é o sonho de Luffy?",
+    "resposta": "Ser o Rei dos Piratas",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do navio de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Going Merry",
-      "Merry",
-      "Thousand Sunny"
-    ]
+    "pergunta": "Qual fruta Luffy comeu?",
+    "resposta": "Gomu Gomu no Mi",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é a navegadora do bando?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Nami",
-      "Nami Orange",
-      "Navegadora"
-    ]
+    "pergunta": "Quem é o espadachim dos Chapéus de Palha?",
+    "resposta": "Roronoa Zoro",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o poder do Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Fruta da Borracha",
-      "Akuma no Mi",
-      "Borracha"
-    ]
+    "pergunta": "Quem é a navegadora dos Chapéus de Palha?",
+    "resposta": "Nami",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o cozinheiro da tripulação?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Sanji",
-      "Vinsmoke Sanji",
-      "Chef"
-    ]
+    "pergunta": "Quem é o cozinheiro dos Chapéus de Palha?",
+    "resposta": "Sanji",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do médico do bando?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Tony Tony Chopper",
-      "Chopper",
-      "Reindeer"
-    ]
+    "pergunta": "Qual é o nome do médico dos Chapéus de Palha?",
+    "resposta": "Tony Tony Chopper",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o arqueólogo da tripulação?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Nico Robin",
-      "Robin",
-      "Nico"
-    ]
+    "pergunta": "Qual é o nome do navio inicial dos Chapéus de Palha?",
+    "resposta": "Going Merry",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do carpinteiro?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Franky",
-      "Cutty Flam",
-      "Shipwright"
-    ]
+    "pergunta": "Qual é o nome do navio atual dos Chapéus de Palha?",
+    "resposta": "Thousand Sunny",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o músico da tripulação?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Brook",
-      "Soul King",
-      "Músico"
-    ]
+    "pergunta": "Quem foi o Rei dos Piratas?",
+    "resposta": "Gol D. Roger",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a recompensa inicial de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "30 milhões",
-      "Beri",
-      "30 milhões de Beri"
-    ]
+    "pergunta": "Qual é o nome do irmão de Luffy que usa fogo?",
+    "resposta": "Portgas D. Ace",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do vilão mais poderoso?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Blackbeard",
-      "Marshall D. Teach",
-      "Barba Negra"
-    ]
+    "pergunta": "Quem treinou Luffy quando criança?",
+    "resposta": "Monkey D. Garp",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o lorde supremo da Costa Leste?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Kuro",
-      "Capitão Kuro",
-      "Psicólogo"
-    ]
+    "pergunta": "Qual imperador inspirou Luffy a se tornar pirata?",
+    "resposta": "Shanks",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do diretor da Organização?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Crocodile",
-      "Sir Crocodile",
-      "Crocodilo"
-    ]
+    "pergunta": "Quem deu o chapéu de palha para Luffy?",
+    "resposta": "Shanks",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a fruta que Robin comeu?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Fruta da Flor",
-      "Hana Hana no Mi",
-      "Flower"
-    ]
+    "pergunta": "Qual é o nome da arqueóloga dos Chapéus de Palha?",
+    "resposta": "Nico Robin",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o poder do Chopper?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Fruta da Humana",
-      "Hito Hito no Mi",
-      "Human"
-    ]
+    "pergunta": "Qual é o nome do atirador dos Chapéus de Palha?",
+    "resposta": "Usopp",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do vilão em Alabasta?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Crocodile",
-      "Senhor Crocodile",
-      "7 Samurais"
-    ]
+    "pergunta": "Qual é o nome do ciborgue dos Chapéus de Palha?",
+    "resposta": "Franky",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o grau de recompensa de Zoro no início?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "60 milhões",
-      "Beri",
-      "60 milhões de Beri"
-    ]
+    "pergunta": "Qual é o nome do músico dos Chapéus de Palha?",
+    "resposta": "Brook",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o pai de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Dragon",
-      "Dragon, o Revolucionário",
-      "Revolucionário"
-    ]
+    "pergunta": "Qual é o nome do homem-peixe dos Chapéus de Palha?",
+    "resposta": "Jinbe",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome da avó de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "facil",
-    "pontos": 1,
-    "respostas": [
-      "Curly Dadan",
-      "Dadan",
-      "Makino"
-    ]
+    "pergunta": "Qual é o nome do capitão dos piratas do Baratie?",
+    "resposta": "Zeff",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a fruta que Sanji desejava?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Fruta da Invisibilidade",
-      "Clear Clear Fruit",
-      "Transparência"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem é conhecido como Caçador de Piratas?",
+    "resposta": "Roronoa Zoro",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual país é destruído por Crocodile?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Alabasta",
-      "Reino do Deserto",
-      "Arabasta"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome da ilha onde Ace foi executado?",
+    "resposta": "Marineford",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o patrono de Zoro?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Mihawk",
-      "Dracule Mihawk",
-      "Melhor espadachim"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem matou Ace?",
+    "resposta": "Akainu",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do vilão em Skypiea?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Enel",
-      "Deus Enel",
-      "Eneru"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do pai de Luffy?",
+    "resposta": "Monkey D. Dragon",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o assassino do amigo de Luffy?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Akainu",
-      "Sakazuki",
-      "Almirante"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o avô de Luffy?",
+    "resposta": "Monkey D. Garp",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o poder do Franky?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Corpo cibernético",
-      "Cyborg",
-      "Máquina"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual organização caça piratas em One Piece?",
+    "resposta": "Marinha",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome real de Brook?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Brook",
-      "Soul King Brook",
-      "Esqueleto"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome da espada mais famosa de Zoro?",
+    "resposta": "Wado Ichimonji",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o vilão mais antigo enfrentado?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Morgan",
-      "Capitão Morgan",
-      "Tenente"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome da princesa de Alabasta?",
+    "resposta": "Nefertari Vivi",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o primeiro Yonko mostrado?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Blackbeard",
-      "Kaido",
-      "Big Mom"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem era o líder da Baroque Works?",
+    "resposta": "Crocodile",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do arco em Marineford?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Summit War",
-      "Guerra do Topo",
-      "Marineford Arc"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do tesouro procurado por todos os piratas?",
+    "resposta": "One Piece",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é a profissão original de Franky?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Carpinteiro",
-      "Shipwright",
-      "Reparador de navios"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem é conhecido como Deus Usopp?",
+    "resposta": "Usopp",
+    "pontos": 1
   },
   {
-    "pergunta": "Quem é o chefe da Marine no início?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Sengoku",
-      "Almirante Supremo",
-      "Buda"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é a cor predominante do cabelo de Nami?",
+    "resposta": "Laranja",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o fruto do Paramecia mais raro?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Human Human Fruit",
-      "Hito Hito no Mi",
-      "Chopper"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual animal Chopper era antes de comer sua Akuma no Mi?",
+    "resposta": "Rena",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o nome do vilão em Thriller Bark?",
-    "dificuldade": "medio",
-    "pontos": 3,
-    "respostas": [
-      "Gecko Moria",
-      "Moria",
-      "Shichibukai"
-    ]
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem é o esqueleto vivo da tripulação?",
+    "resposta": "Brook",
+    "pontos": 1
   },
   {
-    "pergunta": "Qual é o poder especial do Luffy em Gear Second?",
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do reino de Dressrosa?",
+    "resposta": "Dressrosa",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem derrotou Crocodile?",
+    "resposta": "Luffy",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem derrotou Arlong?",
+    "resposta": "Luffy",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o nome do chapéu usado por Luffy?",
+    "resposta": "Chapéu de Palha",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o apelido de Sanji?",
+    "resposta": "Perna Negra",
+    "pontos": 1
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "facil",
+    "pergunta": "Quem foi o primeiro membro a entrar na tripulação de Luffy?",
+    "resposta": "Roronoa Zoro",
+    "pontos": 1
+  },
+
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da técnica mais famosa de Luffy antes dos Gears?",
+    "resposta": "Gomu Gomu no Pistol",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o mentor de Chopper em Drum?",
+    "resposta": "Dr Hiluluk",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual Shichibukai governava Alabasta secretamente?",
+    "resposta": "Crocodile",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual membro da CP9 enfrentou Sanji em Enies Lobby?",
+    "resposta": "Jabra",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem derrotou Rob Lucci em Enies Lobby?",
+    "resposta": "Luffy",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da ilha onde Nico Robin nasceu?",
+    "resposta": "Ohara",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem era o gigante amigo de Robin em Ohara?",
+    "resposta": "Jaguar D Saul",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual almirante congelou Nico Robin quando ela era criança?",
+    "resposta": "Aokiji",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem construiu o Thousand Sunny?",
+    "resposta": "Franky",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da madeira usada no Thousand Sunny?",
+    "resposta": "Adam",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem derrotou Enel em Skypiea?",
+    "resposta": "Luffy",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual era a recompensa de Luffy após Enies Lobby?",
+    "resposta": "300 milhões",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem treinou Zoro durante o timeskip?",
+    "resposta": "Dracule Mihawk",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem treinou Luffy durante o timeskip?",
+    "resposta": "Silvers Rayleigh",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da ilha onde Luffy treinou?",
+    "resposta": "Rusukaina",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem era o capitão dos Piratas do Sol?",
+    "resposta": "Fisher Tiger",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem é a princesa da Ilha dos Homens-Peixe?",
+    "resposta": "Shirahoshi",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da arma ancestral associada a Shirahoshi?",
+    "resposta": "Poseidon",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem governava Dressrosa antes de Doflamingo?",
+    "resposta": "Rei Riku",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem derrotou Doflamingo?",
+    "resposta": "Luffy",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual Gear foi usado para derrotar Doflamingo?",
+    "resposta": "Gear Fourth",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome da forma Gear Fourth mais usada por Luffy?",
+    "resposta": "Boundman",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem é o irmão adotivo de Luffy e Ace?",
+    "resposta": "Sabo",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem herdou a Mera Mera no Mi após Ace?",
+    "resposta": "Sabo",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem é o líder do Exército Revolucionário?",
+    "resposta": "Monkey D Dragon",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual Yonko governa Whole Cake Island?",
+    "resposta": "Big Mom",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o nome verdadeiro da Big Mom?",
+    "resposta": "Charlotte Linlin",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem é o filho mais forte da Big Mom?",
+    "resposta": "Charlotte Katakuri",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem derrotou Katakuri?",
+    "resposta": "Luffy",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual poder especial do Haki Katakuri demonstrou?",
+    "resposta": "Ver o futuro",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual é o país inspirado no Japão em One Piece?",
+    "resposta": "Wano",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem era o xogum de Wano aliado de Kaido?",
+    "resposta": "Kurozumi Orochi",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem foi o daimyo lendário de Wano e pai de Momonosuke?",
+    "resposta": "Kozuki Oden",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem matou Kozuki Oden?",
+    "resposta": "Kaido",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual Yonko era conhecido como a Criatura Mais Forte do Mundo?",
+    "resposta": "Kaido",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Quem derrotou Kaido?",
+    "resposta": "Luffy",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual membro dos Chapéus de Palha sonha em desenhar o mapa do mundo?",
+    "resposta": "Nami",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual membro dos Chapéus de Palha sonha em encontrar o All Blue?",
+    "resposta": "Sanji",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual membro dos Chapéus de Palha sonha em se tornar um bravo guerreiro do mar?",
+    "resposta": "Usopp",
+    "pontos": 3
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "media",
+    "pergunta": "Qual membro dos Chapéus de Palha deseja descobrir a verdadeira história do mundo?",
+    "resposta": "Nico Robin",
+    "pontos": 3
+  },
+
+  {
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Aceleração",
-      "Velocidade",
-      "Gear 2"
-    ]
+    "pergunta": "Qual é o nome do antigo reino apagado da história mundial?",
+    "resposta": "Reino Antigo",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem foi o capitão anterior de Zoro?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Morgan",
-      "Capitão Morgan",
-      "Ninguém"
-    ]
+    "pergunta": "Quem é a única pessoa conhecida capaz de ler os Poneglyphs entre os Chapéus de Palha?",
+    "resposta": "Nico Robin",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o arco mais longo de One Piece?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Dressrosa",
-      "Wano",
-      "Marineford"
-    ]
+    "pergunta": "Qual é o nome da ilha final alcançada por Gol D. Roger?",
+    "resposta": "Laugh Tale",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o tipo de fruta do Enel?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Fruta do Relâmpago",
-      "Goro Goro no Mi",
-      "Logia"
-    ]
+    "pergunta": "Quem foi o primeiro pirata a chegar em Laugh Tale?",
+    "resposta": "Gol D. Roger",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem é o oponente mais difícil de Zoro em Marineford?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Hawkeye Mihawk",
-      "Michihal",
-      "King of Swordsmen"
-    ]
+    "pergunta": "Qual era o nome do navio de Gol D. Roger?",
+    "resposta": "Oro Jackson",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o nome da fruta de Lucci?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Fruta do Felino",
-      "Neko Neko no Mi",
-      "Leopard"
-    ]
+    "pergunta": "Quem era o imediato dos Piratas do Roger?",
+    "resposta": "Silvers Rayleigh",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o poder do Enies Lobby?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Fortaleza da Justiça",
-      "Governo Mundial",
-      "Burocracia"
-    ]
+    "pergunta": "Qual membro da tripulação de Roger era conhecido como Scopper?",
+    "resposta": "Scopper Gaban",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem é o chefe da CP9?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Lucci",
-      "Rob Lucci",
-      "Leopardo"
-    ]
+    "pergunta": "Qual é o verdadeiro nome da Akuma no Mi de Luffy?",
+    "resposta": "Hito Hito no Mi Modelo Nika",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o nome do vilão de Water 7?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Lucci",
-      "CP9",
-      "Governo"
-    ]
+    "pergunta": "Qual forma desperta da fruta de Luffy foi revelada em Wano?",
+    "resposta": "Gear Fifth",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é a fruta de Kaido?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Fruta do Dragão",
-      "Uo Uo no Mi",
-      "Dragon"
-    ]
+    "pergunta": "Quem é conhecido como Deus do Sol Nika?",
+    "resposta": "Nika",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem é a mãe de Luffy?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Não mencionada",
-      "Desconhecida",
-      "Falecida"
-    ]
+    "pergunta": "Quem roubou a fruta de Luffy do Governo Mundial?",
+    "resposta": "Shanks",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o vilão mais recente em Wano?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Kaido",
-      "Orochi",
-      "Imperadores"
-    ]
+    "pergunta": "Qual agente da CP9 perdeu a fruta que depois foi comida por Luffy?",
+    "resposta": "Who's Who",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o poder da Fruta da Correnteza?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Controlar correntes",
-      "Soru Soru no Mi",
-      "Chains"
-    ]
+    "pergunta": "Qual era o nome do elefante gigante que carrega Zou?",
+    "resposta": "Zunesha",
+    "pontos": 5
   },
   {
-    "pergunta": "Quem é o vice-capitão da tripulação?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Zoro",
-      "Roronoa Zoro",
-      "Espadachim"
-    ]
+    "pergunta": "Quem conseguiu se comunicar diretamente com Zunesha?",
+    "resposta": "Momonosuke",
+    "pontos": 5
   },
   {
-    "pergunta": "Qual é o nome da fruta de Big Mom?",
+    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pontos": 5,
-    "respostas": [
-      "Fruta da Alma",
-      "Soru Soru no Mi",
-      "Soul Soul"
-    ]
+    "pergunta": "Qual é o nome da tribo de cães e gatos que vive em Zou?",
+    "resposta": "Minks",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual transformação especial os Minks podem utilizar sob a lua cheia?",
+    "resposta": "Sulong",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem era o líder dos Piratas Rocks?",
+    "resposta": "Rocks D. Xebec",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Em qual incidente os Piratas Rocks foram derrotados?",
+    "resposta": "Incidente de God Valley",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem se aliou a Garp para derrotar Rocks?",
+    "resposta": "Gol D. Roger",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual ilha desapareceu dos mapas após os acontecimentos envolvendo Sabo?",
+    "resposta": "Lulusia",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem ocupa secretamente o Trono Vazio?",
+    "resposta": "Imu",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual organização governa o mundo de One Piece?",
+    "resposta": "Governo Mundial",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quantas armas ancestrais existem conhecidas na história?",
+    "resposta": "Tres",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quais são as três armas ancestrais?",
+    "resposta": "Pluton Poseidon Uranus",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem conhecia os planos da arma ancestral Pluton em Water 7?",
+    "resposta": "Iceburg",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem queimou os projetos de Pluton?",
+    "resposta": "Franky",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual era o codinome de Nico Robin na Baroque Works?",
+    "resposta": "Miss All Sunday",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual membro da CP9 derrotou Blueno usando Gear Second pela primeira vez?",
+    "resposta": "Luffy",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é o nome da espada amaldiçoada adquirida por Zoro em Loguetown?",
+    "resposta": "Sandai Kitetsu",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual espada lendária Zoro recebeu em Wano?",
+    "resposta": "Enma",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem forjou a espada Enma?",
+    "resposta": "Shimotsuki Kozaburo",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual era o nome do samurai que viajou com Roger e escreveu os Poneglyphs?",
+    "resposta": "Kozuki Oden",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem derrotou King em Onigashima?",
+    "resposta": "Roronoa Zoro",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem derrotou Queen em Onigashima?",
+    "resposta": "Sanji",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual raça quase extinta pertence King?",
+    "resposta": "Lunarianos",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi o cientista chefe do laboratório de Punk Hazard?",
+    "resposta": "Caesar Clown",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual cientista criou os Seraphim?",
+    "resposta": "Vegapunk",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual era o nome do reino destruído há cerca de 800 anos durante o Século Perdido?",
+    "resposta": "Reino Antigo",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é o nome do século apagado da história mundial?",
+    "resposta": "Século Perdido",
+    "pontos": 5
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "dificil",
+    "pergunta": "Quem foi o primeiro personagem a mencionar Joy Boy na história?",
+    "resposta": "Nico Robin",
+    "pontos": 5
   }
 ]
-      
