@@ -4,7 +4,7 @@ export default function TimerCircle() {
 
     <div className="text-4xl">
 
-      30
+      
 
     </div>
 

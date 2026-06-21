@@ -7,20 +7,20 @@ export default function GameHeader({
     <div
       className="
         bg-zinc-900
-        rounded-2xl
-        p-6
+        rounded-4xl
+        p-1
         text-center
       "
     >
 
-      <h1
+      <h2
         className="
-          text-5xl
+          text-4xl
           font-black
         "
       >
         🎮 Rodada {rodada}
-      </h1>
+      </h2>
 
     </div>
 

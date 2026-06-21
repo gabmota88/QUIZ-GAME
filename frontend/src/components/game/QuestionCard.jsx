@@ -19,7 +19,7 @@ export default function QuestionCard({
 
           <h2
             className="
-              text-2xl
+              text-4xl
               text-zinc-400
             "
           >

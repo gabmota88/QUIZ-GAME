@@ -2,23 +2,32 @@ from app.database.db import db
 
 
 class Pergunta(db.Model):
+
     __tablename__ = "perguntas"
 
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(
+        db.Integer,
+        primary_key=True
+    )
 
     texto = db.Column(
-        db.String(500),
+        db.String(1000),
         nullable=False
     )
 
+    resposta = db.Column(
+        db.String(500),
+        nullable=True
+    )
+
     dificuldade = db.Column(
-        db.String(20),
+        db.String(50),
         nullable=False
     )
 
     pontos = db.Column(
         db.Integer,
-        nullable=False
+        default=1
     )
 
     categoria_id = db.Column(
@@ -27,8 +36,9 @@ class Pergunta(db.Model):
         nullable=False
     )
 
-    respostas = db.relationship(
-        "RespostaAceita",
+    alternativas = db.relationship(
+        "Alternativa",
         backref="pergunta",
-        lazy=True
+        lazy=True,
+        cascade="all, delete-orphan"
     )
