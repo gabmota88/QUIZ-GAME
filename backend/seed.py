@@ -11,7 +11,9 @@ categorias = [
     "One Piece",
     "Esportes",
     "Disney",
-    "Paises"
+    "Paises",
+    "Musica",
+    "Especial"
 ]
 
 with app.app_context():

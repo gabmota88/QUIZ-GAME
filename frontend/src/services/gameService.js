@@ -81,3 +81,10 @@ export async function obterPontosVitoria() {
 
     return response.data;
 }
+
+export async function obterStatusCategoriaEspecial() {
+
+  const response = await api.get(
+    "/categoria-especial/status" );
+  return response.data;
+}

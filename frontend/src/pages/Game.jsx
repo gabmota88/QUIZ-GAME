@@ -639,12 +639,6 @@ if (campeao) {
 
               setPontosVitoria(valor);
 
-              try {
-                await definirPontosVitoria(valor);
-              } catch (erro) {
-                console.error(erro);
-                alert("Erro ao atualizar pontos para vitória.");
-              }
             }}
             className="w-full rounded-xl border border-zinc-700 bg-zinc-800 p-3 font-bold text-white outline-none focus:border-[#CCFF00]"
           >

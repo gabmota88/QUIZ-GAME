@@ -1,3 +1,5 @@
+import math
+
 from flask import Blueprint, request, jsonify
 from app.database.db import db
 from app.models.partida import Partida
@@ -62,25 +64,33 @@ def jogar():
 # =========================
 @game_bp.route("/partida")
 def estado_partida():
+
     partida = Partida.query.order_by(
         Partida.id.desc()
     ).first()
 
     if not partida:
-        return jsonify({"erro": "Nenhuma partida encontrada"}), 404
+        return jsonify({
+            "erro": "Nenhuma partida encontrada"
+        }), 404
 
-    equipe = Equipe.query.filter_by(ordem=partida.equipe_atual).first()
-    
-    # 🌟 ADICIONADO: Tratamento caso a equipe indicada na ordem não exista no banco
-    nome_equipe = equipe.nome if equipe else "Equipe não encontrada"
+    equipe = Equipe.query.filter_by(
+        ordem=partida.equipe_atual
+    ).first()
+
+    nome_equipe = (
+        equipe.nome
+        if equipe
+        else "Equipe não encontrada"
+    )
 
     return jsonify({
         "partida_id": partida.id,
         "rodada_atual": partida.rodada_atual,
         "equipe_atual": nome_equipe,
-        "status": partida.status
+        "status": partida.status,
+        "pontos_vitoria": partida.pontos_vitoria
     }), 200
-
 
 # =========================
 # PLACAR
@@ -255,3 +265,60 @@ def obter_pontos_vitoria():
     return jsonify({
         "pontos_vitoria": partida.pontos_vitoria
     }), 200
+# =========================
+# STATUS DA CATEGORIA ESPECIAL
+# =========================
+@game_bp.route(
+    "/categoria-especial/status",
+    methods=["GET"]
+)
+def status_categoria_especial():
+
+    partida = Partida.query.order_by(
+        Partida.id.desc()
+    ).first()
+
+    if not partida:
+
+        return jsonify({
+            "liberada": False,
+            "mensagem": "Nenhuma partida ativa"
+        }), 200
+
+    pontos_necessarios = math.ceil(
+        partida.pontos_vitoria * 0.70
+    )
+
+    equipes = Equipe.query.all()
+
+    equipe_que_liberou = None
+
+    for equipe in equipes:
+
+        if equipe.pontos >= pontos_necessarios:
+
+            equipe_que_liberou = equipe
+
+            break
+
+    return jsonify({
+
+        "liberada":
+            equipe_que_liberou is not None,
+
+        "pontos_vitoria":
+            partida.pontos_vitoria,
+
+        "porcentagem":
+            70,
+
+        "pontos_necessarios":
+            pontos_necessarios,
+
+        "equipe_que_liberou":
+            equipe_que_liberou.nome
+            if equipe_que_liberou
+            else None
+
+    }), 200
+

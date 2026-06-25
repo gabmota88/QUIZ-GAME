@@ -568,277 +568,526 @@
     "resposta": "Ucrania",
     "pontos": 5
   },
+  [
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Ulan Bator?",
-    "resposta": "Mongolia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital do Quirguistão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bisqueque", "correta": true },
+      { "texto": "Dushambe", "correta": false },
+      { "texto": "Astana", "correta": false },
+      { "texto": "Asgabat", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Astana?",
-    "resposta": "Cazaquistao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país é completamente cercado pela África do Sul, sendo um enclave total?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lesoto", "correta": true },
+      { "texto": "Eswatini (Suazilândia)", "correta": false },
+      { "texto": "Botswana", "correta": false },
+      { "texto": "Namíbia", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Tashkent?",
-    "resposta": "Uzbequistao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial do Vietnã?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dong", "correta": true },
+      { "texto": "Riel", "correta": false },
+      { "texto": "Kyat", "correta": false },
+      { "texto": "Ringgit", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Bishkek?",
-    "resposta": "Quirguistao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital de Palau, um país insular na Micronésia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ngerulmud", "correta": true },
+      { "texto": "Koror", "correta": false },
+      { "texto": "Yaren", "correta": false },
+      { "texto": "Palikir", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Dushanbe?",
-    "resposta": "Tajiquistao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A Faixa de Caprivi é uma extensão territorial estreita e peculiar pertencente a qual país africano?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Namíbia", "correta": true },
+      { "texto": "Angola", "correta": false },
+      { "texto": "Zâmbia", "correta": false },
+      { "texto": "Moçambique", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Asgabate?",
-    "resposta": "Turcomenistao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país possui a bandeira nacional mais antiga em uso contínuo, datada do século XIII e conhecida como 'Dannebrog'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dinamarca", "correta": true },
+      { "texto": "Áustria", "correta": false },
+      { "texto": "Suíça", "correta": false },
+      { "texto": "San Marino", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Timbuktu?",
-    "resposta": "Mali",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital de Belize?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Belmopan", "correta": true },
+      { "texto": "Cidade de Belize", "correta": false },
+      { "texto": "San Ignacio", "correta": false },
+      { "texto": "Tegucigalpa", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Samarcanda?",
-    "resposta": "Uzbequistao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "O Nafta, o Florim e o Tael são historicamente conhecidos, mas qual é a moeda oficial atual da Hungria?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Florim húngaro (Forint)", "correta": true },
+      { "texto": "Coroa", "correta": false },
+      { "texto": "Dinar", "correta": false },
+      { "texto": "Lev", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país abriga o deserto de Gobi?",
-    "resposta": "Mongolia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país europeu compartilha a sua única fronteira terrestre com a Espanha e possui o Catalão como idioma oficial?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Andorra", "correta": true },
+      { "texto": "Gibraltar", "correta": false },
+      { "texto": "Mônaco", "correta": false },
+      { "texto": "San Marino", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a maior reserva comprovada de petróleo do mundo?",
-    "resposta": "Venezuela",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país possui o território continental mais ocidental de toda a África?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Senegal", "correta": true },
+      { "texto": "Cabo Verde", "correta": false },
+      { "texto": "Mauritânia", "correta": false },
+      { "texto": "Gâmbia", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Lhasa?",
-    "resposta": "China",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital da Costa do Marfim (reconhecida oficialmente desde 1983)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Yamoussoukro", "correta": true },
+      { "texto": "Abidjan", "correta": false },
+      { "texto": "Dakar", "correta": false },
+      { "texto": "Accra", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Vladivostok?",
-    "resposta": "Russia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país da América do Sul possui a maior densidade demográfica (população por quilômetro quadrado)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Equador", "correta": true },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Colômbia", "correta": false },
+      { "texto": "Venezuela", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Nuuk?",
-    "resposta": "Groenlandia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial da Malásia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ringgit", "correta": true },
+      { "texto": "Rupia", "correta": false },
+      { "texto": "Baht", "correta": false },
+      { "texto": "Peso", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Podgorica?",
-    "resposta": "Montenegro",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país das Américas possui três idiomas oficiais: inglês, espanhol e o 'creole' belizense?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Belize", "correta": true },
+      { "texto": "Guiana", "correta": false },
+      { "texto": "Suriname", "correta": false },
+      { "texto": "Honduras", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Chisinau?",
-    "resposta": "Moldavia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital do Omã?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mascate", "correta": true },
+      { "texto": "Sana", "correta": false },
+      { "texto": "Doha", "correta": false },
+      { "texto": "Manama", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Skopje?",
-    "resposta": "Macedonia do Norte",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país do mundo é o único duplamente encravado, ou foi cercado apenas por países que também não têm saída para o mar?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Uzbequistão", "correta": true },
+      { "texto": "Suíça", "correta": false },
+      { "texto": "Mongólia", "correta": false },
+      { "texto": "Andorra", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Liubliana?",
-    "resposta": "Eslovenia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país europeu utiliza o Leu como sua moeda nacional oficial?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Romênia", "correta": true },
+      { "texto": "Bulgária", "correta": false },
+      { "texto": "Albânia", "correta": false },
+      { "texto": "Sérvia", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Bratislava?",
-    "resposta": "Eslovaquia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A província de Cabinda é um enclave politicamente pertencente a qual nação africana?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Angola", "correta": true },
+      { "texto": "República Democrática do Congo", "correta": false },
+      { "texto": "República do Congo", "correta": false },
+      { "texto": "Gabão", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país tem como capital Minsk?",
-    "resposta": "Belarus",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital de Fiji?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Suva", "correta": true },
+      { "texto": "Nadi", "correta": false },
+      { "texto": "Apia", "correta": false },
+      { "texto": "Nuku'alofa", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Yangon?",
-    "resposta": "Mianmar",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual arquipélago no Oceano Índico obteve a independência do Reino Unido em 1976 e tem Vitória como capital?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Seychelles", "correta": true },
+      { "texto": "Maurício", "correta": false },
+      { "texto": "Maldivas", "correta": false },
+      { "texto": "Comores", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Vientiane?",
-    "resposta": "Laos",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital oficial do Sri Lanka, onde funciona o parlamento do país?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sri Jayawardenepura Kotte", "correta": true },
+      { "texto": "Colombo", "correta": false },
+      { "texto": "Kandy", "correta": false },
+      { "texto": "Galle", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Phnom Penh?",
-    "resposta": "Camboja",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "O Loti (LSL) é a moeda corrente de qual país?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lesoto", "correta": true },
+      { "texto": "Botswana", "correta": false },
+      { "texto": "Zâmbia", "correta": false },
+      { "texto": "Malaui", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Ulan Ude?",
-    "resposta": "Russia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país das Américas faz fronteira terrestre simultaneamente com o Brasil, o Suriname e a Venezuela?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Guiana", "correta": true },
+      { "texto": "Guiana Francesa", "correta": false },
+      { "texto": "Colômbia", "correta": false },
+      { "texto": "Bolívia", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país abriga o lago Baikal?",
-    "resposta": "Russia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital da Jordânia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Amã", "correta": true },
+      { "texto": "Damasco", "correta": false },
+      { "texto": "Beirute", "correta": false },
+      { "texto": "Bagdá", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Thimphu?",
-    "resposta": "Butao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A Depressão de Danakil, um dos lugares mais quentes e baixos da Terra, fica majoritariamente em qual país?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Etiópia", "correta": true },
+      { "texto": "Quênia", "correta": false },
+      { "texto": "Sudão", "correta": false },
+      { "texto": "Somália", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Male?",
-    "resposta": "Maldivas",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial do Paraguai?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Guarani", "correta": true },
+      { "texto": "Peso paraguaio", "correta": false },
+      { "texto": "Real", "correta": false },
+      { "texto": "Boliviano", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Baku?",
-    "resposta": "Azerbaijao",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital da Mongólia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ulan Bator", "correta": true },
+      { "texto": "Astana", "correta": false },
+      { "texto": "Tashkent", "correta": false },
+      { "texto": "Almaty", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Yerevan?",
-    "resposta": "Armenia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país europeu tem o seu território dividido administrativamente em distritos chamados de Condados e tem Vaduz como sua capital?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Liechtenstein", "correta": true },
+      { "texto": "Luxemburgo", "correta": false },
+      { "texto": "Mônaco", "correta": false },
+      { "texto": "Andorra", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Tbilisi?",
-    "resposta": "Georgia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país da Oceania é composto pelas ilhas de Savai'i e Upolu, tendo Apia como sua capital?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Samoa", "correta": true },
+      { "texto": "Tonga", "correta": false },
+      { "texto": "Tuvalu", "correta": false },
+      { "texto": "Vanuatu", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Kigali?",
-    "resposta": "Ruanda",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital de Malta?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Valeta", "correta": true },
+      { "texto": "Mdina", "correta": false },
+      { "texto": "Sliema", "correta": false },
+      { "texto": "Victoria", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Uagadugu?",
-    "resposta": "Burkina Faso",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial da Nigéria?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Naira", "correta": true },
+      { "texto": "Cedi", "correta": false },
+      { "texto": "Franco CFA", "correta": false },
+      { "texto": "Kwanza", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Antananarivo?",
-    "resposta": "Madagascar",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A Península de Kamchatka, famosa por sua altíssima atividade vulcânica, fica localizada em qual país?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rússia", "correta": true },
+      { "texto": "Japão", "correta": false },
+      { "texto": "Canadá", "correta": false },
+      { "texto": "Estados Unidos", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Daca?",
-    "resposta": "Bangladesh",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital do Uzbequistão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tashkent", "correta": true },
+      { "texto": "Samarcanda", "correta": false },
+      { "texto": "Dushambe", "correta": false },
+      { "texto": "Astana", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Colombo?",
-    "resposta": "Sri Lanka",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país africano foi fundado em 1847 por escravos libertos dos Estados Unidos e tem Monróvia como capital?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Libéria", "correta": true },
+      { "texto": "Serra Leoa", "correta": false },
+      { "texto": "Gana", "correta": false },
+      { "texto": "Senegal", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Paramaribo?",
-    "resposta": "Suriname",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial do Irã?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rial", "correta": true },
+      { "texto": "Dinar", "correta": false },
+      { "texto": "Lira", "correta": false },
+      { "texto": "Shekel", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Georgetown na América do Sul?",
-    "resposta": "Guiana",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital do Bareirn?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Manama", "correta": true },
+      { "texto": "Doha", "correta": false },
+      { "texto": "Mascate", "correta": false },
+      { "texto": "Kuwait", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Porto Moresby?",
-    "resposta": "Papua Nova Guine",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "O Lago Titicaca, o lago navegável mais alto do mundo, é compartilhado entre quais dois países?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Peru e Bolívia", "correta": true },
+      { "texto": "Bolívia e Chile", "correta": false },
+      { "texto": "Peru e Colômbia", "correta": false },
+      { "texto": "Equador e Peru", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Suva?",
-    "resposta": "Fiji",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital do Gabão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Libreville", "correta": true },
+      { "texto": "Brazzaville", "correta": false },
+      { "texto": "Luanda", "correta": false },
+      { "texto": "Malabo", "correta": false }
+    ]
   },
   {
-    "categoria": "Paises",
+    "categoria": "paises",
     "dificuldade": "dificil",
-    "pergunta": "Qual país possui a cidade de Nuku'alofa?",
-    "resposta": "Tonga",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial oficial da Costa Rica?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Colón", "correta": true },
+      { "texto": "Balboa", "correta": false },
+      { "texto": "Peso", "correta": false },
+      { "texto": "Quetzal", "correta": false }
+    ]
+  },
+  {
+    "categoria": "paises",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país europeu bilingue (francês e flamengo) abriga a sede política da OTAN e a sede principal da Comissão Europeia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bélgica", "correta": true },
+      { "texto": "Luxemburgo", "correta": false },
+      { "texto": "Holanda", "correta": false },
+      { "texto": "Suíça", "correta": false }
+    ]
   }
+]
 ]

@@ -1,844 +1,1570 @@
 [
+  [
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do protagonista de One Piece?",
-    "resposta": "Monkey D. Luffy",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Monkey D. Luffy", "correta": true },
+      { "texto": "Roronoa Zoro", "correta": false },
+      { "texto": "Portgas D. Ace", "correta": false },
+      { "texto": "Gol D. Roger", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o sonho de Luffy?",
-    "resposta": "Ser o Rei dos Piratas",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ser o Rei dos Piratas", "correta": true },
+      { "texto": "Encontrar o All Blue", "correta": false },
+      { "texto": "Ser o maior espadachim do mundo", "correta": false },
+      { "texto": "Mapear o mundo inteiro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual fruta Luffy comeu?",
-    "resposta": "Gomu Gomu no Mi",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gomu Gomu no Mi", "correta": true },
+      { "texto": "Mera Mera no Mi", "correta": false },
+      { "texto": "Hito Hito no Mi", "correta": false },
+      { "texto": "Ope Ope no Mi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é o espadachim dos Chapéus de Palha?",
-    "resposta": "Roronoa Zoro",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Roronoa Zoro", "correta": true },
+      { "texto": "Sanji", "correta": false },
+      { "texto": "Brook", "correta": false },
+      { "texto": "Usopp", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é a navegadora dos Chapéus de Palha?",
-    "resposta": "Nami",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nami", "correta": true },
+      { "texto": "Nico Robin", "correta": false },
+      { "texto": "Boa Hancock", "correta": false },
+      { "texto": "Vivi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é o cozinheiro dos Chapéus de Palha?",
-    "resposta": "Sanji",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sanji", "correta": true },
+      { "texto": "Zeff", "correta": false },
+      { "texto": "Franky", "correta": false },
+      { "texto": "Chopper", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do médico dos Chapéus de Palha?",
-    "resposta": "Tony Tony Chopper",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tony Tony Chopper", "correta": true },
+      { "texto": "Trafalgar Law", "correta": false },
+      { "texto": "Dr. Kureha", "correta": false },
+      { "texto": "Marco", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do navio inicial dos Chapéus de Palha?",
-    "resposta": "Going Merry",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Going Merry", "correta": true },
+      { "texto": "Thousand Sunny", "correta": false },
+      { "texto": "Moby Dick", "correta": false },
+      { "texto": "Red Force", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do navio atual dos Chapéus de Palha?",
-    "resposta": "Thousand Sunny",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Thousand Sunny", "correta": true },
+      { "texto": "Going Merry", "correta": false },
+      { "texto": "Oro Jackson", "correta": false },
+      { "texto": "Polar Tang", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o Rei dos Piratas?",
-    "resposta": "Gol D. Roger",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gol D. Roger", "correta": true },
+      { "texto": "Edward Newgate", "correta": false },
+      { "texto": "Shanks", "correta": false },
+      { "texto": "Marshall D. Teach", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do irmão de Luffy que usa fogo?",
-    "resposta": "Portgas D. Ace",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Portgas D. Ace", "correta": true },
+      { "texto": "Sabo", "correta": false },
+      { "texto": "Donquixote Doflamingo", "correta": false },
+      { "texto": "Koby", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem treinou Luffy quando criança?",
-    "resposta": "Monkey D. Garp",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Monkey D. Garp", "correta": true },
+      { "texto": "Silvers Rayleigh", "correta": false },
+      { "texto": "Shanks", "correta": false },
+      { "texto": "Hyogoro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual imperador inspirou Luffy a se tornar pirata?",
-    "resposta": "Shanks",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shanks", "correta": true },
+      { "texto": "Kaido", "correta": false },
+      { "texto": "Big Mom", "correta": false },
+      { "texto": "Barba Branca", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem deu o chapéu de palha para Luffy?",
-    "resposta": "Shanks",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shanks", "correta": true },
+      { "texto": "Gol D. Roger", "correta": false },
+      { "texto": "Monkey D. Garp", "correta": false },
+      { "texto": "Makino", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da arqueóloga dos Chapéus de Palha?",
-    "resposta": "Nico Robin",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nico Robin", "correta": true },
+      { "texto": "Nami", "correta": false },
+      { "texto": "Carrot", "correta": false },
+      { "texto": "Yamato", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do atirador dos Chapéus de Palha?",
-    "resposta": "Usopp",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Usopp", "correta": true },
+      { "texto": "Yasopp", "correta": false },
+      { "texto": "Van Augur", "correta": false },
+      { "texto": "Sogeking", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do ciborgue dos Chapéus de Palha?",
-    "resposta": "Franky",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Franky", "correta": true },
+      { "texto": "Pacifista", "correta": false },
+      { "texto": "Vega Punk", "correta": false },
+      { "texto": "Queen", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do músico dos Chapéus de Palha?",
-    "resposta": "Brook",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brook", "correta": true },
+      { "texto": "Apoo", "correta": false },
+      { "texto": "Sanji", "correta": false },
+      { "texto": "Bink", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do homem-peixe dos Chapéus de Palha?",
-    "resposta": "Jinbe",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jinbe", "correta": true },
+      { "texto": "Arlong", "correta": false },
+      { "texto": "Fisher Tiger", "correta": false },
+      { "texto": "Hody Jones", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do capitão dos piratas do Baratie?",
-    "resposta": "Zeff",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Zeff", "correta": true },
+      { "texto": "Sanji", "correta": false },
+      { "texto": "Krieg", "correta": false },
+      { "texto": "Arlong", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é conhecido como Caçador de Piratas?",
-    "resposta": "Roronoa Zoro",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Roronoa Zoro", "correta": true },
+      { "texto": "Mihawk", "correta": false },
+      { "texto": "Smoker", "correta": false },
+      { "texto": "Tashigi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da ilha onde Ace foi executado?",
-    "resposta": "Marineford",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Marineford", "correta": true },
+      { "texto": "Impel Down", "correta": false },
+      { "texto": "Enies Lobby", "correta": false },
+      { "texto": "Sabaody", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem matou Ace?",
-    "resposta": "Akainu",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Akainu", "correta": true },
+      { "texto": "Barba Negra", "correta": false },
+      { "texto": "Aokiji", "correta": false },
+      { "texto": "Doflamingo", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do pai de Luffy?",
-    "resposta": "Monkey D. Dragon",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Monkey D. Dragon", "correta": true },
+      { "texto": "Monkey D. Garp", "correta": false },
+      { "texto": "Gol D. Roger", "correta": false },
+      { "texto": "Silvers Rayleigh", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é o avô de Luffy?",
-    "resposta": "Monkey D. Garp",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Monkey D. Garp", "correta": true },
+      { "texto": "Monkey D. Dragon", "correta": false },
+      { "texto": "Whitebeard", "correta": false },
+      { "texto": "Sengoku", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual organização caça piratas em One Piece?",
-    "resposta": "Marinha",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Marinha", "correta": true },
+      { "texto": "CP9", "correta": false },
+      { "texto": "Exército Revolucionário", "correta": false },
+      { "texto": "Baroque Works", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da espada mais famosa de Zoro?",
-    "resposta": "Wado Ichimonji",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Wado Ichimonji", "correta": true },
+      { "texto": "Shusui", "correta": false },
+      { "texto": "Sandai Kitetsu", "correta": false },
+      { "texto": "Enma", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da princesa de Alabasta?",
-    "resposta": "Nefertari Vivi",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nefertari Vivi", "correta": true },
+      { "texto": "Rebecca", "correta": false },
+      { "texto": "Shirahoshi", "correta": false },
+      { "texto": "Mansherry", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem era o líder da Baroque Works?",
-    "resposta": "Crocodile",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Crocodile", "correta": true },
+      { "texto": "Mr. 1", "correta": false },
+      { "texto": "Mr. 2 Bon Kurei", "correta": false },
+      { "texto": "Rob Lucci", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do tesouro procurado por todos os piratas?",
-    "resposta": "One Piece",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "One Piece", "correta": true },
+      { "texto": "All Blue", "correta": false },
+      { "texto": "Rio Poneglyph", "correta": false },
+      { "texto": "Pluton", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é conhecido como Deus Usopp?",
-    "resposta": "Usopp",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Usopp", "correta": true },
+      { "texto": "Buggy", "correta": false },
+      { "texto": "Enel", "correta": false },
+      { "texto": "Gan Fall", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é a cor predominante do cabelo de Nami?",
-    "resposta": "Laranja",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Laranja", "correta": true },
+      { "texto": "Azul", "correta": false },
+      { "texto": "Rosa", "correta": false },
+      { "texto": "Verde", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual animal Chopper era antes de comer sua Akuma no Mi?",
-    "resposta": "Rena",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rena", "correta": true },
+      { "texto": "Guaxinim", "correta": false },
+      { "texto": "Urso", "correta": false },
+      { "texto": "Cachorro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é o esqueleto vivo da tripulação?",
-    "resposta": "Brook",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brook", "correta": true },
+      { "texto": "Moriah", "correta": false },
+      { "texto": "Ryuma", "correta": false },
+      { "texto": "Lafitte", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do reino de Dressrosa?",
-    "resposta": "Dressrosa",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dressrosa", "correta": true },
+      { "texto": "Alabasta", "correta": false },
+      { "texto": "Wano", "correta": false },
+      { "texto": "Water 7", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem derrotou Crocodile?",
-    "resposta": "Luffy",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Luffy", "correta": true },
+      { "texto": "Zoro", "correta": false },
+      { "texto": "Smoker", "correta": false },
+      { "texto": "Vivi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem derrotou Arlong?",
-    "resposta": "Luffy",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Luffy", "correta": true },
+      { "texto": "Zoro", "correta": false },
+      { "texto": "Sanji", "correta": false },
+      { "texto": "Nami", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do chapéu usado por Luffy?",
-    "resposta": "Chapéu de Palha",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Chapéu de Palha", "correta": true },
+      { "texto": "Chapéu de Cowboy", "correta": false },
+      { "texto": "Cartola", "correta": false },
+      { "texto": "Boina", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o apelido de Sanji?",
-    "resposta": "Perna Negra",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Perna Negra", "correta": true },
+      { "texto": "Caçador de Piratas", "correta": false },
+      { "texto": "Deus da Perna", "correta": false },
+      { "texto": "Príncipe dos Piratas", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o primeiro membro a entrar na tripulação de Luffy?",
-    "resposta": "Roronoa Zoro",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Roronoa Zoro", "correta": true },
+      { "texto": "Nami", "correta": false },
+      { "texto": "Usopp", "correta": false },
+      { "texto": "Sanji", "correta": false }
+    ]
+  }
+],
+
+[
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual era a recompensa original de Sir Crocodile antes de se tornar um Shichibukai?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "81.000.000 de Berries", "correta": true },
+      { "texto": "44.000.000 de Berries", "correta": false },
+      { "texto": "120.000.000 de Berries", "correta": false },
+      { "texto": "60.000.000 de Berries", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o verdadeiro nome do membro da CP9 que se disfarçou de secretário na Galley-La Company?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Kaku", "correta": false },
+      { "texto": "Kalifa", "correta": true },
+      { "texto": "Blueno", "correta": false },
+      { "texto": "Jabra", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o arquiteto naval responsável por construir o Oro Jackson, o navio de Gol D. Roger?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tom", "correta": true },
+      { "texto": "Franky", "correta": false },
+      { "texto": "Iceburg", "correta": false },
+      { "texto": "Kokoro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual supernovato da 'Pior Geração' possui os poderes da Wara Wara no Mi (Fruta da Palha)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Basil Hawkins", "correta": true },
+      { "texto": "Capone Bege", "correta": false },
+      { "texto": "X Drake", "correta": false },
+      { "texto": "Scratchmen Apoo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual era o pseudônimo que Nico Robin usava quando trabalhava para a Baroque Works?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Miss All Sunday", "correta": true },
+      { "texto": "Miss Doublefinger", "correta": false },
+      { "texto": "Miss Goldenweek", "correta": false },
+      { "texto": "Miss Valentine", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da ilha do céu onde Luffy e sua tripulação enfrentaram o Deus Enel?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Skypiea", "correta": true },
+      { "texto": "Weatheria", "correta": false },
+      { "texto": "Birka", "correta": false },
+      { "texto": "Merveille", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o legítimo herdeiro do trono do Reino de Drum e usuário da Baku Baku no Mi?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Wapol", "correta": true },
+      { "texto": "Dalton", "correta": false },
+      { "texto": "Cobra", "correta": false },
+      { "texto": "Riku", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "O que os piratas do Chapéu de Palha precisavam obter para revestir o Thousand Sunny e ir para a Ilha dos Homens-Peixe?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Resina da árvore Yarukiman Mangrove", "correta": true },
+      { "texto": "Pedra de Prisma do Mar", "correta": false },
+      { "texto": "Madeira de Adam", "correta": false },
+      { "texto": "Coral de Luz Solar Eve", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual Shichibukai cortou o braço do ex-almirante Zephyr (Z) e mais tarde invadiu Marineford?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Edward Weevil", "correta": true },
+      { "texto": "Buggy", "correta": false },
+      { "texto": "Marshall D. Teach", "correta": false },
+      { "texto": "Trafalgar Law", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "No Arquipélago de Sabaody, qual Dragão Celestial foi esmurrado por Luffy após atirar em Hachi?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Saint Charlos", "correta": true },
+      { "texto": "Saint Rosward", "correta": false },
+      { "texto": "Saint Jalmack", "correta": false },
+      { "texto": "Saint Donquixote Mjosgard", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a Akuma no Mi de Brook, que permitiu que sua alma retornasse ao corpo após a morte?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Yomi Yomi no Mi", "correta": true },
+      { "texto": "Kage Kage no Mi", "correta": false },
+      { "texto": "Horo Horo no Mi", "correta": false },
+      { "texto": "Suke Suke no Mi", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi o primeiro Almirante da Marinha que os Chapéus de Palha encontraram pessoalmente na história?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Aokiji (Kuzan)", "correta": true },
+      { "texto": "Kizaru (Borsalino)", "correta": false },
+      { "texto": "Akainu (Sakazuki)", "correta": false },
+      { "texto": "Fujitora (Issho)", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem era o dono original da lendária espada Shusui, que foi entregue a Zoro em Thriller Bark?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ryuma", "correta": true },
+      { "texto": "Oden Kozuki", "correta": false },
+      { "texto": "Mihawk", "correta": false },
+      { "texto": "Shimotsuki Ushimaru", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o líder do Exército Revolucionário e companheiro mais próximo de Monkey D. Dragon?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Emporio Ivankov", "correta": true },
+      { "texto": "Sabo", "correta": false },
+      { "texto": "Bartholomew Kuma", "correta": false },
+      { "texto": "Inazuma", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi a identidade secreta que Sabo usou para competir no Coliseu Corrida em Dressrosa?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lucy", "correta": true },
+      { "texto": "Sogeking", "correta": false },
+      { "texto": "Gladiador Misterioso", "correta": false },
+      { "texto": "Kyros", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual nível da prisão subaquática Impel Down é conhecido como o Inferno Congelante?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nível 5", "correta": true },
+      { "texto": "Nível 4", "correta": false },
+      { "texto": "Nível 6", "correta": false },
+      { "texto": "Nível 3", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual integrante do bando do Barba Negra era o ex-diretor chefe de Impel Down?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shiryu", "correta": true },
+      { "texto": "Magellan", "correta": false },
+      { "texto": "Laffitte", "correta": false },
+      { "texto": "Pizarro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a alcunha oficial dada a Eustass Kid pela Marinha devido à sua brutalidade?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Capitão Kid", "correta": true },
+      { "texto": "O Canibal", "correta": false },
+      { "texto": "Cirurgião da Morte", "correta": false },
+      { "texto": "O Flagelo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem comeu a Mera Mera no Mi logo após ela reaparecer no mundo após a guerra de Marineford?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sabo", "correta": true },
+      { "texto": "Burgess", "correta": false },
+      { "texto": "Luffy", "correta": false },
+      { "texto": "Doflamingo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da técnica secreta do estilo de Três Espadas que Zoro usou para derrotar Pica em Dressrosa?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sanzen Sekai", "correta": true },
+      { "texto": "Shishi Sonson", "correta": false },
+      { "texto": "Asura", "correta": false },
+      { "texto": "Rashomon", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual tribo habita a ilha de Zou nas costas do gigantesco elefante Zunesha?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tribo Mink", "correta": true },
+      { "texto": "Tribo dos Braços Longos", "correta": false },
+      { "texto": "Tribo Shandia", "correta": false },
+      { "texto": "Tribo dos Três Olhos", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filho de Big Mom é o General da Docura que possui o controle total sobre o espelho (Mira Mira no Mi)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brulee", "correta": true },
+      { "texto": "Katakuri", "correta": false },
+      { "texto": "Cracker", "correta": false },
+      { "texto": "Perospero", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da ilha onde fica a base principal do Almirante de Frota Akainu após o salto temporal de dois anos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nova Marineford", "correta": true },
+      { "texto": "Mary Geoise", "correta": false },
+      { "texto": "Baltigo", "correta": false },
+      { "texto": "G-5", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o responsável por dar a cicatriz em forma de X no peito de Luffy?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Akainu", "correta": true },
+      { "texto": "Zoro (possessão)", "correta": false },
+      { "texto": "Crocodile", "correta": false },
+      { "texto": "Rob Lucci", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Como é chamada a subespécie de Haki que permite prever ataques e, em níveis avançados, ver vislumbres do futuro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Kenbunshoku Haki (Observação)", "correta": true },
+      { "texto": "Busoshoku Haki (Armamento)", "correta": false },
+      { "texto": "Haoshoku Haki (Conquistador)", "correta": false },
+      { "texto": "Ryou", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem era o traidor disfarçado dentro das Bainhas Vermelhas que enviava informações para Orochi em Wano?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Kanjuro", "correta": true },
+      { "texto": "Kin'emon", "correta": false },
+      { "texto": "Denjiro", "correta": false },
+      { "texto": "Raizo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual das quatro Blues veio o cozinheiro Sanji originalmente, antes de ir para o East Blue?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "North Blue", "correta": true },
+      { "texto": "South Blue", "correta": false },
+      { "texto": "West Blue", "correta": false },
+      { "texto": "All Blue", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual arma antiga Nico Robin descobriu estar localizada escondida em Alabasta de acordo com o Poneglyph?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pluton", "correta": true },
+      { "texto": "Poseidon", "correta": false },
+      { "texto": "Uranus", "correta": false },
+      { "texto": "Noah", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "A qual família nobre pertence a Shichibukai Boa Hancock e suas irmãs na Ilha de Amazon Lily?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Família Kuja", "correta": true },
+      { "texto": "Família Nefertari", "correta": false },
+      { "texto": "Família Donquixote", "correta": false },
+      { "texto": "Família Vinsmoke", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a recompensa de Chopper após os eventos de Dressrosa, que o deixou profundamente frustrado?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "100 Berries", "correta": true },
+      { "texto": "50 Berries", "correta": false },
+      { "texto": "500 Berries", "correta": false },
+      { "texto": "1.000 Berries", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o usuário original da Suke Suke no Mi (Fruta da Invisibilidade) antes de Shiryu roubá-la?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Absalom", "correta": true },
+      { "texto": "Hogback", "correta": false },
+      { "texto": "Perona", "correta": false },
+      { "texto": "Moriah", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "O que destrói completamente o navio Going Merry no final do arco de Enies Lobby?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O bando lhe dá um funeral queimando-o no mar", "correta": true },
+      { "texto": "O Buster Call da Marinha", "correta": false },
+      { "texto": "O ataque direto de Rob Lucci", "correta": false },
+      { "texto": "Um monstro marinho gigante", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual subordinado de confiança de Doflamingo vigiava a fábrica de SMILEs usando os poderes da Sui Sui no Mi?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Señor Pink", "correta": true },
+      { "texto": "Trebol", "correta": false },
+      { "texto": "Diamante", "correta": false },
+      { "texto": "Vergo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome do pirata gigante que lidera a Nova Geração de Piratas Gigantes e se aliou à Grande Frota do Chapéu de Palha?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hajrudin", "correta": true },
+      { "texto": "Broggy", "correta": false },
+      { "texto": "Dorry", "correta": false },
+      { "texto": "Oimo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi o motivo real que levou Jinbe a recusar inicialmente o convite de Luffy para se juntar à tripulação na Ilha dos Homens-Peixe?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ele ainda tinha obrigações pendentes com os Piratas da Big Mom", "correta": true },
+      { "texto": "Ele odiava os humanos secretamente", "correta": false },
+      { "texto": "Ele queria se tornar o rei da Ilha dos Homens-Peixe", "correta": false },
+      { "texto": "Ele planejava se aliar ao Exército Revolucionário", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a alcunha de Charlotte Katakuri devido à sua formidável força e histórico de combate?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Homem Invicto", "correta": false },
+      { "texto": "General de Doçura", "correta": false },
+      { "texto": "O Homem de 1 Bilhão", "correta": true },
+      { "texto": "Mochi Master", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o mestre de karatê Homem-Peixe que ensinou as técnicas básicas a Koala no Exército Revolucionário?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hack", "correta": true },
+      { "texto": "Jinbe", "correta": false },
+      { "texto": "Fisher Tiger", "correta": false },
+      { "texto": "Aladine", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "A lendária ilha de God Valley, local do confronto histórico entre Roger, Garp e Rocks, desapareceu do mapa por qual motivo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Foi totalmente apagada da história pelo Governo Mundial", "correta": true },
+      { "texto": "Afundou devido a um terremoto submarino", "correta": false },
+      { "texto": "Foi destruída por um ataque acidental de Barba Branca", "correta": false },
+      { "texto": "Foi engolida por um redemoinho gigante permanente", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da técnica combinada que Dorry e Broggy usaram para abrir um buraco no peixe gigante que engoliu o Going Merry?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hakoku Sovereignty", "correta": true },
+      { "texto": "Ikoku Sovereignty", "correta": false },
+      { "texto": "Elbaf Spear", "correta": false },
+      { "texto": "Giant Gavel", "correta": false }
+    ]
+  },
+  {
+    "categoria": "One Piece",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome do cientista rival de Vegapunk que criou o gás venenoso H2S em Punk Hazard?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Caesar Clown", "correta": true },
+      { "texto": "Judge Vinsmoke", "correta": false },
+      { "texto": "Queen", "correta": false },
+      { "texto": "Tsukimi", "correta": false }
+    ]
   },
 
   {
     "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da técnica mais famosa de Luffy antes dos Gears?",
-    "resposta": "Gomu Gomu no Pistol",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem foi o mentor de Chopper em Drum?",
-    "resposta": "Dr Hiluluk",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual Shichibukai governava Alabasta secretamente?",
-    "resposta": "Crocodile",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual membro da CP9 enfrentou Sanji em Enies Lobby?",
-    "resposta": "Jabra",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem derrotou Rob Lucci em Enies Lobby?",
-    "resposta": "Luffy",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da ilha onde Nico Robin nasceu?",
-    "resposta": "Ohara",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem era o gigante amigo de Robin em Ohara?",
-    "resposta": "Jaguar D Saul",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual almirante congelou Nico Robin quando ela era criança?",
-    "resposta": "Aokiji",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem construiu o Thousand Sunny?",
-    "resposta": "Franky",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da madeira usada no Thousand Sunny?",
-    "resposta": "Adam",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem derrotou Enel em Skypiea?",
-    "resposta": "Luffy",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual era a recompensa de Luffy após Enies Lobby?",
-    "resposta": "300 milhões",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem treinou Zoro durante o timeskip?",
-    "resposta": "Dracule Mihawk",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem treinou Luffy durante o timeskip?",
-    "resposta": "Silvers Rayleigh",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da ilha onde Luffy treinou?",
-    "resposta": "Rusukaina",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem era o capitão dos Piratas do Sol?",
-    "resposta": "Fisher Tiger",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem é a princesa da Ilha dos Homens-Peixe?",
-    "resposta": "Shirahoshi",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da arma ancestral associada a Shirahoshi?",
-    "resposta": "Poseidon",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem governava Dressrosa antes de Doflamingo?",
-    "resposta": "Rei Riku",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem derrotou Doflamingo?",
-    "resposta": "Luffy",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual Gear foi usado para derrotar Doflamingo?",
-    "resposta": "Gear Fourth",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da forma Gear Fourth mais usada por Luffy?",
-    "resposta": "Boundman",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem é o irmão adotivo de Luffy e Ace?",
-    "resposta": "Sabo",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem herdou a Mera Mera no Mi após Ace?",
-    "resposta": "Sabo",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem é o líder do Exército Revolucionário?",
-    "resposta": "Monkey D Dragon",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual Yonko governa Whole Cake Island?",
-    "resposta": "Big Mom",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome verdadeiro da Big Mom?",
-    "resposta": "Charlotte Linlin",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem é o filho mais forte da Big Mom?",
-    "resposta": "Charlotte Katakuri",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem derrotou Katakuri?",
-    "resposta": "Luffy",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual poder especial do Haki Katakuri demonstrou?",
-    "resposta": "Ver o futuro",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual é o país inspirado no Japão em One Piece?",
-    "resposta": "Wano",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem era o xogum de Wano aliado de Kaido?",
-    "resposta": "Kurozumi Orochi",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem foi o daimyo lendário de Wano e pai de Momonosuke?",
-    "resposta": "Kozuki Oden",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem matou Kozuki Oden?",
-    "resposta": "Kaido",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual Yonko era conhecido como a Criatura Mais Forte do Mundo?",
-    "resposta": "Kaido",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Quem derrotou Kaido?",
-    "resposta": "Luffy",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual membro dos Chapéus de Palha sonha em desenhar o mapa do mundo?",
-    "resposta": "Nami",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual membro dos Chapéus de Palha sonha em encontrar o All Blue?",
-    "resposta": "Sanji",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual membro dos Chapéus de Palha sonha em se tornar um bravo guerreiro do mar?",
-    "resposta": "Usopp",
-    "pontos": 3
-  },
-  {
-    "categoria": "One Piece",
-    "dificuldade": "media",
-    "pergunta": "Qual membro dos Chapéus de Palha deseja descobrir a verdadeira história do mundo?",
-    "resposta": "Nico Robin",
-    "pontos": 3
-  },
-
-  {
-    "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do antigo reino apagado da história mundial?",
-    "resposta": "Reino Antigo",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome específico da árvore de onde provém a madeira de altíssima qualidade usada para construir o Thousand Sunny?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Árvore de Adam", "correta": true },
+      { "texto": "Árvore de Eve", "correta": false },
+      { "texto": "Yarukiman Mangrove", "correta": false },
+      { "texto": "Trevo de Ohara", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem é a única pessoa conhecida capaz de ler os Poneglyphs entre os Chapéus de Palha?",
-    "resposta": "Nico Robin",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do navio principal pertencente aos Piratas do Sol, liderados originalmente por Fisher Tiger?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Snapper Head", "correta": true },
+      { "texto": "Taiyo Maru", "correta": false },
+      { "texto": "Sea Lamb", "correta": false },
+      { "texto": "Coral Crown", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da ilha final alcançada por Gol D. Roger?",
-    "resposta": "Laugh Tale",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Antes de se tornar o Almirante de Frota, qual era o verdadeiro nome (nome de batismo) de Akainu?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sakazuki", "correta": true },
+      { "texto": "Kuzan", "correta": false },
+      { "texto": "Borsalino", "correta": false },
+      { "texto": "Issho", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem foi o primeiro pirata a chegar em Laugh Tale?",
-    "resposta": "Gol D. Roger",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "De acordo com as notas de Oda (SBS), qual o nome do ferreiro que forjou as famosas espadas Wado Ichimonji e Enma?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shimotsuki Kozaburo", "correta": true },
+      { "texto": "Tenguyama Hitetsu", "correta": false },
+      { "texto": "Shimotsuki Ushimaru", "correta": false },
+      { "texto": "Sukiyaki Kozuki", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual era o nome do navio de Gol D. Roger?",
-    "resposta": "Oro Jackson",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual das seguintes divisões da Cipher Pol é conhecida por ser a facção secreta de inteligência interna, à qual pertencia X Drake?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "SWORD", "correta": true },
+      { "texto": "CP-0", "correta": false },
+      { "texto": "CP9", "correta": false },
+      { "texto": "Aegis", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem era o imediato dos Piratas do Roger?",
-    "resposta": "Silvers Rayleigh",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual era o nome do Vice-Almirante da Marinha que sacrificou sua vida em Ohara para permitir que Nico Robin escapasse?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jaguar D. Saul", "correta": true },
+      { "texto": "Jonathan", "correta": false },
+      { "texto": "Stainless", "correta": false },
+      { "texto": "Onigumo", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual membro da tripulação de Roger era conhecido como Scopper?",
-    "resposta": "Scopper Gaban",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A Akuma no Mi do tipo Zoan Mítica de Kaido, a Uo Uo no Mi, é literalmente classificada sob qual modelo animal básico?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Modelo Peixe", "correta": true },
+      { "texto": "Modelo Dragão", "correta": false },
+      { "texto": "Modelo Serpente", "correta": false },
+      { "texto": "Modelo Dinossauro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o verdadeiro nome da Akuma no Mi de Luffy?",
-    "resposta": "Hito Hito no Mi Modelo Nika",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o responsável direto por dar o icônico apelido de 'Sogeking' para Usopp durante o arco de Enies Lobby?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O próprio Usopp", "correta": true },
+      { "texto": "Luffy", "correta": false },
+      { "texto": "Chopper", "correta": false },
+      { "texto": "Zoro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual forma desperta da fruta de Luffy foi revelada em Wano?",
-    "resposta": "Gear Fifth",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "No bando de Gecko Moriah em Thriller Bark, qual é o nome do zumbi número 900, que continha a sombra de Luffy?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Oars", "correta": true },
+      { "texto": "Ryuma", "correta": false },
+      { "texto": "Lola", "correta": false },
+      { "texto": "Jigoro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem é conhecido como Deus do Sol Nika?",
-    "resposta": "Nika",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual Shichibukai tem a sua recompensa original (antes do congelamento) exatamente fixada em 340 milhões de Berries?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Donquixote Doflamingo", "correta": true },
+      { "texto": "Bartholomew Kuma", "correta": false },
+      { "texto": "Gecko Moriah", "correta": false },
+      { "texto": "Jinbe", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem roubou a fruta de Luffy do Governo Mundial?",
-    "resposta": "Shanks",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Durante o arco de Skypiea, qual era o nome da gigantesca serpente mística que habitava as ruínas de Shandora?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nola", "correta": true },
+      { "texto": "Kashigami", "correta": false },
+      { "texto": "Surume", "correta": false },
+      { "texto": "Laboon", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual agente da CP9 perdeu a fruta que depois foi comida por Luffy?",
-    "resposta": "Who's Who",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da ilha do Novo Mundo onde ocorreu o devastador e histórico duelo de 10 dias entre Akainu e Aokiji pelo cargo de Almirante de Frota?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Punk Hazard", "correta": true },
+      { "texto": "Raijin", "correta": false },
+      { "texto": "Risky Red", "correta": false },
+      { "texto": "Mystoria", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual era o nome do elefante gigante que carrega Zou?",
-    "resposta": "Zunesha",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual membro da família Charlotte, trigêmeo de Katakuri e Oven, possui os poderes da Netsu Netsu no Mi?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Oven", "correta": true },
+      { "texto": "Daifuku", "correta": false },
+      { "texto": "Perospero", "correta": false },
+      { "texto": "Cracker", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem conseguiu se comunicar diretamente com Zunesha?",
-    "resposta": "Momonosuke",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o lendário mestre que ensinou as artes do Haki de Armamento Avançado (Ryou) para Luffy na prisão de Udon, em Wano?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hyougoro do Fluxo", "correta": true },
+      { "texto": "Silvers Rayleigh", "correta": false },
+      { "texto": "Kozuki Oden", "correta": false },
+      { "texto": "Kawamatsu", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da tribo de cães e gatos que vive em Zou?",
-    "resposta": "Minks",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a designação numérica exata dada pelo Governo Mundial ao Poneglyph que aponta a localização final de uma Arma Antiga?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rio Poneglyph", "correta": true },
+      { "texto": "Road Poneglyph", "correta": false },
+      { "texto": "Historical Poneglyph", "correta": false },
+      { "texto": "Instructional Poneglyph", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual transformação especial os Minks podem utilizar sob a lua cheia?",
-    "resposta": "Sulong",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da organização criminosa de caçadores de recompensa que Zoro fundou ao lado de Johnny e Yosaku antes de conhecer Luffy?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Eles nunca tiveram um nome formal de grupo", "correta": true },
+      { "texto": "Guerreiros de East Blue", "correta": false },
+      { "texto": "Zoro Trio Catcher", "correta": false },
+      { "texto": "Lâminas de Shells", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem era o líder dos Piratas Rocks?",
-    "resposta": "Rocks D. Xebec",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome correto da ilha natal do bando de piratas de Shanks, o Ruivo, revelada em materiais canônicos extras?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vila Foosha", "correta": false },
+      { "texto": "Reino de Sphinx", "correta": false },
+      { "texto": "West Blue (Origem geral sem ilha nomeada)", "correta": true },
+      { "texto": "Elbaf", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Em qual incidente os Piratas Rocks foram derrotados?",
-    "resposta": "Incidente de God Valley",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da Akuma no Mi de Donquixote Rosinante (Corazon), que permitia isolar sons completamente?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nagi Nagi no Mi", "correta": true },
+      { "texto": "Shizu Shizu no Mi", "correta": false },
+      { "texto": "Oto Oto no Mi", "correta": false },
+      { "texto": "Pika Pika no Mi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem se aliou a Garp para derrotar Rocks?",
-    "resposta": "Gol D. Roger",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem era o detentor do recorde e título de chefe supremo da tribo dos braços longos que treinou Brook durante o timeskip?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sanyuan", "correta": true },
+      { "texto": "Ideo", "correta": false },
+      { "texto": "Scratchmen Apoo", "correta": false },
+      { "texto": "Masira", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual ilha desapareceu dos mapas após os acontecimentos envolvendo Sabo?",
-    "resposta": "Lulusia",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual andar específico da torre judicial em Enies Lobby Spandam acionou o catastrófico sinal do Buster Call?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Subsolo (Túnel Subaquático)", "correta": true },
+      { "texto": "Topo da Torre", "correta": false },
+      { "texto": "Varanda dos Desafios", "correta": false },
+      { "texto": "Sala de Interrogatório", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem ocupa secretamente o Trono Vazio?",
-    "resposta": "Imu",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da mãe biológica de Portgas D. Ace, que estendeu sua gestação por 20 meses para protegê-lo da Marinha?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Portgas D. Rouge", "correta": true },
+      { "texto": "Nico Olvia", "correta": false },
+      { "texto": "Vinsmoke Sora", "correta": false },
+      { "texto": "Curly Dadan", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual organização governa o mundo de One Piece?",
-    "resposta": "Governo Mundial",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quantas cicatrizes de cortes de espada o Barba Branca tinha em suas costas ao falecer em Marineford?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Zero", "correta": true },
+      { "texto": "Uma única cicatriz profunda", "correta": false },
+      { "texto": "Dezenas espalhadas", "correta": false },
+      { "texto": "Duas cruzadas", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quantas armas ancestrais existem conhecidas na história?",
-    "resposta": "Tres",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome do navio usado pelos Piratas de Roger, feito completamente de madeira de Adam?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Oro Jackson", "correta": true },
+      { "texto": "Moby Dick", "correta": false },
+      { "texto": "Red Force", "correta": false },
+      { "texto": "St. Briss", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quais são as três armas ancestrais?",
-    "resposta": "Pluton Poseidon Uranus",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da fruta do diabo de Sugar, cujo poder transforma pessoas em brinquedos e apaga a memória de suas existências?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hobi Hobi no Mi", "correta": true },
+      { "texto": "Sui Sui no Mi", "correta": false },
+      { "texto": "Giro Giro no Mi", "correta": false },
+      { "texto": "Pamú Pamú no Mi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem conhecia os planos da arma ancestral Pluton em Water 7?",
-    "resposta": "Iceburg",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da misteriosa entidade ancestral que se senta no Trono Vazio de Mary Geoise e comanda os Cinco Anciãos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Im-sama (Imu)", "correta": true },
+      { "texto": "Joy Boy", "correta": false },
+      { "texto": "Rocks D. Xebec", "correta": false },
+      { "texto": "Saint Figarland", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem queimou os projetos de Pluton?",
-    "resposta": "Franky",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o vice-capitão da infame tripulação dos Piratas Rocks, liderada por Rocks D. Xebec?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "A tripulação não possuía um vice-capitão oficial devido à sua natureza caótica", "correta": true },
+      { "texto": "Edward Newgate", "correta": false },
+      { "texto": "Charlotte Linlin", "correta": false },
+      { "texto": "Shiki", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual era o codinome de Nico Robin na Baroque Works?",
-    "resposta": "Miss All Sunday",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome do lendário e recluso líder supremo da Tribo dos Três Olhos que é capaz de ouvir a 'Voz de Todas as Coisas'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nenhum membro puro foi mostrado vivo; Charlotte Pudding é apenas mestiça", "correta": true },
+      { "texto": "Tenryubito Mjosgard", "correta": false },
+      { "texto": "Kozuki Sukiyaki", "correta": false },
+      { "texto": "Fisher Tiger", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual membro da CP9 derrotou Blueno usando Gear Second pela primeira vez?",
-    "resposta": "Luffy",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "No bando do Barba Negra, qual é a classificação e modelo exato da Akuma no Mi mítica do tipo Zoan consumida por Catarina Devon?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Inu Inu no Mi, Modelo: Kyubi no Kitsune", "correta": true },
+      { "texto": "Inu Inu no Mi, Modelo: Jackal", "correta": false },
+      { "texto": "Hito Hito no Mi, Modelo: Daibutsu", "correta": false },
+      { "texto": "Hebi Hebi no Mi, Modelo: Yamata no Orochi", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da espada amaldiçoada adquirida por Zoro em Loguetown?",
-    "resposta": "Sandai Kitetsu",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual membro proeminente das Bainhas Vermelhas passou 20 anos disfarçado em Wano sob a identidade do chefe Yakuza Kyoshiro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Denjiro", "correta": true },
+      { "texto": "Ashura Doji", "correta": false },
+      { "texto": "Kawamatsu", "correta": false },
+      { "texto": "Kin'emon", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual espada lendária Zoro recebeu em Wano?",
-    "resposta": "Enma",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da ilha onde Luffy treinou seu Haki isolado do resto do mundo com Silvers Rayleigh por dois anos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rusukaina", "correta": true },
+      { "texto": "Sabaody", "correta": false },
+      { "texto": "Kuraigana", "correta": false },
+      { "texto": "Momoiro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem forjou a espada Enma?",
-    "resposta": "Shimotsuki Kozaburo",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A quem pertencia a Akuma no Mi da ressurreição (Yomi Yomi no Mi) antes de Brook consumi-la, de acordo com o folclore do mar?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Desconhecido; Brook foi o único usuário registrado na história recente", "correta": true },
+      { "texto": "Dr. Hogback", "correta": false },
+      { "texto": "Yorki", "correta": false },
+      { "texto": "Gecko Moriah", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual era o nome do samurai que viajou com Roger e escreveu os Poneglyphs?",
-    "resposta": "Kozuki Oden",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o Almirante da Marinha que liderou o Buster Call original que destruiu a ilha de Ohara há 20 anos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sengoku (junto com ordens superiores)", "correta": true },
+      { "texto": "Kong", "correta": false },
+      { "texto": "Zephyr", "correta": false },
+      { "texto": "Aokiji", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem derrotou King em Onigashima?",
-    "resposta": "Roronoa Zoro",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da técnica suprema do estilo de uma espada (Ittoryu) que Zoro utilizou contra King para cortar suas chamas em Wano?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hiryu Kaen", "correta": false },
+      { "texto": "Ittoryu Iai: Shishi Sonson", "correta": false },
+      { "texto": "King of Hell: Three Dragon Style (Técnica de 3 espadas)", "correta": false },
+      { "texto": "Hiryu Jigoku (Dragão Voador de Fogo Infernal)", "correta": true }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem derrotou Queen em Onigashima?",
-    "resposta": "Sanji",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "A linhagem biológica mutante da família Vinsmoke (Germa 66) foi desenvolvida utilizando qual conceito científico descoberto por Judge e Vegapunk?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Fator de Linhagem (DNA)", "correta": true },
+      { "texto": "Fator Pyrobloin", "correta": false },
+      { "texto": "Energia Antiga do Século Perdido", "correta": false },
+      { "texto": "Síntese de SAD", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual raça quase extinta pertence King?",
-    "resposta": "Lunarianos",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome do líder dos revolucionários do Reino de Kamabakka que ajudou Sanji a dominar a 'Attack Cuisine' durante o timeskip?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Emporio Ivankov", "correta": true },
+      { "texto": "Inazuma", "correta": false },
+      { "texto": "Morley", "correta": false },
+      { "texto": "Caroline", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem foi o cientista chefe do laboratório de Punk Hazard?",
-    "resposta": "Caesar Clown",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual dos Cinco Anciãos (Gorosei) é o título formal de 'Deus Guerreiro da Justiça Científica'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Saint Jaygarcia Saturn", "correta": true },
+      { "texto": "Saint Marcus Mars", "correta": false },
+      { "texto": "Saint Topman Warcury", "correta": false },
+      { "texto": "Saint Ethanbaron V. Nusjuro", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual cientista criou os Seraphim?",
-    "resposta": "Vegapunk",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a exata quantia em Berries paga como recompensa pela captura de Nico Robin logo após a fuga dela do desastre de Ohara, aos 8 anos de idade?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "79.000.000 de Berries", "correta": true },
+      { "texto": "80.000.000 de Berries", "correta": false },
+      { "texto": "130.000.000 de Berries", "correta": false },
+      { "texto": "50.000.000 de Berries", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual era o nome do reino destruído há cerca de 800 anos durante o Século Perdido?",
-    "resposta": "Reino Antigo",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da capitã pirata da era antiga que foi transformada na estátua gigante de pedra em Amazon Lily pelas Kuja?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nenhuma estátua foi baseada em uma pirata real; é uma lenda urbana local", "correta": true },
+      { "texto": "Shakuyaku (Shakky)", "correta": false },
+      { "texto": "Gloriosa (Elder Nyon)", "correta": false },
+      { "texto": "Bakkin", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do século apagado da história mundial?",
-    "resposta": "Século Perdido",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o legítimo criador e supervisor do projeto original das prisões tecnológicas em forma de caracol usadas pela Germa 66?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vinsmoke Judge", "correta": true },
+      { "texto": "Caesar Clown", "correta": false },
+      { "texto": "Dr. Vegapunk", "correta": false },
+      { "texto": "Queen", "correta": false }
+    ]
   },
   {
     "categoria": "One Piece",
     "dificuldade": "dificil",
-    "pergunta": "Quem foi o primeiro personagem a mencionar Joy Boy na história?",
-    "resposta": "Nico Robin",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da lendária canção de piratas que Brook e sua antiga tripulação (Piratas Rorbar) cantavam e que foi gravada em um Tone Dial antes de morrerem?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Sake de Binks (Binks no Sake)", "correta": true },
+      { "texto": "A Canção do Mar Aberto", "correta": false },
+      { "texto": "We Are!", "correta": false },
+      { "texto": "Memories of the Sea", "correta": false }
+    ]
   }
 ]
+]
+
+ 

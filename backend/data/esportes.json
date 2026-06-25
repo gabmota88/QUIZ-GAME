@@ -1,844 +1,1571 @@
 [
+
+  [
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quantos jogadores cada time possui em campo no futebol?",
-    "resposta": "11",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "11", "correta": true },
+      { "texto": "10", "correta": false },
+      { "texto": "9", "correta": false },
+      { "texto": "12", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país venceu a Copa do Mundo de 2002?",
-    "resposta": "Brasil",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Argentina", "correta": false },
+      { "texto": "França", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual jogador brasileiro é conhecido como Rei do Futebol?",
-    "resposta": "Pelé",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pelé", "correta": true },
+      { "texto": "Garrincha", "correta": false },
+      { "texto": "Zico", "correta": false },
+      { "texto": "Romário", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual seleção venceu a Copa do Mundo de 2022?",
-    "resposta": "Argentina",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "França", "correta": false },
+      { "texto": "Croácia", "correta": false },
+      { "texto": "Marrocos", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em qual esporte atua Neymar?",
-    "resposta": "Futebol",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Futebol", "correta": true },
+      { "texto": "Futsal", "correta": false },
+      { "texto": "Vôlei", "correta": false },
+      { "texto": "Basquete", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o principal torneio de seleções do futebol mundial?",
-    "resposta": "Copa do Mundo",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Copa do Mundo", "correta": true },
+      { "texto": "Eurocopa", "correta": false },
+      { "texto": "Copa América", "correta": false },
+      { "texto": "Liga das Nações", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
-    "resposta": "Brasil",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "África do Sul", "correta": false },
+      { "texto": "Rússia", "correta": false },
+      { "texto": "Alemanha", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quantos anéis existem no símbolo olímpico?",
-    "resposta": "5",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "5", "correta": true },
+      { "texto": "6", "correta": false },
+      { "texto": "4", "correta": false },
+      { "texto": "7", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual seleção é conhecida como La Albiceleste?",
-    "resposta": "Argentina",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "Uruguai", "correta": false },
+      { "texto": "Espanha", "correta": false },
+      { "texto": "Chile", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual jogador argentino conquistou a Copa do Mundo de 2022?",
-    "resposta": "Lionel Messi",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lionel Messi", "correta": true },
+      { "texto": "Ángel Di María", "correta": false },
+      { "texto": "Lautaro Martínez", "correta": false },
+      { "texto": "Paulo Dybala", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país possui mais títulos de Copa do Mundo?",
-    "resposta": "Brasil",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Itália", "correta": false },
+      { "texto": "França", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é a cor tradicional da camisa da Seleção Brasileira?",
-    "resposta": "Amarela",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Amarela", "correta": true },
+      { "texto": "Verde", "correta": false },
+      { "texto": "Azul", "correta": false },
+      { "texto": "Branca", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é conhecido como Fenômeno no futebol brasileiro?",
-    "resposta": "Ronaldo",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ronaldo", "correta": true },
+      { "texto": "Ronaldinho", "correta": false },
+      { "texto": "Romário", "correta": false },
+      { "texto": "Rivaldo", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual esporte utiliza uma bola oval?",
-    "resposta": "Rugby",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rugby", "correta": true },
+      { "texto": "Futebol", "correta": false },
+      { "texto": "Basquete", "correta": false },
+      { "texto": "Handebol", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em qual esporte Rebeca Andrade se destacou?",
-    "resposta": "Ginástica Artística",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ginástica Artística", "correta": true },
+      { "texto": "Atletismo", "correta": false },
+      { "texto": "Natação", "correta": false },
+      { "texto": "Patinação", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país sediou os Jogos Olímpicos de 2016?",
-    "resposta": "Brasil",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Reino Unido", "correta": false },
+      { "texto": "Japão", "correta": false },
+      { "texto": "China", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual seleção venceu a Copa do Mundo de 2018?",
-    "resposta": "França",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "França", "correta": true },
+      { "texto": "Croácia", "correta": false },
+      { "texto": "Bélgica", "correta": false },
+      { "texto": "Inglaterra", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da entidade máxima do futebol mundial?",
-    "resposta": "FIFA",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "FIFA", "correta": true },
+      { "texto": "UEFA", "correta": false },
+      { "texto": "CONMEBOL", "correta": false },
+      { "texto": "COI", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quantos tempos tem uma partida de futebol?",
-    "resposta": "2",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "2", "correta": true },
+      { "texto": "4", "correta": false },
+      { "texto": "3", "correta": false },
+      { "texto": "1", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quantos minutos tem cada tempo de uma partida oficial?",
-    "resposta": "45",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "45", "correta": true },
+      { "texto": "40", "correta": false },
+      { "texto": "50", "correta": false },
+      { "texto": "35", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual atleta brasileiro é conhecido como Mão Santa?",
-    "resposta": "Oscar Schmidt",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Oscar Schmidt", "correta": true },
+      { "texto": "Hortência", "correta": false },
+      { "texto": "Marcel de Souza", "correta": false },
+      { "texto": "Magic Paula", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país venceu a primeira Copa do Mundo em 1930?",
-    "resposta": "Uruguai",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Uruguai", "correta": true },
+      { "texto": "Argentina", "correta": false },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Itália", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome do troféu entregue ao campeão da Copa do Mundo?",
-    "resposta": "Taça FIFA",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Taça FIFA", "correta": true },
+      { "texto": "Taça Jules Rimet", "correta": false },
+      { "texto": "Copa do Mundo", "correta": false },
+      { "texto": "Troféu do Campeão", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país é famoso pelos All Blacks?",
-    "resposta": "Nova Zelândia",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nova Zelândia", "correta": true },
+      { "texto": "Austrália", "correta": false },
+      { "texto": "África do Sul", "correta": false },
+      { "texto": "Inglaterra", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual esporte pratica Rayssa Leal?",
-    "resposta": "Skate",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Skate", "correta": true },
+      { "texto": "Surf", "correta": false },
+      { "texto": "Ginástica", "correta": false },
+      { "texto": "Judô", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual jogador ficou conhecido como Bruxo no futebol brasileiro?",
-    "resposta": "Ronaldinho Gaúcho",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ronaldinho Gaúcho", "correta": true },
+      { "texto": "Neymar", "correta": false },
+      { "texto": "Pelé", "correta": false },
+      { "texto": "Ronaldo Fenômeno", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual seleção eliminou o Brasil por 7 a 1 em 2014?",
-    "resposta": "Alemanha",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alemanha", "correta": true },
+      { "texto": "Holanda", "correta": false },
+      { "texto": "Argentina", "correta": false },
+      { "texto": "França", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o esporte de Michael Phelps?",
-    "resposta": "Natação",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Natação", "correta": true },
+      { "texto": "Atletismo", "correta": false },
+      { "texto": "Ginástica", "correta": false },
+      { "texto": "Ciclismo", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual seleção é conhecida como Azzurra?",
-    "resposta": "Itália",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Itália", "correta": true },
+      { "texto": "França", "correta": false },
+      { "texto": "espanha", "correta": false },
+      { "texto": "Uruguai", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país sediou as Olimpíadas de Tóquio 2020?",
-    "resposta": "Japão",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Japão", "correta": true },
+      { "texto": "China", "correta": false },
+      { "texto": "Coreia do Sul", "correta": false },
+      { "texto": "Austrália", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual esporte usa uma rede e uma bola amarela pequena?",
-    "resposta": "Tênis",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tênis", "correta": true },
+      { "texto": "Ping-pong", "correta": false },
+      { "texto": "Vôlei", "correta": false },
+      { "texto": "Badminton", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem é o maior artilheiro da história das Copas do Mundo?",
-    "resposta": "Miroslav Klose",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Miroslav Klose", "correta": true },
+      { "texto": "Ronaldo Fenômeno", "correta": false },
+      { "texto": "Pelé", "correta": false },
+      { "texto": "Just Fontaine", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país venceu a Copa América de 2021?",
-    "resposta": "Argentina",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Colômbia", "correta": false },
+      { "texto": "Chile", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é o principal torneio de clubes da Europa?",
-    "resposta": "Liga dos Campeões",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Liga dos Campeões", "correta": true },
+      { "texto": "Liga Europa", "correta": false },
+      { "texto": "Supercopa Europeia", "correta": false },
+      { "texto": "Mundial de Clubes", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual brasileiro ganhou ouro olímpico no surfe em 2024?",
-    "resposta": "Gabriel Medina",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gabriel Medina", "correta": true },
+      { "texto": "Ítalo Ferreira", "correta": false },
+      { "texto": "Filipe Toledo", "correta": false },
+      { "texto": "João Chianca", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual seleção é chamada de Canarinho?",
-    "resposta": "Brasil",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Colômbia", "correta": false },
+      { "texto": "Equador", "correta": false },
+      { "texto": "Austrália", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual jogador português é conhecido pela sigla CR7?",
-    "resposta": "Cristiano Ronaldo",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cristiano Ronaldo", "correta": true },
+      { "texto": "Ronaldo Fenômeno", "correta": false },
+      { "texto": "Ronaldinho", "correta": false },
+      { "texto": "Ricardo Quaresma", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
-    "pergunta": "Qual é a cor do cartão que resulta em expulsão no futebol?",
-    "resposta": "Vermelho",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a cor do cartão que resulta em expulsion no futebol?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vermelho", "correta": true },
+      { "texto": "Amarelo", "correta": false },
+      { "texto": "Azul", "correta": false },
+      { "texto": "Verde", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual é a cor do cartão de advertência no futebol?",
-    "resposta": "Amarelo",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Amarelo", "correta": true },
+      { "texto": "Vermelho", "correta": false },
+      { "texto": "Azul", "correta": false },
+      { "texto": "Branco", "correta": false }
+    ]
   },
   {
     "categoria": "Esportes",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual país venceu a Copa do Mundo de 1994?",
-    "resposta": "Brasil",
-    "pontos": 1
-  },
-
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção venceu a Copa do Mundo de 2010?",
-    "resposta": "Espanha",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem marcou o gol do título da Espanha na Copa de 2010?",
-    "resposta": "Andres Iniesta",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual país sediou a Copa do Mundo de 2018?",
-    "resposta": "Rússia",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2014?",
-    "resposta": "James Rodriguez",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção eliminou o Brasil na Copa do Mundo de 2022?",
-    "resposta": "Croácia",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual clube revelou Lionel Messi profissionalmente?",
-    "resposta": "Barcelona",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual clube revelou Cristiano Ronaldo profissionalmente?",
-    "resposta": "Sporting",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem foi o técnico da Seleção Brasileira campeã em 2002?",
-    "resposta": "Luiz Felipe Scolari",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual país venceu a Eurocopa de 2016?",
-    "resposta": "Portugal",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem marcou o gol do título de Portugal na Euro 2016?",
-    "resposta": "Eder",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção venceu a Copa América de 2019?",
-    "resposta": "Brasil",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção venceu a Copa América de 2024?",
-    "resposta": "Argentina",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual país sediou as Olimpíadas de Londres em 2012?",
-    "resposta": "Reino Unido",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem foi o atleta mais medalhado da história das Olimpíadas?",
-    "resposta": "Michael Phelps",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Em qual cidade aconteceram as Olimpíadas de 2008?",
-    "resposta": "Pequim",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual brasileira conquistou ouro olímpico no salto sobre a mesa em 2024?",
-    "resposta": "Rebeca Andrade",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem acendeu a pira olímpica na abertura do Rio 2016?",
-    "resposta": "Vanderlei Cordeiro de Lima",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual jogador é conhecido como La Pulga?",
-    "resposta": "Lionel Messi",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual goleiro brasileiro foi titular na conquista da Copa de 2002?",
-    "resposta": "Marcos",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção foi vice-campeã da Copa do Mundo de 2022?",
-    "resposta": "França",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2022?",
-    "resposta": "Kylian Mbappe",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual país venceu a Copa do Mundo de 2006?",
-    "resposta": "Itália",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Contra qual seleção Zidane foi expulso na final da Copa de 2006?",
-    "resposta": "Itália",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual clube é conhecido como Merengue?",
-    "resposta": "Real Madrid",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual clube é conhecido como Blaugrana?",
-    "resposta": "Barcelona",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção venceu o ouro olímpico no futebol masculino em 2016?",
-    "resposta": "Brasil",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Contra qual seleção o Brasil conquistou o ouro olímpico em 2016?",
-    "resposta": "Alemanha",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem marcou o último pênalti do Brasil na final olímpica de 2016?",
-    "resposta": "Neymar",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual atleta jamaicano ganhou oito medalhas de ouro olímpicas no atletismo?",
-    "resposta": "Usain Bolt",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual atleta brasileira é conhecida como Fadinha?",
-    "resposta": "Rayssa Leal",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual país venceu a primeira medalha de ouro do futebol olímpico masculino?",
-    "resposta": "Grã Bretanha",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção venceu a Copa das Confederações de 2013?",
-    "resposta": "Brasil",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem foi eleito o melhor jogador da Copa do Mundo de 2014?",
-    "resposta": "Lionel Messi",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Quem foi eleito o melhor jogador da Copa do Mundo de 2022?",
-    "resposta": "Lionel Messi",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção conquistou a Eurocopa de 2021?",
-    "resposta": "Itália",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual país sediou a Eurocopa de 2024?",
-    "resposta": "Alemanha",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual atleta brasileiro conquistou ouro olímpico no salto com vara em 2016?",
-    "resposta": "Thiago Braz",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção é conhecida como Oranje?",
-    "resposta": "Holanda",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual seleção ficou famosa pela geração chamada de Carrossel Holandês?",
-    "resposta": "Holanda",
-    "pontos": 3
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "media",
-    "pergunta": "Qual jogador brasileiro venceu a Bola de Ouro em 2007?",
-    "resposta": "Kaka",
-    "pontos": 3
-  },
-
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o artilheiro da Copa do Mundo de 1998?",
-    "resposta": "Davor Suker",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção eliminou o Brasil na final da Copa do Mundo de 1998?",
-    "resposta": "França",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem marcou os dois gols da França na final da Copa do Mundo de 1998?",
-    "resposta": "Zinedine Zidane",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção venceu a Copa do Mundo de 1978?",
-    "resposta": "Argentina",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o capitão da Seleção Brasileira na conquista da Copa de 1970?",
-    "resposta": "Carlos Alberto Torres",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual jogador marcou o quarto gol do Brasil na final da Copa de 1970?",
-    "resposta": "Carlos Alberto Torres",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual país sediou a primeira Copa do Mundo?",
-    "resposta": "Uruguai",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o técnico da Seleção Brasileira campeã da Copa do Mundo de 1994?",
-    "resposta": "Carlos Alberto Parreira",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção venceu a Copa do Mundo de 1954?",
-    "resposta": "Alemanha Ocidental",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem ficou conhecido como Kaiser Franz no futebol?",
-    "resposta": "Franz Beckenbauer",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual jogador ganhou a Bola de Ouro de 1999?",
-    "resposta": "Rivaldo",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual clube venceu a primeira edição da Liga dos Campeões da UEFA?",
-    "resposta": "Real Madrid",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem é o maior vencedor da Liga dos Campeões como jogador?",
-    "resposta": "Francisco Gento",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção venceu a Eurocopa de 2004 de forma surpreendente?",
-    "resposta": "Grécia",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem marcou o gol do título da Grécia na Eurocopa de 2004?",
-    "resposta": "Angelos Charisteas",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual jogador brasileiro ganhou a Bola de Ouro de 2005?",
-    "resposta": "Ronaldinho Gaucho",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual país sediou os Jogos Olímpicos de 1936?",
-    "resposta": "Alemanha",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual atleta conquistou quatro medalhas de ouro em Berlim 1936?",
-    "resposta": "Jesse Owens",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o primeiro atleta a correr os 100 metros abaixo de 10 segundos oficialmente?",
-    "resposta": "Jim Hines",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual atleta brasileiro ficou famoso pelo ouro olímpico no salto triplo em 1984?",
-    "resposta": "Joao do Pulo",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual país liderou o quadro de medalhas das Olimpíadas de Tóquio 2020?",
-    "resposta": "Estados Unidos",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual nadador conquistou 23 medalhas de ouro olímpicas?",
-    "resposta": "Michael Phelps",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem é o maior artilheiro da história da Seleção Brasileira masculina?",
-    "resposta": "Neymar",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual jogador marcou o gol do título da Copa do Mundo de 2014?",
-    "resposta": "Mario Gotze",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção foi derrotada pela Alemanha na final da Copa de 2014?",
-    "resposta": "Argentina",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o capitão da Argentina campeã do mundo em 2022?",
-    "resposta": "Lionel Messi",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção venceu a primeira edição da Eurocopa em 1960?",
-    "resposta": "Uniao Sovietica",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem foi o goleiro da Itália campeã da Copa do Mundo de 2006?",
-    "resposta": "Gianluigi Buffon",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual país conquistou o ouro olímpico no futebol masculino em 1992?",
-    "resposta": "Espanha",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual atleta brasileiro conquistou ouro olímpico na maratona em Atenas 2004 após sofrer uma agressão durante a prova?",
-    "resposta": "Vanderlei Cordeiro de Lima",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual jogador venceu oito Bolas de Ouro até 2023?",
-    "resposta": "Lionel Messi",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual clube português revelou Luis Figo?",
-    "resposta": "Sporting",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção venceu a Copa do Mundo de 1958?",
-    "resposta": "Brasil",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem marcou dois gols para o Brasil na final da Copa de 1958?",
-    "resposta": "Pele",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual atleta ficou conhecido como O Homem Mais Rapido do Mundo?",
-    "resposta": "Usain Bolt",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção conquistou a Copa do Mundo de 1986?",
-    "resposta": "Argentina",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem marcou o famoso gol conhecido como A Mao de Deus?",
-    "resposta": "Diego Maradona",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual país sediou os Jogos Olímpicos de Atenas em 2004?",
-    "resposta": "Grecia",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Qual seleção venceu a Copa do Mundo de 1966?",
-    "resposta": "Inglaterra",
-    "pontos": 5
-  },
-  {
-    "categoria": "Esportes",
-    "dificuldade": "dificil",
-    "pergunta": "Quem marcou o gol que garantiu o ouro olímpico do Brasil no futebol masculino em 2016 na disputa por pênaltis?",
-    "resposta": "Neymar",
-    "pontos": 5
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Itália", "correta": false },
+      { "texto": "Suécia", "correta": false },
+      { "texto": "Bulgária", "correta": false }
+    ]
   }
+],
+  
+[
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa do Mundo de 2010?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Espanha", "correta": true },
+      { "texto": "Holanda", "correta": false },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Uruguai", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou o gol do título da Espanha na Copa de 2010?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Andres Iniesta", "correta": true },
+      { "texto": "Xavi Hernández", "correta": false },
+      { "texto": "David Villa", "correta": false },
+      { "texto": "Fernando Torres", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país sediou a Copa do Mundo de 2018?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Rússia", "correta": true },
+      { "texto": "Catar", "correta": false },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "África do Sul", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2014?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "James Rodriguez", "correta": true },
+      { "texto": "Thomas Müller", "correta": false },
+      { "texto": "Lionel Messi", "correta": false },
+      { "texto": "Neymar Jr.", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção eliminou o Brasil na Copa do Mundo de 2022?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Croácia", "correta": true },
+      { "texto": "Bélgica", "correta": false },
+      { "texto": "França", "correta": false },
+      { "texto": "Marrocos", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual clube revelou Lionel Messi profissionalmente?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Barcelona", "correta": true },
+      { "texto": "Newell's Old Boys", "correta": false },
+      { "texto": "Paris Saint-Germain", "correta": false },
+      { "texto": "River Plate", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual clube revelou Cristiano Ronaldo profissionalmente?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Sporting", "correta": true },
+      { "texto": "Manchester United", "correta": false },
+      { "texto": "Benfica", "correta": false },
+      { "texto": "Real Madrid", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o técnico da Seleção Brasileira campeã em 2002?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Luiz Felipe Scolari", "correta": true },
+      { "texto": "Carlos Alberto Parreira", "correta": false },
+      { "texto": "Zagallo", "correta": false },
+      { "texto": "Vanderlei Luxemburgo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país venceu a Eurocopa de 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Portugal", "correta": true },
+      { "texto": "França", "correta": false },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Gales", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou o gol do título de Portugal na Euro 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Eder", "correta": true },
+      { "texto": "Cristiano Ronaldo", "correta": false },
+      { "texto": "Nani", "correta": false },
+      { "texto": "Ricardo Quaresma", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa América de 2019?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Peru", "correta": false },
+      { "texto": "Argentina", "correta": false },
+      { "texto": "Chile", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa América de 2024?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "Colômbia", "correta": false },
+      { "texto": "Uruguai", "correta": false },
+      { "texto": "Brasil", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país sediou as Olimpíadas de Londres em 2012?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Reino Unido", "correta": true },
+      { "texto": "China", "correta": false },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Grécia", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o atleta mais medalhado da história das Olimpíadas?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Michael Phelps", "correta": true },
+      { "texto": "Usain Bolt", "correta": false },
+      { "texto": "Larisa Latynina", "correta": false },
+      { "texto": "Carl Lewis", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual cidade aconteceram as Olimpíadas de 2008?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Pequim", "correta": true },
+      { "texto": "Atenas", "correta": false },
+      { "texto": "Londres", "correta": false },
+      { "texto": "Tóquio", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual brasileira conquistou ouro olímpico no salto sobre a mesa em 2024?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Rebeca Andrade", "correta": true },
+      { "texto": "Flávia Saraiva", "correta": false },
+      { "texto": "Jade Barbosa", "correta": false },
+      { "texto": "Daiane dos Santos", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem acendeu a pira olímpica na abertura do Rio 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Vanderlei Cordeiro de Lima", "correta": true },
+      { "texto": "Pelé", "correta": false },
+      { "texto": "Gustavo Kuerten", "correta": false },
+      { "texto": "Hortência", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador é conhecido como La Pulga?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Lionel Messi", "correta": true },
+      { "texto": "Sergio Agüero", "correta": false },
+      { "texto": "Diego Maradona", "correta": false },
+      { "texto": "Alexis Sánchez", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual goleiro brasileiro foi titular na conquista da Copa de 2002?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Marcos", "correta": true },
+      { "texto": "Dida", "correta": false },
+      { "texto": "Rogério Ceni", "correta": false },
+      { "texto": "Taffarel", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção foi vice-campeã da Copa do Mundo de 2022?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "França", "correta": true },
+      { "texto": "Croácia", "correta": false },
+      { "texto": "Marrocos", "correta": false },
+      { "texto": "Inglaterra", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2022?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Kylian Mbappe", "correta": true },
+      { "texto": "Lionel Messi", "correta": false },
+      { "texto": "Olivier Giroud", "correta": false },
+      { "texto": "Julián Álvarez", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país venceu a Copa do Mundo de 2006?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Itália", "correta": true },
+      { "texto": "França", "correta": false },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Portugal", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Contra qual seleção Zidane foi expulso na final da Copa de 2006?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Itália", "correta": true },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Espanha", "correta": false },
+      { "texto": "Portugal", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual clube é conhecido como Merengue?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Real Madrid", "correta": true },
+      { "texto": "Barcelona", "correta": false },
+      { "texto": "Atlético de Madrid", "correta": false },
+      { "texto": "Sevilla", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual clube é known como Blaugrana?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Barcelona", "correta": true },
+      { "texto": "Real Madrid", "correta": false },
+      { "texto": "Valencia", "correta": false },
+      { "texto": "Espanyol", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu o ouro olímpico no futebol masculino em 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Nigéria", "correta": false },
+      { "texto": "Honduras", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Contra qual seleção o Brasil conquistou o ouro olímpico em 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Alemanha", "correta": true },
+      { "texto": "Nigéria", "correta": false },
+      { "texto": "Honduras", "correta": false },
+      { "texto": "África do Sul", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou o último pênalti do Brasil na final olímpica de 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Neymar", "correta": true },
+      { "texto": "Luan", "correta": false },
+      { "texto": "Marquinhos", "correta": false },
+      { "texto": "Gabriel Jesus", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta jamaicano ganhou oito medalhas de ouro olímpicas no atletismo?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Usain Bolt", "correta": true },
+      { "texto": "Yohan Blake", "correta": false },
+      { "texto": "Asafa Powell", "correta": false },
+      { "texto": "Nesta Carter", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta brasileira é conhecida como Fadinha?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Rayssa Leal", "correta": true },
+      { "texto": "Pâmela Rosa", "correta": false },
+      { "texto": "Letícia Bufoni", "correta": false },
+      { "texto": "Chloe Covell", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país venceu a primeira medalha de ouro do futebol olímpico masculino?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Grã Bretanha", "correta": true },
+      { "texto": "França", "correta": false },
+      { "texto": "Bélgica", "correta": false },
+      { "texto": "Uruguai", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa das Confederações de 2013?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Espanha", "correta": false },
+      { "texto": "Itália", "correta": false },
+      { "texto": "Uruguai", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi eleito o melhor jogador da Copa do Mundo de 2014?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Lionel Messi", "correta": true },
+      { "texto": "Thomas Müller", "correta": false },
+      { "texto": "Arjen Robben", "correta": false },
+      { "texto": "James Rodríguez", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi eleito o melhor jogador da Copa do Mundo de 2022?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Lionel Messi", "correta": true },
+      { "texto": "Kylian Mbappé", "correta": false },
+      { "texto": "Luka Modrić", "correta": false },
+      { "texto": "Antoine Griezmann", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção conquistou a Eurocopa de 2021?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Itália", "correta": true },
+      { "texto": "Inglaterra", "correta": false },
+      { "texto": "Espanha", "correta": false },
+      { "texto": "Dinamarca", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país sediou a Eurocopa de 2024?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Alemanha", "correta": true },
+      { "texto": "França", "correta": false },
+      { "texto": "Inglaterra", "correta": false },
+      { "texto": "Itália", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta brasileiro conquistou ouro olímpico no salto com vara em 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Thiago Braz", "correta": true },
+      { "texto": "Renaud Lavillenie", "correta": false },
+      { "texto": "Augusto Dutra", "correta": false },
+      { "texto": "Armand Duplantis", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção é conhecida como Oranje?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Holanda", "correta": true },
+      { "texto": "Bélgica", "correta": false },
+      { "texto": "África do Sul", "correta": false },
+      { "texto": "Costa do Marfim", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção ficou famosa pela geração chamada de Carrossel Holandês?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Holanda", "correta": true },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Hungria", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador brasileiro venceu a Bola de Ouro em 2007?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Kaka", "correta": true },
+      { "texto": "Ronaldinho", "correta": false },
+      { "texto": "Ronaldo", "correta": false },
+      { "texto": "Robinho", "correta": false }
+    ]
+  }
+],
+
+[
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o artilheiro da Copa do Mundo de 1998?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Davor Suker", "correta": true },
+      { "texto": "Ronaldo", "correta": false },
+      { "texto": "Gabriel Batistuta", "correta": false },
+      { "texto": "Zinedine Zidane", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção eliminou o Brasil na final da Copa do Mundo de 1998?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "França", "correta": true },
+      { "texto": "Holanda", "correta": false },
+      { "texto": "França", "correta": true },
+      { "texto": "Dinamarca", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou os dois gols da França na final da Copa do Mundo de 1998?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Zinedine Zidane", "correta": true },
+      { "texto": "Emmanuel Petit", "correta": false },
+      { "texto": "Thierry Henry", "correta": false },
+      { "texto": "Youri Djorkaeff", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa do Mundo de 1978?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "Holanda", "correta": false },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Itália", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o capitão da Seleção Brasileira na conquista da Copa de 1970?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Carlos Alberto Torres", "correta": true },
+      { "texto": "Gérson", "correta": false },
+      { "texto": "Piazza", "correta": false },
+      { "texto": "Tostão", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador marcou o quarto gol do Brasil na final da Copa de 1970?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Carlos Alberto Torres", "correta": true },
+      { "texto": "Pelé", "correta": false },
+      { "texto": "Jairzinho", "correta": false },
+      { "texto": "Rivellino", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país sediou a primeira Copa do Mundo?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Uruguai", "correta": true },
+      { "texto": "Argentina", "correta": false },
+      { "texto": "França", "correta": false },
+      { "texto": "Itália", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o técnico da Seleção Brasileira campeã da Copa do Mundo de 1994?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Carlos Alberto Parreira", "correta": true },
+      { "texto": "Zagallo", "correta": false },
+      { "texto": "Telê Santana", "correta": false },
+      { "texto": "Paulo Roberto Falcão", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa do Mundo de 1954?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Alemanha Ocidental", "correta": true },
+      { "texto": "Hungria", "correta": false },
+      { "texto": "Áustria", "correta": false },
+      { "texto": "Uruguai", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem ficou conhecido como Kaiser  no futebol?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Franz Beckenbauer", "correta": true },
+      { "texto": "Gerd Müller", "correta": false },
+      { "texto": "Karl-Heinz Rummenigge", "correta": false },
+      { "texto": "Franz Platko", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador ganhou a Bola de Ouro de 1999?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Rivaldo", "correta": true },
+      { "texto": "David Beckham", "correta": false },
+      { "texto": "Andriy Shevchenko", "correta": false },
+      { "texto": "Ronaldo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual clube venceu a primeira edição da Liga dos Campeões da UEFA?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Real Madrid", "correta": true },
+      { "texto": "Stade de Reims", "correta": false },
+      { "texto": "Milan", "correta": false },
+      { "texto": "Benfica", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o maior vencedor da Liga dos Campeões como jogador?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Francisco Gento", "correta": true },
+      { "texto": "Cristiano Ronaldo", "correta": false },
+      { "texto": "Paolo Maldini", "correta": false },
+      { "texto": "Alfredo Di Stéfano", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Eurocopa de 2004 de forma surpreendente?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Grécia", "correta": true },
+      { "texto": "Portugal", "correta": false },
+      { "texto": "República Checa", "correta": false },
+      { "texto": "Holanda", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou o gol do título da Grécia na Eurocopa de 2004?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Angelos Charisteas", "correta": true },
+      { "texto": "Angelos Basinas", "correta": false },
+      { "texto": "Theodoros Zagorakis", "correta": false },
+      { "texto": "Zisis Vryzas", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador jogador brasileiro ganhou a Bola de Ouro de 2005?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Ronaldinho Gaucho", "correta": true },
+      { "texto": "Adriano Imperador", "correta": false },
+      { "texto": "Kaká", "correta": false },
+      { "texto": "Ronaldo Fenômeno", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país sediou os Jogos Olímpicos de 1936?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Alemanha", "correta": true },
+      { "texto": "Estados Unidos", "correta": false },
+      { "texto": "França", "correta": false },
+      { "texto": "Reino Unido", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta conquistou quatro medalhas de ouro em Berlim 1936?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Jesse Owens", "correta": true },
+      { "texto": "Carl Lewis", "correta": false },
+      { "texto": "Jim Thorpe", "correta": false },
+      { "texto": "Paavo Nurmi", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o primeiro atleta a correr os 100 metros abaixo de 10 segundos oficialmente?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Jim Hines", "correta": true },
+      { "texto": "Bob Hayes", "correta": false },
+      { "texto": "Carl Lewis", "correta": false },
+      { "texto": "Usain Bolt", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta brasileiro ficou famoso pelo bronze olímpico no salto triplo em 1984, após ter sido recordista mundial?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Joao do Pulo", "correta": true },
+      { "texto": "Adhemar Ferreira da Silva", "correta": false },
+      { "texto": "Nelson Prudêncio", "correta": false },
+      { "texto": "Jadel Gregório", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país liderou o quadro de medalhas das Olimpíadas de Tóquio 2020?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Estados Unidos", "correta": true },
+      { "texto": "China", "correta": false },
+      { "texto": "Japão", "correta": false },
+      { "texto": "Reino Unido", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual nadador conquistou 23 medalhas de ouro olímpicas?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Michael Phelps", "correta": true },
+      { "texto": "Mark Spitz", "correta": false },
+      { "texto": "Ryan Lochte", "correta": false },
+      { "texto": "Ian Thorpe", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o maior artilheiro da história da Seleção Brasileira masculina?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Neymar", "correta": true },
+      { "texto": "Pelé", "correta": false },
+      { "texto": "Ronaldo", "correta": false },
+      { "texto": "Romário", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador marcou o gol do título da Copa do Mundo de 2014?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Mario Gotze", "correta": true },
+      { "texto": "Thomas Müller", "correta": false },
+      { "texto": "Miroslav Klose", "correta": false },
+      { "texto": "Bastian Schweinsteiger", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção foi derrotada pela Alemanha na final da Copa de 2014?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "Brasil", "correta": false },
+      { "texto": "Holanda", "correta": false },
+      { "texto": "França", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o capitão da Argentina campeã do mundo em 2022?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Lionel Messi", "correta": true },
+      { "texto": "Ángel Di María", "correta": false },
+      { "texto": "Nicolas Otamendi", "correta": false },
+      { "texto": "Rodrigo De Paul", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a primeira edição da Eurocopa em 1960?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Uniao Sovietica", "correta": true },
+      { "texto": "Iugoslávia", "correta": false },
+      { "texto": "França", "correta": false },
+      { "texto": "Espanha", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o goleiro da Itália campeã da Copa do Mundo de 2006?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Gianluigi Buffon", "correta": true },
+      { "texto": "Francesco Toldo", "correta": false },
+      { "texto": "Angelo Peruzzi", "correta": false },
+      { "texto": "Gianluca Pagliuca", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país conquistou o ouro olímpico no futebol masculino em 1992?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Espanha", "correta": true },
+      { "texto": "Polônia", "correta": false },
+      { "texto": "Gana", "correta": false },
+      { "texto": "Austrália", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta brasileiro conquistou medalha na maratona em Atenas 2004 após sofrer uma agressão durante a prova?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Vanderlei Cordeiro de Lima", "correta": true },
+      { "texto": "Marílson Gomes dos Santos", "correta": false },
+      { "texto": "Ronaldo da Costa", "correta": false },
+      { "texto": "Franck Caldeira", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual jogador venceu oito Bolas de Ouro até 2023?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Lionel Messi", "correta": true },
+      { "texto": "Cristiano Ronaldo", "correta": false },
+      { "texto": "Michel Platini", "correta": false },
+      { "texto": "Johan Cruyff", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual clube português revelou Luis Figo?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Sporting", "correta": true },
+      { "texto": "Benfica", "correta": false },
+      { "texto": "Porto", "correta": false },
+      { "texto": "Braga", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa do Mundo de 1958?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Brasil", "correta": true },
+      { "texto": "Suécia", "correta": false },
+      { "texto": "França", "correta": false },
+      { "texto": "Alemanha Ocidental", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou dois gols para o Brasil na final da Copa de 1958?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Pele", "correta": true },
+      { "texto": "Vavá", "correta": false },
+      { "texto": "Garrincha", "correta": false },
+      { "texto": "Zagallo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atleta ficou conhecido como O Homem Mais Rapido do Mundo?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Usain Bolt", "correta": true },
+      { "texto": "Carl Lewis", "correta": false },
+      { "texto": "Asafa Powell", "correta": false },
+      { "texto": "Tyson Gay", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção conquistou a Copa do Mundo de 1986?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Argentina", "correta": true },
+      { "texto": "Alemanha Ocidental", "correta": false },
+      { "texto": "França", "correta": false },
+      { "texto": "Bélgica", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou o famoso gol conhecido como A Mao de Deus?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Diego Maradona", "correta": true },
+      { "texto": "Jorge Valdano", "correta": false },
+      { "texto": "Gary Lineker", "correta": false },
+      { "texto": "Jorge Burruchaga", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual país sediou os Jogos Olímpicos de Atenas em 2004?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Grecia", "correta": true },
+      { "texto": "Austrália", "correta": false },
+      { "texto": "China", "correta": false },
+      { "texto": "Espanha", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual seleção venceu a Copa do Mundo de 1966?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Inglaterra", "correta": true },
+      { "texto": "Alemanha Ocidental", "correta": false },
+      { "texto": "Portugal", "correta": false },
+      { "texto": "União Soviética", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Esportes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem marcou o gol que garantiu o ouro olímpico do Brasil no futebol masculino em 2016 na disputa por pênaltis?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Neymar", "correta": true },
+      { "texto": "Gabriel Jesus", "correta": false },
+      { "texto": "Luan", "correta": false },
+      { "texto": "Marquinhos", "correta": false }
+    ]
+  }
+]
 ]

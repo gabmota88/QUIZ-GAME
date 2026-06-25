@@ -234,3 +234,19 @@ def buscar_por_categoria_e_dificuldade(
     )
 
     return pergunta
+
+
+# =====================================
+# CATEGORIA ESPECIAL
+# =====================================
+
+
+
+def buscar_pergunta_especial():
+
+    return Pergunta.query.filter_by(
+        tipo="texto",
+        dificuldade="especial"
+    ).order_by(
+        db.func.random()
+    ).first()

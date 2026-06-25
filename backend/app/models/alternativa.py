@@ -10,12 +10,6 @@ class Alternativa(db.Model):
         primary_key=True
     )
 
-    pergunta_id = db.Column(
-        db.Integer,
-        db.ForeignKey("perguntas.id"),
-        nullable=False
-    )
-
     texto = db.Column(
         db.String(500),
         nullable=False
@@ -23,15 +17,12 @@ class Alternativa(db.Model):
 
     correta = db.Column(
         db.Boolean,
-        default=False,
-        nullable=False
+        nullable=False,
+        default=False
     )
 
-    pergunta = db.relationship(
-        "Pergunta",
-        backref=db.backref(
-            "alternativas",
-            lazy=True,
-            cascade="all, delete-orphan"
-        )
+    pergunta_id = db.Column(
+        db.Integer,
+        db.ForeignKey("perguntas.id"),
+        nullable=False
     )

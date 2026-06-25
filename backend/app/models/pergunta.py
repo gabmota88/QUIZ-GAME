@@ -20,6 +20,12 @@ class Pergunta(db.Model):
         nullable=True
     )
 
+    tipo = db.Column(
+    db.String(50),
+    nullable=False,
+    default="multipla_escolha"
+    )
+
     dificuldade = db.Column(
         db.String(50),
         nullable=False
@@ -39,6 +45,7 @@ class Pergunta(db.Model):
     alternativas = db.relationship(
         "Alternativa",
         backref="pergunta",
-        lazy=True,
+        lazy="select",
         cascade="all, delete-orphan"
     )
+

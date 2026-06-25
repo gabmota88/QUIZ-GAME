@@ -1,6 +1,4 @@
-from flask import Blueprint
-from flask import jsonify
-from flask import request
+from flask import Blueprint, jsonify, request
 
 from app.models.pergunta import Pergunta
 from app.models.categoria import Categoria
@@ -12,9 +10,8 @@ from app.services.question_service import (
     buscar_por_categoria_e_dificuldade
 )
 
-from app.services.answer_service import (
-    validar_resposta
-)
+from app.services.answer_service import validar_resposta
+
 
 perguntas_bp = Blueprint(
     "perguntas",
@@ -22,44 +19,83 @@ perguntas_bp = Blueprint(
 )
 
 
-# =========================
-# LISTAR TODAS
-# =========================
+# =====================================
+# SERIALIZAÇÃO
+# =====================================
 
-@perguntas_bp.route("/perguntas")
+def montar_alternativas(pergunta):
+
+    return [
+
+        {
+            "id": alternativa.id,
+            "texto": alternativa.texto
+        }
+
+        for alternativa in pergunta.alternativas
+
+    ]
+
+
+def serializar_pergunta(pergunta):
+
+    dados = {
+        "id": pergunta.id,
+        "texto": pergunta.texto,
+        "categoria": pergunta.categoria.nome,
+        "dificuldade": pergunta.dificuldade,
+        "tipo": pergunta.tipo,
+        "pontos": pergunta.pontos
+    }
+
+    if pergunta.tipo == "multipla_escolha":
+
+        dados["alternativas"] = [
+
+            {
+                "id": alternativa.id,
+                "texto": alternativa.texto
+            }
+
+            for alternativa in pergunta.alternativas
+        ]
+
+    return dados
+
+    
+
+# =====================================
+# LISTAR TODAS AS PERGUNTAS
+# =====================================
+
+@perguntas_bp.route(
+    "/perguntas",
+    methods=["GET"]
+)
 def listar_perguntas():
 
     perguntas = Pergunta.query.all()
 
-    resultado = []
+    resultado = [
 
-    for pergunta in perguntas:
+        serializar_pergunta(
+            pergunta
+        )
 
-        resultado.append({
+        for pergunta in perguntas
 
-            "id": pergunta.id,
+    ]
 
-            "texto": pergunta.texto,
-
-            "categoria":
-                pergunta.categoria.nome,
-
-            "dificuldade":
-                pergunta.dificuldade,
-
-            "pontos":
-                pergunta.pontos
-        })
-
-    return jsonify(resultado)
+    return jsonify(resultado), 200
 
 
-# =========================
+# =====================================
 # PERGUNTA ALEATÓRIA
-# =========================
+# =====================================
 
 @perguntas_bp.route(
-    "/perguntas/aleatoria"
+    "/perguntas/aleatoria",
+    methods=["GET"]
 )
 def pergunta_aleatoria():
 
@@ -72,31 +108,20 @@ def pergunta_aleatoria():
                 "Nenhuma pergunta encontrada."
         }), 404
 
-    return jsonify({
-
-        "id": pergunta.id,
-
-        "texto":
-            pergunta.texto,
-
-        "categoria":
-            pergunta.categoria.nome,
-
-        "dificuldade":
-            pergunta.dificuldade,
-
-        "pontos":
-            pergunta.pontos
-
-    })
+    return jsonify(
+        serializar_pergunta(
+            pergunta
+        )
+    ), 200
 
 
-# =========================
-# POR CATEGORIA
-# =========================
+# =====================================
+# PERGUNTA POR CATEGORIA
+# =====================================
 
 @perguntas_bp.route(
-    "/perguntas/categoria/<categoria>"
+    "/perguntas/categoria/<categoria>",
+    methods=["GET"]
 )
 def pergunta_categoria(categoria):
 
@@ -108,34 +133,23 @@ def pergunta_categoria(categoria):
 
         return jsonify({
             "erro":
-                "Categoria não encontrada."
+                "Nenhuma pergunta encontrada para esta categoria."
         }), 404
 
-    return jsonify({
-
-        "id": pergunta.id,
-
-        "texto":
-            pergunta.texto,
-
-        "categoria":
-            pergunta.categoria.nome,
-
-        "dificuldade":
-            pergunta.dificuldade,
-
-        "pontos":
-            pergunta.pontos
-
-    })
+    return jsonify(
+        serializar_pergunta(
+            pergunta
+        )
+    ), 200
 
 
-# =========================
-# POR DIFICULDADE
-# =========================
+# =====================================
+# PERGUNTA POR DIFICULDADE
+# =====================================
 
 @perguntas_bp.route(
-    "/perguntas/dificuldade/<dificuldade>"
+    "/perguntas/dificuldade/<dificuldade>",
+    methods=["GET"]
 )
 def pergunta_dificuldade(dificuldade):
 
@@ -147,37 +161,25 @@ def pergunta_dificuldade(dificuldade):
 
         return jsonify({
             "erro":
-                "Nenhuma Pergunta encontrada para essa dificuldade."
+                "Nenhuma pergunta encontrada para esta dificuldade."
         }), 404
 
-    return jsonify({
+    return jsonify(
+        serializar_pergunta(
+            pergunta
+        )
+    ), 200
 
-        "id": pergunta.id,
 
-        "texto":
-            pergunta.texto,
-
-        "categoria":
-            pergunta.categoria.nome,
-
-        "dificuldade":
-            pergunta.dificuldade,
-
-        "pontos":
-            pergunta.pontos
-
-    })
-  # =========================
-# CATEGORIA + DIFICULDADE
-# =========================
+# =====================================
+# PERGUNTA POR CATEGORIA + DIFICULDADE
+# =====================================
 
 @perguntas_bp.route(
     "/perguntas/sorteio",
     methods=["POST"]
 )
 def pergunta_categoria_dificuldade():
-    
-    print("ROTA SORTEIO ACESSADA")
 
     dados = request.get_json()
 
@@ -194,25 +196,63 @@ def pergunta_categoria_dificuldade():
     dificuldade = dados.get(
         "dificuldade"
     )
-    
-    print("\n===== DEBUG =====")
 
-    print(
-    "categoria_id:",
-    categoria_id
-    )
-
-    print(
-    "dificuldade:",
-    dificuldade
+    especial_liberada = dados.get(
+        "especial_liberada",
+        False
     )
 
     if not categoria_id:
 
         return jsonify({
-            "erro":
-                "categoria_id obrigatório"
+            "erro": "categoria_id obrigatório"
         }), 400
+
+    categoria = Categoria.query.get(
+        categoria_id
+    )
+
+    if not categoria:
+
+        return jsonify({
+            "erro": "Categoria não encontrada"
+        }), 404
+
+    # =========================
+    # CATEGORIA ESPECIAL
+    # =========================
+
+    if categoria.nome.lower() == "especial":
+
+        if not especial_liberada:
+
+            return jsonify({
+                "erro":
+                    "A categoria Especial ainda não foi desbloqueada."
+            }), 403
+
+        pergunta = Pergunta.query.filter_by(
+            categoria_id=categoria.id
+        ).order_by(
+            db.func.random()
+        ).first()
+
+        if not pergunta:
+
+            return jsonify({
+                "erro":
+                    "Nenhuma pergunta especial encontrada."
+            }), 404
+
+        return jsonify(
+            serializar_pergunta(
+                pergunta
+            )
+        ), 200
+
+    # =========================
+    # CATEGORIAS NORMAIS
+    # =========================
 
     if not dificuldade:
 
@@ -233,60 +273,45 @@ def pergunta_categoria_dificuldade():
                 "Nenhuma pergunta encontrada"
         }), 404
 
-    return jsonify({
+    return jsonify(
+        serializar_pergunta(
+            pergunta
+        )
+    ), 200
 
-        "id":
-            pergunta.id,
-
-        "texto":
-            pergunta.texto,
-
-        "categoria":
-            pergunta.categoria.nome,
-
-        "dificuldade":
-            pergunta.dificuldade,
-
-        "pontos":
-            pergunta.pontos
-
-    }), 200
-    
-    
-    
-    
-
-
-# =========================
+# =====================================
 # LISTAR CATEGORIAS
-# =========================
+# =====================================
 
-@perguntas_bp.route("/categorias")
+@perguntas_bp.route(
+    "/categorias",
+    methods=["GET"]
+)
 def listar_categorias():
 
     categorias = Categoria.query.all()
 
-    resultado = []
+    resultado = [
 
-    for cat in categorias:
+        {
+            "id": categoria.id,
 
-        resultado.append({
-
-            "id": cat.id,
-
-            "nome": cat.nome,
+            "nome": categoria.nome,
 
             "quantidade_de_perguntas":
-                len(cat.perguntas)
+                len(categoria.perguntas)
+        }
 
-        })
+        for categoria in categorias
 
-    return jsonify(resultado)
+    ]
+
+    return jsonify(resultado), 200
 
 
-# =========================
-# VALIDAR RESPOSTA
-# =========================
+# ==============================================================
+# VALIDAR RESPOSTA POR ALTERNATIVA E VALIDAR RESPOSTA POR TEXTO 
+# ==============================================================
 
 @perguntas_bp.route(
     "/responder",
@@ -297,36 +322,56 @@ def responder():
     dados = request.get_json()
 
     if not dados:
-
         return jsonify({
             "erro": "JSON inválido"
         }), 400
 
-    pergunta_id = dados.get(
-        "pergunta_id"
-    )
-
-    resposta = dados.get(
-        "resposta"
-    )
+    pergunta_id = dados.get("pergunta_id")
 
     if not pergunta_id:
-
         return jsonify({
-            "erro":
-                "Pergunta não enviada"
+            "erro": "Pergunta não enviada"
         }), 400
 
-    if not resposta:
+    pergunta = Pergunta.query.get(pergunta_id)
 
+    if not pergunta:
         return jsonify({
-            "erro":
-                "Resposta vazia"
-        }), 400
+            "erro": "Pergunta não encontrada"
+        }), 404
 
-    resultado = validar_resposta(
-        pergunta_id,
-        resposta
-    )
+    if pergunta.tipo == "multipla_escolha":
 
-    return jsonify(resultado)
+        alternativa_id = dados.get("alternativa_id")
+
+        if not alternativa_id:
+            return jsonify({
+                "erro": "Alternativa não enviada"
+            }), 400
+
+        resultado = validar_resposta(
+            pergunta_id,
+            alternativa_id
+        )
+
+        return jsonify(resultado)
+
+    if pergunta.tipo == "texto":
+
+        resposta = dados.get("resposta")
+
+        if not resposta:
+            return jsonify({
+                "erro": "Resposta vazia"
+            }), 400
+
+        resultado = validar_resposta(
+            pergunta_id,
+            resposta
+        )
+
+        return jsonify(resultado)
+
+    return jsonify({
+        "erro": "Tipo de pergunta inválido"
+    }), 400

@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask
 from flask_cors import CORS
 
@@ -9,7 +11,8 @@ from app.models.pergunta import Pergunta
 from app.models.resposta import RespostaAceita
 from app.models.partida import Partida
 from app.models.pergunta_usada import PerguntaUsada
-
+from app.models.equipe import Equipe
+from app.models.alternativa import Alternativa
 
 # Routes
 from app.routes.perguntas_routes import perguntas_bp
@@ -18,65 +21,53 @@ from app.routes.game_routes import game_bp
 from app.routes.import_routes import import_bp
 
 
-
 def create_app():
 
     app = Flask(__name__)
 
     # =========================
-    # CONFIG BANCO
+    # CONFIGURAÇÃO DO BANCO
     # =========================
 
-    app.config["SQLALCHEMY_DATABASE_URI"] = (
-        "sqlite:///quiz.db"
-    )
+   
 
-    app.config[
-        "SQLALCHEMY_TRACK_MODIFICATIONS"
-    ] = False
+    app.config["SQLALCHEMY_DATABASE_URI"] = (
+    "postgresql+psycopg2://quiz_user:luanam10@localhost:5432/quiz_game"
+)
+
+    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+    print("BANCO EM USO:", app.config["SQLALCHEMY_DATABASE_URI"])
 
     # =========================
     # INICIALIZAÇÕES
     # =========================
 
     db.init_app(app)
+   
 
-    # LIBERA CORS
     CORS(
-    app,
-    resources={
-        r"/*": {
-            "origins": "*"
+        app,
+        resources={
+            r"/*": {
+                "origins": "*"
+            }
         }
-    }
-)
+    )
 
     # =========================
     # BLUEPRINTS
     # =========================
 
-    app.register_blueprint(
-        perguntas_bp
-    )
-
-    app.register_blueprint(
-        equipes_bp
-    )
-
-    app.register_blueprint(
-        game_bp
-    )
-
-    app.register_blueprint(
-        import_bp
-    )
+    app.register_blueprint(perguntas_bp)
+    app.register_blueprint(equipes_bp)
+    app.register_blueprint(game_bp)
+    app.register_blueprint(import_bp)
 
     # =========================
     # CRIA TABELAS
     # =========================
 
     with app.app_context():
-
         db.create_all()
 
     return app

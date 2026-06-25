@@ -2,6 +2,7 @@ import unicodedata
 
 from app.models.pergunta import Pergunta
 from app.models.resposta import RespostaAceita
+from app.models.alternativa import Alternativa
 
 
 def normalizar_texto(texto):
@@ -33,58 +34,78 @@ def validar_resposta(
     if not pergunta:
 
         return {
-            "correto": False
-        }
-
-    # VALIDA RESPOSTA VAZIA
-    if not resposta_usuario:
-
-        return {
-
             "correto": False,
-
-            "mensagem":
-                "Resposta vazia"
+            "mensagem": "Pergunta não encontrada"
         }
 
-    resposta_usuario = normalizar_texto(
-        resposta_usuario
-    )
+    # =========================
+    # MÚLTIPLA ESCOLHA
+    # =========================
 
-    respostas = RespostaAceita.query.filter_by(
-        pergunta_id=pergunta_id
-    ).all()
+    if pergunta.tipo == "multipla_escolha":
 
-    for resposta in respostas:
+        alternativa = Alternativa.query.filter_by(
+            id=resposta_usuario,
+            pergunta_id=pergunta_id
+        ).first()
 
-        resposta_correta = normalizar_texto(
-            resposta.resposta
-        )
-
-        # ACEITA RESPOSTA PARCIAL
-        if (
-            resposta_usuario
-            in resposta_correta
-        ):
+        if not alternativa:
 
             return {
-                "correto": True,
-                
-                "pontos": pergunta.pontos
+                "correto": False,
+                "mensagem": "Alternativa inválida",
+                "pontos": 0
             }
 
+        return {
+            "correto": alternativa.correta,
+            "pontos": pergunta.pontos if alternativa.correta else 0
+        }
+
+    # =========================
+    # RESPOSTA EM TEXTO
+    # =========================
+
+    if pergunta.tipo == "texto":
+
+        if not resposta_usuario:
+
+            return {
+                "correto": False,
+                "mensagem": "Resposta vazia",
+                "pontos": 0
+            }
+
+        resposta_usuario = normalizar_texto(
+            resposta_usuario
+        )
+
+        respostas = RespostaAceita.query.filter_by(
+            pergunta_id=pergunta_id
+        ).all()
+
+        for resposta in respostas:
+
+            resposta_correta = normalizar_texto(
+                resposta.resposta
+            )
+
+            if resposta_usuario in resposta_correta:
+
+                return {
+                    "correto": True,
+                    "pontos": pergunta.pontos
+                }
+
+        return {
+            "correto": False,
+            "pontos": 0,
+            "resposta_correta":
+                respostas[0].resposta if respostas else ""
+        }
+
     return {
-
-    "correto": False,
-
-    "pontos": 0,
-
-    "resposta_correta":
-
-        respostas[0].resposta
-
-        if respostas
-
-        else ""
-
-}
+        "correto": False,
+        "mensagem": "Tipo de pergunta inválido",
+        "pontos": 0
+    }

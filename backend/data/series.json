@@ -1,844 +1,1566 @@
 [
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual é o nome do professor de química protagonista de Breaking Bad?",
-    "resposta": "Walter White",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Friends', qual é o nome do famoso café onde os seis amigos costumam se reunir?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Central Perk", "correta": true },
+      { "texto": "Central Park", "correta": false },
+      { "texto": "Monk's Cafe", "correta": false },
+      { "texto": "MacLaren's Pub", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha um grupo de amigos vivendo em Nova York?",
-    "resposta": "Friends",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a profissão principal de Walter White no início da série 'Breaking Bad'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Professor de Química", "correta": true },
+      { "texto": "Advogado", "correta": false },
+      { "texto": "Policial", "correta": false },
+      { "texto": "Médico", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual é o nome do café frequentado pelos personagens de Friends?",
-    "resposta": "Central Perk",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Stranger Things', qual é o nome da garota com poderes telecinéticos que adora comer waffles?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Eleven (Onze)", "correta": true },
+      { "texto": "Max", "correta": false },
+      { "texto": "Nancy", "correta": false },
+      { "texto": "Robin", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série apresenta dragões e a disputa pelo Trono de Ferro?",
-    "resposta": "Game of Thrones",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual família nobre da série 'Game of Thrones' tem como lema a frase 'O Inverno está Chegando' (Winter is Coming)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Stark", "correta": true },
+      { "texto": "Lannister", "correta": false },
+      { "texto": "Targaryen", "correta": false },
+      { "texto": "Baratheon", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual é o nome da cidade onde se passa Stranger Things?",
-    "resposta": "Hawkins",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'The Office' (EUA), qual é o nome da empresa de papel onde os personagens trabalham?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dunder Mifflin", "correta": true },
+      { "texto": "Initech", "correta": false },
+      { "texto": "E Corp", "correta": false },
+      { "texto": "Pendant Publishing", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual personagem de Stranger Things possui poderes telecinéticos?",
-    "resposta": "Onze",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série espanhola da Netflix foca em um grupo de assaltantes usando máscaras de Salvador Dalí?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "La Casa de Papel", "correta": true },
+      { "texto": "Elite", "correta": false },
+      { "texto": "Vis a Vis", "correta": false },
+      { "texto": "As Telefonistas", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha Michael Scott como gerente de uma empresa de papel?",
-    "resposta": "The Office",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'The Big Bang Theory', qual é o bordão que Sheldon Cooper usa quando faz uma pegadinha?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bazinga!", "correta": true },
+      { "texto": "Wubba Lubba Dub Dub!", "correta": false },
+      { "texto": "Oh My God!", "correta": false },
+      { "texto": "Yabba Dabba Do!", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual é o nome do hospital onde se passa Grey's Anatomy?",
-    "resposta": "Seattle Grace",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é a personagem principal da série 'Wandinha' (Wednesday), focada na filha da Família Addams?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Wandinha Addams", "correta": true },
+      { "texto": "Mortícia Addams", "correta": false },
+      { "texto": "Enid Sinclair", "correta": false },
+      { "texto": "Sabrina Spellman", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha a família Simpson?",
-    "resposta": "Os Simpsons",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série de zumbis é baseada nos quadrinhos de Robert Kirkman e acompanha o xerife Rick Grimes?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Walking Dead", "correta": true },
+      { "texto": "Z Nation", "correta": false },
+      { "texto": "All of Us Are Dead", "correta": false },
+      { "texto": "The Last of Us", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual personagem amarelo é o pai da família Simpson?",
-    "resposta": "Homer Simpson",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do bebê alienígena verde da mesma espécie de Yoda na série 'The Mandalorian'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Grogu", "correta": true },
+      { "texto": "Mando", "correta": false },
+      { "texto": "Boba", "correta": false },
+      { "texto": "Ewok", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série mostra Sheldon Cooper e seus amigos cientistas?",
-    "resposta": "The Big Bang Theory",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual série médica acompanhamos a vida e a carreira da cirurgiã Meredith Grey?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Grey's Anatomy", "correta": true },
+      { "texto": "ER (Plantão Médico)", "correta": false },
+      { "texto": "House", "correta": false },
+      { "texto": "The Good Doctor", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual é o nome do amigo de Sheldon que se casa com Penny?",
-    "resposta": "Leonard Hofstadter",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série animada 'Os Simpsons', qual é o nome do filho mais velho de Homer e Marge?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bart", "correta": true },
+      { "texto": "Lisa", "correta": false },
+      { "texto": "Milhouse", "correta": false },
+      { "texto": "Nelson", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série é baseada nas aventuras de um grupo de sobreviventes em um apocalipse zumbi?",
-    "resposta": "The Walking Dead",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual super-herói cego da Marvel defende o bairro de Hell's Kitchen em sua própria série solo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Demolidor", "correta": true },
+      { "texto": "Arqueiro Verde", "correta": false },
+      { "texto": "Luke Cage", "correta": false },
+      { "texto": "Punho de Ferro", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Quem é o protagonista de The Walking Dead nas primeiras temporadas?",
-    "resposta": "Rick Grimes",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na sitcom 'How I Met Your Mother', qual personagem é conhecido por usar sempre ternos e falar 'Legen... dary'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Barney Stinson", "correta": true },
+      { "texto": "Ted Mosby", "correta": false },
+      { "texto": "Marshall Eriksen", "correta": false },
+      { "texto": "Robin Scherbatsky", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha a vida da família Dunphy e seus parentes?",
-    "resposta": "Modern Family",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série dramática acompanha a vida e o reinado da Rainha Elizabeth II do Reino Unido?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Crown", "correta": true },
+      { "texto": "Downton Abbey", "correta": false },
+      { "texto": "Bridgerton", "correta": false },
+      { "texto": "Reign", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série mostra um grupo de ladrões usando nomes de cidades?",
-    "resposta": "La Casa de Papel",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Modern Family', qual é o nome do casal de pais que adota a bebê Lily no início da série?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mitch e Cam", "correta": true },
+      { "texto": "Phil e Claire", "correta": false },
+      { "texto": "Jay e Gloria", "correta": false },
+      { "texto": "Haley e Dylan", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual é o apelido do líder do assalto em La Casa de Papel?",
-    "resposta": "Professor",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série foca em um jogo de sobrevivência mortal onde os participantes usam uniformes verdes e os guardas usam máscaras com formas geométricas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Round 6 (Squid Game)", "correta": true },
+      { "texto": "Alice in Borderland", "correta": false },
+      { "texto": "Jogos Vorazes", "correta": false },
+      { "texto": "The Purge", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha o jovem Sheldon antes de The Big Bang Theory?",
-    "resposta": "Young Sheldon",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do médico ranzinza e genial que diagnostica casos raros usando bengala e Vicodin?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dr. Gregory House", "correta": true },
+      { "texto": "Dr. Shaun Murphy", "correta": false },
+      { "texto": "Dr. Derek Shepherd", "correta": false },
+      { "texto": "Dr. John Watson", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série da Netflix apresenta a família Bridgerton?",
-    "resposta": "Bridgerton",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Todo Mundo Odeia o Chris', quem é o irmão mais novo do Chris que é o queridinho da mãe?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Drew", "correta": true },
+      { "texto": "Greg", "correta": false },
+      { "texto": "Tonya", "correta": false },
+      { "texto": "Julius", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha a rainha Elizabeth II?",
-    "resposta": "The Crown",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série teen conta a história de quatro amigas perseguidas por mensagens misteriosas assinadas apenas por '-A'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pretty Little Liars", "correta": true },
+      { "texto": "Gossip Girl", "correta": false },
+      { "texto": "Riverdale", "correta": false },
+      { "texto": "The Vampire Diaries", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série mostra o mandaloriano protegendo Grogu?",
-    "resposta": "The Mandalorian",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual criatura mitológica é o foco principal das tramas de 'The Vampire Diaries' e 'The Originals'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vampiros", "correta": true },
+      { "texto": "Zumbis", "correta": false },
+      { "texto": "Sereias", "correta": false },
+      { "texto": "Fadas", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Como os fãs costumam chamar Grogu?",
-    "resposta": "Baby Yoda",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na sitcom 'Brooklyn Nine-Nine', em qual departamento da cidade de Nova York os personagens trabalham?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Delegacia de Polícia", "correta": true },
+      { "texto": "Corpo de Bombeiros", "correta": false },
+      { "texto": "Tribunal de Justiça", "correta": false },
+      { "texto": "Hospital Geral", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha um médico brilhante e antissocial chamado Gregory House?",
-    "resposta": "House",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Sherlock' da BBC, quem interpreta o papel do famoso detetive Sherlock Holmes?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Benedict Cumberbatch", "correta": true },
+      { "texto": "Martin Freeman", "correta": false },
+      { "texto": "Robert Downey Jr.", "correta": false },
+      { "texto": "Henry Cavill", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série apresenta Dexter Morgan, especialista forense e assassino?",
-    "resposta": "Dexter",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da cidade fictícia onde se passa a maior parte da história de 'Stranger Things'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hawkins", "correta": true },
+      { "texto": "Riverdale", "correta": false },
+      { "texto": "Mystic Falls", "correta": false },
+      { "texto": "Sunnydale", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha os irmãos Winchester?",
-    "resposta": "Supernatural",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Cobra Kai', a história continua os acontecimentos de qual famosa franquia de filmes dos anos 80?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Karate Kid", "correta": true },
+      { "texto": "Rocky", "correta": false },
+      { "texto": "De Volta para o Futuro", "correta": false },
+      { "texto": "Os Goonies", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Como se chamam os irmãos protagonistas de Supernatural?",
-    "resposta": "Sam e Dean Winchester",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual herói da DC Comics corre em altíssima velocidade e protege as ruas de Central City em sua própria série?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Flash", "correta": true },
+      { "texto": "Arrow (Arqueiro Verde)", "correta": false },
+      { "texto": "Batman", "correta": false },
+      { "texto": "Superman", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série apresenta o personagem Loki após os eventos de Vingadores?",
-    "resposta": "Loki",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série animada 'Rick and Morty', qual é o grau de parentesco entre os dois personagens do título?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Avô e neto", "correta": true },
+      { "texto": "Pai e filho", "correta": false },
+      { "texto": "Irmãos", "correta": false },
+      { "texto": "Tio e sobrinho", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha o herói arqueiro Oliver Queen?",
-    "resposta": "Arrow",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é a blogueira anônima que narra os segredos dos jovens ricos de Nova York na série 'Gossip Girl'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gossip Girl (A Garota do Blog)", "correta": true },
+      { "texto": "Lady Whistledown", "correta": false },
+      { "texto": "-A", "correta": false },
+      { "texto": "Red Coat", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série mostra Barry Allen como velocista?",
-    "resposta": "The Flash",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série de comédia britânica acompanha as situações desconfortáveis e sem falas de um homem que tem um ursinho de pelúcia chamado Teddy?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mr. Bean", "correta": true },
+      { "texto": "The IT Crowd", "correta": false },
+      { "texto": "Fleabag", "correta": false },
+      { "texto": "Ted Lasso", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha um grupo de personagens presos em uma ilha misteriosa após um acidente aéreo?",
-    "resposta": "Lost",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Supernatural', quais são os nomes dos dois irmãos protagonistas que caçam monstros?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sam e Dean", "correta": true },
+      { "texto": "Stefan e Damon", "correta": false },
+      { "texto": "Klaus e Elijah", "correta": false },
+      { "texto": "Rick e Daryl", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha a vida de médicos no hospital Sacred Heart?",
-    "resposta": "Scrubs",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série histórica da Netflix conta as fofocas e romances da alta sociedade de Londres na era da Regência?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bridgerton", "correta": true },
+      { "texto": "The Crown", "correta": false },
+      { "texto": "Outlander", "correta": false },
+      { "texto": "Gilded Age", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série animada acompanha as aventuras de Rick e Morty?",
-    "resposta": "Rick and Morty",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Glee', qual é o foco do clube escolar liderado pelo professor Will Schuester?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Canto e dança (Coral)", "correta": true },
+      { "texto": "Futebol americano", "correta": false },
+      { "texto": "Clube de xadrez", "correta": false },
+      { "texto": "Teatro dramático", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha um grupo de estudantes em Riverdale?",
-    "resposta": "Riverdale",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o primeiro nome do personagem principal da comédia 'Um Maluco no Pedaço' (The Fresh Prince of Bel-Air)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Will", "correta": true },
+      { "texto": "Carlton", "correta": false },
+      { "texto": "Phil", "correta": false },
+      { "texto": "Jazz", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha o advogado Saul Goodman?",
-    "resposta": "Better Call Saul",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série de ficção científica 'Doctor Who', qual é o nome da máquina do tempo que tem o formato de uma cabine telefônica policial azul?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "TARDIS", "correta": true },
+      { "texto": "DeLorean", "correta": false },
+      { "texto": "Enterprise", "correta": false },
+      { "texto": "Millennium Falcon", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série mostra uma competição mortal envolvendo jogos infantis?",
-    "resposta": "Round 6",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem de 'Game of Thrones' é amplamente conhecida pelo título de 'Mãe dos Dragões'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Daenerys Targaryen", "correta": true },
+      { "texto": "Cersei Lannister", "correta": false },
+      { "texto": "Sansa Stark", "correta": false },
+      { "texto": "Arya Stark", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha Wednesday Addams?",
-    "resposta": "Wandinha",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série da HBO 'The Last of Us', qual é a missão principal do protagonista Joel?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Escoltar uma garota chamada Ellie", "correta": true },
+      { "texto": "Encontrar a cura para o câncer", "correta": false },
+      { "texto": "Matar todos os zumbis do mundo", "correta": false },
+      { "texto": "Reencontrar sua esposa perdida", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha Joe Goldberg, obcecado por seus relacionamentos?",
-    "resposta": "You",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série de comédia se passa em um ambiente de trabalho pós-morte chamado de 'Lugar Bom'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Good Place", "correta": true },
+      { "texto": "Parks and Recreation", "correta": false },
+      { "texto": "Schitt's Creek", "correta": false },
+      { "texto": "Ted Lasso", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série apresenta um parque futurista habitado por androides?",
-    "resposta": "Westworld",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Breaking Bad', qual é o pseudônimo que Walter White assume no submundo do crime?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Heisenberg", "correta": true },
+      { "texto": "Cap'n Cook", "correta": false },
+      { "texto": "Saul Goodman", "correta": false },
+      { "texto": "Gus Fring", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série de antologia explora os impactos da tecnologia na sociedade?",
-    "resposta": "Black Mirror",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual o nome da melhor amiga de Wandinha Addams que divide o quarto com ela na Escola Nunca Mais?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Enid Sinclair", "correta": true },
+      { "texto": "Bianca Barclay", "correta": false },
+      { "texto": "Sabrina Spellman", "correta": false },
+      { "texto": "Yoko Tanaka", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "facil",
-    "pergunta": "Qual série acompanha os vikings liderados por Ragnar Lothbrok?",
-    "resposta": "Vikings",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Friends', qual dos personagens masculinos é conhecido por se casar e se divorciar três vezes ao longo da história?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ross Geller", "correta": true },
+      { "texto": "Chandler Bing", "correta": false },
+      { "texto": "Joey Tribbiani", "correta": false },
+      { "texto": "Gunther", "correta": false }
+    ]
   },
-
+  [
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do parceiro de Walter White em Breaking Bad?",
-    "resposta": "Jesse Pinkman",
-    "pontos": 3
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do reino governado pelos Stark em Game of Thrones?",
-    "resposta": "Winterfell",
-    "pontos": 3
-  },
-  {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem é conhecido como Rei da Noite em Game of Thrones?",
-    "resposta": "Night King",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpreta o vilão Homelander (Capitão Pátria) na série 'The Boys'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Antony Starr", "correta": true },
+      { "texto": "Karl Urban", "correta": false },
+      { "texto": "Jensen Ackles", "correta": false },
+      { "texto": "Jack Quaid", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do mundo paralelo de Stranger Things?",
-    "resposta": "Mundo Invertido",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Dark', qual é o ano inicial da linha do tempo principal em que ocorre o desaparecimento de Mikkel Nielsen?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "2019", "correta": true },
+      { "texto": "1986", "correta": false },
+      { "texto": "1953", "correta": false },
+      { "texto": "2020", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem de Stranger Things desaparece na primeira temporada?",
-    "resposta": "Will Byers",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Succession', qual é o nome do conglomerado global de mídia e entretenimento controlado pela família Roy?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Waystar Royco", "correta": true },
+      { "texto": "E Corp", "correta": false },
+      { "texto": "Sterling Cooper", "correta": false },
+      { "texto": "Pendant Publishing", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual empresa Michael Scott gerencia em The Office?",
-    "resposta": "Dunder Mifflin",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem de 'Better Call Saul' é o icônico e ranzinza ex-policial que gerencia a segurança e a logística do cartel de Gus Fring?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mike Ehrmantraut", "correta": true },
+      { "texto": "Nacho Varga", "correta": false },
+      { "texto": "Lalo Salamanca", "correta": false },
+      { "texto": "Howard Hamlin", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da cidade onde se passa The Office?",
-    "resposta": "Scranton",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'How I Met Your Mother', qual é a profissão do protagonista Ted Mosby?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Arquiteto", "correta": true },
+      { "texto": "Advogado", "correta": false },
+      { "texto": "Repórter", "correta": false },
+      { "texto": "Professor de Economia", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem de Friends trabalhou como paleontólogo?",
-    "resposta": "Ross Geller",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Peaky Blinders', em qual cidade inglesa se passa a maior parte da história da gangue liderada por Thomas Shelby?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Birmingham", "correta": true },
+      { "texto": "Londres", "correta": false },
+      { "texto": "Liverpool", "correta": false },
+      { "texto": "Manchester", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem de Friends era chef de cozinha?",
-    "resposta": "Monica Geller",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na sitcom 'Parks and Recreation', qual personagem é o diretor do departamento, obcecado por carne, marcenaria e que odeia o governo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ron Swanson", "correta": true },
+      { "texto": "Andy Dwyer", "correta": false },
+      { "texto": "Chris Traeger", "correta": false },
+      { "texto": "Ben Wyatt", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o sobrenome da protagonista Meredith em Grey's Anatomy?",
-    "resposta": "Grey",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série de ficção científica em formato de antologia apresenta episódios independentes que exploram a paranoia tecnológica moderna?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Black Mirror", "correta": true },
+      { "texto": "Love, Death & Robots", "correta": false },
+      { "texto": "Westworld", "correta": false },
+      { "texto": "The Twilight Zone", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem de The Big Bang Theory tem doutorado em astrofísica?",
-    "resposta": "Raj Koothrappali",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Game of Thrones', quem é o responsável direto pela execução que desencadeia a Guerra dos Cinco Reis na primeira temporada?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Joffrey Baratheon", "correta": true },
+      { "texto": "Tywin Lannister", "correta": false },
+      { "texto": "Ilyn Payne", "correta": false },
+      { "texto": "Petyr Baelish", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem de The Big Bang Theory é engenheiro aeroespacial?",
-    "resposta": "Howard Wolowitz",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na aclamada série 'Mad Men', qual é a agência de publicidade fictícia de Nova York onde a história começa?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sterling Cooper", "correta": true },
+      { "texto": "McMann & Tate", "correta": false },
+      { "texto": "Sloane & Partners", "correta": false },
+      { "texto": "BBDO", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do principal vilão de The Walking Dead que usa um taco de beisebol?",
-    "resposta": "Negan",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem de 'The Office' (EUA) foi o responsável por queimar o próprio pé em uma grelha George Foreman por tentar assar bacon na cama?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Michael Scott", "correta": true },
+      { "texto": "Dwight Schrute", "correta": false },
+      { "texto": "Kevin Malone", "correta": false },
+      { "texto": "Andy Bernard", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Como se chama o taco de beisebol de Negan?",
-    "resposta": "Lucille",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na premiada comédia 'Fleabag', como o interesse amoroso da protagonista interpretado por Andrew Scott é conhecido pelo público?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Padre Gato (The Hot Priest)", "correta": true },
+      { "texto": "O Advogado", "correta": false },
+      { "texto": "O Banco de Londres", "correta": false },
+      { "texto": "O Dono do Café", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual cidade é usada como codinome por Tokio em La Casa de Papel?",
-    "resposta": "Toquio",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Sherlock' (BBC), qual o nome do ator veterano que dá vida ao brilhante arqui-inimigo do detetive, Jim Moriarty?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Andrew Scott", "correta": true },
+      { "texto": "David Tennant", "correta": false },
+      { "texto": "Mads Mikkelsen", "correta": false },
+      { "texto": "Mark Gatiss", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do inspetor que persegue o Professor nas primeiras temporadas de La Casa de Papel?",
-    "resposta": "Raquel Murillo",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série animada 'Avatar: A Lenda de Aang', qual é o elemento nativo original que a personagem Toph Beifong domina?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Terra", "correta": true },
+      { "texto": "Fogo", "correta": false },
+      { "texto": "Água", "correta": false },
+      { "texto": "Metal", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da escola frequentada por Wandinha?",
-    "resposta": "Nevermore",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série dramática da HBO aborda a rotina de uma funerária de Los Angeles operada pela disfuncional família Fisher?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "A Sete Palmos (Six Feet Under)", "correta": true },
+      { "texto": "The Sopranos", "correta": false },
+      { "texto": "The Wire", "correta": false },
+      { "texto": "Big Little Lies", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem interpreta Loki na série homônima?",
-    "resposta": "Tom Hiddleston",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Breaking Bad', qual o nome do baralho e laboratório de fachada que Gustavo Fring usa para lavar dinheiro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Los Pollos Hermanos", "correta": true },
+      { "texto": "A1A Carwash", "correta": false },
+      { "texto": "Madrigal Electromotive", "correta": false },
+      { "texto": "Twisters", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual organização controla a linha temporal em Loki?",
-    "resposta": "AVT",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série de suspense 'Mr. Robot', qual é o codinome do misterioso grupo de hackers anarquistas liderado por Elliot?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "fsociety", "correta": true },
+      { "texto": "Dark Army", "correta": false },
+      { "texto": "E Corp", "correta": false },
+      { "texto": "Anonymous", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do anjo que ajuda os irmãos Winchester em Supernatural?",
-    "resposta": "Castiel",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série de comédia 'Ted Lasso', qual é o nome do time de futebol inglês fictício que o treinador americano assume?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "AFC Richmond", "correta": true },
+      { "texto": "West Ham United", "correta": false },
+      { "texto": "Manchester Blue", "correta": false },
+      { "texto": "Tottenham Hotspur", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual carro é dirigido por Dean Winchester em Supernatural?",
-    "resposta": "Chevrolet Impala",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atriz interpreta a vilã e assassina profissional Villanelle na aclamada série de espionagem 'Killing Eve'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jodie Comer", "correta": true },
+      { "texto": "Sandra Oh", "correta": false },
+      { "texto": "Florence Pugh", "correta": false },
+      { "texto": "Phoebe Waller-Bridge", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem é o narrador principal de How I Met Your Mother?",
-    "resposta": "Ted Mosby",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Stranger Things', qual música dos anos 80 cantada por Kate Bush salva a personagem Max do vilão Vecna na 4ª temporada?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Running Up That Hill", "correta": true },
+      { "texto": "Master of Puppets", "correta": false },
+      { "texto": "Should I Stay or Should I Go", "correta": false },
+      { "texto": "Never Ending Story", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual personagem de How I Met Your Mother é conhecido pela frase 'Legendary'?",
-    "resposta": "Barney Stinson",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na antologia criminosa 'True Detective', quem são os dois atores que interpretam os detetives principais da aclamada 1ª temporada?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Matthew McConaughey e Woody Harrelson", "correta": true },
+      { "texto": "Colin Farrell e Vince Vaughn", "correta": false },
+      { "texto": "Mahershala Ali e Stephen Dorff", "correta": false },
+      { "texto": "Jodie Foster e Kali Reis", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do protagonista de Dexter?",
-    "resposta": "Dexter Morgan",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a cidade cenográfica fictícia do Novo México onde se passam os principais eventos de 'Breaking Bad'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Albuquerque", "correta": true },
+      { "texto": "Santa Fe", "correta": false },
+      { "texto": "El Paso", "correta": false },
+      { "texto": "Phoenix", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual profissão Dexter exerce oficialmente?",
-    "resposta": "Perito Forense",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série cult 'Twin Peaks' criada por David Lynch, qual é o nome do agente especial do FBI encarregado de investigar a morte de Laura Palmer?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dale Cooper", "correta": true },
+      { "texto": "Fox Mulder", "correta": false },
+      { "texto": "Harry Truman", "correta": false },
+      { "texto": "John Douglas", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do médico interpretado por Hugh Laurie em House?",
-    "resposta": "Gregory House",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Dexter', qual é a especialidade científica de Dexter Morgan dentro do laboratório forense do Departamento de Polícia de Miami?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Análise de padrão de manchas de sangue", "correta": true },
+      { "texto": "Perícia balística", "correta": false },
+      { "texto": "Toxicologia forense", "correta": false },
+      { "texto": "Antropologia física", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série acompanha os Shelby em Birmingham?",
-    "resposta": "Peaky Blinders",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série de fantasia da Netflix adapta a história do mutante caçador de monstros Geralt de Rívia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Witcher", "correta": true },
+      { "texto": "Shadow and Bone", "correta": false },
+      { "texto": "The Wheel of Time", "correta": false },
+      { "texto": "Merlin", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Quem é o líder da família Shelby?",
-    "resposta": "Thomas Shelby",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na aclamada comédia 'Brooklyn Nine-Nine', qual é o nome do criminoso recorrente apelidado de 'Bandido do Pontiac' que tem uma rivalidade amistosa com Jake Peralta?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Doug Judy", "correta": true },
+      { "texto": "Adrian Pimento", "correta": false },
+      { "texto": "Teddy Ramos", "correta": false },
+      { "texto": "Keith Pembroke", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome do parque futurista em Westworld?",
-    "resposta": "Westworld",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Gossip Girl', quem revela ser a verdadeira mente por trás do blog de fofocas no episódio final da série?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dan Humphrey", "correta": true },
+      { "texto": "Nate Archibald", "correta": false },
+      { "texto": "Georgina Sparks", "correta": false },
+      { "texto": "Serena van der Woodsen", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série acompanha Geralt de Rivia?",
-    "resposta": "The Witcher",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a série histórica que foca nas intrigas dinásticas, saques e explorações do lendário líder guerreiro Ragnar Lothbrok?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vikings", "correta": true },
+      { "texto": "The Last Kingdom", "correta": false },
+      { "texto": "Barbarians", "correta": false },
+      { "texto": "Rome", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é a profissão de Geralt de Rivia?",
-    "resposta": "Bruxo",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série dystópica 'O Conto da Aia' (The Handmaid's Tale), qual é o nome do regime teocrático totalitário que assumiu o controle dos antigos Estados Unidos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gilead", "correta": true },
+      { "texto": "Panem", "correta": false },
+      { "texto": "O Sistema", "correta": false },
+      { "texto": "Nova Ordem", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da princesa ligada ao destino de Geralt em The Witcher?",
-    "resposta": "Ciri",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual série dramática acompanhamos a genial e autodidata enxadrista Beth Harmon lidando com vícios enquanto sobe ao topo mundial?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Gambito da Rainha", "correta": true },
+      { "texto": "The Crown", "correta": false },
+      { "texto": "As Telefonistas", "correta": false },
+      { "texto": "Unorthodox", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série da HBO adapta o jogo de mesmo nome lançado pela Naughty Dog?",
-    "resposta": "The Last of Us",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na sitcom 'Friends', qual personagem trabalha no ramo corporativo de análise estatística e reconfiguração de dados, mistério que confunde os amigos por anos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Chandler Bing", "correta": true },
+      { "texto": "Ross Geller", "correta": false },
+      { "texto": "Joey Tribbiani", "correta": false },
+      { "texto": "Mike Hannigan", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Quem acompanha Ellie em sua jornada em The Last of Us?",
-    "resposta": "Joel",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual drama policial focado em uma rede de espionagem tecnológica tem como premissa uma superinteligência artificial apelidada apenas de 'A Máquina'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Person of Interest", "correta": true },
+      { "texto": "Westworld", "correta": false },
+      { "texto": "Altered Carbon", "correta": false },
+      { "texto": "Fringe", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série acompanha os irmãos Salvatore?",
-    "resposta": "The Vampire Diaries",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Peaky Blinders', de qual minoria étnica cultural a família de Thomas Shelby descende por parte de mãe?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ciganos (Roma/Travellers)", "correta": true },
+      { "texto": "Irlandeses Católicos", "correta": false },
+      { "texto": "Judeus Ortodoxos", "correta": false },
+      { "texto": "Escoceses das Highlands", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da protagonista de The Vampire Diaries?",
-    "resposta": "Elena Gilbert",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série de comédia canadense gira em torno da outrora bilionária família Rose, forçada a se mudar para um motel de beira de estrada após falir?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Schitt's Creek", "correta": true },
+      { "texto": "Arrested Development", "correta": false },
+      { "texto": "The Good Place", "correta": false },
+      { "texto": "Veep", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série acompanha os eventos da família Roy em uma empresa de mídia?",
-    "resposta": "Succession",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na aclamada produção de ficção 'Lost', qual é a sequência numérica icônica recorrente que Hurley usa para ganhar na loteria?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "4, 8, 15, 16, 23, 42", "correta": true },
+      { "texto": "1, 2, 3, 5, 8, 13", "correta": false },
+      { "texto": "7, 14, 21, 28, 35, 49", "correta": false },
+      { "texto": "6, 12, 18, 24, 30, 36", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual é o nome da família central de Succession?",
-    "resposta": "Roy",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série médica acompanha a genial mas caótica equipe de cozinha e gestão de uma lanchonete de sanduíches de Chicago em transição para a alta gastronomia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Urso (The Bear)", "correta": true },
+      { "texto": "Boiling Point", "correta": false },
+      { "texto": "Chef's Table", "correta": false },
+      { "texto": "Sweetbitter", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série acompanha um grupo de sobreviventes presos em um bunker após um apocalipse nuclear?",
-    "resposta": "The 100",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual série de ficção científica acompanhamos a agente especial Olivia Dunham trabalhando com casos bizarros na Divisão de Franja (Fringe)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Fringe", "correta": true },
+      { "texto": "Arquivo X", "correta": false },
+      { "texto": "The Expanse", "correta": false },
+      { "texto": "12 Monkeys", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
-    "dificuldade": "media",
-    "pergunta": "Qual série acompanha o capitão Raymond Holt e detetives em Nova York?",
-    "resposta": "Brooklyn Nine-Nine",
-    "pontos": 3
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série 'Sons of Anarchy', qual é o nome do clube de motociclistas fora da lei que protagoniza a trama?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "SAMCRO", "correta": true },
+      { "texto": "The Mayans", "correta": false },
+      { "texto": "The Outlaws", "correta": false },
+      { "texto": "Grim Bastards", "correta": false }
+    ]
   },
-
   {
-    "categoria": "Series",
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual série histórica dramática acompanha a jornada de superação e romance da enfermeira Claire Randall, viajando no tempo de 1945 para a Escócia de 1743?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Outlander", "correta": true },
+      { "texto": "Poldark", "correta": false },
+      { "texto": "Downton Abbey", "correta": false },
+      { "texto": "The Serpent Queen", "correta": false }
+    ]
+  },
+  {
+    "categoria": "series",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem de 'The Big Bang Theory' é engenheiro aeroespacial e foi o único do grupo principal de amigos que viajou ao espaço sideral?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Howard Wolowitz", "correta": true },
+      { "texto": "Leonard Hofstadter", "correta": false },
+      { "texto": "Rajesh Koothrappali", "correta": false },
+      { "texto": "Stuart Bloom", "correta": false }
+    ]
+  },
+  [
+  {
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome verdadeiro de Saul Goodman em Better Call Saul?",
-    "resposta": "Jimmy McGill",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Breaking Bad', qual é o título do penúltimo episódio da quinta temporada, que faz referência ao poema de Robert Frost?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Granite State", "correta": true },
+      { "texto": "Ozymandias", "correta": false },
+      { "texto": "Felina", "correta": false },
+      { "texto": "To'hajiilee", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da empresa de Gustavo Fring usada como fachada em Breaking Bad?",
-    "resposta": "Los Pollos Hermanos",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome verdadeiro do personagem conhecido apenas como 'The Smoking Man' (O Homem do Câncer) na franquia de ficção 'Arquivo X'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "C.G.B. Spender", "correta": true },
+      { "texto": "Jeffrey Modine", "correta": false },
+      { "texto": "Alvin Kersh", "correta": false },
+      { "texto": "Alex Krycek", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da espada de Jon Snow em Game of Thrones?",
-    "resposta": "Longclaw",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na obra-prima 'The Wire' (A Escuta), qual é o nome real do lendário e temido criminoso conhecido pelas ruas de Baltimore como 'Prop Joe'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Joseph Stewart", "correta": true },
+      { "texto": "Joseph Vance", "correta": false },
+      { "texto": "Joseph Barksdale", "correta": false },
+      { "texto": "Joseph Bell", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual casa governava Dragonstone antes dos eventos principais de Game of Thrones?",
-    "resposta": "Targaryen",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Succession', qual é a ópera clássica que Kendall Roy está ouvindo no carro no episódio piloto, logo antes de tentar fechar o acordo com a Vaulter?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nenhuma, ele ouve uma música de rap de Beastie Boys", "correta": true },
+      { "texto": "A Flauta Mágica de Mozart", "correta": false },
+      { "texto": "A Cavalgada das Valquírias de Wagner", "correta": false },
+      { "texto": "Carmina Burana de Carl Orff", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o número tatuado no braço de Onze em Stranger Things?",
-    "resposta": "011",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série animada 'BoJack Horseman', em qual cidade fictícia subaquática ocorre o aclamado episódio quase totalmente mudo 'Fish Out of Water'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pacific Ocean City", "correta": true },
+      { "texto": "Atlantic City Sea", "correta": false },
+      { "texto": "Sub-Aqua Hollywood", "correta": false },
+      { "texto": "Aquaria", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem de Stranger Things é conhecido como Vecna?",
-    "resposta": "Henry Creel",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Game of Thrones', qual ator interpretou o personagem Beric Dondarrion no seu primeiro vislumbre na 1ª temporada, antes de ser substituído por Richard Dormer?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "David Michael Scott", "correta": true },
+      { "texto": "Michael McElhatton", "correta": false },
+      { "texto": "Ian Whyte", "correta": false },
+      { "texto": "Conleth Hill", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o sobrenome de Michael em The Office?",
-    "resposta": "Scott",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da misteriosa e sádica organização corporativa de fachada que sequestra os clones na série de ficção científica 'Orphan Black'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Instituto Dyad", "correta": true },
+      { "texto": "Corporação Neolution", "correta": false },
+      { "texto": "Brightborn", "correta": false },
+      { "texto": "Proletheans", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem de The Office se torna gerente regional após Michael Scott?",
-    "resposta": "Andy Bernard",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série cult 'Lost', qual era o nome do navio negreiro do século XIX que naufragou no meio da ilha e continha os estoques de dinamite?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Black Rock", "correta": true },
+      { "texto": "Elizabeth", "correta": false },
+      { "texto": "Ourang Medan", "correta": false },
+      { "texto": "The Searcher", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do restaurante temático que Monica administra em Friends?",
-    "resposta": "Javu",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'The Sopranos', qual é a identidade da testemunha federal que Tony Soprano encontra e assassina no icônico episódio da 1ª temporada intitulado 'College'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Febby Petrulio", "correta": true },
+      { "texto": "Big Pussy Bonpensiero", "correta": false },
+      { "texto": "Jimmy Altieri", "correta": false },
+      { "texto": "Richie Aprile", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem de Friends trabalha na área de moda para a Ralph Lauren?",
-    "resposta": "Rachel Green",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série médica 'House MD', qual disciplina médica e cirúrgica era a especialidade original do Dr. Robert Chase antes de entrar para a equipe de diagnóstico?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Intensivista / Medicina Intensiva", "correta": true },
+      { "texto": "Cirurgia Plástica", "correta": false },
+      { "texto": "Neurologia", "correta": false },
+      { "texto": "Imunologia", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual era o apelido dado a Derek Shepherd em Grey's Anatomy?",
-    "resposta": "McDreamy",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual renomado roteirista e diretor britânico é o criador e principal showrunner da antologia satírica de ficção científica 'Black Mirror'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Charlie Brooker", "correta": true },
+      { "texto": "Jesse Armstrong", "correta": false },
+      { "texto": "Steven Moffat", "correta": false },
+      { "texto": "Russell T. Davies", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem de Grey's Anatomy se torna chefe de cirurgia após Richard Webber?",
-    "resposta": "Owen Hunt",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Better Call Saul', qual é a marca do tequila fictício de altíssimo luxo que Jimmy e Kim usam para aplicar golpes em executivos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Zafiro Añejo", "correta": true },
+      { "texto": "Clase Azul", "correta": false },
+      { "texto": "Don Julio 1942", "correta": false },
+      { "texto": "El Tesoro", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem de The Big Bang Theory ganhou o Premio Nobel de Física?",
-    "resposta": "Sheldon Cooper",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na lendária série de ficção 'Twin Peaks', como é conhecido o local místico de purificação espiritual de onde os espíritos malignos, como BOB, emanam?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Black Lodge (O Black Lodge)", "correta": true },
+      { "texto": "The White Lodge", "correta": false },
+      { "texto": "The Red Room", "correta": false },
+      { "texto": "Glastonbury Grove", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome completo da esposa de Howard Wolowitz?",
-    "resposta": "Bernadette Rostenkowski",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na comédia dramática 'Mad Men', qual é o verdadeiro nome de batismo adotado ilegalmente pelo protagonista Don Draper?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Richard 'Dick' Whitman", "correta": true },
+      { "texto": "Robert 'Bob' Vance", "correta": false },
+      { "texto": "Charles 'Chuck' McGill", "correta": false },
+      { "texto": "Roger Sterling Jr.", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual comunidade é liderada por Ezekiel em The Walking Dead?",
-    "resposta": "Reino",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Mr. Robot', qual a verdadeira função institucional que Phillip Price exerce no mercado internacional corporativo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "CEO da E Corp", "correta": true },
+      { "texto": "Diretor Técnico do Dark Army", "correta": false },
+      { "texto": "Ministro da Segurança da China", "correta": false },
+      { "texto": "Governador do Federal Reserve", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do tigre de Ezekiel em The Walking Dead?",
-    "resposta": "Shiva",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na elogiada sitcom 'The Office' (EUA), qual personagem é o autor anônimo da bizarra e violenta série de livros infantis 'The Adventures of Jimmy Halpert'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pam Beesly", "correta": true },
+      { "texto": "Dwight Schrute", "correta": false },
+      { "texto": "Creed Bratton", "correta": false },
+      { "texto": "Jim Halpert", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual cidade é utilizada como codinome por Nairobi em La Casa de Papel?",
-    "resposta": "Nairobi",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série da HBO 'The Leftovers', qual é a porcentagem exata da população mundial que desaparece repentinamente no evento conhecido como 'A Partida'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "2%", "correta": true },
+      { "texto": "5%", "correta": false },
+      { "texto": "10%", "correta": false },
+      { "texto": "14%", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem de La Casa de Papel era especialista em arrombamentos e cofres?",
-    "resposta": "Moscou",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual episódio marcante e experimental de 'Buffy: A Caça-Vampiros' os personagens perdem completamente a voz devido ao feitiço de criaturas chamadas 'The Gentlemen'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hush", "correta": true },
+      { "texto": "The Body", "correta": false },
+      { "texto": "Once More, with Feeling", "correta": false },
+      { "texto": "Restless", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual variante feminina de Loki aparece na primeira temporada?",
-    "resposta": "Sylvie",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na aclamada dramédia medieval 'Dark', quantas gerações principais conectadas por laços temporais complexos compõem a árvore genealógica de Winden?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "4", "correta": true },
+      { "texto": "3", "correta": false },
+      { "texto": "5", "correta": false },
+      { "texto": "6", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Quem é o fundador da Autoridade de Variancia Temporal revelado no final da primeira temporada de Loki?",
-    "resposta": "Aquele Que Permanece",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na icônica sitcom clássica 'Seinfeld', qual é o nome do alter ego fictício que George Costanza frequentemente inventa para impressionar as pessoas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Art Vandelay", "correta": true },
+      { "texto": "H.E. Pennypacker", "correta": false },
+      { "texto": "Kel Varnsen", "correta": false },
+      { "texto": "Martin Van Nostrand", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual anjo se torna Deus temporariamente em Supernatural?",
-    "resposta": "Castiel",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Community', qual é o nome do obscuro jogo de tabuleiro de RPG que ocupa todo o arco dramático do icônico episódio 'Advanced Dungeons & Dragons'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dungeons & Dragons 2nd Edition", "correta": true },
+      { "texto": "Gloomhaven", "correta": false },
+      { "texto": "The Game of Houses", "correta": false },
+      { "texto": "Warhammer 40k", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do demônio de olhos amarelos em Supernatural?",
-    "resposta": "Azazel",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na obra prima de espionagem 'The Americans', qual é a divisão ultra-secreta da KGB responsável por coordenar os agentes disfarçados em solo americano?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Diretório S", "correta": true },
+      { "texto": "Diretório K", "correta": false },
+      { "texto": "Divisão Alpha", "correta": false },
+      { "texto": "Diretório Técnico 12", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da mãe dos filhos de Ted em How I Met Your Mother?",
-    "resposta": "Tracy McConnell",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Hannibal', qual é o termo neuropsiquiátrico correto que descreve a rara condição médica diagnosticada no perfil psicológico de Will Graham?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Encefalite por anticorpos anti-NMDA", "correta": true },
+      { "texto": "Esquizofrenia catatônica precoce", "correta": false },
+      { "texto": "Síndrome de Cotard severa", "correta": false },
+      { "texto": "Transtorno Dissociativo de Identidade", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é a profissão de Barney Stinson?",
-    "resposta": "Executivo Corporativo",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na histórica série 'Roma' da HBO, qual centurião e qual soldado raso romanos servem como os fios condutores dos eventos geopolíticos reais?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lucius Vorenus e Titus Pullo", "correta": true },
+      { "texto": "Marc Antony e Gaius Octavian", "correta": false },
+      { "texto": "Marcus Brutus e Cassius Longinus", "correta": false },
+      { "texto": "Atia of the Julii e Servilia of the Junii", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome adotivo do codigo moral seguido por Dexter Morgan?",
-    "resposta": "Codigo de Harry",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filósofo político iluminista e sua respectiva teoria contratualista servem de inspiração direta para o nome de John Locke em 'Lost'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "John Locke (Empirismo e Tábula Rasa)", "correta": true },
+      { "texto": "Thomas Hobbes (O Leviatã)", "correta": false },
+      { "texto": "Jean-Jacques Rousseau (O Bom Selvagem)", "correta": false },
+      { "texto": "David Hume (Ceticismo Radical)", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Quem ensinou Dexter a controlar seus impulsos assassinos?",
-    "resposta": "Harry Morgan",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Parks and Recreation', qual cidade rival da fictícia Pawnee é descrita como elitista, excessivamente limpa e odiada pelos protagonistas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Eagleton", "correta": true },
+      { "texto": "Muncie", "correta": false },
+      { "texto": "Bloomington", "correta": false },
+      { "texto": "Sagamore", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual médico frequentemente rivaliza com House em House?",
-    "resposta": "James Wilson",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na cultuada comédia de humor ácido 'Arrested Development', qual o nome do modelo de barco em que a família Bluth tenta esconder fundos ilegais?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Seaward", "correta": true },
+      { "texto": "The C-Word", "correta": false },
+      { "texto": "The Banana Boat", "correta": false },
+      { "texto": "The Queen Mary", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome do hospital onde House trabalha?",
-    "resposta": "Princeton Plainsboro",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Peaky Blinders', qual o nome verdadeiro do personagem histórico real e líder fascista britânico que rivaliza politicamente com Tommy Shelby a partir da 5ª temporada?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Oswald Mosley", "correta": true },
+      { "texto": "Winston Churchill", "correta": false },
+      { "texto": "Alfie Solomons", "correta": false },
+      { "texto": "Darby Sabini", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual organização criminosa rivaliza com Thomas Shelby em diversas temporadas de Peaky Blinders?",
-    "resposta": "Mafia Italiana",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na série animada 'Rick and Morty', de qual dimensão específica do multiverso vem a versão principal da dupla de protagonistas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "C-137", "correta": true },
+      { "texto": "Prime-Dimension", "correta": false },
+      { "texto": "C-132", "correta": false },
+      { "texto": "Dimension J-19-Zeta", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da tia de Thomas Shelby que administra os negocios da familia?",
-    "resposta": "Polly Gray",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Fringe' (Fronteiras), qual o nome do laboratório farmacêutico e de biotecnologia fundado por William Bell?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Massive Dynamic", "correta": true },
+      { "texto": "Tyrell Corporation", "correta": false },
+      { "texto": "Omni Consumer Products", "correta": false },
+      { "texto": "Delos Inc.", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da feiticeira apaixonada por Geralt em The Witcher?",
-    "resposta": "Yennefer",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na clássica produção dramática 'The West Wing' (Nos Bastidores do Poder), qual é a terra natal do Presidente Josiah Bartlet?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "New Hampshire", "correta": true },
+      { "texto": "Massachusetts", "correta": false },
+      { "texto": "Ohio", "correta": false },
+      { "texto": "Pensilvânia", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual bardo acompanha frequentemente Geralt em The Witcher?",
-    "resposta": "Jaskier",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Dark', quem é o verdadeiro fundador e líder supremo da sociedade secreta de viajantes do tempo conhecida como 'Sic Mundus Creatus Est'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Adam (Jonas Kahnwald idoso)", "correta": true },
+      { "texto": "Noah (Hanno Tauber)", "correta": false },
+      { "texto": "Claudia Tiedemann", "correta": false },
+      { "texto": "H.G. Tannhaus", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual grupo revolucionario liderado por Marlene aparece em The Last of Us?",
-    "resposta": "Vagalumes",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi a primeira série de televisão de prestígio produzida e distribuída diretamente como conteúdo original pela plataforma de streaming Netflix em 2012?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lilyhammer", "correta": true },
+      { "texto": "House of Cards", "correta": false },
+      { "texto": "Orange Is the New Black", "correta": false },
+      { "texto": "Hemlock Grove", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual tipo de fungo causa a infeccao em The Last of Us?",
-    "resposta": "Cordyceps",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Battlestar Galactica' (2004), quantos modelos biológicos humanoides de Cylon existem no total dentro do universo da série?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "12", "correta": true },
+      { "texto": "7", "correta": false },
+      { "texto": "8", "correta": false },
+      { "texto": "5", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual vampiro mais velho faz parte da familia Original em The Vampire Diaries?",
-    "resposta": "Klaus Mikaelson",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na antologia de terror 'American Horror Story: Asylum', qual é o codinome de psicopata atribuído ao Dr. Oliver Thredson?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bloody Face", "correta": true },
+      { "texto": "Rubber Man", "correta": false },
+      { "texto": "Twisty", "correta": false },
+      { "texto": "The Axeman", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual cidade ficticia serve de cenário para The Vampire Diaries?",
-    "resposta": "Mystic Falls",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'The Good Place', qual é a pontuação numérica exata necessária para que um ser humano entre no 'Lugar Bom' legítimo, mencionada na primeira temporada?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nenhuma pontuação exata é fixa, o sistema estava quebrado há 500 anos", "correta": true },
+      { "texto": "1.000.000 de pontos", "correta": false },
+      { "texto": "500.000 pontos", "correta": false },
+      { "texto": "1.241.492 pontos", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual empresa é controlada pela familia Roy em Succession?",
-    "resposta": "Waystar Royco",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi a famosa série de drama policial da HBO que introduziu a icônica e hiper-violenta gangue russa 'The Red 9' comandada por um ex-militar?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Banshee", "correta": true },
+      { "texto": "Ray Donovan", "correta": false },
+      { "texto": "Boardwalk Empire", "correta": false },
+      { "texto": "Oz", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual personagem é o patriarca da familia Roy?",
-    "resposta": "Logan Roy",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na sitcom 'Friends', qual o nome completo do primeiro noivo de Rachel Green, de quem ela foge no altar no primeiro episódio da série?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Barry Farber", "correta": true },
+      { "texto": "Paolo Costanzo", "correta": false },
+      { "texto": "Tag Jones", "correta": false },
+      { "texto": "David Cooper", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual é o nome da protagonista de The 100?",
-    "resposta": "Clarke Griffin",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Em 'Game of Thrones', de qual material místico extremamente raro e letal para os Caminhantes Brancos é feita a armadura e a espada de metal de Euron Greyjoy nos livros (e brevemente referenciada na série)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Aço Valiriano", "correta": true },
+      { "texto": "Vidro de Dragão (Obsidiana)", "correta": false },
+      { "texto": "Ferro Frio", "correta": false },
+      { "texto": "Bronze Antigo", "correta": false }
+    ]
   },
   {
-    "categoria": "Series",
+    "categoria": "series",
     "dificuldade": "dificil",
-    "pergunta": "Qual detetive é protagonista de Brooklyn Nine-Nine?",
-    "resposta": "Jake Peralta",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Na elogiada série dramática de ficção científica 'Severance' (Ruptura), qual o nome da misteriosa e bizarra empresa de biotecnologia onde os funcionários dividem cirurgicamente suas memórias corporativas das pessoais?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lumon Industries", "correta": true },
+      { "texto": "Edison Corp", "correta": false },
+      { "texto": "Sundance Labs", "correta": false },
+      { "texto": "Delos Incorporated", "correta": false }
+    ]
   }
+]
+  ]
 ]

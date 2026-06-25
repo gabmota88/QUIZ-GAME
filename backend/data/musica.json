@@ -1,0 +1,2114 @@
+[
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor canta 'Despacito'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Luis Fonsi", "correta": true },
+      { "texto": "Bad Bunny", "correta": false },
+      { "texto": "Shakira", "correta": false },
+      { "texto": "J Balvin", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual artista canta 'Shape of You'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bruno Mars", "correta": false },
+      { "texto": "Ed Sheeran", "correta": true },
+      { "texto": "Maroon 5", "correta": false },
+      { "texto": "Shawn Mendes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem canta 'Billie Jean'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Michael Jackson", "correta": true },
+      { "texto": "Elton John", "correta": false },
+      { "texto": "Justin Bieber", "correta": false },
+      { "texto": "George Michael", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda canta 'Bohemian Rhapsody'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Queen", "correta": true },
+      { "texto": "Nirvana", "correta": false },
+      { "texto": "U2", "correta": false },
+      { "texto": "Eagles", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem canta 'Someone Like You'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Adele", "correta": true },
+      { "texto": "Taylor Swift", "correta": false },
+      { "texto": "Rihanna", "correta": false },
+      { "texto": "Katy Perry", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora canta 'Waka Waka'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shakira", "correta": true },
+      { "texto": "Beyoncé", "correta": false },
+      { "texto": "Rita Ora", "correta": false },
+      { "texto": "Lady Gaga", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem canta 'Sorry'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Justin Bieber", "correta": true },
+      { "texto": "Eminem", "correta": false },
+      { "texto": "Ed Sheeran", "correta": false },
+      { "texto": "One Direction", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual grupo canta 'Smells Like Teen Spirit'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nirvana", "correta": true },
+      { "texto": "Metallica", "correta": false },
+      { "texto": "Pearl Jam", "correta": false },
+      { "texto": "Red Hot Chili Peppers", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda é conhecida por 'Hotel California'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Rolling Stones", "correta": false },
+      { "texto": "Eagles", "correta": true },
+      { "texto": "The Doors", "correta": false },
+      { "texto": "Dire Straits", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor é conhecido pela música 'Gangnam Style'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "PSY", "correta": true },
+      { "texto": "G-Dragon", "correta": false },
+      { "texto": "Taeyang", "correta": false },
+      { "texto": "Jay Park", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual artista canta 'Viva La Vida'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Coldplay", "correta": true },
+      { "texto": "Maroon 5", "correta": false },
+      { "texto": "U2", "correta": false },
+      { "texto": "Keane", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o instrumento de 6 cordas mais comum na música popular brasileira?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Violão (guitarra), instrumento de 6 cordas", "correta": true },
+      { "texto": "Trombone", "correta": false },
+      { "texto": "A flauta", "correta": false },
+      { "texto": "A caixa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Que instrumento normalmente toca a base rítmica marcando o tempo em muitas bandas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bateria", "correta": true },
+      { "texto": "Oboé", "correta": false },
+      { "texto": "Harpa", "correta": false },
+      { "texto": "Clarinete", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quantas notas existem em um refrão típico de música (conceito geral)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Não existe número fixo; varia na música", "correta": true },
+      { "texto": "Sempre 4 notas", "correta": false },
+      { "texto": "Sempre 8 notas", "correta": false },
+      { "texto": "Sempre 12 notas", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a cor de uma guitarra elétrica (em geral) quando falamos de um exemplo genérico?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pode variar; não existe cor única", "correta": true },
+      { "texto": "Sempre azul", "correta": false },
+      { "texto": "Sempre vermelha", "correta": false },
+      { "texto": "Sempre verde", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destes é um estilo musical?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rock", "correta": true },
+      { "texto": "Bicicleta", "correta": false },
+      { "texto": "Matemática", "correta": false },
+      { "texto": "Cozinha", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual instrumento tem 88 teclas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Piano", "correta": true },
+      { "texto": "Saxofone", "correta": false },
+      { "texto": "Violino", "correta": false },
+      { "texto": "Bongo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a clave mais comum no pentagrama para notas agudas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Clave de Sol", "correta": true },
+      { "texto": "Clave de Fá", "correta": false },
+      { "texto": "Clave de Dó", "correta": false },
+      { "texto": "Clave de Si", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a clave mais usada para notas graves?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Clave de Fá", "correta": true },
+      { "texto": "Clave de Sol", "correta": false },
+      { "texto": "Clave de Dó", "correta": false },
+      { "texto": "Clave de Si", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em músicas em 4/4, qual número representa o topo do compasso?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Quantidade de batidas por compasso", "correta": true },
+      { "texto": "Quantidade de compassos por música", "correta": false },
+      { "texto": "Altura das notas", "correta": false },
+      { "texto": "Velocidade do som", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual símbolo musical indica silêncio (pausa)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Silêncio / pausa musical", "correta": true },
+      { "texto": "♪ (nota)" , "correta": false },
+      { "texto": "□ (quadrado)", "correta": false },
+      { "texto": "— (traço)", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O que é ritmo, de forma geral?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "A organização do tempo na música", "correta": true },
+      { "texto": "A cor do instrumento", "correta": false },
+      { "texto": "O tema da letra", "correta": false },
+      { "texto": "A quantidade de acordes fixa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O que é melodia, em geral?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sequência de notas que forma a “linha” principal", "correta": true },
+      { "texto": "Som de bateria somente", "correta": false },
+      { "texto": "A mixagem final do áudio", "correta": false },
+      { "texto": "O silêncio entre músicas", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é um instrumento de sopro de palheta?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Clarinete", "correta": true },
+      { "texto": "Guitarra", "correta": false },
+      { "texto": "Violino", "correta": false },
+      { "texto": "Baixo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual instrumento é mais associado ao canto humano em músicas populares?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Voz", "correta": true },
+      { "texto": "Acordeão", "correta": false },
+      { "texto": "Bateria", "correta": false },
+      { "texto": "Sinos", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual desses é um instrumento de cordas friccionadas (arco)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Violino", "correta": true },
+      { "texto": "Trompete", "correta": false },
+      { "texto": "Bombo", "correta": false },
+      { "texto": "Pandeiro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual instrumento é conhecido por tocar notas graves em várias bandas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Contrabaixo (baixo)", "correta": true },
+      { "texto": "Flauta", "correta": false },
+      { "texto": "Pífano", "correta": false },
+      { "texto": "Trombone", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em geral, para que serve o refrão em uma música?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Repetir um trecho marcante várias vezes", "correta": true },
+      { "texto": "Ser sempre a parte mais lenta", "correta": false },
+      { "texto": "Sumir do começo ao fim", "correta": false },
+      { "texto": "Ser somente instrumental", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual artista canta 'Like a Prayer'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Madonna", "correta": true },
+      { "texto": "Beyoncé", "correta": false },
+      { "texto": "Rihanna", "correta": false },
+      { "texto": "Lady Gaga", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual instrumento é muito usado no samba e costuma ter formato circular com pele?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pandeiro", "correta": true },
+      { "texto": "Violoncelo", "correta": false },
+      { "texto": "Zabumba", "correta": false },
+      { "texto": "Tuba", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O que é um acorde, de forma simples?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Várias notas tocadas juntas", "correta": true },
+      { "texto": "Uma única nota tocada repetidamente", "correta": false },
+      { "texto": "Um instrumento", "correta": false },
+      { "texto": "Um tipo de microfone", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o gênero musical associado ao samba no Brasil?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Samba", "correta": true },
+      { "texto": "Ópera", "correta": false },
+      { "texto": "Balé", "correta": false },
+      { "texto": "Karate", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a nota mais aguda (mais alta) no teclado, em geral?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "As teclas da direita", "correta": true },
+      { "texto": "As teclas da esquerda", "correta": false },
+      { "texto": "As teclas do meio", "correta": false },
+      { "texto": "Todas são iguais", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quantas notas existem no alfabeto musical (ciclo principal) mais comum usado no Ocidente?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "7 (do, re, mi, fa, sol, la, si)", "correta": true },
+      { "texto": "5", "correta": false },
+      { "texto": "9", "correta": false },
+      { "texto": "12", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual instrumento geralmente toca melodia em uma banda (em muitos arranjos)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Geralmente guitarra/voz (melodia)", "correta": true },
+      { "texto": "Somente tuba", "correta": false },
+      { "texto": "Somente bateria", "correta": false },
+      { "texto": "Somente contrabaixo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é um exemplo de música clássica (compositor conhecido)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ludwig van Beethoven", "correta": true },
+      { "texto": "Usain Bolt", "correta": false },
+      { "texto": "Pelé", "correta": false },
+      { "texto": "Marta", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em geral, para que serve o andamento (tempo) em uma música?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Indica a velocidade da música", "correta": true },
+      { "texto": "Indica a cor da voz", "correta": false },
+      { "texto": "Indica a roupa do cantor", "correta": false },
+      { "texto": "Indica o tipo de letra", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual técnica/indicação significa tocar mais forte (volume maior)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Crescendo (em geral aumenta)", "correta": true },
+      { "texto": "Diminuendo (em geral diminui)", "correta": false },
+      { "texto": "Silêncio", "correta": false },
+      { "texto": "Staccatissimo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destes costuma ser um estilo/ritmo de dança popular?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Reggaeton", "correta": true },
+      { "texto": "Astronomia", "correta": false },
+      { "texto": "Geografia", "correta": false },
+      { "texto": "Atletismo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quantos instrumentos aparecem normalmente em uma banda completa (visão geral)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Varia: pode ser 3, 5, 10..., não tem número fixo", "correta": true },
+      { "texto": "Sempre exatamente 4", "correta": false },
+      { "texto": "Sempre exatamente 2", "correta": false },
+      { "texto": "Sempre exatamente 1", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual termo significa “volume” na música?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dinâmica", "correta": true },
+      { "texto": "Timbre", "correta": false },
+      { "texto": "Altura", "correta": false },
+      { "texto": "Ritmo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "No pentagrama, o conjunto de linhas e espaços é usado para quê?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Representar alturas das notas", "correta": true },
+      { "texto": "Representar apenas o volume", "correta": false },
+      { "texto": "Representar somente a letra da música", "correta": false },
+      { "texto": "Representar o peso do instrumento", "correta": false }
+    ]
+  },
+  [
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é conhecido mundialmente como o 'Rei do Pop'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Michael Jackson", "correta": true },
+      { "texto": "Prince", "correta": false },
+      { "texto": "Elvis Presley", "correta": false },
+      { "texto": "Madonna", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora brasileira é dona dos hits 'Show das Poderosas' e 'Envolver'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Anitta", "correta": true },
+      { "texto": "Ludmilla", "correta": false },
+      { "texto": "Iza", "correta": false },
+      { "texto": "Luísa Sonza", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual banda britânica faziam parte John Lennon e Paul McCartney?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Beatles", "correta": true },
+      { "texto": "The Rolling Stones", "correta": false },
+      { "texto": "Queen", "correta": false },
+      { "texto": "Pink Floyd", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor brasileiro ficou conhecido nacionalmente como o 'Rei'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Roberto Carlos", "correta": true },
+      { "texto": "Caetano Veloso", "correta": false },
+      { "texto": "Chico Buarque", "correta": false },
+      { "texto": "Gilberto Gil", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock é famosa pela música 'Bohemian Rhapsody'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Queen", "correta": true },
+      { "texto": "Led Zeppelin", "correta": false },
+      { "texto": "AC/DC", "correta": false },
+      { "texto": "U2", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o compositor da famosa música de Bossa Nova 'Garota de Ipanema' junto com Vinicius de Moraes?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tom Jobim", "correta": true },
+      { "texto": "João Gilberto", "correta": false },
+      { "texto": "Toquinho", "correta": false },
+      { "texto": "Cartola", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora pop americana é conhecida pelos fãs como 'Queen Bey'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Beyoncé", "correta": true },
+      { "texto": "Rihanna", "correta": false },
+      { "texto": "Lady Gaga", "correta": false },
+      { "texto": "Taylor Swift", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda brasileira de rock era liderada por Renato Russo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Legião Urbana", "correta": true },
+      { "texto": "Os Paralamas do Sucesso", "correta": false },
+      { "texto": "Barão Vermelho", "correta": false },
+      { "texto": "Titãs", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem canta o sucesso global 'Shape of You'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ed Sheeran", "correta": true },
+      { "texto": "Justin Bieber", "correta": false },
+      { "texto": "Bruno Mars", "correta": false },
+      { "texto": "Shawn Mendes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual artista é conhecido como o 'Rei do Baião' na música brasileira?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Luiz Gonzaga", "correta": true },
+      { "texto": "Dominguinhos", "correta": false },
+      { "texto": "Alceu Valença", "correta": false },
+      { "texto": "Jackson do Pandeiro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora é famosa pela música 'Bad Romance' e por seus figurinos extravagantes?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lady Gaga", "correta": true },
+      { "texto": "Katy Perry", "correta": false },
+      { "texto": "Britney Spears", "correta": false },
+      { "texto": "Nicki Minaj", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual icônica cantora brasileira era apelidada de 'Pimentinha'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Elis Regina", "correta": true },
+      { "texto": "Gal Costa", "correta": false },
+      { "texto": "Maria Bethânia", "correta": false },
+      { "texto": "Rita Lee", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock britânica lançou o álbum 'The Dark Side of the Moon'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pink Floyd", "correta": true },
+      { "texto": "The Who", "correta": false },
+      { "texto": "Led Zeppelin", "correta": false },
+      { "texto": "Black Sabbath", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é considerada a 'Rainha do Rock Brasileiro'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rita Lee", "correta": true },
+      { "texto": "Pitty", "correta": false },
+      { "texto": "Cássia Eller", "correta": false },
+      { "texto": "Baby do Brasil", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor e pianista britânico é famoso pela música 'Rocket Man'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Elton John", "correta": true },
+      { "texto": "Phil Collins", "correta": false },
+      { "texto": "Billy Joel", "correta": false },
+      { "texto": "Rod Stewart", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual dupla sertaneja é famosa pelo hit dos anos 90 'Evidências'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Chitãozinho & Xororó", "correta": true },
+      { "texto": "Zezé Di Camargo & Luciano", "correta": false },
+      { "texto": "Leandro & Leonardo", "correta": false },
+      { "texto": "Chrystian & Ralf", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual grupo de K-pop é conhecido globalmente por hits como 'Dynamite' e 'Butter'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "BTS", "correta": true },
+      { "texto": "Blackpink", "correta": false },
+      { "texto": "EXO", "correta": false },
+      { "texto": "Twice", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor brasileiro é conhecido como o 'Maluco Beleza'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Raul Seixas", "correta": true },
+      { "texto": "Cazuza", "correta": false },
+      { "texto": "Tim Maia", "correta": false },
+      { "texto": "Ney Matogrosso", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é a cantora pop por trás do álbum '1989' e da gigantesca turnê 'The Eras Tour'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Taylor Swift", "correta": true },
+      { "texto": "Katy Perry", "correta": false },
+      { "texto": "Ariana Grande", "correta": false },
+      { "texto": "Selena Gomez", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor brasileiro trouxe muito balanço ao país com sucessos como 'Não Quero Dinheiro'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tim Maia", "correta": true },
+      { "texto": "Jorge Ben Jor", "correta": false },
+      { "texto": "Wilson Simonal", "correta": false },
+      { "texto": "Seu Jorge", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock norte-americana era liderada por Kurt Cobain?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nirvana", "correta": true },
+      { "texto": "Pearl Jam", "correta": false },
+      { "texto": "Foo Fighters", "correta": false },
+      { "texto": "Green Day", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual sambista e compositor brasileiro é o autor de 'O Mundo É Um Moinho'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cartola", "correta": true },
+      { "texto": "Adoniran Barbosa", "correta": false },
+      { "texto": "Nelson Cavaquinho", "correta": false },
+      { "texto": "Paulinho da Viola", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual famosa cantora colombiana é dona dos sucessos 'Hips Don't Lie' e 'Waka Waka'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shakira", "correta": true },
+      { "texto": "Jennifer Lopez", "correta": false },
+      { "texto": "Karol G", "correta": false },
+      { "texto": "Rosalía", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o vocalista principal da banda de rock nacional Barão Vermelho nos anos 80 antes de seguir carreira solo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cazuza", "correta": true },
+      { "texto": "Frejat", "correta": false },
+      { "texto": "Lobão", "correta": false },
+      { "texto": "Nando Reis", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda irlandesa de rock tem Bono Vox como vocalista?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "U2", "correta": true },
+      { "texto": "The Cranberries", "correta": false },
+      { "texto": "Coldplay", "correta": false },
+      { "texto": "The Script", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora sertaneja brasileira ficou conhecida como a 'Rainha da Sofrência'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Marília Mendonça", "correta": true },
+      { "texto": "Maiara", "correta": false },
+      { "texto": "Simone Mendes", "correta": false },
+      { "texto": "Lauana Prado", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual artista jamaicano é considerado o maior ícone da história do Reggae?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bob Marley", "correta": true },
+      { "texto": "Peter Tosh", "correta": false },
+      { "texto": "Jimmy Cliff", "correta": false },
+      { "texto": "Sean Paul", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A música 'Apesar de Você', marcante na época da ditadura militar, foi composta por quem?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Chico Buarque", "correta": true },
+      { "texto": "Caetano Veloso", "correta": false },
+      { "texto": "Geraldo Vandré", "correta": false },
+      { "texto": "Milton Nascimento", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual grupo de rap brasileiro lançou o aclamado álbum 'Sobrevivendo no Inferno'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Racionais MC's", "correta": true },
+      { "texto": "Sabotage", "correta": false },
+      { "texto": "Facção Central", "correta": false },
+      { "texto": "ConeCrewDiretoria", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem canta a famosa música pop 'Rolling in the Deep'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Adele", "correta": true },
+      { "texto": "Amy Winehouse", "correta": false },
+      { "texto": "Dua Lipa", "correta": false },
+      { "texto": "Sia", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock nacional dos anos 90 misturava rock com ritmos nordestinos no movimento Manguebeat?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Chico Science & Nação Zumbi", "correta": true },
+      { "texto": "Raimundos", "correta": false },
+      { "texto": "Skank", "correta": false },
+      { "texto": "Charlie Brown Jr.", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantor americano faz muito sucesso com músicas como 'Uptown Funk' e '24K Magic'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bruno Mars", "correta": true },
+      { "texto": "The Weeknd", "correta": false },
+      { "texto": "Justin Timberlake", "correta": false },
+      { "texto": "Drake", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual famosa banda de Santos (SP) era liderada pelo cantor Chorão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Charlie Brown Jr.", "correta": true },
+      { "texto": "CPM 22", "correta": false },
+      { "texto": "Detonautas", "correta": false },
+      { "texto": "O Rappa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual banda pop/rock de enorme sucesso mundial Chris Martin é o vocalista?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Coldplay", "correta": true },
+      { "texto": "Maroon 5", "correta": false },
+      { "texto": "Imagine Dragons", "correta": false },
+      { "texto": "OneRepublic", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual baiana consagrada é carinhosamente chamada de 'Rainha do Axé'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Daniela Mercury", "correta": true },
+      { "texto": "Ivete Sangalo", "correta": false },
+      { "texto": "Claudia Leitte", "correta": false },
+      { "texto": "Margareth Menezes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual DJ e produtor brasileiro alcançou o topo das paradas globais com a música 'Hear Me Now'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alok", "correta": true },
+      { "texto": "Vintage Culture", "correta": false },
+      { "texto": "Dennis DJ", "correta": false },
+      { "texto": "DJ Marlboro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual lendária banda de rock americana tem Axl Rose e Slash na formação?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Guns N' Roses", "correta": true },
+      { "texto": "Aerosmith", "correta": false },
+      { "texto": "Bon Jovi", "correta": false },
+      { "texto": "Metallica", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual canção do grupo mineiro Skank fala sobre a paixão nacional pelo futebol?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "É Uma Partida de Futebol", "correta": true },
+      { "texto": "Vou Deixar", "correta": false },
+      { "texto": "Garota Nacional", "correta": false },
+      { "texto": "Sutilmente", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora pop canadense estourou no início dos anos 2000 com o hit 'Complicated'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Avril Lavigne", "correta": true },
+      { "texto": "Alanis Morissette", "correta": false },
+      { "texto": "Celine Dion", "correta": false },
+      { "texto": "Nelly Furtado", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do festival de música criado no Brasil em 1985 que se tornou um dos maiores do mundo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rock in Rio", "correta": true },
+      { "texto": "Lollapalooza", "correta": false },
+      { "texto": "Tomorrowland", "correta": false },
+      { "texto": "The Town", "correta": false }
+    ]
+  },
+
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual famosa cantora britânica gravou a música-tema 'Skyfall' para o filme de James Bond em 2012?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Adele", "correta": true },
+      { "texto": "Dua Lipa", "correta": false },
+      { "texto": "Amy Winehouse", "correta": false },
+      { "texto": "Florence Welch", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "O clássico álbum 'Transa' (1972), considerado um dos maiores da música brasileira, foi gravado por qual artista durante seu exílio em Londres?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Caetano Veloso", "correta": true },
+      { "texto": "Gilberto Gil", "correta": false },
+      { "texto": "Chico Buarque", "correta": false },
+      { "texto": "Tom Zé", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock internacional lançou o icônico álbum 'Nevermind' em 1991, que popularizou o movimento grunge?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nirvana", "correta": true },
+      { "texto": "Pearl Jam", "correta": false },
+      { "texto": "Soundgarden", "correta": false },
+      { "texto": "Alice in Chains", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do músico e instrumentista que divide os vocais e as composições dos Tribalistas com Marisa Monte e Carlinhos Brown?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Arnaldo Antunes", "correta": true },
+      { "texto": "Nando Reis", "correta": false },
+      { "texto": "Paulinho Moska", "correta": false },
+      { "texto": "Lenine", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Antes de seguir uma carreira solo estrondosa, de qual boyband dos anos 90 o cantor Justin Timberlake fazia parte?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "*NSYNC", "correta": true },
+      { "texto": "Backstreet Boys", "correta": false },
+      { "texto": "Boyz II Men", "correta": false },
+      { "texto": "Take That", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "A música 'Como Nossos Pais', que ficou eternizada na voz de Elis Regina, foi originalmente composta por qual grande artista cearense?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Belchior", "correta": true },
+      { "texto": "Fagner", "correta": false },
+      { "texto": "Ednardo", "correta": false },
+      { "texto": "Alceu Valença", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda britânica liderada por Freddie Mercury misturou rock progressivo com elementos de ópera na faixa 'Bohemian Rhapsody'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Queen", "correta": true },
+      { "texto": "Led Zeppelin", "correta": false },
+      { "texto": "The Who", "correta": false },
+      { "texto": "Pink Floyd", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual icônico festival de música brasileiro, em 1967, a canção 'Alegria, Alegre' de Caetano Veloso marcou o início do Tropicalismo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "III Festival da Música Popular Brasileira (TV Record)", "correta": true },
+      { "texto": "Festival de Águas Claras", "correta": false },
+      { "texto": "I Festival Internacional da Canção (FIC)", "correta": false },
+      { "texto": "Festival de MPB da TV Tupi", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora americana é conhecida pelo alter ego 'Sasha Fierce', que inclusive deu nome a um de seus álbuns de maior sucesso em 2008?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Beyoncé", "correta": true },
+      { "texto": "Rihanna", "correta": false },
+      { "texto": "Lady Gaga", "correta": false },
+      { "texto": "Katy Perry", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual grupo brasileiro de rock e pop dos anos 80, vindo de São Paulo, tinha como marcas irreverentes hits como 'Inútil' e 'Marylou'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ultraje a Rigor", "correta": true },
+      { "texto": "Skank", "correta": false },
+      { "texto": "Jota Quest", "correta": false },
+      { "texto": "Pato Fu", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual guitarrista britânico é mundialmente famoso pelo riff de 'Layla' e por sua carreira com as bandas Cream e Derek and the Dominos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Eric Clapton", "correta": true },
+      { "texto": "Jimmy Page", "correta": false },
+      { "texto": "Jeff Beck", "correta": false },
+      { "texto": "David Gilmour", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "'Chega de Saudade' (1958), marco inicial da Bossa Nova gravado por João Gilberto, tem melodia de Tom Jobim e letra de qual poeta brasileiro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vinicius de Moraes", "correta": true },
+      { "texto": "Carlos Drummond de Andrade", "correta": false },
+      { "texto": "Manuel Bandeira", "correta": false },
+      { "texto": "Ferreira Gullar", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "O hit global 'Blinding Lights', lançado no final de 2019 e que quebrou recordes históricos nas paradas, pertence a qual artista canadense?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Weeknd", "correta": true },
+      { "texto": "Drake", "correta": false },
+      { "texto": "Justin Bieber", "correta": false },
+      { "texto": "Shawn Mendes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock nacional formada em Brasília estourou nos anos 80 com músicas de forte teor social, como 'Alagados' e 'Óculos'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Os Paralamas do Sucesso", "correta": true },
+      { "texto": "Capital Inicial", "correta": false },
+      { "texto": "Plebe Rude", "correta": false },
+      { "texto": "Legião Urbana", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual famosa cantora e compositora de soul/R&B americana lançou o aclamado álbum conceitual 'The Miseducation of Lauryn Hill' em 1998?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lauryn Hill", "correta": true },
+      { "texto": "Erykah Badu", "correta": false },
+      { "texto": "Alicia Keys", "correta": false },
+      { "texto": "Tracy Chapman", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o compositor e cantor pernambucano conhecido por misturar frevo, maracatu e rock, autor de clássicos como 'Anunciação' e 'Tropicana'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alceu Valença", "correta": true },
+      { "texto": "Zé Ramalho", "correta": false },
+      { "texto": "Geraldo Azevedo", "correta": false },
+      { "texto": "Lenine", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual icônica banda de rock inglesa usou uma foto de quatro integrantes atravessando uma faixa de pedestres como capa de um álbum em 1969?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Beatles", "correta": true },
+      { "texto": "The Rolling Stones", "correta": false },
+      { "texto": "The Kinks", "correta": false },
+      { "texto": "Led Zeppelin", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "O movimento Manguebeat, que revolucionou a música brasileira nos anos 90, teve como berço qual capital nordestina?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Recife", "correta": true },
+      { "texto": "Salvador", "correta": false },
+      { "texto": "Fortaleza", "correta": false },
+      { "texto": "João Pessoa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "A cantora pop americana Billie Eilish ganhou imensa notoriedade mundial e vários prêmios Grammy após o lançamento de qual single de 2019?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bad Guy", "correta": true },
+      { "texto": "Ocean Eyes", "correta": false },
+      { "texto": "Happier Than Ever", "correta": false },
+      { "texto": "Everything I Wanted", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual álbum do cantor mineiro Milton Nascimento, gravado em parceria com Lô Borges em 1972, tornou-se o maior símbolo do movimento mineiro homônimo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Clube da Esquina", "correta": true },
+      { "texto": "Minas", "correta": false },
+      { "texto": "Geraes", "correta": false },
+      { "texto": "Milagre dos Peixes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock norte-americana tem como marcas a voz de Anthony Kiedis e as linhas de baixo de Flea?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Red Hot Chili Peppers", "correta": true },
+      { "texto": "Foo Fighters", "correta": false },
+      { "texto": "Green Day", "correta": false },
+      { "texto": "Pearl Jam", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Considerado um dos maiores poetas do samba carioca, qual compositor da Mangueira é o autor de 'As Rosas Não Falam'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cartola", "correta": true },
+      { "texto": "Adoniran Barbosa", "correta": false },
+      { "texto": "Pixinguinha", "correta": false },
+      { "texto": "Paulinho da Viola", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual país europeu veio o grupo ABBA, que dominou as paradas pop dos anos 70 com sucessos como 'Dancing Queen'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Suécia", "correta": true },
+      { "texto": "Noruega", "correta": false },
+      { "texto": "Dinamarca", "correta": false },
+      { "texto": "Holanda", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do projeto musical virtual de enorme sucesso criado por Damon Albarn, vocalista da banda de britpop Blur?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gorillaz", "correta": true },
+      { "texto": "Daft Punk", "correta": false },
+      { "texto": "Massive Attack", "correta": false },
+      { "texto": "The Prodigy", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual famosa cantora brasileira de samba é amplamente conhecida pelo apelido de 'Marrom'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alcione", "correta": true },
+      { "texto": "Maria Bethânia", "correta": false },
+      { "texto": "Gal Costa", "correta": false },
+      { "texto": "Clara Nunes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual rapper americano fez história ao se tornar o primeiro artista fora do jazz e da música clássica a ganhar um Prêmio Pulitzer pelo álbum 'DAMN.'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Kendrick Lamar", "correta": true },
+      { "texto": "Eminem", "correta": false },
+      { "texto": "Jay-Z", "correta": false },
+      { "texto": "Kanye West", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual instrumentista e compositor de choro e samba brasileiro ficou mundialmente famoso por sua maestria tocando o bandolim?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jacob do Bandolim", "correta": true },
+      { "texto": "Waldir Azevedo", "correta": false },
+      { "texto": "Pixinguinha", "correta": false },
+      { "texto": "Baden Powell", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora pop britânica, que estourou mundialmente com o álbum 'Future Nostalgia', é a voz por trás do hit 'Don't Start Now'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dua Lipa", "correta": true },
+      { "texto": "Rita Ora", "correta": false },
+      { "texto": "Ellie Goulding", "correta": false },
+      { "texto": "Bebe Rexha", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock nacional formada nos anos 80 em São Paulo tinha em sua formação original nomes como Arnaldo Antunes, Nando Reis e Branco Mello?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Titãs", "correta": true },
+      { "texto": "Ultraje a Rigor", "correta": false },
+      { "texto": "Ira!", "correta": false },
+      { "texto": "RPM", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi a cantora americana de jazz e blues conhecida como 'Lady Day', famosa por sua interpretação marcante da música 'Strange Fruit'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Billie Holiday", "correta": true },
+      { "texto": "Ella Fitzgerald", "correta": false },
+      { "texto": "Nina Simone", "correta": false },
+      { "texto": "Aretha Franklin", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual subgênero do rock inglês, muito forte nos anos 90, foi encabeçado pela rivalidade direta entre as bandas Oasis e Blur?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Britpop", "correta": true },
+      { "texto": "Grunge", "correta": false },
+      { "texto": "Post-Punk", "correta": false },
+      { "texto": "New Wave", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "A canção 'O Segundo Sol', um dos maiores sucessos gravados por Cássia Eller, foi escrita por qual de seus grandes amigos e parceiros musicais?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nando Reis", "correta": true },
+      { "texto": "Frejat", "correta": false },
+      { "texto": "Renato Russo", "correta": false },
+      { "texto": "Caetano Veloso", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual renomado produtor musical norte-americano trabalhou lado a lado com Michael Jackson no álbum 'Thriller' (1982)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Quincy Jones", "correta": true },
+      { "texto": "Rick Rubin", "correta": false },
+      { "texto": "Phil Spector", "correta": false },
+      { "texto": "Dr. Dre", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda de rock brasileira, vinda do Rio de Janeiro, mistura reggae, dub e rock, e teve em sua formação o vocalista Marcelo Falcão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Rappa", "correta": true },
+      { "texto": "Cidade Negra", "correta": false },
+      { "texto": "Natiruts", "correta": false },
+      { "texto": "Skank", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual cantora de pop alternativo norte-americana ficou mundialmente famosa pela estética melancólica do álbum 'Born to Die'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Lana Del Rey", "correta": true },
+      { "texto": "Lorde", "correta": false },
+      { "texto": "Florence Welch", "correta": false },
+      { "texto": "FKA Twigs", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "O álbum 'As Canções Que Você Fez Para Mim' (1993), um enorme sucesso de vendas, traz a cantora Maria Bethânia interpretando músicas de quais compositores?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Roberto Carlos e Erasmo Carlos", "correta": true },
+      { "texto": "Tom Jobim e Vinicius de Moraes", "correta": false },
+      { "texto": "Caetano Veloso e Gilberto Gil", "correta": false },
+      { "texto": "Chico Buarque e Edu Lobo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual icônico guitarrista canhoto revolucionou a forma de tocar o instrumento no final dos anos 1960 com sua performance eletrizante no festival de Woodstock?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jimi Hendrix", "correta": true },
+      { "texto": "Eric Clapton", "correta": false },
+      { "texto": "Stevie Ray Vaughan", "correta": false },
+      { "texto": "Jimmy Page", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual dupla de música eletrônica francesa, famosa por usar capacetes de robô, anunciou sua separação em 2021 após décadas de sucesso?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Daft Punk", "correta": true },
+      { "texto": "Justice", "correta": false },
+      { "texto": "The Chemical Brothers", "correta": false },
+      { "texto": "Air", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi o aclamado álbum de 1986 da Legião Urbana que consolidou o sucesso do grupo com faixas como 'Tempo Perdido' e 'Eduardo e Mônica'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dois", "correta": true },
+      { "texto": "Legião Urbana (Primeiro)", "correta": false },
+      { "texto": "Que País É Este", "correta": false },
+      { "texto": "As Quatro Estações", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "medio",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda britânica de rock alternativo, liderada pelo vocalista Thom Yorke, lançou em 1997 o inovador álbum 'OK Computer'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Radiohead", "correta": true },
+      { "texto": "Coldplay", "correta": false },
+      { "texto": "Muse", "correta": false },
+      { "texto": "Placebo", "correta": false }
+    ]
+  }
+],
+
+[
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual renomado arranjador e maestro assina a sofisticada roupagem orquestral do aclamado álbum 'Coisas' (1965), marco do jazz-samba brasileiro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Moacir Santos", "correta": true },
+      { "texto": "Eumir Deodato", "correta": false },
+      { "texto": "Baden Powell", "correta": false },
+      { "texto": "Radamés Gnattali", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O hit clássico 'Hung Up' (2005), da cantora Madonna, baseia-se em um sample instrumental de qual canção da banda ABBA?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gimme! Gimme! Gimme! (A Man After Midnight)", "correta": true },
+      { "texto": "Voulez-Vous", "correta": false },
+      { "texto": "Dancing Queen", "correta": false },
+      { "texto": "The Winner Takes It All", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Antes de adotar o nome artístico de Alcione, a cantora maranhense gravou seus primeiros compactos no início dos anos 70 usando qual pseudônimo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alcione Nazareth", "correta": false },
+      { "texto": "Marrom", "correta": false },
+      { "texto": "Silvana", "correta": true },
+      { "texto": "Aretusa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual icônico jazzista americano tocou trompete nas sessões de gravação do histórico álbum 'Kind of Blue' (1959)?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Miles Davis", "correta": true },
+      { "texto": "Louis Armstrong", "correta": false },
+      { "texto": "Chet Baker", "correta": false },
+      { "texto": "Dizzy Gillespie", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A canção 'Ouro de Tolo' (1973), que catapultou Raul Seixas ao estrelato nacional, teve seu arranjo de cordas e regência assinados por qual maestro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Miguel Cidras", "correta": true },
+      { "texto": "Rogério Duprat", "correta": false },
+      { "texto": "Arthur Verocai", "correta": false },
+      { "texto": "Waltel Branco", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi a baterista original da banda de rock norte-americana The Velvet Underground, que participou de seus álbuns mais influentes?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Maureen Tucker", "correta": true },
+      { "texto": "Meg White", "correta": false },
+      { "texto": "Cindy Blackman", "correta": false },
+      { "texto": "Sheila E.", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Lançado em 1972, o cultuado álbum homônimo de Arthur Verocai contou com a participação vocal de qual famoso trio de MPB na faixa 'Na Boca do Sol'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "MPB4", "correta": true },
+      { "texto": "Os Cariocas", "correta": false },
+      { "texto": "Boca Livre", "correta": false },
+      { "texto": "Quarteto em Cy", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda inglesa de rock progressivo lançou em 1972 o complexo álbum conceitual 'Thick as a Brick', composto por uma única faixa contínua dividida em dois lados?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jethro Tull", "correta": true },
+      { "texto": "Yes", "correta": false },
+      { "texto": "Genesis", "correta": false },
+      { "texto": "King Crimson", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O aclamado disco 'Estudando o Samba' (1976), de Tom Zé, serviu de grande inspiração para qual músico internacional redescobri-lo nos anos 80 e lançá-lo nos EUA?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "David Byrne", "correta": true },
+      { "texto": "Brian Eno", "correta": false },
+      { "texto": "Peter Gabriel", "correta": false },
+      { "texto": "Elvis Costello", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a principal escala/modo musical que dá a atmosfera mística e melancólica à canção 'Sultans of Swing', do Dire Straits?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Frígio", "correta": false },
+      { "texto": "Dórico", "correta": false },
+      { "texto": "Menor Natural (Eólio)", "correta": true },
+      { "texto": "Mixolídio", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A canção 'Sampa' de Caetano Veloso cita nominalmente o 'avesso do avesso' do cruzamento de quais avenidas paulistanas, mas também faz menção a qual artista do concretismo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Augusto de Campos", "correta": true },
+      { "texto": "Ferreira Gullar", "correta": false },
+      { "texto": "Decio Pignatari", "correta": false },
+      { "texto": "Haroldo de Campos", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual guitarrista de jazz gravou o inovador e influente solo na faixa 'Peg' do álbum 'Aja' (1977), da banda americana Steely Dan?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jay Graydon", "correta": true },
+      { "texto": "Larry Carlton", "correta": false },
+      { "texto": "Lee Ritenour", "correta": false },
+      { "texto": "Walter Becker", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O grupo Secos & Molhados revolucionou a MPB em 1973. De qual poeta português é a letra da emblemática canção 'Rosa de Hiroshima', musicada por Gerson Conrad?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Vinicius de Moraes", "correta": true },
+      { "texto": "Fernando Pessoa", "correta": false },
+      { "texto": "Manuel Bandeira", "correta": false },
+      { "texto": "Carlos Drummond de Andrade", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual engenheiro de som britânico ficou famoso por criar a técnica de reverberação 'gated reverb' na bateria de Phil Collins em 'In the Air Tonight'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hugh Padgham", "correta": true },
+      { "texto": "Alan Parsons", "correta": false },
+      { "texto": "Geoff Emerick", "correta": false },
+      { "texto": "Glyn Johns", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na gravação original da música 'Águas de Março' no álbum 'Elis & Tom' (1974), quem toca o arranjo de piano elétrico Fender Rhodes?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cesar Camargo Mariano", "correta": true },
+      { "texto": "Tom Jobim", "correta": false },
+      { "texto": "João Donato", "correta": false },
+      { "texto": "Wagner Tiso", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A icônica linha de baixo da música 'Under Pressure', parceria do Queen com David Bowie, é creditada primariamente a qual integrante?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "John Deacon", "correta": true },
+      { "texto": "Roger Taylor", "correta": false },
+      { "texto": "David Bowie", "correta": false },
+      { "texto": "Brian May", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O cultuado guitarrista de estúdio Lanny Gordin foi peça central na sonoridade 'psicodélica' de quais discos históricos da MPB no fim dos anos 60?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Álbuns de Gal Costa (1969) e Caetano Veloso (1969)", "correta": true },
+      { "texto": "Álbuns de Chico Buarque (1971) e Milton Nascimento (1970)", "correta": false },
+      { "texto": "Álbuns de Gilberto Gil (1968) e Tom Zé (1968)", "correta": false },
+      { "texto": "Álbuns de Mutantes (1970) e Jards Macalé (1972)", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual álbum da banda Radiohead, lançado em 2000, rompeu drasticamente com as guitarras do rock alternativo para focar em texturas eletrônicas e sintetizadores Ondes Martenot?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Kid A", "correta": true },
+      { "texto": "Amnesiac", "correta": false },
+      { "texto": "In Rainbows", "correta": false },
+      { "texto": "Hail to the Thief", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A obra-prima 'Construção' (1971), de Chico Buarque, possui uma estrutura lírica complexa onde todas as frases terminam obrigatoriamente em palavras de qual classificação gramatical?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Proparoxítonas", "correta": true },
+      { "texto": "Paroxítonas", "correta": false },
+      { "texto": "Oxítonas", "correta": false },
+      { "texto": "Monossílabas", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "De qual lendário grupo de jazz fusion britânico/americano o virtuoso guitarrista John McLaughlin fez parte antes de fundar a Mahavishnu Orchestra?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "The Tony Williams Lifetime", "correta": true },
+      { "texto": "Weather Report", "correta": false },
+      { "texto": "Return to Forever", "correta": false },
+      { "texto": "Headhunters", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O emblemático álbum 'Krig-ha, Bandolo!' (1973), estreia solo de Raul Seixas, tira seu título de um grito de guerra originário de qual personagem dos quadrinhos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tarzan", "correta": true },
+      { "texto": "Fantasma", "correta": false },
+      { "texto": "Conan, o Bárbaro", "correta": false },
+      { "texto": "Zorro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O hit de Hip-Hop 'Gangsta's Paradise' (1995), do rapper Coolio, utiliza como base melódica a música 'Pastime Paradise' de qual consagrado artista?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Stevie Wonder", "correta": true },
+      { "texto": "Marvin Gaye", "correta": false },
+      { "texto": "Bill Withers", "correta": false },
+      { "texto": "Al Green", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual compositor do morro da Mangueira escreveu o clássico do samba 'O Mundo É um Moinho', composto para sua filha de criação?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cartola", "correta": true },
+      { "texto": "Nelson Cavaquinho", "correta": false },
+      { "texto": "Geraldo Pereira", "correta": false },
+      { "texto": "Carlos Cachaça", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual música dos Beatles possui o recorde de conter o maior acorde final sustentado da história do pop, tocado simultaneamente em vários pianos e um órgão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "A Day in the Life", "correta": true },
+      { "texto": "Hey Jude", "correta": false },
+      { "texto": "Strawberry Fields Forever", "correta": false },
+      { "texto": "I Am the Walrus", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O aclamado movimento instrumental mineiro 'Uakti' era internacionalmente reconhecido por qual característica fundamental de sua produção musical?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Construção de instrumentos próprios com tubos de PVC, vidro e madeira", "correta": true },
+      { "texto": "Uso exclusivo de vozes em arranjos a cappella sem base instrumental", "correta": false },
+      { "texto": "Mistura pioneira de sintetizadores modulares analógicos com bossa nova", "correta": false },
+      { "texto": "Gravações feitas apenas em ambientes externos e acústicas naturais", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A canção instrumental 'Frankenstein' (1973), clássico do classic rock, é famosa pelo pioneirismo no uso de sintetizadores por qual tecladista e multi-instrumentista?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Edgar Winter", "correta": true },
+      { "texto": "Rick Wakeman", "correta": false },
+      { "texto": "Keith Emerson", "correta": false },
+      { "texto": "Jon Lord", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual refinado sambista fluminense, autor do álbum 'Samba Pra Vincíus' (1977), ficou conhecido pelo virtuosismo e precisão cirúrgica de suas harmonias ao violão de 7 cordas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Baden Powell", "correta": false },
+      { "texto": "Raphael Rabello", "correta": true },
+      { "texto": "Dino 7 Cordas", "correta": false },
+      { "texto": "João Gilberto", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual banda norte-americana de vanguarda lançou o hermético e altamente experimental álbum duplo 'Trout Mask Replica' (1969), produzido por Frank Zappa?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Captain Beefheart and his Magic Band", "correta": true },
+      { "texto": "The Mothers of Invention", "correta": false },
+      { "texto": "The Stooges", "correta": false },
+      { "texto": "Soft Machine", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual influente percussionista brasileiro participou ativamente do antológico álbum de jazz fusion 'Bitches Brew' (1970) de Miles Davis?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Airto Moreira", "correta": true },
+      { "texto": "Naná Vasconcelos", "correta": false },
+      { "texto": "Paulino da Costa", "correta": false },
+      { "texto": "Djalma Corrêa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A faixa 'Blue Monday' (1983), do New Order, famosa por ser o maxi-single de 12 polegadas mais vendido de todos os tempos, abre com um padrão rítmico marcante de qual lendária bateria eletrônica?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Oberheim DMX", "correta": true },
+      { "texto": "Roland TR-808", "correta": false },
+      { "texto": "LinnDrum", "correta": false },
+      { "texto": "Roland TR-909", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem compôs a complexa suíte instrumental 'Sá Marina' (1968), imortalizada no balanço de Wilson Simonal e regravada internacionalmente por Stevie Wonder como 'Pretty World'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Antonio Adolfo e Tibério Gaspar", "correta": true },
+      { "texto": "Marcos Valle e Paulo Sérgio Valle", "correta": false },
+      { "texto": "Baden Powell e Vinicius de Moraes", "correta": false },
+      { "texto": "Edu Lobo e Capinam", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual icônica banda alemã de música eletrônica construiu o estúdio privado chamado 'Kling Klang' em Düsseldorf, de onde saíram álbuns pioneiros como 'Autobahn'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Kraftwerk", "correta": true },
+      { "texto": "Tangerine Dream", "correta": false },
+      { "texto": "Can", "correta": false },
+      { "texto": "Neu!", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em qual álbum de estúdio de 1979 do cantor Jorge Ben Jor encontra-se a clássica faixa 'W/Brasil (Chama o Síndico)', uma homenagem aberta a Tim Maia?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Ele lançado apenas em single no início dos anos 90", "correta": true },
+      { "texto": "A Tábua de Esmeralda (1974)", "correta": false },
+      { "texto": "África Brasil (1976)", "correta": false },
+      { "texto": "Sonsual (1989)", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o lendário produtor musical e empresário que descobriu e moldou a carreira inicial de bandas punk fundamentais como os Sex Pistols?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Malcolm McLaren", "correta": true },
+      { "texto": "Brian Epstein", "correta": false },
+      { "texto": "Tony Wilson", "correta": false },
+      { "texto": "Andrew Loog Oldham", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O clássico 'O Bêbado e a Equilibrista' (1979), cantado por Elis Regina, faz alusão direta à volta do 'irmão do Henfil'. Quem era essa figura histórica da resistência política?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Herbert de Souza (Betinho)", "correta": true },
+      { "texto": "Chico Mendes", "correta": false },
+      { "texto": "Vladimir Herzog", "correta": false },
+      { "texto": "Carlos Marighella", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual compositor francês de vanguarda foi pioneiro na 'Música Concreta' no final dos anos 1940, utilizando colagens de sons industriais e cotidianos gravados em fita magnética?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pierre Schaeffer", "correta": true },
+      { "texto": "Karlheinz Stockhausen", "correta": false },
+      { "texto": "John Cage", "correta": false },
+      { "texto": "Edgard Varèse", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "A sofisticada harmonia de 'Mistérios' (1977), canção eternizada no álbum 'Geraes' de Milton Nascimento, foi composta por qual pianista carioca de jazz fusion?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Maurício Maestro", "correta": false },
+      { "texto": "Toninho Horta", "correta": false },
+      { "texto": "Jamil Joanes", "correta": false },
+      { "texto": "Nelson Angelo", "correta": true }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual inovador álbum da cantora Björk, lançado em 2004, foi produzido de forma quase inteiramente a cappella, utilizando arranjos vocais, beatbox e texturas corais humanas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Medúlla", "correta": true },
+      { "texto": "Vespertine", "correta": false },
+      { "texto": "Homogenic", "correta": false },
+      { "texto": "Biophilia", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi a primeira composição gravada em estúdio que uniu a histórica parceria literária e musical de Chico Buarque e Tom Jobim, lançada em 1968?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sabiá", "correta": true },
+      { "texto": "Retrato em Branco e Preto", "correta": false },
+      { "texto": "Anos Dourados", "correta": false },
+      { "texto": "Eu Te Amo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Musica",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "O álbum 'Grace' (1994), único disco completo de estúdio lançado em vida pelo aclamado cantor Jeff Buckley, traz uma famosa releitura de 'Hallelujah', faixa originalmente composta por qual artista?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Leonard Cohen", "correta": true },
+      { "texto": "Bob Dylan", "correta": false },
+      { "texto": "John Cale", "correta": false },
+      { "texto": "Nick Cave", "correta": false }
+    ]
+  }
+]
+]

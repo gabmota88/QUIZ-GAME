@@ -22,37 +22,15 @@ def iniciar_partida(pontos_vitoria):
     ).first()
 
     if not primeira_equipe:
-
         raise Exception(
             "Nenhuma equipe sorteada"
         )
 
     partida = Partida(
-
         rodada_atual=1,
-
         equipe_atual=1,
-
         status="ativa",
-        pontos_vitoria=pontos_vitoria
-    )
-
-    db.session.add(partida)
-
-    db.session.commit()
-
-    return partida
-
-    # remove partidas antigas
-    Partida.query.delete()
-
-    db.session.commit()
-
-    partida = Partida(
-
-        rodada_atual=1,
-        equipe_atual=1,
-        status="ativa"
+        pontos_vitoria=int(pontos_vitoria)
     )
 
     db.session.add(partida)
@@ -87,19 +65,30 @@ def verificar_vencedor():
     partida = Partida.query.order_by(
         Partida.id.desc()
     ).first()
-    print("PONTOS PARA A VITORIA:", partida.pontos_vitoria)
 
     if not partida:
-
         return None
+
+    print(
+        "PONTOS PARA A VITORIA:",
+        partida.pontos_vitoria
+    )
 
     equipes = Equipe.query.all()
 
     for equipe in equipes:
-        print(f"Equipe: {equipe.nome}, Pontos: {equipe.pontos}")
+
+        print(
+            f"Equipe: {equipe.nome}, "
+            f"Pontos: {equipe.pontos}"
+        )
 
         if equipe.pontos >= partida.pontos_vitoria:
-            print(f"Vencedor:{equipe.nome} com {equipe.pontos} pontos")
+
+            print(
+                f"Vencedor: {equipe.nome} "
+                f"com {equipe.pontos} pontos"
+            )
 
             return equipe
 

@@ -2,843 +2,1565 @@
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o primeiro presidente do Brasil?",
-    "resposta": "Deodoro da Fonseca",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Deodoro da Fonseca", "correta": true },
+      { "texto": "Floriano Peixoto", "correta": false },
+      { "texto": "Prudente de Morais", "correta": false },
+      { "texto": "Getúlio Vargas", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano o Brasil declarou sua independência?",
-    "resposta": "1822",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "1822", "correta": true },
+      { "texto": "1500", "correta": false },
+      { "texto": "1808", "correta": false },
+      { "texto": "1889", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem proclamou a Independência do Brasil?",
-    "resposta": "Dom Pedro I",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dom Pedro I", "correta": true },
+      { "texto": "Dom Pedro II", "correta": false },
+      { "texto": "José Bonifácio", "correta": false },
+      { "texto": "Tiradentes", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem descobriu o Brasil segundo a versão tradicional?",
-    "resposta": "Pedro Alvares Cabral",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Pedro Alvares Cabral", "correta": true },
+      { "texto": "Cristóvão Colombo", "correta": false },
+      { "texto": "Américo Vespúcio", "correta": false },
+      { "texto": "Vasco da Gama", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano ocorreu o descobrimento do Brasil?",
-    "resposta": "1500",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "1500", "correta": true },
+      { "texto": "1492", "correta": false },
+      { "texto": "1530", "correta": false },
+      { "texto": "1600", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual civilização construiu as piramides de Gizé?",
-    "resposta": "Egipcios",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Egipcios", "correta": true },
+      { "texto": "Maias", "correta": false },
+      { "texto": "Romanos", "correta": false },
+      { "texto": "Gregos", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o lider da Alemanha durante a Segunda Guerra Mundial?",
-    "resposta": "Adolf Hitler",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Adolf Hitler", "correta": true },
+      { "texto": "Benito Mussolini", "correta": false },
+      { "texto": "Otto von Bismarck", "correta": false },
+      { "texto": "Joseph Goebbels", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
-    "pergunta": "Qual conflito ocorreu entre 1939 e 1945?",
-    "resposta": "Segunda Guerra Mundial",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual conflict ocorreu entre 1939 e 1945?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Segunda Guerra Mundial", "correta": true },
+      { "texto": "Primeira Guerra Mundial", "correta": false },
+      { "texto": "Guerra Fria", "correta": false },
+      { "texto": "Guerra do Vietnã", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual pais lançou bombas atomicas sobre Hiroshima e Nagasaki?",
-    "resposta": "Estados Unidos",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Estados Unidos", "correta": true },
+      { "texto": "União Soviética", "correta": false },
+      { "texto": "Reino Unido", "correta": false },
+      { "texto": "Alemanha", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi conhecido como Libertador da America?",
-    "resposta": "Simon Bolivar",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Simon Bolivar", "correta": true },
+      { "texto": "San Martín", "correta": false },
+      { "texto": "Che Guevara", "correta": false },
+      { "texto": "Dom Pedro I", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual imperio tinha sua capital em Roma?",
-    "resposta": "Imperio Romano",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Imperio Romano", "correta": true },
+      { "texto": "Império Bizantino", "correta": false },
+      { "texto": "Império Otomano", "correta": false },
+      { "texto": "Império Grego", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o primeiro imperador de Roma?",
-    "resposta": "Augusto",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Augusto", "correta": true },
+      { "texto": "Júlio César", "correta": false },
+      { "texto": "Nero", "correta": false },
+      { "texto": "Calígula", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual muralha famosa foi construida na China?",
-    "resposta": "Grande Muralha da China",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Grande Muralha da China", "correta": true },
+      { "texto": "Muralha de Berlim", "correta": false },
+      { "texto": "Muralha de Adriano", "correta": false },
+      { "texto": "Muralha de Babilônia", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o farao associado a famosa mascara de ouro encontrada intacta?",
-    "resposta": "Tutancamon",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tutancamon", "correta": true },
+      { "texto": "Ramsés II", "correta": false },
+      { "texto": "Quéops", "correta": false },
+      { "texto": "Aquenáton", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual rainha governou o Egito e teve relacao com Julio Cesar?",
-    "resposta": "Cleopatra",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cleopatra", "correta": true },
+      { "texto": "Nefertiti", "correta": false },
+      { "texto": "Hatshepsut", "correta": false },
+      { "texto": "Ismênia", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em qual continente surgiu a civilizacao egipcia?",
-    "resposta": "Africa",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Africa", "correta": true },
+      { "texto": "Ásia", "correta": false },
+      { "texto": "Europa", "correta": false },
+      { "texto": "América", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem liderou a conquista do Imperio Persa?",
-    "resposta": "Alexandre Magno",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alexandre Magno", "correta": true },
+      { "texto": "Júlio César", "correta": false },
+      { "texto": "Ciro, o Grande", "correta": false },
+      { "texto": "Aníbal", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual navegante realizou a primeira viagem ao redor do mundo?",
-    "resposta": "Fernão de Magalhães",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Fernão de Magalhães", "correta": true },
+      { "texto": "Cristóvão Colombo", "correta": false },
+      { "texto": "Vasco da Gama", "correta": false },
+      { "texto": "Marco Polo", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual pais foi governado por Luis XIV?",
-    "resposta": "Franca",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Franca", "correta": true },
+      { "texto": "Inglaterra", "correta": false },
+      { "texto": "Espanha", "correta": false },
+      { "texto": "Itália", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem ficou conhecido como Rei Sol?",
-    "resposta": "Luis XIV",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Luis XIV", "correta": true },
+      { "texto": "Luís XVI", "correta": false },
+      { "texto": "Henrique VIII", "correta": false },
+      { "texto": "Carlos Magno", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual revolucao ocorreu na Franca em 1789?",
-    "resposta": "Revolucao Francesa",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Revolucao Francesa", "correta": true },
+      { "texto": "Revolução Industrial", "correta": false },
+      { "texto": "Revolução Russa", "correta": false },
+      { "texto": "Revolução Gloriosa", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi executada durante a Revolucao Francesa e era rainha da Franca?",
-    "resposta": "Maria Antonieta",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Maria Antonieta", "correta": true },
+      { "texto": "Mary Stuart", "correta": false },
+      { "texto": "Catarina de Médici", "correta": false },
+      { "texto": "Rainha Vitória", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem se tornou imperador da Franca apos a Revolucao Francesa?",
-    "resposta": "Napoleao Bonaparte",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Napoleao Bonaparte", "correta": true },
+      { "texto": "Luís XIV", "correta": false },
+      { "texto": "Robespierre", "correta": false },
+      { "texto": "Carlos X", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual batalha marcou a derrota final de Napoleao?",
-    "resposta": "Batalha de Waterloo",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Batalha de Waterloo", "correta": true },
+      { "texto": "Batalha de Trafalgar", "correta": false },
+      { "texto": "Batalha de Austerlitz", "correta": false },
+      { "texto": "Batalha de Leipzig", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem assinou a Lei Aurea?",
-    "resposta": "Princesa Isabel",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Princesa Isabel", "correta": true },
+      { "texto": "Dom Pedro II", "correta": false },
+      { "texto": "Deodoro da Fonseca", "correta": false },
+      { "texto": "José do Patrocínio", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano a escravidao foi abolida no Brasil?",
-    "resposta": "1888",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "1888", "correta": true },
+      { "texto": "1822", "correta": false },
+      { "texto": "1889", "correta": false },
+      { "texto": "1792", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
-    "pergunta": "Qual presidente americano liderou os Estados Unidos durante grande parte da Segunda Guerra Mundial?",
-    "resposta": "Franklin Roosevelt",
-    "pontos": 1
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual presidente americano liderou os Estados Unidos durante grande parte della Segunda Guerra Mundial?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Franklin Roosevelt", "correta": true },
+      { "texto": "Harry Truman", "correta": false },
+      { "texto": "Woodrow Wilson", "correta": false },
+      { "texto": "Dwight Eisenhower", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o lider da Uniao Sovietica durante a Segunda Guerra Mundial?",
-    "resposta": "Josef Stalin",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Josef Stalin", "correta": true },
+      { "texto": "Vladimir Lenin", "correta": false },
+      { "texto": "Nikita Khrushchev", "correta": false },
+      { "texto": "Leon Trotsky", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual muro dividiu Berlim durante a Guerra Fria?",
-    "resposta": "Muro de Berlim",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Muro de Berlim", "correta": true },
+      { "texto": "Muro das Lamentações", "correta": false },
+      { "texto": "Muralha da China", "correta": false },
+      { "texto": "Muro de Adriano", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano caiu o Muro de Berlim?",
-    "resposta": "1989",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "1989", "correta": true },
+      { "texto": "1991", "correta": false },
+      { "texto": "1945", "correta": false },
+      { "texto": "2000", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual civilizacao construiu Machu Picchu?",
-    "resposta": "Incas",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Incas", "correta": true },
+      { "texto": "Astecas", "correta": false },
+      { "texto": "Maias", "correta": false },
+      { "texto": "Toltecas", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual civilizacao habitava a regiao do atual Mexico antes da chegada dos espanhóis?",
-    "resposta": "Astecas",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Astecas", "correta": true },
+      { "texto": "Incas", "correta": false },
+      { "texto": "Olmecas", "correta": false },
+      { "texto": "Guaranis", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem chegou a Lua em 1969?",
-    "resposta": "Neil Armstrong",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Neil Armstrong", "correta": true },
+      { "texto": "Yuri Gagarin", "correta": false },
+      { "texto": "Buzz Aldrin", "correta": false },
+      { "texto": "John Glenn", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual missao levou o homem a Lua pela primeira vez?",
-    "resposta": "Apollo 11",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Apollo 11", "correta": true },
+      { "texto": "Apollo 13", "correta": false },
+      { "texto": "Sputnik", "correta": false },
+      { "texto": "Gemini 4", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o lider pacifista da independencia da India?",
-    "resposta": "Mahatma Gandhi",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mahatma Gandhi", "correta": true },
+      { "texto": "Jawaharlal Nehru", "correta": false },
+      { "texto": "Nelson Mandela", "correta": false },
+      { "texto": "Dalai Lama", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o primeiro homem no espaco?",
-    "resposta": "Yuri Gagarin",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Yuri Gagarin", "correta": true },
+      { "texto": "Neil Armstrong", "correta": false },
+      { "texto": "Alan Shepard", "correta": false },
+      { "texto": "John Glenn", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual pais lançou o primeiro satelite artificial?",
-    "resposta": "Uniao Sovietica",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Uniao Sovietica", "correta": true },
+      { "texto": "Estados Unidos", "correta": false },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "China", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual era o nome do primeiro satelite artificial?",
-    "resposta": "Sputnik 1",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Sputnik 1", "correta": true },
+      { "texto": "Explorer 1", "correta": false },
+      { "texto": "Vostok 1", "correta": false },
+      { "texto": "Apollo 11", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi conhecido como o descobridor da America para os europeus?",
-    "resposta": "Cristovao Colombo",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cristovao Colombo", "correta": true },
+      { "texto": "Américo Vespúcio", "correta": false },
+      { "texto": "Pedro Álvares Cabral", "correta": false },
+      { "texto": "Fernão de Magalhães", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "facil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em qual ano Colombo chegou a America?",
-    "resposta": "1492",
-    "pontos": 1
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "1492", "correta": true },
+      { "texto": "1500", "correta": false },
+      { "texto": "1789", "correta": false },
+      { "texto": "1415", "correta": false }
+    ]
   },
-
+  [
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o imperador francês derrotado na Batalha de Waterloo?",
-    "resposta": "Napoleao Bonaparte",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Napoleao Bonaparte", "correta": true },
+      { "texto": "Luís XVI", "correta": false },
+      { "texto": "Napoleão III", "correta": false },
+      { "texto": "Luís XIV", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
-    "resposta": "Tratado de Versalhes",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Tratado de Versalhes", "correta": true },
+      { "texto": "Tratado de Tordesilhas", "correta": false },
+      { "texto": "Tratado de Utrecht", "correta": false },
+      { "texto": "Tratado de Brest-Litovsk", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano começou a Primeira Guerra Mundial?",
-    "resposta": "1914",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "1914", "correta": true },
+      { "texto": "1918", "correta": false },
+      { "texto": "1939", "correta": false },
+      { "texto": "1912", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano terminou a Primeira Guerra Mundial?",
-    "resposta": "1918",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "1918", "correta": true },
+      { "texto": "1914", "correta": false },
+      { "texto": "1945", "correta": false },
+      { "texto": "1922", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual arquiduque teve seu assassinato apontado como estopim da Primeira Guerra Mundial?",
-    "resposta": "Francisco Ferdinando",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Francisco Ferdinando", "correta": true },
+      { "texto": "Franz Joseph", "correta": false },
+      { "texto": "Rudolf da Áustria", "correta": false },
+      { "texto": "Otto von Bismarck", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem liderou a Revolucao Russa de 1917?",
-    "resposta": "Vladimir Lenin",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Vladimir Lenin", "correta": true },
+      { "texto": "Josef Stalin", "correta": false },
+      { "texto": "Leon Trotsky", "correta": false },
+      { "texto": "Nikita Khrushchev", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual dinastia governava a Russia antes da Revolucao de 1917?",
-    "resposta": "Romanov",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Romanov", "correta": true },
+      { "texto": "Habsburgo", "correta": false },
+      { "texto": "Bourbon", "correta": false },
+      { "texto": "Tudor", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o ultimo czar da Russia?",
-    "resposta": "Nicolau II",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Nicolau II", "correta": true },
+      { "texto": "Alexandre III", "correta": false },
+      { "texto": "Pedro, o Grande", "correta": false },
+      { "texto": "Ivan, o Terrível", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual era o nome da policia secreta da Alemanha Oriental?",
-    "resposta": "Stasi",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Stasi", "correta": true },
+      { "texto": "Gestapo", "correta": false },
+      { "texto": "KGB", "correta": false },
+      { "texto": "CIA", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual conflito ficou conhecido como Guerra Fria?",
-    "resposta": "Disputa entre Estados Unidos e Uniao Sovietica",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Disputa entre Estados Unidos e Uniao Sovietica", "correta": true },
+      { "texto": "Conflito entre Coreia do Norte e Coreia do Sul", "correta": false },
+      { "texto": "Guerra entre Alemanha e Grã-Bretanha", "correta": false },
+      { "texto": "Disputa territorial na Antártida", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o presidente dos Estados Unidos durante a Crise dos Misseis de Cuba?",
-    "resposta": "John Kennedy",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "John Kennedy", "correta": true },
+      { "texto": "Franklin Roosevelt", "correta": false },
+      { "texto": "Harry Truman", "correta": false },
+      { "texto": "Richard Nixon", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual lider soviético participou da Crise dos Misseis de Cuba?",
-    "resposta": "Nikita Khrushchov",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Nikita Khrushchov", "correta": true },
+      { "texto": "Josef Stalin", "correta": false },
+      { "texto": "Leonid Brejnev", "correta": false },
+      { "texto": "Mikhail Gorbachev", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual imperio foi governado por Gengis Khan?",
-    "resposta": "Imperio Mongol",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Imperio Mongol", "correta": true },
+      { "texto": "Império Otomano", "correta": false },
+      { "texto": "Império Romano", "correta": false },
+      { "texto": "Império Persa", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem fundou o Imperio Mongol?",
-    "resposta": "Gengis Khan",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Gengis Khan", "correta": true },
+      { "texto": "Kublai Khan", "correta": false },
+      { "texto": "Atila, o Huno", "correta": false },
+      { "texto": "Tamerlão", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual cidade italiana foi destruida pela erupcao do Vesuvio em 79 d.C.?",
-    "resposta": "Pompeia",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Pompeia", "correta": true },
+      { "texto": "Roma", "correta": false },
+      { "texto": "Florença", "correta": false },
+      { "texto": "Veneza", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o conquistador espanhol que derrotou o Imperio Asteca?",
-    "resposta": "Hernan Cortes",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Hernan Cortes", "correta": true },
+      { "texto": "Francisco Pizarro", "correta": false },
+      { "texto": "Vasco Núñez de Balboa", "correta": false },
+      { "texto": "Cristóvão Colombo", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem conquistou o Imperio Inca para a Espanha?",
-    "resposta": "Francisco Pizarro",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Francisco Pizarro", "correta": true },
+      { "texto": "Hernán Cortés", "correta": false },
+      { "texto": "Pedro de Valdivia", "correta": false },
+      { "texto": "Americo Vespucio", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual rei ingles teve seis esposas?",
-    "resposta": "Henrique VIII",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Henrique VIII", "correta": true },
+      { "texto": "Henrique VII", "correta": false },
+      { "texto": "Eduardo VI", "correta": false },
+      { "texto": "Carlos I", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual movimento religioso surgiu a partir das acoes de Martinho Lutero?",
-    "resposta": "Reforma Protestante",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Reforma Protestante", "correta": true },
+      { "texto": "Contra-Reforma", "correta": false },
+      { "texto": "Catolicismo", "correta": false },
+      { "texto": "Calvinismo", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano Martinho Lutero publicou as 95 Teses?",
-    "resposta": "1517",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "1517", "correta": true },
+      { "texto": "1500", "correta": false },
+      { "texto": "1648", "correta": false },
+      { "texto": "1492", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual navegante chegou a India contornando a Africa?",
-    "resposta": "Vasco da Gama",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Vasco da Gama", "correta": true },
+      { "texto": "Bartolomeu Dias", "correta": false },
+      { "texto": "Pedro Álvares Cabral", "correta": false },
+      { "texto": "Fernão de Magalhães", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o lider da independencia dos Estados Unidos e primeiro presidente do pais?",
-    "resposta": "George Washington",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "George Washington", "correta": true },
+      { "texto": "Thomas Jefferson", "correta": false },
+      { "texto": "Benjamin Franklin", "correta": false },
+      { "texto": "John Adams", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano os Estados Unidos declararam independencia?",
-    "resposta": "1776",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "1776", "correta": true },
+      { "texto": "1789", "correta": false },
+      { "texto": "1808", "correta": false },
+      { "texto": "1822", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual rainha inglesa governou durante a derrota da Armada Espanhola?",
-    "resposta": "Elizabeth I",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Elizabeth I", "correta": true },
+      { "texto": "Mary I", "correta": false },
+      { "texto": "Rainha Vitória", "correta": false },
+      { "texto": "Anne", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual civilizacao desenvolveu a escrita cuneiforme?",
-    "resposta": "Sumerios",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Sumerios", "correta": true },
+      { "texto": "Egípcios", "correta": false },
+      { "texto": "Fenícios", "correta": false },
+      { "texto": "Gregos", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual codigo de leis foi criado na Mesopotamia por volta de 1750 a.C.?",
-    "resposta": "Codigo de Hamurabi",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Codigo de Hamurabi", "correta": true },
+      { "texto": "Lei das Doze Tábuas", "correta": false },
+      { "texto": "Código de Justiniano", "correta": false },
+      { "texto": "Dez Mandamentos", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o autor da frase 'Vim, vi e venci'?",
-    "resposta": "Julio Cesar",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Julio Cesar", "correta": true },
+      { "texto": "Augusto", "correta": false },
+      { "texto": "Alexandre Magno", "correta": false },
+      { "texto": "Napoleão Bonaparte", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem atravessou os Alpes com elefantes durante as Guerras Punicas?",
-    "resposta": "Anibal",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Anibal", "correta": true },
+      { "texto": "Cipião Africano", "correta": false },
+      { "texto": "Espártaco", "correta": false },
+      { "texto": "Júlio César", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual cidade era a principal rival de Roma nas Guerras Punicas?",
-    "resposta": "Cartago",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Cartago", "correta": true },
+      { "texto": "Esparta", "correta": false },
+      { "texto": "Atenas", "correta": false },
+      { "texto": "Alexandria", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o primeiro homem a circunavegar a Terra com sucesso após a morte de Fernão de Magalhães?",
-    "resposta": "Juan Sebastian Elcano",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Juan Sebastian Elcano", "correta": true },
+      { "texto": "Francis Drake", "correta": false },
+      { "texto": "Vasco da Gama", "correta": false },
+      { "texto": "Américo Vespúcio", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
-    "pergunta": "Qual evento marcou o inicio da Revolucao Francesa em 1789?",
-    "resposta": "Tomada da Bastilha",
-    "pontos": 3
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual evento marcou o inicio da Revolucao Francesa in 1789?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Tomada da Bastilha", "correta": true },
+      { "texto": "Execução de Luís XVI", "correta": false },
+      { "texto": "Golpe do 18 de Brumário", "correta": false },
+      { "texto": "Declaração dos Direitos do Homem", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual lider sul-africano lutou contra o apartheid e se tornou presidente do pais?",
-    "resposta": "Nelson Mandela",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Nelson Mandela", "correta": true },
+      { "texto": "Desmond Tutu", "correta": false },
+      { "texto": "Thabo Mbeki", "correta": false },
+      { "texto": "Kofi Annan", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual pais foi dividido em Alemanha Ocidental e Alemanha Oriental apos a Segunda Guerra Mundial?",
-    "resposta": "Alemanha",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Alemanha", "correta": true },
+      { "texto": "Áustria", "correta": false },
+      { "texto": "Polônia", "correta": false },
+      { "texto": "França", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
-    "pergunta": "Quem foi o lider britanico durante grande parte da Segunda Guerra Mundial?",
-    "resposta": "Winston Churchill",
-    "pontos": 3
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o lider britanico durante grande parte della Segunda Guerra Mundial?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Winston Churchill", "correta": true },
+      { "texto": "Neville Chamberlain", "correta": false },
+      { "texto": "Clement Attlee", "correta": false },
+      { "texto": "Franklin Roosevelt", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual batalha de 1942-1943 marcou uma virada importante na Segunda Guerra Mundial?",
-    "resposta": "Batalha de Stalingrado",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Batalha de Stalingrado", "correta": true },
+      { "texto": "Batalha de Waterloo", "correta": false },
+      { "texto": "Batalha de Pearl Harbor", "correta": false },
+      { "texto": "Batalha de Berlim", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
-    "pergunta": "Em qual praia ocorreu o principal desembarque aliado do Dia D?",
-    "resposta": "Omaha",
-    "pontos": 3
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual foi a praia onde ocorreu o principal desembarque aliado do Dia D?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Omaha", "correta": true },
+      { "texto": "Utah", "correta": false },
+      { "texto": "Juno", "correta": false },
+      { "texto": "Sword", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual foi o nome dado ao periodo de renovacao cultural europeia entre os seculos XIV e XVI?",
-    "resposta": "Renascimento",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Renascimento", "correta": true },
+      { "texto": "Iluminismo", "correta": false },
+      { "texto": "Idade Média", "correta": false },
+      { "texto": "Romantismo", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem pintou a Mona Lisa?",
-    "resposta": "Leonardo da Vinci",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Leonardo da Vinci", "correta": true },
+      { "texto": "Michelangelo", "correta": false },
+      { "texto": "Rafael Sanzio", "correta": false },
+      { "texto": "Donatello", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem escreveu O Principe, importante obra politica do Renascimento?",
-    "resposta": "Nicolau Maquiavel",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Nicolau Maquiavel", "correta": true },
+      { "texto": "Dante Alighieri", "correta": false },
+      { "texto": "Thomas Hobbes", "correta": false },
+      { "texto": "Erasmo de Roterdão", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "media",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual explorador noruegues liderou a primeira expedicao a chegar ao Polo Sul?",
-    "resposta": "Roald Amundsen",
-    "pontos": 3
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Roald Amundsen", "correta": true },
+      { "texto": "Robert Falcon Scott", "correta": false },
+      { "texto": "Ernest Shackleton", "correta": false },
+      { "texto": "Fridtjof Nansen", "correta": false }
+    ]
   },
 
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual tratado encerrou a Guerra dos Trinta Anos em 1648?",
-    "resposta": "Paz de Westfalia",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Paz de Westfalia", "correta": true },
+      { "texto": "Tratado de Utrecht", "correta": false },
+      { "texto": "Tratado de Versalhes", "correta": false },
+      { "texto": "Paz de Augsburgo", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o imperador bizantino responsável pela compilacao do Corpus Juris Civilis?",
-    "resposta": "Justiniano I",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Justiniano I", "correta": true },
+      { "texto": "Constantino, o Grande", "correta": false },
+      { "texto": "Teodósio I", "correta": false },
+      { "texto": "Heráclio", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual imperador romano legalizou o cristianismo por meio do Edito de Milao?",
-    "resposta": "Constantino",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Constantino", "correta": true },
+      { "texto": "Nero", "correta": false },
+      { "texto": "Teodósio", "correta": false },
+      { "texto": "Augusto", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano caiu o Imperio Romano do Ocidente?",
-    "resposta": "476",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "476", "correta": true },
+      { "texto": "1453", "correta": false },
+      { "texto": "395", "correta": false },
+      { "texto": "753 a.C.", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem depôs o ultimo imperador romano do Ocidente?",
-    "resposta": "Odoacro",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Odoacro", "correta": true },
+      { "texto": "Alarico", "correta": false },
+      { "texto": "Atila, o Huno", "correta": false },
+      { "texto": "Gensérico", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual faraó promoveu uma tentativa de monoteísmo no Egito Antigo?",
-    "resposta": "Akhenaton",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Akhenaton", "correta": true },
+      { "texto": "Tutancâmon", "correta": false },
+      { "texto": "Ramsés II", "correta": false },
+      { "texto": "Quéops", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual foi a capital do Imperio Inca?",
-    "resposta": "Cusco",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Cusco", "correta": true },
+      { "texto": "Machu Picchu", "correta": false },
+      { "texto": "Tenochtitlán", "correta": false },
+      { "texto": "Lima", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem liderou a revolta dos escravos que desafiou Roma no século I a.C.?",
-    "resposta": "Espartaco",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Espartaco", "correta": true },
+      { "texto": "Crixo", "correta": false },
+      { "texto": "Aníbal", "correta": false },
+      { "texto": "Vercingetórix", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual general cartagines atravessou os Alpes durante a Segunda Guerra Punica?",
-    "resposta": "Anibal",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Anibal", "correta": true },
+      { "texto": "Amílcar Barca", "correta": false },
+      { "texto": "Asdrúbal", "correta": false },
+      { "texto": "Cipião Africano", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual rei macedonio foi pai de Alexandre Magno?",
-    "resposta": "Filipe II",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Filipe II", "correta": true },
+      { "texto": "Filipe V", "correta": false },
+      { "texto": "Ptolomeu I", "correta": false },
+      { "texto": "Antígono", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual cidade foi a capital do Imperio Bizantino?",
-    "resposta": "Constantinopla",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Constantinopla", "correta": true },
+      { "texto": "Atenas", "correta": false },
+      { "texto": "Roma", "correta": false },
+      { "texto": "Alexandria", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano Constantinopla foi conquistada pelos otomanos?",
-    "resposta": "1453",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "1453", "correta": true },
+      { "texto": "1492", "correta": false },
+      { "texto": "1517", "correta": false },
+      { "texto": "1356", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem era o sultao otomano que conquistou Constantinopla?",
-    "resposta": "Maome II",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Maome II", "correta": true },
+      { "texto": "Solimão, o Magnífico", "correta": false },
+      { "texto": "Selim I", "correta": false },
+      { "texto": "Murade II", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual imperador frances vendeu a Luisiana aos Estados Unidos?",
-    "resposta": "Napoleao Bonaparte",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Napoleao Bonaparte", "correta": true },
+      { "texto": "Luís XIV", "correta": false },
+      { "texto": "Napoleão III", "correta": false },
+      { "texto": "Luís XVI", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o chanceler responsavel pela unificacao da Alemanha em 1871?",
-    "resposta": "Otto von Bismarck",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Otto von Bismarck", "correta": true },
+      { "texto": "Guilherme I", "correta": false },
+      { "texto": "Klemens von Metternich", "correta": false },
+      { "texto": "Friedrich Ebert", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual guerra foi travada entre o Norte e o Sul dos Estados Unidos?",
-    "resposta": "Guerra Civil Americana",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Guerra Civil Americana", "correta": true },
+      { "texto": "Guerra de Independência", "correta": false },
+      { "texto": "Guerra de 1812", "correta": false },
+      { "texto": "Guerra Mexicano-Americana", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o presidente americano durante a Guerra Civil?",
-    "resposta": "Abraham Lincoln",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Abraham Lincoln", "correta": true },
+      { "texto": "George Washington", "correta": false },
+      { "texto": "Andrew Jackson", "correta": false },
+      { "texto": "Ulysses S. Grant", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual evento ocorrido em 1929 desencadeou uma crise economica mundial?",
-    "resposta": "Quebra da Bolsa de Nova York",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Quebra da Bolsa de Nova York", "correta": true },
+      { "texto": "Fim da Primeira Guerra Mundial", "correta": false },
+      { "texto": "Início da Segunda Guerra Mundial", "correta": false },
+      { "texto": "Instituição do New Deal", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual lider chines proclamou a Republica Popular da China em 1949?",
-    "resposta": "Mao Tse Tung",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Mao Tse Tung", "correta": true },
+      { "texto": "Chiang Kai-shek", "correta": false },
+      { "texto": "Deng Xiaoping", "correta": false },
+      { "texto": "Sun Yat-sen", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual conflito ocorreu entre a Coreia do Norte e a Coreia do Sul entre 1950 e 1953?",
-    "resposta": "Guerra da Coreia",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Guerra da Coreia", "correta": true },
+      { "texto": "Guerra do Vietnã", "correta": false },
+      { "texto": "Guerra do Pacífico", "correta": false },
+      { "texto": "Guerra Civil Chinesa", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual foi o nome da invasao aliada da Normandia em 1944?",
-    "resposta": "Operacao Overlord",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Operacao Overlord", "correta": true },
+      { "texto": "Operação Barbarossa", "correta": false },
+      { "texto": "Operação Tocha", "correta": false },
+      { "texto": "Operação Market Garden", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem comandou as forcas aliadas na Europa durante a Segunda Guerra Mundial?",
-    "resposta": "Dwight Eisenhower",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Dwight Eisenhower", "correta": true },
+      { "texto": "Douglas MacArthur", "correta": false },
+      { "texto": "Bernard Montgomery", "correta": false },
+      { "texto": "George Patton", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual batalha naval de 1942 foi considerada um ponto de virada no Pacifico?",
-    "resposta": "Batalha de Midway",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Batalha de Midway", "correta": true },
+      { "texto": "Batalha de Pearl Harbor", "correta": false },
+      { "texto": "Batalha do Mar de Coral", "correta": false },
+      { "texto": "Batalha de Guadalcanal", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
-    "pergunta": "Quem foi o lider vietnamita que inspirou a independencia do Vietna?",
-    "resposta": "Ho Chi Minh",
-    "pontos": 5
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi o lider vietnamita que inspirou a independência do Vietna?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Ho Chi Minh", "correta": true },
+      { "texto": "Ngo Dinh Diem", "correta": false },
+      { "texto": "Pol Pot", "correta": false },
+      { "texto": "Vo Nguyen Giap", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual tratado dividiu o mundo entre Portugal e Espanha em 1494?",
-    "resposta": "Tratado de Tordesilhas",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Tratado de Tordesilhas", "correta": true },
+      { "texto": "Tratado de Saragoça", "correta": false },
+      { "texto": "Tratado de Alcáçovas", "correta": false },
+      { "texto": "Tratado de Madrid", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual navegador portugues chegou ao Brasil em 1500?",
-    "resposta": "Pedro Alvares Cabral",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Pedro Alvares Cabral", "correta": true },
+      { "texto": "Vasco da Gama", "correta": false },
+      { "texto": "Bartolomeu Dias", "correta": false },
+      { "texto": "Martim Afonso de Sousa", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem liderou a Inconfidencia Mineira?",
-    "resposta": "Tiradentes",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Tiradentes", "correta": true },
+      { "texto": "Tomás Antônio Gonzaga", "correta": false },
+      { "texto": "Cláudio Manuel da Costa", "correta": false },
+      { "texto": "Joaquim Silvério dos Reis", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Em que ano ocorreu a Inconfidencia Mineira?",
-    "resposta": "1789",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "1789", "correta": true },
+      { "texto": "1822", "correta": false },
+      { "texto": "1798", "correta": false },
+      { "texto": "1817", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o imperador do Brasil durante a Guerra do Paraguai?",
-    "resposta": "Dom Pedro II",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Dom Pedro II", "correta": true },
+      { "texto": "Dom Pedro I", "correta": false },
+      { "texto": "Deodoro da Fonseca", "correta": false },
+      { "texto": "Duque de Caxias", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual presidente brasileiro governava quando Brasilia foi inaugurada?",
-    "resposta": "Juscelino Kubitschek",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Juscelino Kubitschek", "correta": true },
+      { "texto": "Getúlio Vargas", "correta": false },
+      { "texto": "Jânio Quadros", "correta": false },
+      { "texto": "Eurico Gaspar Dutra", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual era o nome do programa americano para reconstruir a Europa apos a Segunda Guerra Mundial?",
-    "resposta": "Plano Marshall",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Plano Marshall", "correta": true },
+      { "texto": "Doutrina Truman", "correta": false },
+      { "texto": "Novo Acordo (New Deal)", "correta": false },
+      { "texto": "Plano Molotov", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual organizacao militar foi criada em 1949 pelos paises ocidentais?",
-    "resposta": "OTAN",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "OTAN", "correta": true },
+      { "texto": "ONU", "correta": false },
+      { "texto": "Pacto de Varsóvia", "correta": false },
+      { "texto": "Liga das Nações", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual bloco militar socialista foi criado em resposta a OTAN?",
-    "resposta": "Pacto de Varsovia",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Pacto de Varsovia", "correta": true },
+      { "texto": "Comecon", "correta": false },
+      { "texto": "Kominform", "correta": false },
+      { "texto": "Aliança de Progresso", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi o ultimo lider da Uniao Sovietica?",
-    "resposta": "Mikhail Gorbachev",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Mikhail Gorbachev", "correta": true },
+      { "texto": "Boris Yeltsin", "correta": false },
+      { "texto": "Leonid Brejnev", "correta": false },
+      { "texto": "Nikita Khrushchev", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual evento marcou oficialmente o fim da Uniao Sovietica?",
-    "resposta": "Dissolucao da Uniao Sovietica",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Dissolucao da Uniao Sovietica", "correta": true },
+      { "texto": "Queda do Muro de Berlim", "correta": false },
+      { "texto": "Fim da Guerra do Afeganistão", "correta": false },
+      { "texto": "Golpe de Agosto de 1991", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual imperio era conhecido como o Imperio onde o Sol Nunca se Punha?",
-    "resposta": "Imperio Britanico",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Imperio Britanico", "correta": true },
+      { "texto": "Império Espanhol", "correta": false },
+      { "texto": "Império Romano", "correta": false },
+      { "texto": "Império Mongol", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Quem foi a rainha britanica que governou durante grande parte do seculo XIX?",
-    "resposta": "Rainha Victoria",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Rainha Victoria", "correta": true },
+      { "texto": "Elizabeth I", "correta": false },
+      { "texto": "Rainha Maria", "correta": false },
+      { "texto": "Elizabeth II", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual civilizacao construiu a cidade de Petra?",
-    "resposta": "Nabateus",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Nabateus", "correta": true },
+      { "texto": "Fenícios", "correta": false },
+      { "texto": "Persas", "correta": false },
+      { "texto": "Romanos", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual cidade foi destruida pela erupcao do Monte Vesuvio juntamente com Pompeia?",
-    "resposta": "Herculano",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Herculano", "correta": true },
+      { "texto": "Nápoles", "correta": false },
+      { "texto": "Estúbias", "correta": false },
+      { "texto": "Capua", "correta": false }
+    ]
   },
   {
     "categoria": "Historia",
     "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
     "pergunta": "Qual filosofo grego foi mestre de Alexandre Magno?",
-    "resposta": "Aristoteles",
-    "pontos": 5
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Aristoteles", "correta": true },
+      { "texto": "Platão", "correta": false },
+      { "texto": "Sócrates", "correta": false },
+      { "texto": "Epicuro", "correta": false }
+    ]
   }
 ]
+]
+  
