@@ -526,7 +526,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual era a recompensa original de Sir Crocodile antes de se tornar um Shichibukai?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "81.000.000 de Berries", "correta": true },
       { "texto": "44.000.000 de Berries", "correta": false },
@@ -539,7 +539,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é o verdadeiro nome do membro da CP9 que se disfarçou de secretário na Galley-La Company?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Kaku", "correta": false },
       { "texto": "Kalifa", "correta": true },
@@ -552,7 +552,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem foi o arquiteto naval responsável por construir o Oro Jackson, o navio de Gol D. Roger?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Tom", "correta": true },
       { "texto": "Franky", "correta": false },
@@ -565,7 +565,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual supernovato da 'Pior Geração' possui os poderes da Wara Wara no Mi (Fruta da Palha)?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Basil Hawkins", "correta": true },
       { "texto": "Capone Bege", "correta": false },
@@ -578,7 +578,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual era o pseudônimo que Nico Robin usava quando trabalhava para a Baroque Works?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Miss All Sunday", "correta": true },
       { "texto": "Miss Doublefinger", "correta": false },
@@ -591,7 +591,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da ilha do céu onde Luffy e sua tripulação enfrentaram o Deus Enel?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Skypiea", "correta": true },
       { "texto": "Weatheria", "correta": false },
@@ -604,7 +604,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem é o legítimo herdeiro do trono do Reino de Drum e usuário da Baku Baku no Mi?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Wapol", "correta": true },
       { "texto": "Dalton", "correta": false },
@@ -617,7 +617,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "O que os piratas do Chapéu de Palha precisavam obter para revestir o Thousand Sunny e ir para a Ilha dos Homens-Peixe?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Resina da árvore Yarukiman Mangrove", "correta": true },
       { "texto": "Pedra de Prisma do Mar", "correta": false },
@@ -630,7 +630,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual Shichibukai cortou o braço do ex-almirante Zephyr (Z) e mais tarde invadiu Marineford?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Edward Weevil", "correta": true },
       { "texto": "Buggy", "correta": false },
@@ -643,7 +643,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "No Arquipélago de Sabaody, qual Dragão Celestial foi esmurrado por Luffy após atirar em Hachi?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Saint Charlos", "correta": true },
       { "texto": "Saint Rosward", "correta": false },
@@ -656,7 +656,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é a Akuma no Mi de Brook, que permitiu que sua alma retornasse ao corpo após a morte?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Yomi Yomi no Mi", "correta": true },
       { "texto": "Kage Kage no Mi", "correta": false },
@@ -669,7 +669,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual foi o primeiro Almirante da Marinha que os Chapéus de Palha encontraram pessoalmente na história?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Aokiji (Kuzan)", "correta": true },
       { "texto": "Kizaru (Borsalino)", "correta": false },
@@ -682,7 +682,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem era o dono original da lendária espada Shusui, que foi entregue a Zoro em Thriller Bark?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Ryuma", "correta": true },
       { "texto": "Oden Kozuki", "correta": false },
@@ -695,7 +695,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem é o líder do Exército Revolucionário e companheiro mais próximo de Monkey D. Dragon?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Emporio Ivankov", "correta": true },
       { "texto": "Sabo", "correta": false },
@@ -708,7 +708,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual foi a identidade secreta que Sabo usou para competir no Coliseu Corrida em Dressrosa?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Lucy", "correta": true },
       { "texto": "Sogeking", "correta": false },
@@ -721,7 +721,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual nível da prisão subaquática Impel Down é conhecido como o Inferno Congelante?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Nível 5", "correta": true },
       { "texto": "Nível 4", "correta": false },
@@ -734,7 +734,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual integrante do bando do Barba Negra era o ex-diretor chefe de Impel Down?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Shiryu", "correta": true },
       { "texto": "Magellan", "correta": false },
@@ -747,7 +747,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é a alcunha oficial dada a Eustass Kid pela Marinha devido à sua brutalidade?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Capitão Kid", "correta": true },
       { "texto": "O Canibal", "correta": false },
@@ -760,7 +760,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem comeu a Mera Mera no Mi logo após ela reaparecer no mundo após a guerra de Marineford?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Sabo", "correta": true },
       { "texto": "Burgess", "correta": false },
@@ -773,7 +773,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da técnica secreta do estilo de Três Espadas que Zoro usou para derrotar Pica em Dressrosa?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Sanzen Sekai", "correta": true },
       { "texto": "Shishi Sonson", "correta": false },
@@ -786,7 +786,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual tribo habita a ilha de Zou nas costas do gigantesco elefante Zunesha?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Tribo Mink", "correta": true },
       { "texto": "Tribo dos Braços Longos", "correta": false },
@@ -799,7 +799,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual filho de Big Mom é o General da Docura que possui o controle total sobre o espelho (Mira Mira no Mi)?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Brulee", "correta": true },
       { "texto": "Katakuri", "correta": false },
@@ -812,7 +812,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da ilha onde fica a base principal do Almirante de Frota Akainu após o salto temporal de dois anos?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Nova Marineford", "correta": true },
       { "texto": "Mary Geoise", "correta": false },
@@ -825,7 +825,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem foi o responsável por dar a cicatriz em forma de X no peito de Luffy?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Akainu", "correta": true },
       { "texto": "Zoro (possessão)", "correta": false },
@@ -838,7 +838,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Como é chamada a subespécie de Haki que permite prever ataques e, em níveis avançados, ver vislumbres do futuro?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Kenbunshoku Haki (Observação)", "correta": true },
       { "texto": "Busoshoku Haki (Armamento)", "correta": false },
@@ -851,7 +851,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Quem era o traidor disfarçado dentro das Bainhas Vermelhas que enviava informações para Orochi em Wano?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Kanjuro", "correta": true },
       { "texto": "Kin'emon", "correta": false },
@@ -864,7 +864,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "De qual das quatro Blues veio o cozinheiro Sanji originalmente, antes de ir para o East Blue?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "North Blue", "correta": true },
       { "texto": "South Blue", "correta": false },
@@ -877,7 +877,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual arma antiga Nico Robin descobriu estar localizada escondida em Alabasta de acordo com o Poneglyph?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Pluton", "correta": true },
       { "texto": "Poseidon", "correta": false },
@@ -890,7 +890,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "A qual família nobre pertence a Shichibukai Boa Hancock e suas irmãs na Ilha de Amazon Lily?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Família Kuja", "correta": true },
       { "texto": "Família Nefertari", "correta": false },
@@ -903,7 +903,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é a recompensa de Chopper após os eventos de Dressrosa, que o deixou profundamente frustrado?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "100 Berries", "correta": true },
       { "texto": "50 Berries", "correta": false },

@@ -1,0 +1,1566 @@
+[
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta Jack em Titanic?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Leonardo DiCaprio", "correta": true },
+      { "texto": "Brad Pitt", "correta": false },
+      { "texto": "Johnny Depp", "correta": false },
+      { "texto": "Tom Cruise", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do brinquedo cowboy em Toy Story?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Woody", "correta": true },
+      { "texto": "Buzz Lightyear", "correta": false },
+      { "texto": "Slinky", "correta": false },
+      { "texto": "Equino", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o vilão principal de Star Wars Episódio IV?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Darth Vader", "correta": true },
+      { "texto": "Imperador Palpatine", "correta": false },
+      { "texto": "Darth Maul", "correta": false },
+      { "texto": "Kylo Ren", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme apresenta o personagem Shrek?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shrek", "correta": true },
+      { "texto": "Madagascar", "correta": false },
+      { "texto": "Era do Gelo", "correta": false },
+      { "texto": "Toy Story", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do leão protagonista de O Rei Leão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Simba", "correta": true },
+      { "texto": "Mufasa", "correta": false },
+      { "texto": "Scar", "correta": false },
+      { "texto": "Kovu", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem viveu Harry Potter nos cinemas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Daniel Radcliffe", "correta": true },
+      { "texto": "Elijah Wood", "correta": false },
+      { "texto": "Rupert Grint", "correta": false },
+      { "texto": "Tom Felton", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual super-herói é conhecido como Homem de Ferro?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Tony Stark", "correta": true },
+      { "texto": "Bruce Wayne", "correta": false },
+      { "texto": "Steve Rogers", "correta": false },
+      { "texto": "Clark Kent", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do ogro verde famoso da DreamWorks?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Shrek", "correta": true },
+      { "texto": "Sulley", "correta": false },
+      { "texto": "Fiona", "correta": false },
+      { "texto": "Grinch", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em Procurando Nemo, qual é o nome do peixe perdido?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Nemo", "correta": true },
+      { "texto": "Marlin", "correta": false },
+      { "texto": "Dory", "correta": false },
+      { "texto": "Gill", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme conta a história de Elsa e Anna?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Frozen", "correta": true },
+      { "texto": "Enrolados", "correta": false },
+      { "texto": "Moana", "correta": false },
+      { "texto": "Valente", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual herói utiliza um escudo com as cores dos Estados Unidos?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Capitão América", "correta": true },
+      { "texto": "Homem de Ferro", "correta": false },
+      { "texto": "Superman", "correta": false },
+      { "texto": "Thor", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do robô protagonista de Wall-E?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Wall-E", "correta": true },
+      { "texto": "Eva", "correta": false },
+      { "texto": "R2-D2", "correta": false },
+      { "texto": "Baymax", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da princesa de A Bela e a Fera?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Bela", "correta": true },
+      { "texto": "Cinderela", "correta": false },
+      { "texto": "Aurora", "correta": false },
+      { "texto": "Ariel", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual animal é Kung Fu Panda?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Panda", "correta": true },
+      { "texto": "Tigre", "correta": false },
+      { "texto": "Urso Pardo", "correta": false },
+      { "texto": "Leopardo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o arqueólogo protagonista de Os Caçadores da Arca Perdida?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Indiana Jones", "correta": true },
+      { "texto": "Lara Croft", "correta": false },
+      { "texto": "Rick O'Connell", "correta": false },
+      { "texto": "Nathan Drake", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do feiticeiro de O Senhor dos Anéis que usa roupas cinzas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gandalf", "correta": true },
+      { "texto": "Saruman", "correta": false },
+      { "texto": "Dumbledore", "correta": false },
+      { "texto": "Merlin", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do personagem verde de Os Vingadores que fica gigante quando se irrita?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hulk", "correta": true },
+      { "texto": "Thor", "correta": false },
+      { "texto": "Loki", "correta": false },
+      { "texto": "Visão", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do brinquedo astronauta em Toy Story?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Buzz Lightyear", "correta": true },
+      { "texto": "Woody", "correta": false },
+      { "texto": "Rex", "correta": false },
+      { "texto": "Zurg", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da escola de magia de Harry Potter?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Hogwarts", "correta": true },
+      { "texto": "Azkaban", "correta": false },
+      { "texto": "Beauxbatons", "correta": false },
+      { "texto": "Nurmengard", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual princesa perdeu um sapatinho de cristal?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Cinderela", "correta": true },
+      { "texto": "Branca de Neve", "correta": false },
+      { "texto": "Bela Adormecida", "correta": false },
+      { "texto": "Rapunzel", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o melhor amigo burro de Shrek?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Burro", "correta": true },
+      { "texto": "Gato de Botas", "correta": false },
+      { "texto": "Biscoito", "correta": false },
+      { "texto": "Pinóquio", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual herói é conhecido como Homem-Aranha?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Peter Parker", "correta": true },
+      { "texto": "Miles Morales", "correta": false },
+      { "texto": "Clark Kent", "correta": false },
+      { "texto": "Bruce Banner", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do dragão de Como Treinar o Seu Dragão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Banguela", "correta": true },
+      { "texto": "Soluço", "correta": false },
+      { "texto": "Tempestade", "correta": false },
+      { "texto": "Smaug", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a cor do sabre de luz tradicional dos Jedi?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Azul", "correta": true },
+      { "texto": "Vermelho", "correta": false },
+      { "texto": "Roxo", "correta": false },
+      { "texto": "Preto", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme mostra dinossauros clonados em um parque temático?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Jurassic Park", "correta": true },
+      { "texto": "King Kong", "correta": false },
+      { "texto": "Avatar", "correta": false },
+      { "texto": "Transformers", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem vive em uma lâmpada mágica em Aladdin?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Gênio", "correta": true },
+      { "texto": "Jafar", "correta": false },
+      { "texto": "Abu", "correta": false },
+      { "texto": "Iago", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o pai de Simba em O Rei Leão?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mufasa", "correta": true },
+      { "texto": "Scar", "correta": false },
+      { "texto": "Rafiki", "correta": false },
+      { "texto": "Timão", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual herói usa um martelo chamado Mjolnir?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Thor", "correta": true },
+      { "texto": "Loki", "correta": false },
+      { "texto": "Hulk", "correta": false },
+      { "texto": "Odin", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do peixe azul amigo de Nemo?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Dory", "correta": true },
+      { "texto": "Marlin", "correta": false },
+      { "texto": "Destiny", "correta": false },
+      { "texto": "Hank", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem da Disney tem uma longa trança mágica?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Rapunzel", "correta": true },
+      { "texto": "Cinderela", "correta": false },
+      { "texto": "Moana", "correta": false },
+      { "texto": "Merida", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta o Coringa em Batman: O Cavaleiro das Trevas?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Heath Ledger", "correta": true },
+      { "texto": "Joaquin Phoenix", "correta": false },
+      { "texto": "Jack Nicholson", "correta": false },
+      { "texto": "Jared Leto", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do hobbit protagonista de O Senhor dos Anéis?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Frodo Bolseiro", "correta": true },
+      { "texto": "Samwise Gamgee", "correta": false },
+      { "texto": "Bilbo Bolseiro", "correta": false },
+      { "texto": "Peregrin Tûk", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do carro de corrida vermelho de Carros?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Relâmpago McQueen", "correta": true },
+      { "texto": "Tom Mate", "correta": false },
+      { "texto": "Doc Hudson", "correta": false },
+      { "texto": "Francesco Bernoulli", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme apresenta a frase 'Hakuna Matata'?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "O Rei Leão", "correta": true },
+      { "texto": "Tarzan", "correta": false },
+      { "texto": "Mogli: O Menino Lobo", "correta": false },
+      { "texto": "Madagascar", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da princessa guerreira da Disney inspirada na China?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Mulan", "correta": true },
+      { "texto": "Pocahontas", "correta": false },
+      { "texto": "Raya", "correta": false },
+      { "texto": "Tiana", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do mordomo do Batman?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Alfred", "correta": true },
+      { "texto": "Gordon", "correta": false },
+      { "texto": "Lucius", "correta": false },
+      { "texto": "Robin", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme tem um tigre chamado Rajah?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Aladdin", "correta": true },
+      { "texto": "O Livro da Selva", "correta": false },
+      { "texto": "As Aventuras de Pi", "correta": false },
+      { "texto": "Zootopia", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é a irmã de Elsa em Frozen?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Anna", "correta": true },
+      { "texto": "Rapunzel", "correta": false },
+      { "texto": "Moana", "correta": false },
+      { "texto": "Merida", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do super-herói de Gotham City?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Batman", "correta": true },
+      { "texto": "Superman", "correta": false },
+      { "texto": "Arqueiro Verde", "correta": false },
+      { "texto": "Flash", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "facil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme da Pixar se passa principalmente na mente de uma garota chamada Riley?",
+    "pontos": 1,
+    "alternativas": [
+      { "texto": "Divertida Mente", "correta": true },
+      { "texto": "Soul", "correta": false },
+      { "texto": "Viva: A Vida é uma Festa", "correta": false },
+      { "texto": "Monstros S.A.", "correta": false }
+    ]
+  },
+
+  
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu o filme Pulp Fiction?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Quentin Tarantino", "correta": true },
+      { "texto": "Martin Scorsese", "correta": false },
+      { "texto": "Steven Spielberg", "correta": false },
+      { "texto": "David Fincher", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpreta Neo em Matrix?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Keanu Reeves", "correta": true },
+      { "texto": "Tom Cruise", "correta": false },
+      { "texto": "Brad Pitt", "correta": false },
+      { "texto": "Will Smith", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do navio em Titanic?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "RMS Titanic", "correta": true },
+      { "texto": "RMS Olympic", "correta": false },
+      { "texto": "Britannic", "correta": false },
+      { "texto": "Lusitania", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Jurassic Park?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Steven Spielberg", "correta": true },
+      { "texto": "James Cameron", "correta": false },
+      { "texto": "George Lucas", "correta": false },
+      { "texto": "Ridley Scott", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do hotel onde se passa grande parte de O Iluminado?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Hotel Overlook", "correta": true },
+      { "texto": "Hotel Bates", "correta": false },
+      { "texto": "Hotel Continental", "correta": false },
+      { "texto": "Hotel Plaza", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta o personagem Wolverine nos filmes dos X-Men?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Hugh Jackman", "correta": true },
+      { "texto": "Tom Hardy", "correta": false },
+      { "texto": "Christian Bale", "correta": false },
+      { "texto": "Russell Crowe", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 1998 e tem como cenário o naufrágio de um navio?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Titanic", "correta": true },
+      { "texto": "O Resgate do Soldado Ryan", "correta": false },
+      { "texto": "Shakespeare Apaixonado", "correta": false },
+      { "texto": "A Vida é Bela", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual personagem diz a frase 'Que a Força esteja com você' em Star Wars?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Obi-Wan Kenobi", "correta": true },
+      { "texto": "Darth Vader", "correta": false },
+      { "texto": "Luke Skywalker", "correta": false },
+      { "texto": "Han Solo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu A Origem?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Christopher Nolan", "correta": true },
+      { "texto": "Denis Villeneuve", "correta": false },
+      { "texto": "David Fincher", "correta": false },
+      { "texto": "Darren Aronofsky", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpreta Jack Sparrow?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Johnny Depp", "correta": true },
+      { "texto": "Orlando Bloom", "correta": false },
+      { "texto": "Javier Bardem", "correta": false },
+      { "texto": "Geoffrey Rush", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme da Pixar apresenta o personagem Carl Fredricksen?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Up Altas Aventuras", "correta": true },
+      { "texto": "Toy Story", "correta": false },
+      { "texto": "Wall-E", "correta": false },
+      { "texto": "Viva: A Vida é uma Festa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta Forrest Gump?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Tom Hanks", "correta": true },
+      { "texto": "Robin Williams", "correta": false },
+      { "texto": "John Travolta", "correta": false },
+      { "texto": "Jim Carrey", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do parque em Jurassic Park?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Isla Nublar", "correta": true },
+      { "texto": "Isla Sorna", "correta": false },
+      { "texto": "Isla de Muerta", "correta": false },
+      { "texto": "Isla de la Juventud", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Gladiador?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Ridley Scott", "correta": true },
+      { "texto": "James Cameron", "correta": false },
+      { "texto": "Peter Jackson", "correta": false },
+      { "texto": "Mel Gibson", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpretou Maximus em Gladiador?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Russell Crowe", "correta": true },
+      { "texto": "Joaquin Phoenix", "correta": false },
+      { "texto": "Brad Pitt", "correta": false },
+      { "texto": "Mel Gibson", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o verdadeiro nome do vilão Coringa?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Não possui nome definitivo", "correta": true },
+      { "texto": "Arthur Fleck", "correta": false },
+      { "texto": "Jack Napier", "correta": false },
+      { "texto": "Bruce Wayne", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atriz interpreta Hermione Granger?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Emma Watson", "correta": true },
+      { "texto": "Emma Stone", "correta": false },
+      { "texto": "Evanna Lynch", "correta": false },
+      { "texto": "Bonnie Wright", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu O Exterminador do Futuro 2?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "James Cameron", "correta": true },
+      { "texto": "Steven Spielberg", "correta": false },
+      { "texto": "Ridley Scott", "correta": false },
+      { "texto": "John Carpenter", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual actor interpretou o Batman na trilogia de Christopher Nolan?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Christian Bale", "correta": true },
+      { "texto": "Ben Affleck", "correta": false },
+      { "texto": "Michael Keaton", "correta": false },
+      { "texto": "Robert Pattinson", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do dragão principal de O Hobbit?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Smaug", "correta": true },
+      { "texto": "Banguela", "correta": false },
+      { "texto": "Drogon", "correta": false },
+      { "texto": "Ghidorah", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta o Homem de Ferro no Universo Cinematográfico Marvel?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Robert Downey Jr", "correta": true },
+      { "texto": "Chris Evans", "correta": false },
+      { "texto": "Chris Hemsworth", "correta": false },
+      { "texto": "Mark Ruffalo", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de 1999 popularizou o efeito bullet time?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Matrix", "correta": true },
+      { "texto": "Blade Runner", "correta": false },
+      { "texto": "Star Wars: A Ameaça Fantasma", "correta": false },
+      { "texto": "Clube da Luta", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Clube da Luta?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "David Fincher", "correta": true },
+      { "texto": "Christopher Nolan", "correta": false },
+      { "texto": "Quentin Tarantino", "correta": false },
+      { "texto": "Darren Aronofsky", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do personagem de Brad Pitt em Clube da Luta?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Tyler Durden", "correta": true },
+      { "texto": "Narrador", "correta": false },
+      { "texto": "Robert Paulson", "correta": false },
+      { "texto": "John Doe", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atriz interpreta Katniss Everdeen?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Jennifer Lawrence", "correta": true },
+      { "texto": "Kristen Stewart", "correta": false },
+      { "texto": "Emma Watson", "correta": false },
+      { "texto": "Shailene Woodley", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Os Infiltrados?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Martin Scorsese", "correta": true },
+      { "texto": "Francis Ford Coppola", "correta": false },
+      { "texto": "Brian De Palma", "correta": false },
+      { "texto": "Ridley Scott", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o primeiro filme do Universo Cinematográfico Marvel?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Homem de Ferro", "correta": true },
+      { "texto": "O Incrível Hulk", "correta": false },
+      { "texto": "Capitão América: O Primeiro Vingador", "correta": false },
+      { "texto": "Os Vingadores", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpretou o Coringa em Esquadrão Suicida de 2016?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Jared Leto", "correta": true },
+      { "texto": "Heath Ledger", "correta": false },
+      { "texto": "Joaquin Phoenix", "correta": false },
+      { "texto": "Cameron Monaghan", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2020?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Parasita", "correta": true },
+      { "texto": "1917", "correta": false },
+      { "texto": "Era Uma Vez em... Hollywood", "correta": false },
+      { "texto": "Coringa", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor é conhecido por dirigir E.T. O Extraterrestre?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Steven Spielberg", "correta": true },
+      { "texto": "George Lucas", "correta": false },
+      { "texto": "Tim Burton", "correta": false },
+      { "texto": "Robert Zemeckis", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do robô policial de RoboCop?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Alex Murphy", "correta": true },
+      { "texto": "John Connor", "correta": false },
+      { "texto": "T-800", "correta": false },
+      { "texto": "Rick Deckard", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta o Doutor Estranho?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Benedict Cumberbatch", "correta": true },
+      { "texto": "Robert Downey Jr.", "correta": false },
+      { "texto": "Tom Hiddleston", "correta": false },
+      { "texto": "Cillian Murphy", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome da cidade fictícia onde Batman atua?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Gotham City", "correta": true },
+      { "texto": "Metropolis", "correta": false },
+      { "texto": "Central City", "correta": false },
+      { "texto": "Star City", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpretou Han Solo?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Harrison Ford", "correta": true },
+      { "texto": "Mark Hamill", "correta": false },
+      { "texto": "Carrie Fisher", "correta": false },
+      { "texto": "Alec Guinness", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Avatar de 2009?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "James Cameron", "correta": true },
+      { "texto": "Steven Spielberg", "correta": false },
+      { "texto": "Peter Jackson", "correta": false },
+      { "texto": "George Lucas", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do planeta dos Na'vi em Avatar?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Pandora", "correta": true },
+      { "texto": "Tatooine", "correta": false },
+      { "texto": "Vormir", "correta": false },
+      { "texto": "Asgard", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpreta Deadpool nos cinemas?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Ryan Reynolds", "correta": true },
+      { "texto": "Ryan Gosling", "correta": false },
+      { "texto": "Hugh Jackman", "correta": false },
+      { "texto": "Chris Pratt", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme apresentou pela primeira vez o personagem Gollum usando captura de movimento avançada?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "O Senhor dos Aneis As Duas Torres", "correta": true },
+      { "texto": "O Senhor dos Anéis: A Sociedade do Anel", "correta": false },
+      { "texto": "O Senhor dos Anéis: O Retorno do Rei", "correta": false },
+      { "texto": "O Hobbit: Uma Jornada Inesperada", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpretou Gandalf na trilogia O Senhor dos Anéis?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Ian McKellen", "correta": true },
+      { "texto": "Christopher Lee", "correta": false },
+      { "texto": "Viggo Mortensen", "correta": false },
+      { "texto": "Sean Bean", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "media",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de animação da Disney se passa na Polinésia e tem a personagem Moana?",
+    "pontos": 3,
+    "alternativas": [
+      { "texto": "Moana Um Mar de Aventuras", "correta": true },
+      { "texto": "Lilo & Stitch", "correta": false },
+      { "texto": "Frozen", "correta": false },
+      { "texto": "Raya e o Último Dragão", "correta": false }
+    ]
+  },
+
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu The Return of the King (O Retorno do Rei)?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Peter Jackson", "correta": true },
+      { "texto": "Guillermo del Toro", "correta": false },
+      { "texto": "George Lucas", "correta": false },
+      { "texto": "Alfonso Cuarón", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de Quentin Tarantino lançado em 2012 acompanha a jornada de um escravo libertado?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Django Livre", "correta": true },
+      { "texto": "Bastardos Inglórios", "correta": false },
+      { "texto": "Os Oito Odiados", "correta": false },
+      { "texto": "Jackie Brown", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de David Fincher retrata a criação do Facebook?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "A Rede Social", "correta": true },
+      { "texto": "Zodíaco", "correta": false },
+      { "texto": "Garota Exemplar", "correta": false },
+      { "texto": "O Curioso Caso de Benjamin Button", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu o filme 2001 Uma Odisseia no Espaço?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Stanley Kubrick", "correta": true },
+      { "texto": "Ridley Scott", "correta": false },
+      { "texto": "Andrei Tarkovsky", "correta": false },
+      { "texto": "George Lucas", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpretou Vito Corleone em O Poderoso Chefão?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Marlon Brando", "correta": true },
+      { "texto": "Al Pacino", "correta": false },
+      { "texto": "Robert De Niro", "correta": false },
+      { "texto": "Dustin Hoffman", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor é responsável por Cidadão Kane?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Orson Welles", "correta": true },
+      { "texto": "Alfred Hitchcock", "correta": false },
+      { "texto": "John Ford", "correta": false },
+      { "texto": "Howard Hawks", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem compôs a trilha sonora da trilogia O Senhor dos Anéis?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Howard Shore", "correta": true },
+      { "texto": "John Williams", "correta": false },
+      { "texto": "Hans Zimmer", "correta": false },
+      { "texto": "Danny Elfman", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 1973?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "O Poderoso Chefão", "correta": true },
+      { "texto": "Cabaret", "correta": false },
+      { "texto": "Amargo Pesadelo", "correta": false },
+      { "texto": "Os Emigrantes", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Apocalypse Now?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Francis Ford Coppola", "correta": true },
+      { "texto": "Martin Scorsese", "correta": false },
+      { "texto": "Oliver Stone", "correta": false },
+      { "texto": "Michael Cimino", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o nome do computador de bordo em 2001 Uma Odisseia no Espaço?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "HAL 9000", "correta": true },
+      { "texto": "JARVIS", "correta": false },
+      { "texto": "Skynet", "correta": false },
+      { "texto": "R2-D2", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpretou Travis Bickle em Taxi Driver?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Robert De Niro", "correta": true },
+      { "texto": "Al Pacino", "correta": false },
+      { "texto": "Harvey Keitel", "correta": false },
+      { "texto": "Dustin Hoffman", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor dirigiu Blade Runner de 1982?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Ridley Scott", "correta": true },
+      { "texto": "Steven Spielberg", "correta": false },
+      { "texto": "James Cameron", "correta": false },
+      { "texto": "John Carpenter", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de Akira Kurosawa inspirou Sete Homens e um Destino?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Os Sete Samurais", "correta": true },
+      { "texto": "Rashomon", "correta": false },
+      { "texto": "Yojimbo", "correta": false },
+      { "texto": "Trono Manchado de Sangue", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu O Sétimo Selo?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Ingmar Bergman", "correta": true },
+      { "texto": "Andrei Tarkovsky", "correta": false },
+      { "texto": "Federico Fellini", "correta": false },
+      { "texto": "Jean-Luc Godard", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atriz interpretou Clarice Starling em O Silêncio dos Inocentes?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Jodie Foster", "correta": true },
+      { "texto": "Julianne Moore", "correta": false },
+      { "texto": "Michelle Pfeiffer", "correta": false },
+      { "texto": "Sigourney Weaver", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme venceu os cinco principais Oscars em 1992?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "O Silêncio dos Inocentes", "correta": true },
+      { "texto": "Os Imperdoáveis", "correta": false },
+      { "texto": "Dança com Lobos", "correta": false },
+      { "texto": "Thelma & Louise", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Laranja Mecânica?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Stanley Kubrick", "correta": true },
+      { "texto": "Ridley Scott", "correta": false },
+      { "texto": "David Lynch", "correta": false },
+      { "texto": "Roman Polanski", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor criou o filme O Labirinto do Fauno?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Guillermo del Toro", "correta": true },
+      { "texto": "Alfonso Cuarón", "correta": false },
+      { "texto": "Alejandro G. Iñárritu", "correta": false },
+      { "texto": "Pedro Almodóvar", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpretou Daniel Plainview em Sangue Negro?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Daniel Day-Lewis", "correta": true },
+      { "texto": "Joaquin Phoenix", "correta": false },
+      { "texto": "Christian Bale", "correta": false },
+      { "texto": "Sean Penn", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de Christopher Nolan foi indicado ao Oscar de Melhor Filme em 2011?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "A Origem", "correta": true },
+      { "texto": "Batman: O Cavaleiro das Trevas", "correta": false },
+      { "texto": "Interestelar", "correta": false },
+      { "texto": "Amnésia", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu o filme Amadeus?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Milos Forman", "correta": true },
+      { "texto": "Stanley Kubrick", "correta": false },
+      { "texto": "Ingmar Bergman", "correta": false },
+      { "texto": "Roman Polanski", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme ganhou a Palma de Ouro e o Oscar de Melhor Filme em 2019?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Parasita", "correta": true },
+      { "texto": "Roma", "correta": false },
+      { "texto": "Assunto de Família", "correta": false },
+      { "texto": "Green Book: O Guia", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Chinatown?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Roman Polanski", "correta": true },
+      { "texto": "Martin Scorsese", "correta": false },
+      { "texto": "Francis Ford Coppola", "correta": false },
+      { "texto": "Sidney Lumet", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual ator interpretou T. E. Lawrence em Lawrence da Arábia?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Peter O'Toole", "correta": true },
+      { "texto": "Marlon Brando", "correta": false },
+      { "texto": "Richard Burton", "correta": false },
+      { "texto": "Alec Guinness", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu Era Uma Vez no Oeste?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Sergio Leone", "correta": true },
+      { "texto": "John Ford", "correta": false },
+      { "texto": "Sam Peckinpah", "correta": false },
+      { "texto": "Clint Eastwood", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor é conhecido como o mestre do suspense?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Alfred Hitchcock", "correta": true },
+      { "texto": "Orson Welles", "correta": false },
+      { "texto": "Stanley Kubrick", "correta": false },
+      { "texto": "David Lynch", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme de Hitchcock apresenta o motel Bates?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Psicose", "correta": true },
+      { "texto": "Um Corpo que Cai", "correta": false },
+      { "texto": "Janela Indiscreta", "correta": false },
+      { "texto": "Intriga Internacional", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpretou Hannibal Lecter em O Silêncio dos Inocentes?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Anthony Hopkins", "correta": true },
+      { "texto": "Brian Cox", "correta": false },
+      { "texto": "Mads Mikkelsen", "correta": false },
+      { "texto": "Jack Nicholson", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor dirigiu Os Bons Companheiros?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Martin Scorsese", "correta": true },
+      { "texto": "Francis Ford Coppola", "correta": false },
+      { "texto": "Brian De Palma", "correta": false },
+      { "texto": "Quentin Tarantino", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme sul-coreano venceu o Oscar de Melhor Filme em 2020?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Parasita", "correta": true },
+      { "texto": "Em Chamas", "correta": false },
+      { "texto": "Oldboy", "correta": false },
+      { "texto": "A Criada", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu o filme Metrópolis de 1927?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Fritz Lang", "correta": true },
+      { "texto": "F.W. Murnau", "correta": false },
+      { "texto": "Robert Wiene", "correta": false },
+      { "texto": "Sergei Eisenstein", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual atriz interpretou Scarlett O'Hara em E o Vento Levou?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Vivien Leigh", "correta": true },
+      { "texto": "Bette Davis", "correta": false },
+      { "texto": "Judy Garland", "correta": false },
+      { "texto": "Joan Crawford", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu O Encouraçado Potemkin?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Sergei Eisenstein", "correta": true },
+      { "texto": "Dziga Vertov", "correta": false },
+      { "texto": "Vsevolod Pudovkin", "correta": false },
+      { "texto": "Lev Kuleshov", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor japonês dirigiu Rashomon?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Akira Kurosawa", "correta": true },
+      { "texto": "Yasujiro Ozu", "correta": false },
+      { "texto": "Kenji Mizoguchi", "correta": false },
+      { "texto": "Hayao Miyazaki", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 2023?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Tudo em Todo Lugar ao Mesmo Tempo", "correta": true },
+      { "texto": "Nada de Novo no Front", "correta": false },
+      { "texto": "Os Banshees de Inisherin", "correta": false },
+      { "texto": "Top Gun: Maverick", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem dirigiu o filme O Pianista?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Roman Polanski", "correta": true },
+      { "texto": "Steven Spielberg", "correta": false },
+      { "texto": "Lars von Trier", "correta": false },
+      { "texto": "Michael Haneke", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual actor interpretou o Coringa no filme Coringa de 2019?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Joaquin Phoenix", "correta": true },
+      { "texto": "Heath Ledger", "correta": false },
+      { "texto": "Jared Leto", "correta": false },
+      { "texto": "Robert De Niro", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual diretor dirigiu Interestelar?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Christopher Nolan", "correta": true },
+      { "texto": "Alfonso Cuarón", "correta": false },
+      { "texto": "Denis Villeneuve", "correta": false },
+      { "texto": "Ridley Scott", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual filme venceu o Oscar de Melhor Filme em 2024?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Oppenheimer", "correta": true },
+      { "texto": "Pobres Criaturas", "correta": false },
+      { "texto": "Assassinos da Lua das Flores", "correta": false },
+      { "texto": "Barbie", "correta": false }
+    ]
+  },
+  {
+    "categoria": "Filmes",
+    "dificuldade": "dificil",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem interpretou Oppenheimer no filme de Christopher Nolan?",
+    "pontos": 5,
+    "alternativas": [
+      { "texto": "Cillian Murphy", "correta": true },
+      { "texto": "Robert Downey Jr.", "correta": false },
+      { "texto": "Matt Damon", "correta": false },
+      { "texto": "Florence Pugh", "correta": false }
+    ]
+  }
+]
+  

@@ -14,6 +14,12 @@ from app.services.game_service import (
 game_bp = Blueprint("game", __name__)
 
 
+
+
+
+
+
+
 # =========================
 # INICIAR PARTIDA
 # =========================
@@ -39,25 +45,37 @@ def criar_partida():
 # =========================
 @game_bp.route("/jogar", methods=["POST"])
 def jogar():
-    # 🌟 CORRIGIDO: Agora os dados e as validações estão dentro da função (Indentação corrigida)
+
     dados = request.get_json(silent=True)
 
     if not dados:
-        return jsonify({"erro": "JSON inválido"}), 400
 
-    # 🌟 ADICIONADO: Validação preventiva para o servidor não quebrar se faltar um campo no POST
-    chaves_obrigatorias = ["equipe_id", "pergunta_id", "resposta"]
-    if not all(chave in dados for chave in chaves_obrigatorias):
-        return jsonify({"erro": "Campos obrigatórios ausentes (equipe_id, pergunta_id, resposta)"}), 400
+        return jsonify({
+            "erro": "JSON inválido"
+        }), 400
+
+    equipe_id = dados.get("equipe_id")
+    pergunta_id = dados.get("pergunta_id")
+    alternativa_id = dados.get("alternativa_id")
+    resposta_usuario = dados.get("resposta")
+
+    if not equipe_id or not pergunta_id:
+
+        return jsonify({
+            "erro": (
+                "Campos obrigatórios ausentes "
+                "(equipe_id, pergunta_id)"
+            )
+        }), 400
 
     resultado = jogar_turno(
-        equipe_id=dados["equipe_id"],
-        pergunta_id=dados["pergunta_id"],
-        resposta_jogador=dados["resposta"]
+        equipe_id=equipe_id,
+        pergunta_id=pergunta_id,
+        alternativa_id=alternativa_id,
+        resposta_jogador=resposta_usuario
     )
 
     return jsonify(resultado), 200
-
 
 # =========================
 # ESTADO DA PARTIDA
@@ -321,4 +339,6 @@ def status_categoria_especial():
             else None
 
     }), 200
+
+
 

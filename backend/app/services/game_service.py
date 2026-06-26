@@ -116,7 +116,8 @@ def adicionar_pontos(
 def jogar_turno(
     equipe_id,
     pergunta_id,
-    resposta_jogador
+    alternativa_id=None,
+    resposta_jogador=None
 ):
 
     partida = Partida.query.order_by(
@@ -130,8 +131,9 @@ def jogar_turno(
         }
 
     resultado = validar_resposta(
-        pergunta_id,
-        resposta_jogador
+        pergunta_id=pergunta_id,
+        alternativa_id=alternativa_id,  
+        resposta_usuario=resposta_jogador
     )
 
     equipe = Equipe.query.get(

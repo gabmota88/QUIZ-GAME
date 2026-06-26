@@ -525,7 +525,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual ator interpreta o vilão Homelander (Capitão Pátria) na série 'The Boys'?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Antony Starr", "correta": true },
       { "texto": "Karl Urban", "correta": false },
@@ -538,7 +538,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série 'Dark', qual é o ano inicial da linha do tempo principal em que ocorre o desaparecimento de Mikkel Nielsen?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "2019", "correta": true },
       { "texto": "1986", "correta": false },
@@ -551,7 +551,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Succession', qual é o nome do conglomerado global de mídia e entretenimento controlado pela família Roy?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Waystar Royco", "correta": true },
       { "texto": "E Corp", "correta": false },
@@ -564,7 +564,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual personagem de 'Better Call Saul' é o icônico e ranzinza ex-policial que gerencia a segurança e a logística do cartel de Gus Fring?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Mike Ehrmantraut", "correta": true },
       { "texto": "Nacho Varga", "correta": false },
@@ -577,7 +577,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série 'How I Met Your Mother', qual é a profissão do protagonista Ted Mosby?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Arquiteto", "correta": true },
       { "texto": "Advogado", "correta": false },
@@ -590,7 +590,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Peaky Blinders', em qual cidade inglesa se passa a maior parte da história da gangue liderada por Thomas Shelby?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Birmingham", "correta": true },
       { "texto": "Londres", "correta": false },
@@ -603,7 +603,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na sitcom 'Parks and Recreation', qual personagem é o diretor do departamento, obcecado por carne, marcenaria e que odeia o governo?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Ron Swanson", "correta": true },
       { "texto": "Andy Dwyer", "correta": false },
@@ -616,7 +616,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual série de ficção científica em formato de antologia apresenta episódios independentes que exploram a paranoia tecnológica moderna?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Black Mirror", "correta": true },
       { "texto": "Love, Death & Robots", "correta": false },
@@ -629,7 +629,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Game of Thrones', quem é o responsável direto pela execução que desencadeia a Guerra dos Cinco Reis na primeira temporada?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Joffrey Baratheon", "correta": true },
       { "texto": "Tywin Lannister", "correta": false },
@@ -642,7 +642,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na aclamada série 'Mad Men', qual é a agência de publicidade fictícia de Nova York onde a história começa?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Sterling Cooper", "correta": true },
       { "texto": "McMann & Tate", "correta": false },
@@ -655,7 +655,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual personagem de 'The Office' (EUA) foi o responsável por queimar o próprio pé em uma grelha George Foreman por tentar assar bacon na cama?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Michael Scott", "correta": true },
       { "texto": "Dwight Schrute", "correta": false },
@@ -668,7 +668,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na premiada comédia 'Fleabag', como o interesse amoroso da protagonista interpretado por Andrew Scott é conhecido pelo público?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "O Padre Gato (The Hot Priest)", "correta": true },
       { "texto": "O Advogado", "correta": false },
@@ -681,7 +681,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Sherlock' (BBC), qual o nome do ator veterano que dá vida ao brilhante arqui-inimigo do detetive, Jim Moriarty?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Andrew Scott", "correta": true },
       { "texto": "David Tennant", "correta": false },
@@ -694,7 +694,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série animada 'Avatar: A Lenda de Aang', qual é o elemento nativo original que a personagem Toph Beifong domina?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Terra", "correta": true },
       { "texto": "Fogo", "correta": false },
@@ -707,7 +707,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual série dramática da HBO aborda a rotina de uma funerária de Los Angeles operada pela disfuncional família Fisher?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "A Sete Palmos (Six Feet Under)", "correta": true },
       { "texto": "The Sopranos", "correta": false },
@@ -720,7 +720,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Breaking Bad', qual o nome do baralho e laboratório de fachada que Gustavo Fring usa para lavar dinheiro?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Los Pollos Hermanos", "correta": true },
       { "texto": "A1A Carwash", "correta": false },
@@ -733,7 +733,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série de suspense 'Mr. Robot', qual é o codinome do misterioso grupo de hackers anarquistas liderado por Elliot?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "fsociety", "correta": true },
       { "texto": "Dark Army", "correta": false },
@@ -746,7 +746,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série de comédia 'Ted Lasso', qual é o nome do time de futebol inglês fictício que o treinador americano assume?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "AFC Richmond", "correta": true },
       { "texto": "West Ham United", "correta": false },
@@ -759,7 +759,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual atriz interpreta a vilã e assassina profissional Villanelle na aclamada série de espionagem 'Killing Eve'?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Jodie Comer", "correta": true },
       { "texto": "Sandra Oh", "correta": false },
@@ -772,7 +772,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Stranger Things', qual música dos anos 80 cantada por Kate Bush salva a personagem Max do vilão Vecna na 4ª temporada?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Running Up That Hill", "correta": true },
       { "texto": "Master of Puppets", "correta": false },
@@ -785,7 +785,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na antologia criminosa 'True Detective', quem são os dois atores que interpretam os detetives principais da aclamada 1ª temporada?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Matthew McConaughey e Woody Harrelson", "correta": true },
       { "texto": "Colin Farrell e Vince Vaughn", "correta": false },
@@ -798,7 +798,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é a cidade cenográfica fictícia do Novo México onde se passam os principais eventos de 'Breaking Bad'?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Albuquerque", "correta": true },
       { "texto": "Santa Fe", "correta": false },
@@ -811,7 +811,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série cult 'Twin Peaks' criada por David Lynch, qual é o nome do agente especial do FBI encarregado de investigar a morte de Laura Palmer?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Dale Cooper", "correta": true },
       { "texto": "Fox Mulder", "correta": false },
@@ -824,7 +824,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Dexter', qual é a especialidade científica de Dexter Morgan dentro do laboratório forense do Departamento de Polícia de Miami?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Análise de padrão de manchas de sangue", "correta": true },
       { "texto": "Perícia balística", "correta": false },
@@ -837,7 +837,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual série de fantasia da Netflix adapta a história do mutante caçador de monstros Geralt de Rívia?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "The Witcher", "correta": true },
       { "texto": "Shadow and Bone", "correta": false },
@@ -850,7 +850,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na aclamada comédia 'Brooklyn Nine-Nine', qual é o nome do criminoso recorrente apelidado de 'Bandido do Pontiac' que tem uma rivalidade amistosa com Jake Peralta?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Doug Judy", "correta": true },
       { "texto": "Adrian Pimento", "correta": false },
@@ -863,7 +863,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Gossip Girl', quem revela ser a verdadeira mente por trás do blog de fofocas no episódio final da série?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Dan Humphrey", "correta": true },
       { "texto": "Nate Archibald", "correta": false },
@@ -876,7 +876,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é a série histórica que foca nas intrigas dinásticas, saques e explorações do lendário líder guerreiro Ragnar Lothbrok?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Vikings", "correta": true },
       { "texto": "The Last Kingdom", "correta": false },
@@ -889,7 +889,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série dystópica 'O Conto da Aia' (The Handmaid's Tale), qual é o nome do regime teocrático totalitário que assumiu o controle dos antigos Estados Unidos?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Gilead", "correta": true },
       { "texto": "Panem", "correta": false },
@@ -902,7 +902,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em qual série dramática acompanhamos a genial e autodidata enxadrista Beth Harmon lidando com vícios enquanto sobe ao topo mundial?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "O Gambito da Rainha", "correta": true },
       { "texto": "The Crown", "correta": false },
@@ -915,7 +915,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na sitcom 'Friends', qual personagem trabalha no ramo corporativo de análise estatística e reconfiguração de dados, mistério que confunde os amigos por anos?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Chandler Bing", "correta": true },
       { "texto": "Ross Geller", "correta": false },
@@ -928,7 +928,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual drama policial focado em uma rede de espionagem tecnológica tem como premissa uma superinteligência artificial apelidada apenas de 'A Máquina'?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Person of Interest", "correta": true },
       { "texto": "Westworld", "correta": false },
@@ -941,7 +941,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Peaky Blinders', de qual minoria étnica cultural a família de Thomas Shelby descende por parte de mãe?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Ciganos (Roma/Travellers)", "correta": true },
       { "texto": "Irlandeses Católicos", "correta": false },
@@ -954,7 +954,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual série de comédia canadense gira em torno da outrora bilionária família Rose, forçada a se mudar para um motel de beira de estrada após falir?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Schitt's Creek", "correta": true },
       { "texto": "Arrested Development", "correta": false },
@@ -967,7 +967,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na aclamada produção de ficção 'Lost', qual é a sequência numérica icônica recorrente que Hurley usa para ganhar na loteria?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "4, 8, 15, 16, 23, 42", "correta": true },
       { "texto": "1, 2, 3, 5, 8, 13", "correta": false },
@@ -980,7 +980,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual série médica acompanha a genial mas caótica equipe de cozinha e gestão de uma lanchonete de sanduíches de Chicago em transição para a alta gastronomia?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "O Urso (The Bear)", "correta": true },
       { "texto": "Boiling Point", "correta": false },
@@ -993,7 +993,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Em qual série de ficção científica acompanhamos a agente especial Olivia Dunham trabalhando com casos bizarros na Divisão de Franja (Fringe)?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Fringe", "correta": true },
       { "texto": "Arquivo X", "correta": false },
@@ -1006,7 +1006,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Na série 'Sons of Anarchy', qual é o nome do clube de motociclistas fora da lei que protagoniza a trama?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "SAMCRO", "correta": true },
       { "texto": "The Mayans", "correta": false },
@@ -1019,7 +1019,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual série histórica dramática acompanha a jornada de superação e romance da enfermeira Claire Randall, viajando no tempo de 1945 para a Escócia de 1743?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Outlander", "correta": true },
       { "texto": "Poldark", "correta": false },
@@ -1032,7 +1032,7 @@
     "dificuldade": "medio",
     "tipo": "multipla_escolha",
     "pergunta": "Qual personagem de 'The Big Bang Theory' é engenheiro aeroespacial e foi o único do grupo principal de amigos que viajou ao espaço sideral?",
-    "pontos": 3,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Howard Wolowitz", "correta": true },
       { "texto": "Leonard Hofstadter", "correta": false },
@@ -1046,7 +1046,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Breaking Bad', qual é o título do penúltimo episódio da quinta temporada, que faz referência ao poema de Robert Frost?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Granite State", "correta": true },
       { "texto": "Ozymandias", "correta": false },
@@ -1059,7 +1059,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome verdadeiro do personagem conhecido apenas como 'The Smoking Man' (O Homem do Câncer) na franquia de ficção 'Arquivo X'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "C.G.B. Spender", "correta": true },
       { "texto": "Jeffrey Modine", "correta": false },
@@ -1072,7 +1072,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na obra-prima 'The Wire' (A Escuta), qual é o nome real do lendário e temido criminoso conhecido pelas ruas de Baltimore como 'Prop Joe'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Joseph Stewart", "correta": true },
       { "texto": "Joseph Vance", "correta": false },
@@ -1085,7 +1085,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Succession', qual é a ópera clássica que Kendall Roy está ouvindo no carro no episódio piloto, logo antes de tentar fechar o acordo com a Vaulter?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Nenhuma, ele ouve uma música de rap de Beastie Boys", "correta": true },
       { "texto": "A Flauta Mágica de Mozart", "correta": false },
@@ -1098,7 +1098,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na série animada 'BoJack Horseman', em qual cidade fictícia subaquática ocorre o aclamado episódio quase totalmente mudo 'Fish Out of Water'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Pacific Ocean City", "correta": true },
       { "texto": "Atlantic City Sea", "correta": false },
@@ -1111,7 +1111,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Game of Thrones', qual ator interpretou o personagem Beric Dondarrion no seu primeiro vislumbre na 1ª temporada, antes de ser substituído por Richard Dormer?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "David Michael Scott", "correta": true },
       { "texto": "Michael McElhatton", "correta": false },
@@ -1124,7 +1124,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Qual é o nome da misteriosa e sádica organização corporativa de fachada que sequestra os clones na série de ficção científica 'Orphan Black'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Instituto Dyad", "correta": true },
       { "texto": "Corporação Neolution", "correta": false },
@@ -1137,7 +1137,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na série cult 'Lost', qual era o nome do navio negreiro do século XIX que naufragou no meio da ilha e continha os estoques de dinamite?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Black Rock", "correta": true },
       { "texto": "Elizabeth", "correta": false },
@@ -1150,7 +1150,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'The Sopranos', qual é a identidade da testemunha federal que Tony Soprano encontra e assassina no icônico episódio da 1ª temporada intitulado 'College'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Febby Petrulio", "correta": true },
       { "texto": "Big Pussy Bonpensiero", "correta": false },
@@ -1163,7 +1163,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na série médica 'House MD', qual disciplina médica e cirúrgica era a especialidade original do Dr. Robert Chase antes de entrar para a equipe de diagnóstico?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Intensivista / Medicina Intensiva", "correta": true },
       { "texto": "Cirurgia Plástica", "correta": false },
@@ -1176,7 +1176,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Qual renomado roteirista e diretor britânico é o criador e principal showrunner da antologia satírica de ficção científica 'Black Mirror'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Charlie Brooker", "correta": true },
       { "texto": "Jesse Armstrong", "correta": false },
@@ -1189,7 +1189,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Better Call Saul', qual é a marca do tequila fictício de altíssimo luxo que Jimmy e Kim usam para aplicar golpes em executivos?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Zafiro Añejo", "correta": true },
       { "texto": "Clase Azul", "correta": false },
@@ -1202,7 +1202,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na lendária série de ficção 'Twin Peaks', como é conhecido o local místico de purificação espiritual de onde os espíritos malignos, como BOB, emanam?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "The Black Lodge (O Black Lodge)", "correta": true },
       { "texto": "The White Lodge", "correta": false },
@@ -1215,7 +1215,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na comédia dramática 'Mad Men', qual é o verdadeiro nome de batismo adotado ilegalmente pelo protagonista Don Draper?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Richard 'Dick' Whitman", "correta": true },
       { "texto": "Robert 'Bob' Vance", "correta": false },
@@ -1228,7 +1228,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Mr. Robot', qual a verdadeira função institucional que Phillip Price exerce no mercado internacional corporativo?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "CEO da E Corp", "correta": true },
       { "texto": "Diretor Técnico do Dark Army", "correta": false },
@@ -1241,7 +1241,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na elogiada sitcom 'The Office' (EUA), qual personagem é o autor anônimo da bizarra e violenta série de livros infantis 'The Adventures of Jimmy Halpert'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Pam Beesly", "correta": true },
       { "texto": "Dwight Schrute", "correta": false },
@@ -1254,7 +1254,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na série da HBO 'The Leftovers', qual é a porcentagem exata da população mundial que desaparece repentinamente no evento conhecido como 'A Partida'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "2%", "correta": true },
       { "texto": "5%", "correta": false },
@@ -1267,7 +1267,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em qual episódio marcante e experimental de 'Buffy: A Caça-Vampiros' os personagens perdem completamente a voz devido ao feitiço de criaturas chamadas 'The Gentlemen'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Hush", "correta": true },
       { "texto": "The Body", "correta": false },
@@ -1280,7 +1280,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na aclamada dramédia medieval 'Dark', quantas gerações principais conectadas por laços temporais complexos compõem a árvore genealógica de Winden?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "4", "correta": true },
       { "texto": "3", "correta": false },
@@ -1293,7 +1293,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na icônica sitcom clássica 'Seinfeld', qual é o nome do alter ego fictício que George Costanza frequentemente inventa para impressionar as pessoas?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Art Vandelay", "correta": true },
       { "texto": "H.E. Pennypacker", "correta": false },
@@ -1306,7 +1306,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Community', qual é o nome do obscuro jogo de tabuleiro de RPG que ocupa todo o arco dramático do icônico episódio 'Advanced Dungeons & Dragons'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Dungeons & Dragons 2nd Edition", "correta": true },
       { "texto": "Gloomhaven", "correta": false },
@@ -1319,7 +1319,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na obra prima de espionagem 'The Americans', qual é a divisão ultra-secreta da KGB responsável por coordenar os agentes disfarçados em solo americano?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Diretório S", "correta": true },
       { "texto": "Diretório K", "correta": false },
@@ -1332,7 +1332,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Hannibal', qual é o termo neuropsiquiátrico correto que descreve a rara condição médica diagnosticada no perfil psicológico de Will Graham?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Encefalite por anticorpos anti-NMDA", "correta": true },
       { "texto": "Esquizofrenia catatônica precoce", "correta": false },
@@ -1345,7 +1345,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na histórica série 'Roma' da HBO, qual centurião e qual soldado raso romanos servem como os fios condutores dos eventos geopolíticos reais?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Lucius Vorenus e Titus Pullo", "correta": true },
       { "texto": "Marc Antony e Gaius Octavian", "correta": false },
@@ -1358,7 +1358,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Qual filósofo político iluminista e sua respectiva teoria contratualista servem de inspiração direta para o nome de John Locke em 'Lost'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "John Locke (Empirismo e Tábula Rasa)", "correta": true },
       { "texto": "Thomas Hobbes (O Leviatã)", "correta": false },
@@ -1371,7 +1371,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Parks and Recreation', qual cidade rival da fictícia Pawnee é descrita como elitista, excessivamente limpa e odiada pelos protagonistas?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Eagleton", "correta": true },
       { "texto": "Muncie", "correta": false },
@@ -1384,7 +1384,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na cultuada comédia de humor ácido 'Arrested Development', qual o nome do modelo de barco em que a família Bluth tenta esconder fundos ilegais?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "The Seaward", "correta": true },
       { "texto": "The C-Word", "correta": false },
@@ -1397,7 +1397,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Peaky Blinders', qual o nome verdadeiro do personagem histórico real e líder fascista britânico que rivaliza politicamente com Tommy Shelby a partir da 5ª temporada?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Oswald Mosley", "correta": true },
       { "texto": "Winston Churchill", "correta": false },
@@ -1410,7 +1410,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na série animada 'Rick and Morty', de qual dimensão específica do multiverso vem a versão principal da dupla de protagonistas?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "C-137", "correta": true },
       { "texto": "Prime-Dimension", "correta": false },
@@ -1423,7 +1423,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Fringe' (Fronteiras), qual o nome do laboratório farmacêutico e de biotecnologia fundado por William Bell?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Massive Dynamic", "correta": true },
       { "texto": "Tyrell Corporation", "correta": false },
@@ -1436,7 +1436,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na clássica produção dramática 'The West Wing' (Nos Bastidores do Poder), qual é a terra natal do Presidente Josiah Bartlet?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "New Hampshire", "correta": true },
       { "texto": "Massachusetts", "correta": false },
@@ -1449,7 +1449,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Dark', quem é o verdadeiro fundador e líder supremo da sociedade secreta de viajantes do tempo conhecida como 'Sic Mundus Creatus Est'?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Adam (Jonas Kahnwald idoso)", "correta": true },
       { "texto": "Noah (Hanno Tauber)", "correta": false },
@@ -1462,7 +1462,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Qual foi a primeira série de televisão de prestígio produzida e distribuída diretamente como conteúdo original pela plataforma de streaming Netflix em 2012?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Lilyhammer", "correta": true },
       { "texto": "House of Cards", "correta": false },
@@ -1475,7 +1475,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Battlestar Galactica' (2004), quantos modelos biológicos humanoides de Cylon existem no total dentro do universo da série?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "12", "correta": true },
       { "texto": "7", "correta": false },
@@ -1488,7 +1488,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na antologia de terror 'American Horror Story: Asylum', qual é o codinome de psicopata atribuído ao Dr. Oliver Thredson?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Bloody Face", "correta": true },
       { "texto": "Rubber Man", "correta": false },
@@ -1501,7 +1501,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'The Good Place', qual é a pontuação numérica exata necessária para que um ser humano entre no 'Lugar Bom' legítimo, mencionada na primeira temporada?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Nenhuma pontuação exata é fixa, o sistema estava quebrado há 500 anos", "correta": true },
       { "texto": "1.000.000 de pontos", "correta": false },
@@ -1514,7 +1514,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Qual foi a famosa série de drama policial da HBO que introduziu a icônica e hiper-violenta gangue russa 'The Red 9' comandada por um ex-militar?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Banshee", "correta": true },
       { "texto": "Ray Donovan", "correta": false },
@@ -1527,7 +1527,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na sitcom 'Friends', qual o nome completo do primeiro noivo de Rachel Green, de quem ela foge no altar no primeiro episódio da série?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Barry Farber", "correta": true },
       { "texto": "Paolo Costanzo", "correta": false },
@@ -1540,7 +1540,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Em 'Game of Thrones', de qual material místico extremamente raro e letal para os Caminhantes Brancos é feita a armadura e a espada de metal de Euron Greyjoy nos livros (e brevemente referenciada na série)?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Aço Valiriano", "correta": true },
       { "texto": "Vidro de Dragão (Obsidiana)", "correta": false },
@@ -1553,7 +1553,7 @@
     "dificuldade": "dificil",
     "tipo": "multipla_escolha",
     "pergunta": "Na elogiada série dramática de ficção científica 'Severance' (Ruptura), qual o nome da misteriosa e bizarra empresa de biotecnologia onde os funcionários dividem cirurgicamente suas memórias corporativas das pessoais?",
-    "pontos": 5,
+    "pontos": 1,
     "alternativas": [
       { "texto": "Lumon Industries", "correta": true },
       { "texto": "Edison Corp", "correta": false },

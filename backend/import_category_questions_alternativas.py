@@ -14,25 +14,313 @@ app = create_app()
 
 PASTA_DADOS = "data"
 
+CATEGORIA_ESPECIAL = "especial"
+
+
+def normalizar_categoria(nome):
+
+    return nome.strip().lower()
+
 
 def obter_nome_categoria(item, arquivo):
 
     categoria_json = item.get("categoria")
 
     if categoria_json:
+
         return categoria_json.strip()
 
     return (
         arquivo
         .replace(".json", "")
         .replace("_", " ")
+        .strip()
         .title()
     )
 
 
+def garantir_lista_perguntas(dados_json):
+
+    # Caso normal:
+    # [
+    #   { pergunta 1 },
+    #   { pergunta 2 }
+    # ]
+
+    if not isinstance(dados_json, list):
+
+        return []
+
+    # Caso acidental:
+    # [
+    #   [
+    #     { pergunta 1 },
+    #     { pergunta 2 }
+    #   ]
+    # ]
+
+    if (
+        len(dados_json) == 1
+        and isinstance(dados_json[0], list)
+    ):
+
+        return dados_json[0]
+
+    return dados_json
+
+
+def buscar_ou_criar_categoria(nome_categoria):
+
+    categoria = Categoria.query.filter(
+        db.func.lower(Categoria.nome)
+        == normalizar_categoria(nome_categoria)
+    ).first()
+
+    if categoria:
+
+        return categoria
+
+    categoria = Categoria(
+        nome=nome_categoria.strip().title()
+    )
+
+    db.session.add(categoria)
+
+    db.session.flush()
+
+    print(f"Categoria criada: {categoria.nome}")
+
+    return categoria
+
+
+def pergunta_ja_existe(pergunta_texto, categoria_id):
+
+    return Pergunta.query.filter_by(
+        texto=pergunta_texto,
+        categoria_id=categoria_id
+    ).first()
+
+
+def importar_pergunta_especial(item, categoria):
+
+    pergunta_texto = item.get("pergunta")
+
+    resposta_criptografada = (
+        item.get("resposta_criptografada")
+        or item.get("resposta")
+    )
+
+    if not pergunta_texto:
+
+        print(
+            "Pergunta Especial ignorada: "
+            "campo 'pergunta' ausente"
+        )
+
+        return False
+
+    if not resposta_criptografada:
+
+        print(
+            f"Pergunta Especial ignorada sem resposta: "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    if pergunta_ja_existe(
+        pergunta_texto,
+        categoria.id
+    ):
+
+        print(
+            f"Pergunta Especial já existe, ignorada: "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    pergunta = Pergunta(
+
+        texto=pergunta_texto,
+
+        # A resposta já deve estar criptografada no JSON.
+        resposta=resposta_criptografada,
+
+        tipo="texto",
+
+        # Especial não usa dificuldade escolhida pelo jogador.
+        dificuldade="especial",
+
+        # Regra fixa da categoria Especial.
+        pontos=4,
+
+        categoria_id=categoria.id
+    )
+
+    db.session.add(pergunta)
+
+    print(
+        f"Pergunta Especial importada: "
+        f"{pergunta_texto[:60]}"
+    )
+
+    return True
+
+
+def importar_pergunta_multipla_escolha(item, categoria):
+
+    pergunta_texto = item.get("pergunta")
+
+    dificuldade = item.get(
+        "dificuldade",
+        ""
+    ).lower().strip()
+
+    MAPA_PONTOS = {
+        "facil": 1,
+        "medio": 3,
+        "dificil": 5
+    }
+
+    pontos = MAPA_PONTOS.get(
+        dificuldade,
+        1
+    )
+
+    alternativas_json = item.get(
+        "alternativas",
+        []
+    )
+    if not pergunta_texto:
+
+        print(
+            "Pergunta ignorada: "
+            "campo 'pergunta' ausente"
+        )
+
+        return False
+
+    if not dificuldade:
+
+        print(
+            f"Pergunta ignorada sem dificuldade: "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    if not isinstance(alternativas_json, list):
+
+        print(
+            f"Pergunta ignorada: alternativas inválidas -> "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    if len(alternativas_json) != 4:
+
+        print(
+            f"Pergunta ignorada: deve ter 4 alternativas -> "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    alternativas_corretas = [
+
+        alternativa
+
+        for alternativa in alternativas_json
+
+        if alternativa.get("correta") is True
+
+    ]
+
+    if len(alternativas_corretas) != 1:
+
+        print(
+            f"Pergunta ignorada: deve ter exatamente "
+            f"1 alternativa correta -> "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    for alternativa in alternativas_json:
+
+        if not alternativa.get("texto"):
+
+            print(
+                f"Pergunta ignorada: alternativa sem texto -> "
+                f"{pergunta_texto[:60]}"
+            )
+
+            return False
+
+    if pergunta_ja_existe(
+        pergunta_texto,
+        categoria.id
+    ):
+
+        print(
+            f"Pergunta já existe, ignorada: "
+            f"{pergunta_texto[:60]}"
+        )
+
+        return False
+
+    pergunta = Pergunta(
+
+        texto=pergunta_texto,
+
+        resposta=None,
+
+        tipo="multipla_escolha",
+
+        dificuldade=dificuldade,
+
+        pontos=pontos,
+
+        categoria_id=categoria.id
+    )
+
+    db.session.add(pergunta)
+
+    db.session.flush()
+
+    # Cria cópia antes de embaralhar.
+    # Evita alterar os dados originais carregados do JSON.
+    alternativas_embaralhadas = list(
+        alternativas_json
+    )
+
+    random.shuffle(
+        alternativas_embaralhadas
+    )
+
+    for alternativa_json in alternativas_embaralhadas:
+
+        alternativa = Alternativa(
+
+            texto=alternativa_json["texto"],
+
+            correta=alternativa_json["correta"],
+
+            pergunta_id=pergunta.id
+        )
+
+        db.session.add(alternativa)
+
+    return True
+
+
 with app.app_context():
 
-    print("\n===== IMPORTADOR DE PERGUNTAS COM ALTERNATIVAS =====\n")
+    print(
+        "\n===== IMPORTADOR DE PERGUNTAS =====\n"
+    )
 
     arquivos = [
 
@@ -46,7 +334,8 @@ with app.app_context():
 
     print(f"{len(arquivos)} arquivos encontrados")
 
-    total_perguntas = 0
+    total_importadas = 0
+
     total_ignoradas = 0
 
     for arquivo in arquivos:
@@ -56,165 +345,97 @@ with app.app_context():
             arquivo
         )
 
-        with open(
-            caminho,
-            "r",
-            encoding="utf-8"
-        ) as f:
-
-            perguntas_json = json.load(f)
-
         print(f"\nImportando arquivo: {arquivo}")
 
-        for item in perguntas_json:
+        try:
 
-            categoria_nome = obter_nome_categoria(
-                item,
-                arquivo
+            with open(
+                caminho,
+                "r",
+                encoding="utf-8"
+            ) as f:
+
+                dados_json = json.load(f)
+
+            perguntas_json = garantir_lista_perguntas(
+                dados_json
             )
 
-            # A categoria Especial terá resposta digitada.
-            # Ela será importada por outro arquivo depois.
-            if categoria_nome.lower() == "especial":
+            if not perguntas_json:
 
                 print(
-                    "Pergunta Especial ignorada neste importador"
+                    "Arquivo ignorado: formato inválido "
+                    "ou sem perguntas"
                 )
-
-                total_ignoradas += 1
 
                 continue
 
-            pergunta_texto = item.get("pergunta")
-            dificuldade = item.get("dificuldade")
-            pontos = item.get("pontos", 1)
-            alternativas_json = item.get("alternativas", [])
+            for item in perguntas_json:
 
-            if not pergunta_texto:
+                if not isinstance(item, dict):
 
-                print("Pergunta ignorada: campo 'pergunta' ausente")
+                    print(
+                        "Item ignorado: não é um objeto JSON"
+                    )
 
-                total_ignoradas += 1
+                    total_ignoradas += 1
 
-                continue
+                    continue
 
-            if not dificuldade:
-
-                print(
-                    f"Pergunta ignorada sem dificuldade: "
-                    f"{pergunta_texto[:60]}"
+                categoria_nome = obter_nome_categoria(
+                    item,
+                    arquivo
                 )
 
-                total_ignoradas += 1
-
-                continue
-
-            if len(alternativas_json) != 4:
-
-                print(
-                    f"Pergunta ignorada: deve ter 4 alternativas -> "
-                    f"{pergunta_texto[:60]}"
+                categoria = buscar_ou_criar_categoria(
+                    categoria_nome
                 )
 
-                total_ignoradas += 1
+                if (
+                    normalizar_categoria(categoria_nome)
+                    == CATEGORIA_ESPECIAL
+                ):
 
-                continue
+                    importou = importar_pergunta_especial(
+                        item,
+                        categoria
+                    )
 
-            alternativas_corretas = [
+                else:
 
-                alternativa
+                    importou = (
+                        importar_pergunta_multipla_escolha(
+                            item,
+                            categoria
+                        )
+                    )
 
-                for alternativa in alternativas_json
+                if importou:
 
-                if alternativa.get("correta") is True
+                    total_importadas += 1
 
-            ]
+                else:
 
-            if len(alternativas_corretas) != 1:
+                    total_ignoradas += 1
 
-                print(
-                    f"Pergunta ignorada: deve ter exatamente "
-                    f"1 alternativa correta -> {pergunta_texto[:60]}"
-                )
+            db.session.commit()
 
-                total_ignoradas += 1
+        except Exception as erro:
 
-                continue
+            db.session.rollback()
 
-            categoria = Categoria.query.filter_by(
-                nome=categoria_nome
-            ).first()
-
-            if not categoria:
-
-                categoria = Categoria(
-                    nome=categoria_nome
-                )
-
-                db.session.add(categoria)
-
-                db.session.flush()
-
-                print(
-                    f"Categoria criada: {categoria_nome}"
-                )
-
-            pergunta_existente = Pergunta.query.filter_by(
-                texto=pergunta_texto,
-                categoria_id=categoria.id
-            ).first()
-
-            if pergunta_existente:
-
-                print(
-                    f"Pergunta já existe, ignorada: "
-                    f"{pergunta_texto[:60]}"
-                )
-
-                total_ignoradas += 1
-
-                continue
-
-            pergunta = Pergunta(
-
-                texto=pergunta_texto,
-
-                dificuldade=dificuldade,
-
-                pontos=pontos,
-
-                categoria_id=categoria.id,
-
-                resposta=None
+            print(
+                f"\nERRO ao importar {arquivo}: {erro}"
             )
 
-            db.session.add(pergunta)
+    print(
+        "\n===== IMPORTAÇÃO FINALIZADA ====="
+    )
 
-            db.session.flush()
+    print(
+        f"Perguntas importadas: {total_importadas}"
+    )
 
-            # Embaralha antes de gravar.
-            # Assim a correta não fica sempre na posição 1.
-            random.shuffle(alternativas_json)
-
-            for alternativa_json in alternativas_json:
-
-                alternativa = Alternativa(
-
-                    texto=alternativa_json["texto"],
-
-                    correta=alternativa_json["correta"],
-
-                    pergunta_id=pergunta.id
-                )
-
-                db.session.add(alternativa)
-
-            total_perguntas += 1
-
-        db.session.commit()
-
-    print("\n===== IMPORTAÇÃO FINALIZADA =====")
-
-    print(f"Perguntas importadas: {total_perguntas}")
-
-    print(f"Perguntas ignoradas: {total_ignoradas}")
+    print(
+        f"Perguntas ignoradas: {total_ignoradas}"
+    )

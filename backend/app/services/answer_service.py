@@ -1,51 +1,38 @@
-import unicodedata
-
 from app.models.pergunta import Pergunta
-from app.models.resposta import RespostaAceita
 from app.models.alternativa import Alternativa
-
-
-def normalizar_texto(texto):
-
-    texto = texto.lower().strip()
-
-    texto = unicodedata.normalize(
-        "NFKD",
-        texto
-    ).encode(
-        "ASCII",
-        "ignore"
-    ).decode(
-        "utf-8"
-    )
-
-    return texto
 
 
 def validar_resposta(
     pergunta_id,
-    resposta_usuario
+    alternativa_id=None,
+    resposta_usuario=None
 ):
 
-    pergunta = Pergunta.query.get(
-        pergunta_id
-    )
+    pergunta = Pergunta.query.get(pergunta_id)
 
     if not pergunta:
 
         return {
             "correto": False,
-            "mensagem": "Pergunta não encontrada"
+            "mensagem": "Pergunta não encontrada",
+            "pontos": 0
         }
 
     # =========================
-    # MÚLTIPLA ESCOLHA
+    # PERGUNTA DE ALTERNATIVAS
     # =========================
-
     if pergunta.tipo == "multipla_escolha":
 
+        if not alternativa_id:
+
+            return {
+                "correto": False,
+                "mensagem": "Alternativa não enviada",
+                "pontos": 0
+            }
+
         alternativa = Alternativa.query.filter_by(
-            id=resposta_usuario,
+            id=alternativa_id,
             pergunta_id=pergunta_id
         ).first()
 
@@ -53,59 +40,35 @@ def validar_resposta(
 
             return {
                 "correto": False,
-                "mensagem": "Alternativa inválida",
+                "mensagem": "Alternativa inválida para esta pergunta",
                 "pontos": 0
             }
 
-        return {
-            "correto": alternativa.correta,
-            "pontos": pergunta.pontos if alternativa.correta else 0
-        }
-
-    # =========================
-    # RESPOSTA EM TEXTO
-    # =========================
-
-    if pergunta.tipo == "texto":
-
-        if not resposta_usuario:
+        if alternativa.correta:
 
             return {
-                "correto": False,
-                "mensagem": "Resposta vazia",
-                "pontos": 0
+                "correto": True,
+                "pontos": pergunta.pontos
             }
 
-        resposta_usuario = normalizar_texto(
-            resposta_usuario
-        )
-
-        respostas = RespostaAceita.query.filter_by(
-            pergunta_id=pergunta_id
-        ).all()
-
-        for resposta in respostas:
-
-            resposta_correta = normalizar_texto(
-                resposta.resposta
-            )
-
-            if resposta_usuario in resposta_correta:
-
-                return {
-                    "correto": True,
-                    "pontos": pergunta.pontos
-                }
+        alternativa_correta = Alternativa.query.filter_by(
+            pergunta_id=pergunta_id,
+            correta=True
+        ).first()
 
         return {
             "correto": False,
             "pontos": 0,
-            "resposta_correta":
-                respostas[0].resposta if respostas else ""
+            "resposta_correta": (
+                alternativa_correta.texto
+                if alternativa_correta
+                else ""
+            )
         }
 
+    # A categoria Especial será implementada na próxima etapa.
     return {
         "correto": False,
-        "mensagem": "Tipo de pergunta inválido",
+        "mensagem": "Tipo de pergunta ainda não suportado",
         "pontos": 0
     }

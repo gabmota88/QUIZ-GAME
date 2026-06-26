@@ -86,7 +86,10 @@ def listar_perguntas():
 
     ]
 
-    return jsonify(resultado), 200
+    return jsonify([
+        serializar_pergunta(pergunta)
+        for pergunta in perguntas
+    ]), 200
 
 
 # =====================================
@@ -217,7 +220,9 @@ def pergunta_categoria_dificuldade():
         return jsonify({
             "erro": "Categoria não encontrada"
         }), 404
-
+    
+    
+       
     # =========================
     # CATEGORIA ESPECIAL
     # =========================
@@ -319,59 +324,28 @@ def listar_categorias():
 )
 def responder():
 
-    dados = request.get_json()
+    dados = request.get_json(silent=True)
 
     if not dados:
+
         return jsonify({
             "erro": "JSON inválido"
         }), 400
 
     pergunta_id = dados.get("pergunta_id")
+    alternativa_id = dados.get("alternativa_id")
+    resposta_usuario = dados.get("resposta")
 
     if not pergunta_id:
+
         return jsonify({
             "erro": "Pergunta não enviada"
         }), 400
 
-    pergunta = Pergunta.query.get(pergunta_id)
+    resultado = validar_resposta(
+        pergunta_id=pergunta_id,
+        alternativa_id=alternativa_id,
+        resposta_usuario=resposta_usuario
+    )
 
-    if not pergunta:
-        return jsonify({
-            "erro": "Pergunta não encontrada"
-        }), 404
-
-    if pergunta.tipo == "multipla_escolha":
-
-        alternativa_id = dados.get("alternativa_id")
-
-        if not alternativa_id:
-            return jsonify({
-                "erro": "Alternativa não enviada"
-            }), 400
-
-        resultado = validar_resposta(
-            pergunta_id,
-            alternativa_id
-        )
-
-        return jsonify(resultado)
-
-    if pergunta.tipo == "texto":
-
-        resposta = dados.get("resposta")
-
-        if not resposta:
-            return jsonify({
-                "erro": "Resposta vazia"
-            }), 400
-
-        resultado = validar_resposta(
-            pergunta_id,
-            resposta
-        )
-
-        return jsonify(resultado)
-
-    return jsonify({
-        "erro": "Tipo de pergunta inválido"
-    }), 400
+    return jsonify(resultado), 200
